@@ -33,5 +33,3 @@ print("Submitted antismash jobs for "+str(len(found_gbk_list))+" genbank files\n
 print(str(len(missing_gbk_list))+" folders without gbk files where identified in input folder\n")
 if len(missing_gbk_list) > 0:
 	print('\t'.join(missing_gbk_list))
-
-print(found_gbk_list)
