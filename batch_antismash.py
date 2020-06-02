@@ -12,10 +12,10 @@ in_folders = os.listdir(in_dir)
 if not os.path.exists(out_dir):
 	os.makedirs(out_dir)
 
+missing_gbk_list = []
+found_gbk_list = []
 for folder in in_folders:
 	if os.path.isdir(os.path.join(in_dir,folder)):
-		missing_gbk_list = []
-		found_gbk_list = []
 		files = os.listdir(os.path.join(in_dir,folder))
 		prokka_ID = '.'.join(files[1].split('.')[:-1])
 		gbk_path = os.path.join(in_dir,folder,prokka_ID+'.gbk')
