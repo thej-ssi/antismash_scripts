@@ -10,6 +10,9 @@ in_dir = sys.argv[1]
 out_dir = sys.argv[2]
 x = int(sys.argv[3])
 
+if not os.path.exists(out_dir):
+	os.makedirs(out_dir)
+
 
 files = os.listdir(in_dir)
 
