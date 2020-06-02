@@ -18,6 +18,6 @@ try:
 	for file in cp_list:
 		src = os.path.join(in_dir,file)
 		dst = os.path.join(out_dir,file)
-		shutil.copy2(src,dst)e
+		shutil.copy2(src,dst)
 except:
 	"error, x larger than number of files"
