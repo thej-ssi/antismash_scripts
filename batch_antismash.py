@@ -8,6 +8,10 @@ out_dir = sys.argv[2]
 
 in_folders = os.listdir(in_dir)
 
+
+if not os.path.exists(out_dir):
+	os.makedirs(out_dir)
+
 for folder in in_folders:
 	if os.path.isdir(os.path.join(in_dir,folder)):
 		missing_gbk_list = []
@@ -24,4 +28,8 @@ for folder in in_folders:
 		else:
 			missing_gbk_list.append(gbk_path)
 
-print(missing_gbk_list)
+
+print("Submitted antismash jobs for "+str(len(found_gbk_list))+" genbank files\n")
+print(str(len(missing_gbk_list))+" folders without gbk files where identified in input folder\n")
+if len(missing_gbk_list) > 0:
+	print('\t'.join(missing_gbk_list))
