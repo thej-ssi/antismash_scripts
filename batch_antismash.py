@@ -18,7 +18,7 @@ for folder in in_folders:
 	if os.path.isdir(os.path.join(in_dir,folder)):
 		files = os.listdir(os.path.join(in_dir,folder))
 		prokka_ID = '.'.join(files[1].split('.')[:-1])
-		gbk_path = os.path.join(in_dir,folder,prokka_ID+'.gbk')
+		gbk_path = os.path.join(in_dir,folder,prokka_ID+'.gbf')
 		out_path = os.path.join(out_dir,folder)
 		if os.path.exists(gbk_path):
 			cmd = "antismash --output-dir " + out_path + " " + gbk_path
