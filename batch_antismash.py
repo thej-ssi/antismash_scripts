@@ -22,9 +22,10 @@ for folder in in_folders:
 		out_path = os.path.join(out_dir,folder)
 		if os.path.exists(gbk_path):
 			cmd = "antismash --output-dir " + out_path + " " + gbk_path
-			sbatch_cmd = "sbatch -D . -c 4 --mem=12G --time=48:00:00 -J \"antismash\" -p project --wrap=\""+cmd+"\""
+			sbatch_cmd = "sbatch -D . -c 4 --mem=12G --time=48:00:00 -J \"antismash\" -p daytime --wrap=\""+cmd+"\""
 			found_gbk_list.append(gbk_path)
 			print(sbatch_cmd)
+			os.system(sbatch_cmd)
 		else:
 			missing_gbk_list.append(gbk_path)
 
