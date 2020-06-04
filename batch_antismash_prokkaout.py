@@ -6,7 +6,7 @@ import sys
 in_dir = sys.argv[1]
 out_dir = sys.argv[2]
 
-files = os.listdir(in_dir)
+in_folders = os.listdir(in_dir)
 
 
 if not os.path.exists(out_dir):
@@ -14,13 +14,15 @@ if not os.path.exists(out_dir):
 
 missing_gbk_list = []
 found_gbk_list = []
-for file in files:
-	if file.endswith('.gbk'):
-		gbk_path = os.path.join(in_dir,file)
-		out_path = os.path.join(out_dir,file[:-4])
+for folder in in_folders:
+	if os.path.isdir(os.path.join(in_dir,folder)):
+		files = os.listdir(os.path.join(in_dir,folder))
+		prokka_ID = '.'.join(files[1].split('.')[:-1])
+		gbk_path = os.path.join(in_dir,folder,prokka_ID+'.gff')
+		out_path = os.path.join(out_dir,folder)
 		if os.path.exists(gbk_path):
 			cmd = "antismash --output-dir " + out_path + " " + gbk_path
-			sbatch_cmd = "sbatch -D . -c 4 --mem=12G --time=48:00:00 -J \"antismash\" -p project --wrap=\""+cmd+"\""
+			sbatch_cmd = "sbatch -D . -c 4 --mem=12G --time=48:00:00 -J \"antismash\" -p daytime --wrap=\""+cmd+"\""
 			found_gbk_list.append(gbk_path)
 			print(sbatch_cmd)
 			os.system(sbatch_cmd)
