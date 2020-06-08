@@ -3,7 +3,7 @@
 
 ## How to run
 
-1. Gather assemblies in fasta_folderfolder
+1. Gather assemblies in fasta_folder
 2. run prokka on all isolates using:</br>
 /srv/data/tools/git.repositories/antismash_scripts/batch_prokka.py fasta_folder prokka_output_folder
 3. wait for prokka to finish on all isolates, then run antismash on all isolates usig:</br>
