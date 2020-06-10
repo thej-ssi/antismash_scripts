@@ -1,0 +1,401 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1541.6333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1531.6333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>PDCLAJNK_02368_gene (PDCLAJNK_02368)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02368_gene (PDCLAJNK_02368)
+hypothetical protein" points="11,10 25,40 11,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>brnQ_2 (PDCLAJNK_02369)
+Branched-chain amino acid transport system 2 carrier protein</title>
+			<polygon class="brnQ_2 (PDCLAJNK_02369)
+Branched-chain amino acid transport system 2 carrier protein" points="52,25 67,25 67,10 97,40 67,70 67,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Branch_AA_trans (PF05525)
+"Branched-chain amino acid transport protein"</title>
+				<polygon class="PF05525" points="52,28 81,28 93,40 81,52 52,52" stroke-linejoin="round" width="43" height="24" fill="rgb(192,58,193)" stroke="rgb(153,46,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02370_gene (PDCLAJNK_02370)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02370_gene (PDCLAJNK_02370)
+hypothetical protein" points="152,25 131,25 131,10 101,40 131,70 131,55 152,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DcuC (PF03606)
+"C4-dicarboxylate anaerobic carrier"</title>
+				<polygon class="PF03606" points="105,40 117,28 150,28 150,52 117,52" stroke-linejoin="round" width="49" height="24" fill="rgb(204,117,55)" stroke="rgb(163,93,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arcC1 (PDCLAJNK_02371)
+Carbamate kinase 1</title>
+			<polygon class="arcC1 (PDCLAJNK_02371)
+Carbamate kinase 1" points="191,25 190,25 190,10 160,40 190,70 190,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="164,40 176,28 190,28 190,52 176,52" stroke-linejoin="round" width="29" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argF (PDCLAJNK_02372)
+Ornithine carbamoyltransferase</title>
+			<polygon class="argF (PDCLAJNK_02372)
+Ornithine carbamoyltransferase" points="225,25 222,25 222,10 192,40 222,70 222,55 225,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OTCace (PF00185)
+"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"</title>
+				<polygon class="PF00185" points="196,40 208,28 209,28 209,52 208,52" stroke-linejoin="round" width="17" height="24" fill="rgb(215,107,106)" stroke="rgb(172,85,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OTCace_N (PF02729)
+"Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain"</title>
+				<rect class="PF02729" x="210" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(223,74,58)" stroke="rgb(178,59,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02373_gene (PDCLAJNK_02373)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02373_gene (PDCLAJNK_02373)
+hypothetical protein" points="240,10 247,40 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>gloB_2 (PDCLAJNK_02374)
+Hydroxyacylglutathione hydrolase</title>
+			<polygon class="gloB_2 (PDCLAJNK_02374)
+Hydroxyacylglutathione hydrolase" points="249,10 271,40 249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="254,28 258,28 267,40 267,40 258,52 254,52" stroke-linejoin="round" width="13" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ribZ_2 (PDCLAJNK_02375)
+Riboflavin transporter RibZ</title>
+			<polygon class="ribZ_2 (PDCLAJNK_02375)
+Riboflavin transporter RibZ" points="275,25 285,25 285,10 315,40 285,70 285,55 275,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="276,28 298,28 309,39 309,41 298,52 276,52" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bioB_2 (PDCLAJNK_02376)
+Biotin synthase</title>
+			<polygon class="bioB_2 (PDCLAJNK_02376)
+Biotin synthase" points="329,25 331,25 331,10 361,40 331,70 331,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="334,28 344,28 350,34 350,46 344,52 334,52" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BATS (PF06968)
+"Biotin and Thiamin Synthesis associated domain"</title>
+				<polygon class="PF06968" points="351,35 356,40 351,45" stroke-linejoin="round" width="8" height="24" fill="rgb(91,179,207)" stroke="rgb(72,143,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02377_gene (PDCLAJNK_02377)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02377_gene (PDCLAJNK_02377)
+hypothetical protein" points="366,10 386,40 366,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02378_gene (PDCLAJNK_02378)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02378_gene (PDCLAJNK_02378)
+hypothetical protein" points="399,10 407,40 399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02379_gene (PDCLAJNK_02379)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02379_gene (PDCLAJNK_02379)
+hypothetical protein" points="412,10 433,40 412,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02380_gene (PDCLAJNK_02380)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02380_gene (PDCLAJNK_02380)
+hypothetical protein" points="436,10 465,40 436,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>emrB_4 (PDCLAJNK_02381)
+Multidrug export protein EmrB</title>
+			<polygon class="emrB_4 (PDCLAJNK_02381)
+Multidrug export protein EmrB" points="478,25 495,25 495,10 525,40 495,70 495,55 478,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="479,28 509,28 518,37 518,43 509,52 479,52" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02382_gene (PDCLAJNK_02382)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02382_gene (PDCLAJNK_02382)
+hypothetical protein" points="528,40 535,10 535,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>bdhA (PDCLAJNK_02383)
+D-beta-hydroxybutyrate dehydrogenase</title>
+			<polygon class="bdhA (PDCLAJNK_02383)
+D-beta-hydroxybutyrate dehydrogenase" points="549,10 574,40 549,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="550,28 561,28 570,40 561,52 550,52" stroke-linejoin="round" width="24" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02384_gene (PDCLAJNK_02384)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02384_gene (PDCLAJNK_02384)
+hypothetical protein" points="578,25 589,25 589,10 619,40 589,70 589,55 578,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="579,28 603,28 614,39 614,41 603,52 579,52" stroke-linejoin="round" width="35" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tycC (PDCLAJNK_02385)
+Tyrocidine synthase 3</title>
+			<polygon class="tycC (PDCLAJNK_02385)
+Tyrocidine synthase 3" points="626,25 834,25 834,10 864,40 834,70 834,55 626,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="668" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="708" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="718" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="726" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="770" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="809" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="819" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="830,28 848,28 853,33 853,47 848,52 830,52" stroke-linejoin="round" width="23" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sfp (PDCLAJNK_02386)
+4'-phosphopantetheinyl transferase sfp</title>
+			<polygon class="sfp (PDCLAJNK_02386)
+4'-phosphopantetheinyl transferase sfp" points="864,10 884,40 864,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="874,30 881,40 874,50" stroke-linejoin="round" width="9" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lip_1 (PDCLAJNK_02387)
+Lipase</title>
+			<polygon class="lip_1 (PDCLAJNK_02387)
+Lipase" points="898,25 945,25 945,10 975,40 945,70 945,55 898,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YSIRK_signal (PF04650)
+"YSIRK type signal peptide"</title>
+				<rect class="PF04650" x="898" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(74,138,184)" stroke="rgb(59,110,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>csbC (PDCLAJNK_02388)
+putative metabolite transport protein CsbC</title>
+			<polygon class="csbC (PDCLAJNK_02388)
+putative metabolite transport protein CsbC" points="983,25 997,25 997,10 1027,40 997,70 997,55 983,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sugar_tr (PF00083)
+"Sugar (and other) transporter"</title>
+				<polygon class="PF00083" points="983,28 1011,28 1023,40 1011,52 983,52" stroke-linejoin="round" width="42" height="24" fill="rgb(48,186,105)" stroke="rgb(38,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02389_gene (PDCLAJNK_02389)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02389_gene (PDCLAJNK_02389)
+hypothetical protein" points="1033,25 1060,25 1060,10 1090,40 1060,70 1060,55 1033,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_ATPase (PF09818)
+"Predicted ATPase of the ABC class"</title>
+				<polygon class="PF09818" points="1033,28 1073,28 1077,32 1077,48 1073,52 1033,52" stroke-linejoin="round" width="44" height="24" fill="rgb(224,114,112)" stroke="rgb(179,91,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02390_gene (PDCLAJNK_02390)
+KsdD-like steroid dehydrogenase</title>
+			<polygon class="PDCLAJNK_02390_gene (PDCLAJNK_02390)
+KsdD-like steroid dehydrogenase" points="1153,25 1128,25 1128,10 1098,40 1128,70 1128,55 1153,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_2 (PF00890)
+"FAD binding domain"</title>
+				<polygon class="PF00890" points="1102,40 1114,28 1152,28 1152,52 1114,52" stroke-linejoin="round" width="52" height="24" fill="rgb(63,199,116)" stroke="rgb(50,159,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>slyA (PDCLAJNK_02391)
+Transcriptional regulator SlyA</title>
+			<polygon class="slyA (PDCLAJNK_02391)
+Transcriptional regulator SlyA" points="1161,10 1175,40 1161,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_27 (PF13463)
+"Winged helix DNA-binding domain"</title>
+				<polygon class="PF13463" points="1164,28 1165,28 1171,39 1171,41 1165,52 1164,52" stroke-linejoin="round" width="7" height="24" fill="rgb(130,111,228)" stroke="rgb(103,88,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiT (PDCLAJNK_02392)
+Putative metal-dependent hydrolase YfiT</title>
+			<polygon class="yfiT (PDCLAJNK_02392)
+Putative metal-dependent hydrolase YfiT" points="1181,10 1198,40 1181,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DinB_2 (PF12867)
+"DinB superfamily"</title>
+				<polygon class="PF12867" points="1183,28 1187,28 1194,40 1187,52 1183,52" stroke-linejoin="round" width="13" height="24" fill="rgb(184,90,185)" stroke="rgb(147,72,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02393_gene (PDCLAJNK_02393)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02393_gene (PDCLAJNK_02393)
+hypothetical protein" points="1205,25 1208,25 1208,10 1238,40 1208,70 1208,55 1205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF418 (PF04235)
+"Protein of unknown function (DUF418)"</title>
+				<polygon class="PF04235" points="1222,29 1233,40 1222,51" stroke-linejoin="round" width="15" height="24" fill="rgb(90,202,54)" stroke="rgb(72,161,43)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nixA (PDCLAJNK_02394)
+High-affinity nickel-transport protein NixA</title>
+			<polygon class="nixA (PDCLAJNK_02394)
+High-affinity nickel-transport protein NixA" points="1274,25 1271,25 1271,10 1241,40 1271,70 1271,55 1274,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NicO (PF03824)
+"High-affinity nickel-transport protein"</title>
+				<polygon class="PF03824" points="1245,40 1257,28 1270,28 1270,52 1257,52" stroke-linejoin="round" width="28" height="24" fill="rgb(179,63,179)" stroke="rgb(143,50,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02395_gene (PDCLAJNK_02395)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02395_gene (PDCLAJNK_02395)
+hypothetical protein" points="1281,10 1288,40 1281,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>zinc_ribbon_13 (PF09855)
+"Nucleic-acid-binding protein containing Zn-ribbon domain (DUF2082)"</title>
+				<polygon class="PF09855" points="1281,28 1281,28 1284,40 1281,52 1281,52" stroke-linejoin="round" width="6" height="24" fill="rgb(162,223,70)" stroke="rgb(129,178,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02396_gene (PDCLAJNK_02396)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02396_gene (PDCLAJNK_02396)
+hypothetical protein" points="1293,25 1293,25 1293,10 1323,40 1293,70 1293,55 1293,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="1293,28 1306,28 1307,29 1307,51 1306,52 1293,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="1308,30 1318,40 1308,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yflS (PDCLAJNK_02397)
+Putative malate transporter YflS</title>
+			<polygon class="yflS (PDCLAJNK_02397)
+Putative malate transporter YflS" points="1373,25 1356,25 1356,10 1326,40 1356,70 1356,55 1373,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_sulph_symp (PF00939)
+"Sodium:sulfate symporter transmembrane region"</title>
+				<polygon class="PF00939" points="1330,40 1342,28 1372,28 1372,52 1342,52" stroke-linejoin="round" width="46" height="24" fill="rgb(94,204,141)" stroke="rgb(75,163,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yybR (PDCLAJNK_02398)
+putative HTH-type transcriptional regulator YybR</title>
+			<polygon class="yybR (PDCLAJNK_02398)
+putative HTH-type transcriptional regulator YybR" points="1377,40 1388,10 1388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HxlR (PF01638)
+"HxlR-like helix-turn-helix"</title>
+				<polygon class="PF01638" points="1380,40 1384,28 1385,28 1385,52 1384,52" stroke-linejoin="round" width="8" height="24" fill="rgb(91,150,227)" stroke="rgb(72,119,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yflN (PDCLAJNK_02399)
+putative metallo-hydrolase YflN</title>
+			<polygon class="yflN (PDCLAJNK_02399)
+putative metallo-hydrolase YflN" points="1392,10 1414,40 1392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactamase_B (PF00753)
+"Metallo-beta-lactamase superfamily"</title>
+				<polygon class="PF00753" points="1394,28 1401,28 1410,40 1401,52 1394,52" stroke-linejoin="round" width="19" height="24" fill="rgb(206,198,96)" stroke="rgb(164,158,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02400_gene (PDCLAJNK_02400)
+2-oxoglutaramate amidase</title>
+			<polygon class="PDCLAJNK_02400_gene (PDCLAJNK_02400)
+2-oxoglutaramate amidase" points="1414,10 1440,40 1414,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CN_hydrolase (PF00795)
+"Carbon-nitrogen hydrolase"</title>
+				<polygon class="PF00795" points="1414,28 1426,28 1436,40 1426,52 1414,52" stroke-linejoin="round" width="24" height="24" fill="rgb(213,76,196)" stroke="rgb(170,60,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02401_gene (PDCLAJNK_02401)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02401_gene (PDCLAJNK_02401)
+hypothetical protein" points="1446,40 1465,10 1465,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02402_gene (PDCLAJNK_02402)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02402_gene (PDCLAJNK_02402)
+hypothetical protein" points="1474,40 1489,10 1489,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02403_gene (PDCLAJNK_02403)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02403_gene (PDCLAJNK_02403)
+hypothetical protein" points="1495,10 1514,40 1495,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

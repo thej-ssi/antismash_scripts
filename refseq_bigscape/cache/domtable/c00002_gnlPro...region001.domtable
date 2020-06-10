@@ -1,0 +1,24 @@
+#                                                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DoxX                 PF07681.12    85 c00002_gnlPro...region001_ORF1:gid:catD:pid:gnl_Prokka_MNHGGPBM_01171:loc:930:1287:strand:+ -            118   1.7e-15   57.4   7.9   1   1   2.3e-19   2.1e-15   57.1   7.9     2    83     5    82     4    84 0.97 DoxX
+DoxX_2               PF13564.6    103 c00002_gnlPro...region001_ORF1:gid:catD:pid:gnl_Prokka_MNHGGPBM_01171:loc:930:1287:strand:+ -            118   4.3e-07   30.0   3.7   1   1   5.8e-11   5.2e-07   29.7   3.7     5    99    11   101     7   106 0.86 DoxX-like family
+ABC_tran             PF00005.27   137 c00002_gnlPro...region001_ORF3:gid:MNHGGPBM_01173_gene:pid:gnl_Prokka_MNHGGPBM_01173:loc:2031:2673:strand:- -            213   1.2e-31  110.0   0.1   1   1   1.8e-35   1.6e-31  109.6   0.1     1   136    17   160    17   161 0.92 ABC transporter
+DUF1430              PF07242.11   100 c00002_gnlPro...region001_ORF5:gid:MNHGGPBM_01175_gene:pid:gnl_Prokka_MNHGGPBM_01175:loc:2992:4957:strand:- -            654   9.8e-13   48.2  19.5   1   1   5.5e-17   9.8e-13   48.2  19.5     1   100   555   653   555   653 0.95 Protein of unknown function (DUF1430)
+Lactococcin_972      PF09683.10    63 c00002_gnlPro...region001_ORF6:gid:MNHGGPBM_01176_gene:pid:gnl_Prokka_MNHGGPBM_01176:loc:5000:5384:strand:- -            127   8.7e-13   48.6  18.3   1   1   6.4e-17   1.2e-12   48.2  18.3     1    63    63   124    63   124 0.93 Bacteriocin (Lactococcin_972)
+CPBP                 PF02517.16    92 c00002_gnlPro...region001_ORF7:gid:MNHGGPBM_01177_gene:pid:gnl_Prokka_MNHGGPBM_01177:loc:6301:6904:strand:- -            200   1.8e-06   28.2   6.5   1   1     1e-10   1.8e-06   28.2   6.5     6    87   105   189   100   194 0.89 CPBP intramembrane metalloprotease
+DUF2187              PF09953.9     59 c00002_gnlPro...region001_ORF8:gid:MNHGGPBM_01178_gene:pid:gnl_Prokka_MNHGGPBM_01178:loc:6918:7095:strand:- -             58     3e-28   97.6   1.5   1   1   1.8e-32   3.3e-28   97.5   1.5     2    59     3    57     2    57 0.98 Uncharacterized protein conserved in bacteria (DUF2187)
+Lip_prot_lig_C       PF10437.9     85 c00002_gnlPro...region001_ORF9:gid:MNHGGPBM_01179_gene:pid:gnl_Prokka_MNHGGPBM_01179:loc:7293:8280:strand:+ -            328   3.1e-27   94.4   3.1   1   1     1e-30   8.9e-27   92.9   0.5     1    84   243   326   243   327 0.98 Bacterial lipoate protein ligase C-terminus
+BPL_LplA_LipB        PF03099.19   131 c00002_gnlPro...region001_ORF9:gid:MNHGGPBM_01179_gene:pid:gnl_Prokka_MNHGGPBM_01179:loc:7293:8280:strand:+ -            328   5.4e-09   36.1   0.1   1   1   1.3e-12   1.2e-08   34.9   0.1     7   130    47   154    42   155 0.87 Biotin/lipoate A/B protein ligase family
+IDEAL                PF08858.10    37 c00002_gnlPro...region001_ORF10:gid:MNHGGPBM_01180_gene:pid:gnl_Prokka_MNHGGPBM_01180:loc:8360:8579:strand:- -             72     3e-13   49.3   1.1   1   1   2.4e-17   4.4e-13   48.7   1.1     1    37    27    63    27    63 0.98 IDEAL domain
+ComK                 PF06338.11   152 c00002_gnlPro...region001_ORF11:gid:comK:pid:gnl_Prokka_MNHGGPBM_01181:loc:8788:9358:strand:+ -            189   7.2e-48  162.1   1.4   1   1   4.9e-52   8.7e-48  161.8   1.4     2   151     5   156     4   157 0.94 ComK protein
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      refseq_bigscape/cache/fasta/c00002_gnlPro...region001.fasta
+# Target file:     /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout refseq_bigscape/cache/domtable/c00002_gnlPro...region001.domtable --cut_tc --cpu 0 /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm refseq_bigscape/cache/fasta/c00002_gnlPro...region001.fasta 
+# Current dir:     /srv/data/MPV/THEJ/antismash_testing
+# Date:            Wed Jun 10 09:36:13 2020
+# [ok]

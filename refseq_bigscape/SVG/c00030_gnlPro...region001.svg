@@ -1,0 +1,227 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="799.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="699.0666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tsaB (DJJMIKAL_02104)
+tRNA threonylcarbamoyladenosine biosynthesis protein TsaB</title>
+			<polygon class="tsaB (DJJMIKAL_02104)
+tRNA threonylcarbamoyladenosine biosynthesis protein TsaB" points="17,10 38,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M22 (PF00814)
+"Glycoprotease family"</title>
+				<polygon class="PF00814" points="19,28 26,28 33,38 33,42 26,52 19,52" stroke-linejoin="round" width="14" height="24" fill="rgb(178,70,94)" stroke="rgb(142,56,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rimI (DJJMIKAL_02105)
+N-alpha-acetyltransferase RimI</title>
+			<polygon class="rimI (DJJMIKAL_02105)
+N-alpha-acetyltransferase RimI" points="38,10 53,40 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="39,28 43,28 50,40 50,40 43,52 39,52" stroke-linejoin="round" width="11" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tsaD (DJJMIKAL_02106)
+tRNA N6-adenosine threonylcarbamoyltransferase</title>
+			<polygon class="tsaD (DJJMIKAL_02106)
+tRNA N6-adenosine threonylcarbamoyltransferase" points="54,25 58,25 58,10 88,40 58,70 58,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M22 (PF00814)
+"Glycoprotease family"</title>
+				<polygon class="PF00814" points="56,28 71,28 83,40 71,52 56,52" stroke-linejoin="round" width="28" height="24" fill="rgb(178,70,94)" stroke="rgb(142,56,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mutS_2 (DJJMIKAL_02107)
+DNA mismatch repair protein MutS</title>
+			<polygon class="mutS_2 (DJJMIKAL_02107)
+DNA mismatch repair protein MutS" points="173,25 151,25 151,10 121,40 151,70 151,55 173,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MutS_V (PF00488)
+"MutS domain V"</title>
+				<polygon class="PF00488" points="125,40 137,28 139,28 139,52 137,52" stroke-linejoin="round" width="18" height="24" fill="rgb(106,217,199)" stroke="rgb(84,173,159)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yheS_2 (DJJMIKAL_02108)
+putative ABC transporter ATP-binding protein YheS</title>
+			<polygon class="yheS_2 (DJJMIKAL_02108)
+putative ABC transporter ATP-binding protein YheS" points="251,25 216,25 216,10 186,40 216,70 216,55 251,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran_CTD (PF16326)
+"ABC transporter C-terminal domain"</title>
+				<polygon class="PF16326" points="190,40 194,36 194,44" stroke-linejoin="round" width="7" height="24" fill="rgb(180,67,143)" stroke="rgb(144,53,114)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="203" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran_Xtn (PF12848)
+"ABC transporter"</title>
+				<rect class="PF12848" x="219" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(54,177,199)" stroke="rgb(43,141,159)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<rect class="PF00005" x="231" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rex (DJJMIKAL_02109)
+Redox-sensing transcriptional repressor Rex</title>
+			<polygon class="rex (DJJMIKAL_02109)
+Redox-sensing transcriptional repressor Rex" points="256,10 277,40 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Put_DNA-bind_N (PF06971)
+"Putative DNA-binding protein N-terminus"</title>
+				<rect class="PF06971" x="256" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(79,177,214)" stroke="rgb(63,141,171)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CoA_binding (PF02629)
+"CoA binding domain"</title>
+				<polygon class="PF02629" points="264,28 265,28 273,39 273,41 265,52 264,52" stroke-linejoin="round" width="9" height="24" fill="rgb(57,204,178)" stroke="rgb(45,163,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ymfD (DJJMIKAL_02110)
+Bacillibactin exporter</title>
+			<polygon class="ymfD (DJJMIKAL_02110)
+Bacillibactin exporter" points="322,25 313,25 313,10 283,40 313,70 313,55 322,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="287,40 299,28 320,28 320,52 299,52 287,40" stroke-linejoin="round" width="33" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>adcR (DJJMIKAL_02111)
+Transcriptional regulator AdcR</title>
+			<polygon class="adcR (DJJMIKAL_02111)
+Transcriptional regulator AdcR" points="322,40 338,10 338,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MarR (PF01047)
+"MarR family"</title>
+				<polygon class="PF01047" points="328,34 331,28 333,28 333,52 331,52 328,46" stroke-linejoin="round" width="5" height="24" fill="rgb(60,185,86)" stroke="rgb(48,148,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJJMIKAL_02112_gene (DJJMIKAL_02112)
+Cyclo(L-leucyl-L-leucyl) synthase</title>
+			<polygon class="DJJMIKAL_02112_gene (DJJMIKAL_02112)
+Cyclo(L-leucyl-L-leucyl) synthase" points="343,10 365,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CDPS (PF16715)
+"Cyclodipeptide synthase"</title>
+				<polygon class="PF16715" points="343,28 352,28 361,40 352,52 343,52" stroke-linejoin="round" width="21" height="24" fill="rgb(66,210,97)" stroke="rgb(52,168,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cypX (DJJMIKAL_02113)
+Pulcherriminic acid synthase</title>
+			<polygon class="cypX (DJJMIKAL_02113)
+Pulcherriminic acid synthase" points="366,25 376,25 376,10 406,40 376,70 376,55 366,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>p450 (PF00067)
+"Cytochrome P450"</title>
+				<polygon class="PF00067" points="367,28 389,28 401,40 389,52 367,52" stroke-linejoin="round" width="36" height="24" fill="rgb(85,216,107)" stroke="rgb(68,172,85)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>treR_2 (DJJMIKAL_02114)
+HTH-type transcriptional regulator TreR</title>
+			<polygon class="treR_2 (DJJMIKAL_02114)
+HTH-type transcriptional regulator TreR" points="439,25 440,25 440,10 470,40 440,70 440,55 439,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LacI (PF00356)
+"Bacterial regulatory proteins, lacI family"</title>
+				<rect class="PF00356" x="439" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(66,188,63)" stroke="rgb(52,150,50)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peripla_BP_4 (PF13407)
+"Periplasmic binding protein domain"</title>
+				<polygon class="PF13407" points="445,28 454,28 466,40 466,40 454,52 445,52" stroke-linejoin="round" width="21" height="24" fill="rgb(124,182,50)" stroke="rgb(99,145,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>scrB (DJJMIKAL_02115)
+Sucrose-6-phosphate hydrolase</title>
+			<polygon class="scrB (DJJMIKAL_02115)
+Sucrose-6-phosphate hydrolase" points="472,25 491,25 491,10 521,40 491,70 491,55 472,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_hydro_32N (PF00251)
+"Glycosyl hydrolases family 32 N-terminal domain"</title>
+				<rect class="PF00251" x="475" y="28" stroke-linejoin="round" width="30" height="24" fill="rgb(108,183,84)" stroke="rgb(86,146,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyco_hydro_32C (PF08244)
+"Glycosyl hydrolases family 32 C terminal"</title>
+				<polygon class="PF08244" points="506,29 517,40 506,51" stroke-linejoin="round" width="14" height="24" fill="rgb(209,64,201)" stroke="rgb(167,51,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>scrK (DJJMIKAL_02116)
+Fructokinase</title>
+			<polygon class="scrK (DJJMIKAL_02116)
+Fructokinase" points="522,25 523,25 523,10 553,40 523,70 523,55 522,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PfkB (PF00294)
+"pfkB family carbohydrate kinase"</title>
+				<polygon class="PF00294" points="522,28 537,28 549,40 537,52 522,52" stroke-linejoin="round" width="31" height="24" fill="rgb(153,96,212)" stroke="rgb(122,76,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>agrA (DJJMIKAL_02117)
+Accessory gene regulator A</title>
+			<polygon class="agrA (DJJMIKAL_02117)
+Accessory gene regulator A" points="555,40 578,10 578,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LytTR (PF04397)
+"LytTr DNA-binding domain"</title>
+				<polygon class="PF04397" points="559,40 563,35 563,45" stroke-linejoin="round" width="8" height="24" fill="rgb(207,76,174)" stroke="rgb(165,60,139)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="566,31 569,28 577,28 577,52 569,52 566,49" stroke-linejoin="round" width="11" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJJMIKAL_02118_gene (DJJMIKAL_02118)
+hypothetical protein</title>
+			<polygon class="DJJMIKAL_02118_gene (DJJMIKAL_02118)
+hypothetical protein" points="623,25 610,25 610,10 580,40 610,70 610,55 623,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c_5 (PF14501)
+"GHKL domain"</title>
+				<polygon class="PF14501" points="584,40 590,34 590,46" stroke-linejoin="round" width="10" height="24" fill="rgb(137,71,210)" stroke="rgb(109,56,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJJMIKAL_02119_gene (DJJMIKAL_02119)
+hypothetical protein</title>
+			<polygon class="DJJMIKAL_02119_gene (DJJMIKAL_02119)
+hypothetical protein" points="624,40 628,10 628,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrD (PF05931)
+"Staphylococcal AgrD protein"</title>
+				<polygon class="PF05931" points="627,40 628,33 628,47" stroke-linejoin="round" width="4" height="24" fill="rgb(195,177,50)" stroke="rgb(156,141,40)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>agrB (DJJMIKAL_02120)
+Accessory gene regulator protein B</title>
+			<polygon class="agrB (DJJMIKAL_02120)
+Accessory gene regulator protein B" points="628,40 646,10 646,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AgrB (PF04647)
+"Accessory gene regulator B"</title>
+				<polygon class="PF04647" points="632,40 640,28 646,28 646,52 640,52" stroke-linejoin="round" width="17" height="24" fill="rgb(181,182,61)" stroke="rgb(144,145,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

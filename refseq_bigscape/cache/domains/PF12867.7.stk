@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+c00009_gnlPro...region003_ORF8:gid:yfiT:pid:gnl_Prokka_DHAILMMN_00919:loc:8512:9022:strand:-:27:163            ..ve---RYIDQLKNVVNGISEEELKKRYREGSWTVRQLVHHIADSQLQLFSRLKlaltEENPSAPEFDQNQWvdladseLPIEVSIQLLEGLNKRVVAIGENVTEEQLDRQVNLV--GTGELTVGFLLAKLSWHERHHLEHI
+#=GR c00009_gnlPro...region003_ORF8:gid:yfiT:pid:gnl_Prokka_DHAILMMN_00919:loc:8512:9022:strand:-:27:163    PP ..86...55789999*******************************************87777789999999999999999***********************************..**********************986
+c00065_gnlPro...region001_ORF17:gid:yfiT:pid:gnl_Prokka_MHLOJDLD_01690:loc:25739:26249:strand:+:27:163         vety-----IDQLKNVVDDLSDEQLTKKYREGSWTVRQLVHHIADSQMQLFSRLKlaltEEHPSAPEFDQNQWvdladssLPIEISIQLLDALNQRVVAIGENVSNSDLERKVNLE--GTGDLTVAFLLAKLSWHERHHLEHI
+#=GR c00065_gnlPro...region001_ORF17:gid:yfiT:pid:gnl_Prokka_MHLOJDLD_01690:loc:25739:26249:strand:+:27:163 PP 9776.....578999*******************************************76666689999999999999999********************************999..**********************986
+c00050_gnlPro...region001_ORF25:gid:yfiT:pid:gnl_Prokka_PDCLAJNK_02392:loc:35156:35666:strand:+:27:163         vety-----IDQLKNVVDDLSDEQLTKKYREGSWTVRQLVHHIADSQMQLFSRLKlaltEEHPSAPEFDQNQWvdladssLPIEISIQLLDSLNQRVVAIGENVSNSDLERKVNLE--GTGDLTVAFLLAKLSWHERHHLEHI
+#=GR c00050_gnlPro...region001_ORF25:gid:yfiT:pid:gnl_Prokka_PDCLAJNK_02392:loc:35156:35666:strand:+:27:163 PP 9776.....578999*******************************************76666689999999999999999********************************999..**********************986
+c00026_gnlPro...region001_ORF8:gid:yfiT:pid:gnl_Prokka_NDLEPOIB_02410:loc:8563:9073:strand:-:27:163            ..ve---RYIDQLKNVVNGISEEELKKRYREGSWTVRQLVHHIADSQLQLFSRLKlaltEENPSAPEFDQNQWvdladseLPIEVSIQLLEGLNKRVVAIGENVTEEQLDRQVNLV--GTGELTVGFLLAKLSWHERHHLEHI
+#=GR c00026_gnlPro...region001_ORF8:gid:yfiT:pid:gnl_Prokka_NDLEPOIB_02410:loc:8563:9073:strand:-:27:163    PP ..86...55789999*******************************************87777789999999999999999***********************************..**********************986
+#=GC PP_cons                                                                                                   .......55689999****************************************....76777899999999.......9***********************************..**********************986
+#=GC RF                                                                                                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxx.......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

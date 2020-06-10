@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+c00001_gnlPro...region007_ORF42:gid:mggB:pid:gnl_Prokka_GCIAIJCE_02066:loc:46796:48116:strand:-:3:200         -TIYHTNDIH--SHLHEYACIQAYLQTHRPAlQHPSLYIDIGDHVDLSapVTEATLGKKnVALLNE--AQCdIATIGNNEgmTISHEALNTLYDDAHFKVICTNVLDEQGQLPNHIatsYIQNIegTRILFVAAT--------APFTPFYRALDWIVTDpLEAIKDeiQSRQGQYDVLIVMSHVGVF-------FDEQLC
+#=GR c00001_gnlPro...region007_ORF42:gid:mggB:pid:gnl_Prokka_GCIAIJCE_02066:loc:46796:48116:strand:-:3:200 PP .699******..555555555566666644458899***99*******985666566666777777..6778********9876777777777777775555555444444444442333333356688888886........555777777777777789999999999*****************.......555555
+c00001_gnlPro...region006_ORF42:gid:mggB:pid:gnl_Prokka_CJKFNKEN_01971:loc:46797:48117:strand:-:3:200         -TIYHTNDIH--SHLYEYARIQAYLQTHRPAlQHPSLYIDIGDHVDLSapVTEATLGKKnVALLNE--AQCdIATIGNNEgmTISHEALNTLYDDAHFKVICTNVLDEHGQLPNHIatsYIQNIegTRILFVAAT--------APFTPFYRALDWIVTDpLEAIKDeiQSRQGQYDVLIVMSHVGVF-------FDEQLC
+#=GR c00001_gnlPro...region006_ORF42:gid:mggB:pid:gnl_Prokka_CJKFNKEN_01971:loc:46797:48117:strand:-:3:200 PP .699******..88899999999998886666899****99*******985666566666777777..6778********8876777777777777775555555555555554443333333356677777776........455677777777777789999999999*****************.......555555
+#=GC PP_cons                                                                                                  .699******..7777777777777777555.899****99*******..566656666.777777..677.********..7677777777777777555555544445555444...33333..678888776........5556777777777777.999999..99*****************.......555555
+#=GC RF                                                                                                       xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxx..xxxxxxxxx.xxxxxxxxxxx.xxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00001_gnlPro...region007_ORF42:gid:mggB:pid:gnl_Prokka_GCIAIJCE_02066:loc:46796:48116:strand:-:3:200         --QEIPDIDVIFGSHTHHY
+#=GR c00001_gnlPro...region007_ORF42:gid:mggB:pid:gnl_Prokka_GCIAIJCE_02066:loc:46796:48116:strand:-:3:200 PP ..799************97
+c00001_gnlPro...region006_ORF42:gid:mggB:pid:gnl_Prokka_CJKFNKEN_01971:loc:46797:48117:strand:-:3:200         --QEIPDIDVIFGSHTHHY
+#=GR c00001_gnlPro...region006_ORF42:gid:mggB:pid:gnl_Prokka_CJKFNKEN_01971:loc:46797:48117:strand:-:3:200 PP ..799************97
+#=GC PP_cons                                                                                                  ..799************97
+#=GC RF                                                                                                       xxxxxxxxxxxxxxxxxxx
+//

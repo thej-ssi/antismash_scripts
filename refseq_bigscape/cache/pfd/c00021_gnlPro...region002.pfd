@@ -1,0 +1,15 @@
+c00021_gnlPro...region002	111.3	yfmJ	4	111	PF16884.5	ADH_N_2	958	1963	c00021_gnlPro...region002_ORF1:gid:yfmJ:pid:gnl_Prokka_PCIJMFOK_01727:loc:958:1963:strand:+
+c00021_gnlPro...region002	67.1	yfmJ	156	294	PF00107.26	ADH_zinc_N	958	1963	c00021_gnlPro...region002_ORF1:gid:yfmJ:pid:gnl_Prokka_PCIJMFOK_01727:loc:958:1963:strand:+
+c00021_gnlPro...region002	27.1	PCIJMFOK_01728_gene	30	110	PF08240.12	ADH_N	2050	3067	c00021_gnlPro...region002_ORF2:gid:PCIJMFOK_01728_gene:pid:gnl_Prokka_PCIJMFOK_01728:loc:2050:3067:strand:+
+c00021_gnlPro...region002	52.1	PCIJMFOK_01728_gene	160	282	PF00107.26	ADH_zinc_N	2050	3067	c00021_gnlPro...region002_ORF2:gid:PCIJMFOK_01728_gene:pid:gnl_Prokka_PCIJMFOK_01728:loc:2050:3067:strand:+
+c00021_gnlPro...region002	53.3	PCIJMFOK_01730_gene	19	66	PF10031.9	DUF2273	4071	4311	c00021_gnlPro...region002_ORF4:gid:PCIJMFOK_01730_gene:pid:gnl_Prokka_PCIJMFOK_01730:loc:4071:4311:strand:+
+c00021_gnlPro...region002	115.5	PCIJMFOK_01731_gene	39	145	PF03780.13	Asp23	4375	4885	c00021_gnlPro...region002_ORF5:gid:PCIJMFOK_01731_gene:pid:gnl_Prokka_PCIJMFOK_01731:loc:4375:4885:strand:+
+c00021_gnlPro...region002	105.4	iucC	469	639	PF06276.12	FhuF	5000	6947	c00021_gnlPro...region002_ORF6:gid:iucC:pid:gnl_Prokka_PCIJMFOK_01732:loc:5000:6947:strand:-
+c00021_gnlPro...region002	190.3	iucC	194	438	PF04183.12	IucA_IucC	5000	6947	c00021_gnlPro...region002_ORF6:gid:iucC:pid:gnl_Prokka_PCIJMFOK_01732:loc:5000:6947:strand:-
+c00021_gnlPro...region002	138.4	PCIJMFOK_01733_gene	3	393	PF05977.13	MFS_3	7050	8232	c00021_gnlPro...region002_ORF7:gid:PCIJMFOK_01733_gene:pid:gnl_Prokka_PCIJMFOK_01733:loc:7050:8232:strand:+
+c00021_gnlPro...region002	172.1	iucA	156	385	PF04183.12	IucA_IucC	8221	9979	c00021_gnlPro...region002_ORF8:gid:iucA:pid:gnl_Prokka_PCIJMFOK_01734:loc:8221:9979:strand:+
+c00021_gnlPro...region002	86.7	iucA	412	573	PF06276.12	FhuF	8221	9979	c00021_gnlPro...region002_ORF8:gid:iucA:pid:gnl_Prokka_PCIJMFOK_01734:loc:8221:9979:strand:+
+c00021_gnlPro...region002	80.2	orr	6	223	PF01168.20	Ala_racemase_N	9982	11044	c00021_gnlPro...region002_ORF9:gid:orr:pid:gnl_Prokka_PCIJMFOK_01735:loc:9982:11044:strand:+
+c00021_gnlPro...region002	112.6	yfmC_1	58	302	PF01497.18	Peripla_BP_2	11440	12439	c00021_gnlPro...region002_ORF10:gid:yfmC_1:pid:gnl_Prokka_PCIJMFOK_01736:loc:11440:12439:strand:+
+c00021_gnlPro...region002	306.1	yfiZ	30	338	PF01032.18	FecCD	12450	13482	c00021_gnlPro...region002_ORF11:gid:yfiZ:pid:gnl_Prokka_PCIJMFOK_01737:loc:12450:13482:strand:+
+c00021_gnlPro...region002	294.9	fecD_1	16	320	PF01032.18	FecCD	13478	14447	c00021_gnlPro...region002_ORF12:gid:fecD_1:pid:gnl_Prokka_PCIJMFOK_01738:loc:13478:14447:strand:+

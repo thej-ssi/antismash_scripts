@@ -1,0 +1,14 @@
+c00007_gnlPro...region002	44.2	KJIPDNGI_02081_gene	9	88	PF02195.18	ParBc	1459	2224	c00007_gnlPro...region002_ORF3:gid:KJIPDNGI_02081_gene:pid:gnl_Prokka_KJIPDNGI_02081:loc:1459:2224:strand:-
+c00007_gnlPro...region002	123.4	btrK	26	273	PF02784.16	Orn_Arg_deC_N	2227	3430	c00007_gnlPro...region002_ORF4:gid:btrK:pid:gnl_Prokka_KJIPDNGI_02082:loc:2227:3430:strand:-
+c00007_gnlPro...region002	112.6	garL	17	243	PF03328.14	HpcH_HpaI	3429	4206	c00007_gnlPro...region002_ORF5:gid:garL:pid:gnl_Prokka_KJIPDNGI_02083:loc:3429:4206:strand:-
+c00007_gnlPro...region002	126.9	iucC_1	402	575	PF06276.12	FhuF	4180	5971	c00007_gnlPro...region002_ORF6:gid:iucC_1:pid:gnl_Prokka_KJIPDNGI_02084:loc:4180:5971:strand:-
+c00007_gnlPro...region002	216.4	iucC_1	135	383	PF04183.12	IucA_IucC	4180	5971	c00007_gnlPro...region002_ORF6:gid:iucC_1:pid:gnl_Prokka_KJIPDNGI_02084:loc:4180:5971:strand:-
+c00007_gnlPro...region002	95.1	iucA_1	392	556	PF06276.12	FhuF	5963	7688	c00007_gnlPro...region002_ORF7:gid:iucA_1:pid:gnl_Prokka_KJIPDNGI_02085:loc:5963:7688:strand:-
+c00007_gnlPro...region002	165.5	iucA_1	134	370	PF04183.12	IucA_IucC	5963	7688	c00007_gnlPro...region002_ORF7:gid:iucA_1:pid:gnl_Prokka_KJIPDNGI_02085:loc:5963:7688:strand:-
+c00007_gnlPro...region002	111.4	tetA_2	14	253	PF07690.16	MFS_1	7677	8934	c00007_gnlPro...region002_ORF8:gid:tetA_2:pid:gnl_Prokka_KJIPDNGI_02086:loc:7677:8934:strand:-
+c00007_gnlPro...region002	53.8	iucC_2	398	567	PF06276.12	FhuF	8926	10681	c00007_gnlPro...region002_ORF9:gid:iucC_2:pid:gnl_Prokka_KJIPDNGI_02087:loc:8926:10681:strand:-
+c00007_gnlPro...region002	188.5	iucC_2	134	376	PF04183.12	IucA_IucC	8926	10681	c00007_gnlPro...region002_ORF9:gid:iucC_2:pid:gnl_Prokka_KJIPDNGI_02087:loc:8926:10681:strand:-
+c00007_gnlPro...region002	219.0	arcB_1	3	328	PF02423.15	OCD_Mu_crystall	10701	11712	c00007_gnlPro...region002_ORF10:gid:arcB_1:pid:gnl_Prokka_KJIPDNGI_02088:loc:10701:11712:strand:-
+c00007_gnlPro...region002	200.1	sbnA	12	299	PF00291.25	PALP	11708	12689	c00007_gnlPro...region002_ORF11:gid:sbnA:pid:gnl_Prokka_KJIPDNGI_02089:loc:11708:12689:strand:-
+c00007_gnlPro...region002	88.3	yfiY	56	298	PF01497.18	Peripla_BP_2	12919	13912	c00007_gnlPro...region002_ORF12:gid:yfiY:pid:gnl_Prokka_KJIPDNGI_02090:loc:12919:13912:strand:+
+c00007_gnlPro...region002	300.9	yfiZ_1	15	326	PF01032.18	FecCD	13927	14923	c00007_gnlPro...region002_ORF13:gid:yfiZ_1:pid:gnl_Prokka_KJIPDNGI_02091:loc:13927:14923:strand:+

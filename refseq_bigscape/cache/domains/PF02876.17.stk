@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+c00037_gnlPro...region001_ORF22:gid:speC:pid:gnl_Prokka_DNGEGIOB_02538:loc:21396:22062:strand:-:127:221           yr----MNLFVNGHQTKVNpDSLLEVKNKQISLKETDFRIRKYLLEKEHLY---SNYNSGELIIEMKNGTRHKIDLGDILSDSQE---------KTFDFDNIsHIDIYM-k.
+#=GR c00037_gnlPro...region001_ORF22:gid:speC:pid:gnl_Prokka_DNGEGIOB_02538:loc:21396:22062:strand:-:127:221   PP 97....69*********99567789**************************...78********************988776655.........677778888888876.7.
+c00002_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_FGCCKGIE_01926:loc:19105:19771:strand:+:127:221           yr----MNLFVNGHQTKVNpDSLLEVKNKQISLKETDFRIRKYLLEKEHLY---SNYNSGELIIEMKNGTRHKIDLGDILSDSQE---------KTFDFDNIsHIDIYM-k.
+#=GR c00002_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_FGCCKGIE_01926:loc:19105:19771:strand:+:127:221   PP 97....69*********99567789**************************...78********************988776655.........677778888888876.7.
+c00004_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_ECDCGNGH_02084:loc:19105:19771:strand:+:127:221           yr----MNLFVNGHQTKVNpDSLLEVKNKQISLKETDFRIRKYLLEKEHLY---SNYNSGELIIEMKNGTRHKIDLGDILSDSQE---------KTFDFDNIsHIDIYM-k.
+#=GR c00004_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_ECDCGNGH_02084:loc:19105:19771:strand:+:127:221   PP 97....69*********99567789**************************...78********************988776655.........677778888888876.7.
+c00019_gnlPro...region001_ORF19:gid:speC_3:pid:gnl_Prokka_DJCDADDG_01780:loc:17960:18626:strand:-:127:221         yr----MNLFVNGHQTKVNpDSLLEVKNKQISLKETDFRIRKYLLEKEHLY---SNYNSGELIIEMKNGARHKIDLGDILSDSQE---------KTFDFDNVsHIDIY--mk
+#=GR c00019_gnlPro...region001_ORF19:gid:speC_3:pid:gnl_Prokka_DJCDADDG_01780:loc:17960:18626:strand:-:127:221 PP 97....69*********99567789**************************...78********************998877666.........55555666666666..58
+c00007_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_KJIPDNGI_02339:loc:19105:19771:strand:+:127:221           yr----MNLFVNGHQTKVNpDSLLEVKNKQISLKETDFRIRKYLLEKEHLY---SNYNSGELIIEMKNGTRHKIDLGDILSDSQE---------KTFDFDNIsHIDIYM-k.
+#=GR c00007_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_KJIPDNGI_02339:loc:19105:19771:strand:+:127:221   PP 97....69*********99567789**************************...78********************988776655.........677778888888876.7.
+c00008_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_INJJNJAE_02163:loc:19105:19771:strand:+:127:221           yr----MNLFVNGHQTKVNpDSLLEVKNKQISLKETDFRIRKYLLEKEHLY---SNYNSGELIIEMKNGTRHKIDLGDILSDSQE---------KTFDFDNIsHIDIYM-k.
+#=GR c00008_gnlPro...region003_ORF15:gid:speC:pid:gnl_Prokka_INJJNJAE_02163:loc:19105:19771:strand:+:127:221   PP 97....69*********99567789**************************...78********************988776655.........677778888888876.7.
+#=GC PP_cons                                                                                                      ......69*********99.67789**************************...78********************988776655.........67777777.777776...
+#=GC RF                                                                                                           ..xxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxx..
+//

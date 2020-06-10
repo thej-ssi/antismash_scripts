@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+c00005_gnlPro...region003_ORF14:gid:mcsB:pid:gnl_Prokka_ALEOMKEF_00510:loc:16056:17061:strand:-:45:244         aeghrvinevq-------------DVLTDLNVLRLDELDQLSKYKLVAKHLIS---------PELTKQ-P-ASAVLLNEDESVSVMVNEEDHIRIQAMGNDLSLNELYQKASAIDDILDRTLQISYDEQLGYLTTCPTNVGTGMRASVMLHLPGLSIMKRMNRIAQTINRFGFTIRGIYGEGSQVYGHIYQVSNQLTLGK
+#=GR c00005_gnlPro...region003_ORF14:gid:mcsB:pid:gnl_Prokka_ALEOMKEF_00510:loc:16056:17061:strand:-:45:244 PP *9987655544.............44567899*********************.........****55.4.569******************************************************************************************************************************
+c00019_gnlPro...region002_ORF14:gid:mcsB:pid:gnl_Prokka_DMMFHILO_01731:loc:16056:17061:strand:-:45:244         aeghrvinevq-------------DVLTDLNVLRLDELDQLSKYKLVAKHLIS---------PELTKQ-P-ASAVLLNEDESVSVMVNEEDHIRIQAMGNDLSLNELYQKASAIDDILDRTLQISYDEQLGYLTTCPTNVGTGMRASVMLHLPGLSIMKRMNRIAQTINRFGFTIRGIYGEGSQVYGHIYQVSNQLTLGK
+#=GR c00019_gnlPro...region002_ORF14:gid:mcsB:pid:gnl_Prokka_DMMFHILO_01731:loc:16056:17061:strand:-:45:244 PP *9987655544.............44567899*********************.........****55.4.569******************************************************************************************************************************
+c00073_gnlPro...region001_ORF13:gid:mcsB:pid:gnl_Prokka_HPGMPKAP_01440:loc:14309:15314:strand:-:45:244         aeghrvinevq-------------DVLTDLNVLRLDELDQLSKYKLVAKHLIS---------PELTKQ-P-ASAVLLNEDESVSVMVNEEDHIRIQAMGNDLSLNELYQKASAIDDILDRTLQISYDEQLGYLTTCPTNVGTGMRASVMLHLPGLSIMKRMNRIAQTINRFGFTIRGIYGEGSQVYGHIYQVSNQLTLGK
+#=GR c00073_gnlPro...region001_ORF13:gid:mcsB:pid:gnl_Prokka_HPGMPKAP_01440:loc:14309:15314:strand:-:45:244 PP *9987655544.............44567899*********************.........****55.4.569******************************************************************************************************************************
+#=GC PP_cons                                                                                                   ........................44567899*********************.........****55.4.569******************************************************************************************************************************
+#=GC RF                                                                                                        ...........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00005_gnlPro...region003_ORF14:gid:mcsB:pid:gnl_Prokka_ALEOMKEF_00510:loc:16056:17061:strand:-:45:244         SEQEIIDALTELVDQIIHEEL--al
+#=GR c00005_gnlPro...region003_ORF14:gid:mcsB:pid:gnl_Prokka_ALEOMKEF_00510:loc:16056:17061:strand:-:45:244 PP ******************995..67
+c00019_gnlPro...region002_ORF14:gid:mcsB:pid:gnl_Prokka_DMMFHILO_01731:loc:16056:17061:strand:-:45:244         SEQEIIDALTELVDQIIHEEL--al
+#=GR c00019_gnlPro...region002_ORF14:gid:mcsB:pid:gnl_Prokka_DMMFHILO_01731:loc:16056:17061:strand:-:45:244 PP ******************995..67
+c00073_gnlPro...region001_ORF13:gid:mcsB:pid:gnl_Prokka_HPGMPKAP_01440:loc:14309:15314:strand:-:45:244         SEQEIIDALTELVDQIIHEEL--al
+#=GR c00073_gnlPro...region001_ORF13:gid:mcsB:pid:gnl_Prokka_HPGMPKAP_01440:loc:14309:15314:strand:-:45:244 PP ******************995..67
+#=GC PP_cons                                                                                                   ******************995....
+#=GC RF                                                                                                        xxxxxxxxxxxxxxxxxxxxxxx..
+//

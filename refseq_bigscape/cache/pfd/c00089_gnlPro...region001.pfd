@@ -1,0 +1,8 @@
+c00089_gnlPro...region001	94.2	iucA	412	573	PF06276.12	FhuF	970	2728	c00089_gnlPro...region001_ORF1:gid:iucA:pid:gnl_Prokka_GFBPJCFC_01377:loc:970:2728:strand:-
+c00089_gnlPro...region001	169.8	iucA	156	385	PF04183.12	IucA_IucC	970	2728	c00089_gnlPro...region001_ORF1:gid:iucA:pid:gnl_Prokka_GFBPJCFC_01377:loc:970:2728:strand:-
+c00089_gnlPro...region001	139.1	GFBPJCFC_01378_gene	3	393	PF05977.13	MFS_3	2717	3899	c00089_gnlPro...region001_ORF2:gid:GFBPJCFC_01378_gene:pid:gnl_Prokka_GFBPJCFC_01378:loc:2717:3899:strand:-
+c00089_gnlPro...region001	193.5	iucC	194	438	PF04183.12	IucA_IucC	4003	5950	c00089_gnlPro...region001_ORF3:gid:iucC:pid:gnl_Prokka_GFBPJCFC_01379:loc:4003:5950:strand:+
+c00089_gnlPro...region001	97.8	iucC	469	639	PF06276.12	FhuF	4003	5950	c00089_gnlPro...region001_ORF3:gid:iucC:pid:gnl_Prokka_GFBPJCFC_01379:loc:4003:5950:strand:+
+c00089_gnlPro...region001	117.9	GFBPJCFC_01380_gene	39	145	PF03780.13	Asp23	6150	6663	c00089_gnlPro...region001_ORF4:gid:GFBPJCFC_01380_gene:pid:gnl_Prokka_GFBPJCFC_01380:loc:6150:6663:strand:-
+c00089_gnlPro...region001	51.8	GFBPJCFC_01381_gene	19	66	PF10031.9	DUF2273	6736	6976	c00089_gnlPro...region001_ORF5:gid:GFBPJCFC_01381_gene:pid:gnl_Prokka_GFBPJCFC_01381:loc:6736:6976:strand:-
+c00089_gnlPro...region001	620.6	opuD_1	17	499	PF02028.17	BCCT	7707	9297	c00089_gnlPro...region001_ORF7:gid:opuD_1:pid:gnl_Prokka_GFBPJCFC_01383:loc:7707:9297:strand:-

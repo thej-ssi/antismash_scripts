@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+c00005_gnlPro...region003_ORF13:gid:clpC:pid:gnl_Prokka_ALEOMKEF_00509:loc:13581:16041:strand:-:91:143         m--DEARKLQHNFVGTEHILLGLIRENEGVAARVFANLDLNITKARAQVVKALG
+#=GR c00005_gnlPro...region003_ORF13:gid:clpC:pid:gnl_Prokka_ALEOMKEF_00509:loc:13581:16041:strand:-:91:143 PP 9..69********************************************99987
+c00005_gnlPro...region003_ORF13:gid:clpC:pid:gnl_Prokka_ALEOMKEF_00509:loc:13581:16041:strand:-:17:69          .-QEEAIRLNHSNIGTEHLLLGLMKEPEGIAAKVLESFDITEDKVIEEVEKLIG
+#=GR c00005_gnlPro...region003_ORF13:gid:clpC:pid:gnl_Prokka_ALEOMKEF_00509:loc:13581:16041:strand:-:17:69  PP ..8************************************************997
+c00019_gnlPro...region002_ORF13:gid:clpC:pid:gnl_Prokka_DMMFHILO_01730:loc:13581:16041:strand:-:91:143         m--DEARKLQHNFVGTEHILLGLIRENEGVAARVFANLDLNITKARAQVVKALG
+#=GR c00019_gnlPro...region002_ORF13:gid:clpC:pid:gnl_Prokka_DMMFHILO_01730:loc:13581:16041:strand:-:91:143 PP 9..69********************************************99987
+c00019_gnlPro...region002_ORF13:gid:clpC:pid:gnl_Prokka_DMMFHILO_01730:loc:13581:16041:strand:-:17:69          .-QEEAIRLNHSNIGTEHLLLGLMKEPEGIAAKVLESFDITEDKVIEEVEKLIG
+#=GR c00019_gnlPro...region002_ORF13:gid:clpC:pid:gnl_Prokka_DMMFHILO_01730:loc:13581:16041:strand:-:17:69  PP ..8************************************************997
+c00073_gnlPro...region001_ORF12:gid:clpC:pid:gnl_Prokka_HPGMPKAP_01439:loc:11834:14294:strand:-:91:143         m--DEARKLQHNFVGTEHILLGLIRENEGVAARVFANLDLNITKARAQVVKALG
+#=GR c00073_gnlPro...region001_ORF12:gid:clpC:pid:gnl_Prokka_HPGMPKAP_01439:loc:11834:14294:strand:-:91:143 PP 9..69********************************************99987
+c00073_gnlPro...region001_ORF12:gid:clpC:pid:gnl_Prokka_HPGMPKAP_01439:loc:11834:14294:strand:-:17:69          .-QEEAIRLNHSNIGTEHLLLGLMKEPEGIAAKVLESFDITEDKVIEEVEKLIG
+#=GR c00073_gnlPro...region001_ORF12:gid:clpC:pid:gnl_Prokka_HPGMPKAP_01439:loc:11834:14294:strand:-:17:69  PP ..8************************************************997
+#=GC PP_cons                                                                                                   ..889**********************************************997
+#=GC RF                                                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

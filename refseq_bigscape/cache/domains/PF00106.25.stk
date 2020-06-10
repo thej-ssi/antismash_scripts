@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+c00009_gnlPro...region003_ORF7:gid:cpnA:pid:gnl_Prokka_DHAILMMN_00918:loc:7512:8370:strand:+:4:199                         -IVLITGASTGLGYETAILLAKQGYKVYATMRNLNKQDTLLQIAQENNLDIIIQQLDVTDIESIQTTVKRILKNEEKIDILINNAGAGFVKTTEHASDDEIMWQLNLNLMGVIRMTKAVLPSMRARREGHIINISSVGGLVGQPFNEIYCATKFGVEGYTEALSSY..VQPKFnVKFSVIEPGGIQSEFTNNVMA---ql
+#=GR c00009_gnlPro...region003_ORF7:gid:cpnA:pid:gnl_Prokka_DHAILMMN_00918:loc:7512:8370:strand:+:4:199                 PP .69***************************************99999****************************************9999999999999******************************************************************..**9855**************9998765...57
+c00015_gnlPro...region002_ORF10:gid:PLAHONHL_01834_gene:pid:gnl_Prokka_PLAHONHL_01834:loc:8792:9533:strand:+:4:199         -VIVITGASSGIGEAVARTLVKKGHHLMLAARREEKLKQLVEEFKNEQGQAEYIVTDVTHRSEVDALKQKTLDTFGRIDVWVNNAGIMALSNLDSGRVDEWDQMIDINLKGVLYGINAALPTMRQQQSGHFINISSVSGHKTGAGSAVYAATKFGVRAISETLREEeaLAQSN.VRVTTISPGAIDTELPSSVK----de
+#=GR c00015_gnlPro...region002_ORF10:gid:PLAHONHL_01834_gene:pid:gnl_Prokka_PLAHONHL_01834:loc:8792:9533:strand:+:4:199 PP .79*****************************************************************************************************************************************************************985567888.**************987765....56
+c00026_gnlPro...region001_ORF7:gid:cpnA:pid:gnl_Prokka_NDLEPOIB_02409:loc:7563:8421:strand:+:4:199                         -IVLITGASTGLGYETAILLAKQGYKVYATMRNLNKQDTLLQIAQENNLDIIIQQLDVTDIESIQTTVKRILKNEEKIDILINNAGAGFVKTTEHASDDEIMWQLNLNLMGVIRMTKAVLPSMRARREGHIINISSVGGLVGQPFNEIYCATKFGVEGYTEALSSY..VQPKFnVKFSVIEPGGIQSEFTNNVMA---ql
+#=GR c00026_gnlPro...region001_ORF7:gid:cpnA:pid:gnl_Prokka_NDLEPOIB_02409:loc:7563:8421:strand:+:4:199                 PP .69***************************************99999****************************************9999999999999******************************************************************..**9855**************9998765...57
+#=GC PP_cons                                                                                                               .69************************************************************************************99999999999*******************************************************************9..99986.**************9988765.....
+#=GC RF                                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxxx.xxxxxxxxxxxxxxxxxxxxxxxx..
+
+c00009_gnlPro...region003_ORF7:gid:cpnA:pid:gnl_Prokka_DHAILMMN_00918:loc:7512:8370:strand:+:4:199                         d
+#=GR c00009_gnlPro...region003_ORF7:gid:cpnA:pid:gnl_Prokka_DHAILMMN_00918:loc:7512:8370:strand:+:4:199                 PP 8
+c00015_gnlPro...region002_ORF10:gid:PLAHONHL_01834_gene:pid:gnl_Prokka_PLAHONHL_01834:loc:8792:9533:strand:+:4:199         t
+#=GR c00015_gnlPro...region002_ORF10:gid:PLAHONHL_01834_gene:pid:gnl_Prokka_PLAHONHL_01834:loc:8792:9533:strand:+:4:199 PP 8
+c00026_gnlPro...region001_ORF7:gid:cpnA:pid:gnl_Prokka_NDLEPOIB_02409:loc:7563:8421:strand:+:4:199                         d
+#=GR c00026_gnlPro...region001_ORF7:gid:cpnA:pid:gnl_Prokka_NDLEPOIB_02409:loc:7563:8421:strand:+:4:199                 PP 8
+#=GC PP_cons                                                                                                               .
+#=GC RF                                                                                                                    .
+//

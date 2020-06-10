@@ -1,0 +1,94 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="709.0666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="235.96666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>NECOBKJD_02764_gene (NECOBKJD_02764)
+hypothetical protein</title>
+			<polygon class="NECOBKJD_02764_gene (NECOBKJD_02764)
+hypothetical protein" points="11,40 18,10 18,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>bin3 (NECOBKJD_02765)
+Putative transposon Tn552 DNA-invertase bin3</title>
+			<polygon class="bin3 (NECOBKJD_02765)
+Putative transposon Tn552 DNA-invertase bin3" points="29,10 39,40 29,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_7 (PF02796)
+"Helix-turn-helix domain of resolvase"</title>
+				<polygon class="PF02796" points="34,34 36,40 34,46" stroke-linejoin="round" width="5" height="24" fill="rgb(223,208,93)" stroke="rgb(178,166,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sdpR_2 (NECOBKJD_02766)
+Transcriptional repressor SdpR</title>
+			<polygon class="sdpR_2 (NECOBKJD_02766)
+Transcriptional repressor SdpR" points="42,10 52,40 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_5 (PF01022)
+"Bacterial regulatory protein, arsR family"</title>
+				<polygon class="PF01022" points="43,28 44,28 47,34 47,46 44,52 43,52" stroke-linejoin="round" width="4" height="24" fill="rgb(95,208,123)" stroke="rgb(76,166,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arsB_2 (NECOBKJD_02767)
+Arsenical pump membrane protein</title>
+			<polygon class="arsB_2 (NECOBKJD_02767)
+Arsenical pump membrane protein" points="52,25 65,25 65,10 95,40 65,70 65,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsB (PF02040)
+"Arsenical pump membrane protein"</title>
+				<polygon class="PF02040" points="52,28 78,28 90,40 78,52 52,52" stroke-linejoin="round" width="42" height="24" fill="rgb(207,201,91)" stroke="rgb(165,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arsC (NECOBKJD_02768)
+Glutaredoxin arsenate reductase</title>
+			<polygon class="arsC (NECOBKJD_02768)
+Glutaredoxin arsenate reductase" points="96,10 109,40 96,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LMWPc (PF01451)
+"Low molecular weight phosphotyrosine protein phosphatase"</title>
+				<polygon class="PF01451" points="96,28 100,28 105,40 100,52 96,52" stroke-linejoin="round" width="12" height="24" fill="rgb(199,53,196)" stroke="rgb(159,42,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NECOBKJD_02769_gene (NECOBKJD_02769)
+hypothetical protein</title>
+			<polygon class="NECOBKJD_02769_gene (NECOBKJD_02769)
+hypothetical protein" points="122,10 131,40 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="125,29 128,40 125,51" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NECOBKJD_02770_gene (NECOBKJD_02770)
+hypothetical protein</title>
+			<polygon class="NECOBKJD_02770_gene (NECOBKJD_02770)
+hypothetical protein" points="134,25 168,25 168,10 198,40 168,70 168,55 134,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="188,34 194,40 188,46" stroke-linejoin="round" width="9" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NECOBKJD_02771_gene (NECOBKJD_02771)
+hypothetical protein</title>
+			<polygon class="NECOBKJD_02771_gene (NECOBKJD_02771)
+hypothetical protein" points="199,10 209,40 199,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>NECOBKJD_02772_gene (NECOBKJD_02772)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="NECOBKJD_02772_gene (NECOBKJD_02772)
+putative ABC transporter ATP-binding protein" points="209,10 229,40 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="210,28 218,28 224,37 224,43 218,52 210,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

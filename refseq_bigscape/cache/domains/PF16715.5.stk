@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+c00030_gnlPro...region001_ORF9:gid:DJJMIKAL_02112_gene:pid:gnl_Prokka_DJJMIKAL_02112:loc:10000:10672:strand:+:5:223         kvd----FLTENCKKIYQRKKHVILGISPFTSKYNETYIRKLIQWANTNFKDFSILLAGEESKNLLECLGYSTTKANRKVRKEVNRQIRFCENELLNCNRTIND-RIFRFSDFKQNTYYVNMYQKIEGLFNTDDSFKKCCLNMSLQALQSKKNNLNstiEFTNDMLEYSAQYVLAELPFFLNANPIINTYETLMAYHAEW
+#=GR c00030_gnlPro...region001_ORF9:gid:DJJMIKAL_02112_gene:pid:gnl_Prokka_DJJMIKAL_02112:loc:10000:10672:strand:+:5:223 PP 866....58****************************************************************************************9988888.9*******************************************9876665667999**************************************
+c00005_gnlPro...region006_ORF9:gid:ALEOMKEF_01504_gene:pid:gnl_Prokka_ALEOMKEF_01504:loc:10000:10708:strand:+:5:226         kvd----FLTENCKKIYQRKKHVILGISPFTSKYNETYIRKLIQWANTNFKDFSILLAGEESKNLLECLGYSTTKANRKVRKEVNRQIRFCENELLNCNRTIND-RIFRFSDFKQNTYYVNMYQKIEGLFNTDDSFKKCCLNMSLQALQSKKNNLNstiEFTNDMLEYSAQYVLAELPFFLNANPIINTYETLMAYHAEW
+#=GR c00005_gnlPro...region006_ORF9:gid:ALEOMKEF_01504_gene:pid:gnl_Prokka_ALEOMKEF_01504:loc:10000:10708:strand:+:5:226 PP 866....58****************************************************************************************9988888.9*******************************************9876665667999**************************************
+c00044_gnlPro...region001_ORF9:gid:OJOJPOKM_02467_gene:pid:gnl_Prokka_OJOJPOKM_02467:loc:10000:10708:strand:+:5:226         kvd----FLTENCKKIYQRKKHVILGISPFTSKYNETYIRKLIQWANTNFKDFSILLAGEESKNLLECLGYSTTKANRKVRKEVNRQIRFCENELLNCNRTIND-RIFRFSDFKQNTYYVNMYQKIEGLFNTDDSFKKCCLNMSLQALQSKKNNLNstiEFTNDMLEYSAQYVLAELPFFLNANPIINTYETLMAYHAEW
+#=GR c00044_gnlPro...region001_ORF9:gid:OJOJPOKM_02467_gene:pid:gnl_Prokka_OJOJPOKM_02467:loc:10000:10708:strand:+:5:226 PP 866....58****************************************************************************************9988888.9*******************************************9876665667999**************************************
+#=GC PP_cons                                                                                                                .......58****************************************************************************************9988888.9*******************************************9876665...999**************************************
+#=GC RF                                                                                                                     ...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00030_gnlPro...region001_ORF9:gid:DJJMIKAL_02112_gene:pid:gnl_Prokka_DJJMIKAL_02112:loc:10000:10672:strand:+:5:223         ELGTNIINNMFDLKMDSHQGY-----in
+#=GR c00030_gnlPro...region001_ORF9:gid:DJJMIKAL_02112_gene:pid:gnl_Prokka_DJJMIKAL_02112:loc:10000:10672:strand:+:5:223 PP ********************9.....59
+c00005_gnlPro...region006_ORF9:gid:ALEOMKEF_01504_gene:pid:gnl_Prokka_ALEOMKEF_01504:loc:10000:10708:strand:+:5:226         ELGTNIINNMFDLKMDSHQGYIILT-d.
+#=GR c00005_gnlPro...region006_ORF9:gid:ALEOMKEF_01504_gene:pid:gnl_Prokka_ALEOMKEF_01504:loc:10000:10708:strand:+:5:226 PP ***********************97.6.
+c00044_gnlPro...region001_ORF9:gid:OJOJPOKM_02467_gene:pid:gnl_Prokka_OJOJPOKM_02467:loc:10000:10708:strand:+:5:226         ELGTNIINNMFDLKMDSHQGYIILT-d.
+#=GR c00044_gnlPro...region001_ORF9:gid:OJOJPOKM_02467_gene:pid:gnl_Prokka_OJOJPOKM_02467:loc:10000:10708:strand:+:5:226 PP ***********************97.6.
+#=GC PP_cons                                                                                                                ***********************97...
+#=GC RF                                                                                                                     xxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

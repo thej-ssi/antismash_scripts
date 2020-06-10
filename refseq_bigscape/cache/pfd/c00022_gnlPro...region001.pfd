@@ -1,0 +1,7 @@
+c00022_gnlPro...region001	69.0	bin3	2	77	PF00239.21	Resolvase	420	954	c00022_gnlPro...region001_ORF1:gid:bin3:pid:gnl_Prokka_DNGEGIOB_01879:loc:420:954:strand:+
+c00022_gnlPro...region001	74.5	bin3	122	174	PF02796.15	HTH_7	420	954	c00022_gnlPro...region001_ORF1:gid:bin3:pid:gnl_Prokka_DNGEGIOB_01879:loc:420:954:strand:+
+c00022_gnlPro...region001	51.0	DNGEGIOB_01880_gene	34	94	PF09683.10	Lactococcin_972	1367	1661	c00022_gnlPro...region001_ORF2:gid:DNGEGIOB_01880_gene:pid:gnl_Prokka_DNGEGIOB_01880:loc:1367:1661:strand:+
+c00022_gnlPro...region001	69.2	DNGEGIOB_01881_gene	545	643	PF07242.11	DUF1430	1735	3670	c00022_gnlPro...region001_ORF3:gid:DNGEGIOB_01881_gene:pid:gnl_Prokka_DNGEGIOB_01881:loc:1735:3670:strand:+
+c00022_gnlPro...region001	118.8	DNGEGIOB_01883_gene	17	160	PF00005.27	ABC_tran	3996	4623	c00022_gnlPro...region001_ORF5:gid:DNGEGIOB_01883_gene:pid:gnl_Prokka_DNGEGIOB_01883:loc:3996:4623:strand:+
+c00022_gnlPro...region001	101.2	pre_1	1	101	PF01076.19	Mob_Pre	4860	5166	c00022_gnlPro...region001_ORF6:gid:pre_1:pid:gnl_Prokka_DNGEGIOB_01884:loc:4860:5166:strand:+
+c00022_gnlPro...region001	116.0	pre_2	1	88	PF01076.19	Mob_Pre	5190	5490	c00022_gnlPro...region001_ORF7:gid:pre_2:pid:gnl_Prokka_DNGEGIOB_01885:loc:5190:5490:strand:+

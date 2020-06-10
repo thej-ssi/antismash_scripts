@@ -1,0 +1,108 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="396.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="386.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>pbuE (HPGMPKAP_00933)
+Purine efflux pump PbuE</title>
+			<polygon class="pbuE (HPGMPKAP_00933)
+Purine efflux pump PbuE" points="49,25 41,25 41,10 11,40 41,70 41,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="15,40 27,28 28,28 28,52 27,52" stroke-linejoin="round" width="17" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="28" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_3 (HPGMPKAP_00934)
+Aerobactin synthase</title>
+			<polygon class="iucC_3 (HPGMPKAP_00934)
+Aerobactin synthase" points="117,25 82,25 82,10 52,40 82,70 82,55 117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="56,40 68,28 70,28 70,52 68,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="73" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_00935_gene (HPGMPKAP_00935)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_00935_gene (HPGMPKAP_00935)
+hypothetical protein" points="121,25 130,25 130,10 160,40 130,70 130,55 121,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="121,28 144,28 156,40 144,52 121,52" stroke-linejoin="round" width="38" height="24" fill="rgb(80,62,217)" stroke="rgb(64,49,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_4 (HPGMPKAP_00936)
+Aerobactin synthase</title>
+			<polygon class="iucC_4 (HPGMPKAP_00936)
+Aerobactin synthase" points="160,25 188,25 188,10 218,40 188,70 188,55 160,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="175" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="201,28 202,28 214,40 202,52 201,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orr (HPGMPKAP_00937)
+Ornithine racemase</title>
+			<polygon class="orr (HPGMPKAP_00937)
+Ornithine racemase" points="219,25 224,25 224,10 254,40 224,70 224,55 219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ala_racemase_N (PF01168)
+"Alanine racemase, N-terminal domain"</title>
+				<polygon class="PF01168" points="219,28 238,28 240,30 240,50 238,52 219,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,82,180)" stroke="rgb(69,65,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfmC (HPGMPKAP_00938)
+Fe(3+)-citrate-binding protein YfmC</title>
+			<polygon class="yfmC (HPGMPKAP_00938)
+Fe(3+)-citrate-binding protein YfmC" points="257,25 260,25 260,10 290,40 260,70 260,55 257,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="262,28 273,28 285,40 273,52 262,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiZ_2 (HPGMPKAP_00939)
+putative siderophore transport system permease protein YfiZ</title>
+			<polygon class="yfiZ_2 (HPGMPKAP_00939)
+putative siderophore transport system permease protein YfiZ" points="295,25 299,25 299,10 329,40 299,70 299,55 295,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="297,28 312,28 324,40 312,52 297,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fecD (HPGMPKAP_00940)
+Fe(3+) dicitrate transport system permease protein FecD</title>
+			<polygon class="fecD (HPGMPKAP_00940)
+Fe(3+) dicitrate transport system permease protein FecD" points="329,25 331,25 331,10 361,40 331,70 331,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="330,28 344,28 356,40 344,52 330,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

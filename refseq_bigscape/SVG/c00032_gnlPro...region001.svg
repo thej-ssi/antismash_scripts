@@ -1,0 +1,140 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="981.7333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="448.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>HNPJFCIA_01639_gene (HNPJFCIA_01639)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01639_gene (HNPJFCIA_01639)
+hypothetical protein" points="25,25 32,25 32,10 62,40 32,70 32,55 25,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="30" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpE (HNPJFCIA_01640)
+Transcriptional regulatory protein KdpE</title>
+			<polygon class="kdpE (HNPJFCIA_01640)
+Transcriptional regulatory protein KdpE" points="67,40 90,10 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="71,40 75,35 75,45" stroke-linejoin="round" width="8" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<polygon class="PF00072" points="79,30 80,28 89,28 89,52 80,52 79,50" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpD (HNPJFCIA_01641)
+Sensor protein KdpD</title>
+			<polygon class="kdpD (HNPJFCIA_01641)
+Sensor protein KdpD" points="179,25 121,25 121,10 91,40 121,70 121,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="95,40 102,33 102,47" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<polygon class="PF00512" points="107,28 107,28 113,28 113,52 107,52 107,52" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4118 (PF13493)
+"Domain of unknown function (DUF4118)"</title>
+				<rect class="PF13493" x="129" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(94,129,195)" stroke="rgb(75,103,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>KdpD (PF02702)
+"Osmosensitive K+ channel His kinase sensor domain"</title>
+				<rect class="PF02702" x="157" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(180,144,84)" stroke="rgb(144,115,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpA (HNPJFCIA_01642)
+Potassium-transporting ATPase potassium-binding subunit</title>
+			<polygon class="kdpA (HNPJFCIA_01642)
+Potassium-transporting ATPase potassium-binding subunit" points="188,25 214,25 214,10 244,40 214,70 214,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KdpA (PF03814)
+"Potassium-transporting ATPase A subunit"</title>
+				<polygon class="PF03814" points="188,28 227,28 239,40 227,52 188,52" stroke-linejoin="round" width="55" height="24" fill="rgb(220,180,109)" stroke="rgb(176,144,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpB (HNPJFCIA_01643)
+Potassium-transporting ATPase ATP-binding subunit</title>
+			<polygon class="kdpB (HNPJFCIA_01643)
+Potassium-transporting ATPase ATP-binding subunit" points="245,25 282,25 282,10 312,40 282,70 282,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="255" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<rect class="PF00702" x="274" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpC (HNPJFCIA_01644)
+Potassium-transporting ATPase KdpC subunit</title>
+			<polygon class="kdpC (HNPJFCIA_01644)
+Potassium-transporting ATPase KdpC subunit" points="313,10 331,40 313,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KdpC (PF02669)
+"K+-transporting ATPase, c chain"</title>
+				<polygon class="PF02669" points="313,28 320,28 328,40 320,52 313,52" stroke-linejoin="round" width="18" height="24" fill="rgb(219,108,136)" stroke="rgb(175,86,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sboA (HNPJFCIA_01645)
+Subtilosin-A</title>
+			<polygon class="sboA (HNPJFCIA_01645)
+Subtilosin-A" points="336,10 340,40 336,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Subtilosin_A (PF11420)
+"Bacteriocin subtilosin A"</title>
+				<polygon class="PF11420" points="336,31 337,40 336,49" stroke-linejoin="round" width="3" height="24" fill="rgb(190,123,83)" stroke="rgb(152,98,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>albA (HNPJFCIA_01646)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA</title>
+			<polygon class="albA (HNPJFCIA_01646)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA" points="343,25 357,25 357,10 387,40 357,70 357,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="355" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="377,34 383,40 377,46" stroke-linejoin="round" width="7" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HNPJFCIA_01647_gene (HNPJFCIA_01647)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01647_gene (HNPJFCIA_01647)
+hypothetical protein" points="388,10 393,40 388,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albC (HNPJFCIA_01648)
+Putative ABC transporter ATP-binding protein AlbC</title>
+			<polygon class="albC (HNPJFCIA_01648)
+Putative ABC transporter ATP-binding protein AlbC" points="393,10 416,40 393,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="394,28 403,28 408,35 408,45 403,52 394,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

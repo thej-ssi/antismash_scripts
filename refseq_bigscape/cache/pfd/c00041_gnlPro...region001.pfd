@@ -1,0 +1,14 @@
+c00041_gnlPro...region001	51.4	copA	7	67	PF00403.26	HMA	1383	3771	c00041_gnlPro...region001_ORF3:gid:copA:pid:gnl_Prokka_DAFNCOFO_01699:loc:1383:3771:strand:+
+c00041_gnlPro...region001	52.0	copA	74	135	PF00403.26	HMA	1383	3771	c00041_gnlPro...region001_ORF3:gid:copA:pid:gnl_Prokka_DAFNCOFO_01699:loc:1383:3771:strand:+
+c00041_gnlPro...region001	194.9	copA	291	473	PF00122.20	E1-E2_ATPase	1383	3771	c00041_gnlPro...region001_ORF3:gid:copA:pid:gnl_Prokka_DAFNCOFO_01699:loc:1383:3771:strand:+
+c00041_gnlPro...region001	170.3	copA	489	702	PF00702.26	Hydrolase	1383	3771	c00041_gnlPro...region001_ORF3:gid:copA:pid:gnl_Prokka_DAFNCOFO_01699:loc:1383:3771:strand:+
+c00041_gnlPro...region001	69.0	copZ	5	66	PF00403.26	HMA	3860	4067	c00041_gnlPro...region001_ORF4:gid:copZ:pid:gnl_Prokka_DAFNCOFO_01700:loc:3860:4067:strand:+
+c00041_gnlPro...region001	203.2	bacF	30	378	PF00155.21	Aminotran_1_2	4144	5308	c00041_gnlPro...region001_ORF5:gid:bacF:pid:gnl_Prokka_DAFNCOFO_01701:loc:4144:5308:strand:-
+c00041_gnlPro...region001	116.3	crtN	10	494	PF01593.24	Amino_oxidase	5726	7232	c00041_gnlPro...region001_ORF6:gid:crtN:pid:gnl_Prokka_DAFNCOFO_01702:loc:5726:7232:strand:-
+c00041_gnlPro...region001	189.1	crtM	15	273	PF00494.19	SQS_PSY	7244	8108	c00041_gnlPro...region001_ORF7:gid:crtM:pid:gnl_Prokka_DAFNCOFO_01703:loc:7244:8108:strand:-
+c00041_gnlPro...region001	72.1	crtQ	43	210	PF00535.26	Glycos_transf_2	8145	9267	c00041_gnlPro...region001_ORF8:gid:crtQ:pid:gnl_Prokka_DAFNCOFO_01704:loc:8145:9267:strand:-
+c00041_gnlPro...region001	78.9	crtP	13	490	PF01593.24	Amino_oxidase	9273	10767	c00041_gnlPro...region001_ORF9:gid:crtP:pid:gnl_Prokka_DAFNCOFO_01705:loc:9273:10767:strand:-
+c00041_gnlPro...region001	46.6	lytN_4	283	378	PF05257.16	CHAP	11437	12670	c00041_gnlPro...region001_ORF11:gid:lytN_4:pid:gnl_Prokka_DAFNCOFO_01707:loc:11437:12670:strand:-
+c00041_gnlPro...region001	57.1	lytN_4	211	254	PF01476.20	LysM	11437	12670	c00041_gnlPro...region001_ORF11:gid:lytN_4:pid:gnl_Prokka_DAFNCOFO_01707:loc:11437:12670:strand:-
+c00041_gnlPro...region001	23.1	lytN_4	8	31	PF04650.17	YSIRK_signal	11437	12670	c00041_gnlPro...region001_ORF11:gid:lytN_4:pid:gnl_Prokka_DAFNCOFO_01707:loc:11437:12670:strand:-
+c00041_gnlPro...region001	66.4	DAFNCOFO_01708_gene	16	167	PF01548.17	DEDD_Tnp_IS110	13214	14006	c00041_gnlPro...region001_ORF12:gid:DAFNCOFO_01708_gene:pid:gnl_Prokka_DAFNCOFO_01708:loc:13214:14006:strand:+

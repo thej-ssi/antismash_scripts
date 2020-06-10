@@ -1,0 +1,14 @@
+c00010_gnlPro...region001	299.9	yfiZ_1	15	326	PF01032.18	FecCD	758	1754	c00010_gnlPro...region001_ORF1:gid:yfiZ_1:pid:gnl_Prokka_LGEIKLPL_01641:loc:758:1754:strand:-
+c00010_gnlPro...region001	87.7	yfiY	56	298	PF01497.18	Peripla_BP_2	1769	2762	c00010_gnlPro...region001_ORF2:gid:yfiY:pid:gnl_Prokka_LGEIKLPL_01642:loc:1769:2762:strand:-
+c00010_gnlPro...region001	198.5	sbnA	12	299	PF00291.25	PALP	2992	3973	c00010_gnlPro...region001_ORF3:gid:sbnA:pid:gnl_Prokka_LGEIKLPL_01643:loc:2992:3973:strand:+
+c00010_gnlPro...region001	218.1	arcB_1	3	328	PF02423.15	OCD_Mu_crystall	3969	4980	c00010_gnlPro...region001_ORF4:gid:arcB_1:pid:gnl_Prokka_LGEIKLPL_01644:loc:3969:4980:strand:+
+c00010_gnlPro...region001	185.1	iucC_1	134	376	PF04183.12	IucA_IucC	5000	6755	c00010_gnlPro...region001_ORF5:gid:iucC_1:pid:gnl_Prokka_LGEIKLPL_01645:loc:5000:6755:strand:+
+c00010_gnlPro...region001	55.8	iucC_1	398	567	PF06276.12	FhuF	5000	6755	c00010_gnlPro...region001_ORF5:gid:iucC_1:pid:gnl_Prokka_LGEIKLPL_01645:loc:5000:6755:strand:+
+c00010_gnlPro...region001	104.0	tetA_2	1	225	PF07690.16	MFS_1	6831	8004	c00010_gnlPro...region001_ORF6:gid:tetA_2:pid:gnl_Prokka_LGEIKLPL_01646:loc:6831:8004:strand:+
+c00010_gnlPro...region001	165.3	iucA_1	134	370	PF04183.12	IucA_IucC	7993	9730	c00010_gnlPro...region001_ORF7:gid:iucA_1:pid:gnl_Prokka_LGEIKLPL_01647:loc:7993:9730:strand:+
+c00010_gnlPro...region001	88.2	iucA_1	392	556	PF06276.12	FhuF	7993	9730	c00010_gnlPro...region001_ORF7:gid:iucA_1:pid:gnl_Prokka_LGEIKLPL_01647:loc:7993:9730:strand:+
+c00010_gnlPro...region001	213.0	iucC_2	131	379	PF04183.12	IucA_IucC	9710	11489	c00010_gnlPro...region001_ORF8:gid:iucC_2:pid:gnl_Prokka_LGEIKLPL_01648:loc:9710:11489:strand:+
+c00010_gnlPro...region001	124.1	iucC_2	398	571	PF06276.12	FhuF	9710	11489	c00010_gnlPro...region001_ORF8:gid:iucC_2:pid:gnl_Prokka_LGEIKLPL_01648:loc:9710:11489:strand:+
+c00010_gnlPro...region001	105.5	garL	17	242	PF03328.14	HpcH_HpaI	11463	12240	c00010_gnlPro...region001_ORF9:gid:garL:pid:gnl_Prokka_LGEIKLPL_01649:loc:11463:12240:strand:+
+c00010_gnlPro...region001	124.8	btrK	25	273	PF02784.16	Orn_Arg_deC_N	12239	13442	c00010_gnlPro...region001_ORF10:gid:btrK:pid:gnl_Prokka_LGEIKLPL_01650:loc:12239:13442:strand:+
+c00010_gnlPro...region001	36.1	LGEIKLPL_01651_gene	9	88	PF02195.18	ParBc	13445	14210	c00010_gnlPro...region001_ORF11:gid:LGEIKLPL_01651_gene:pid:gnl_Prokka_LGEIKLPL_01651:loc:13445:14210:strand:+

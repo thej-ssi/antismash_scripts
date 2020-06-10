@@ -1,0 +1,486 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1392.2333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1382.2333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bacF (ECDCGNGH_02070)
+Transaminase BacF</title>
+			<polygon class="bacF (ECDCGNGH_02070)
+Transaminase BacF" points="57,25 65,25 65,10 95,40 65,70 65,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="59,28 79,28 91,40 79,52 59,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ldhD_1 (ECDCGNGH_02071)
+D-lactate dehydrogenase</title>
+			<polygon class="ldhD_1 (ECDCGNGH_02071)
+D-lactate dehydrogenase" points="97,25 100,25 100,10 130,40 100,70 100,55 97,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="108,28 114,28 126,40 126,40 114,52 108,52" stroke-linejoin="round" width="18" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copZ (ECDCGNGH_02072)
+Copper chaperone CopZ</title>
+			<polygon class="copZ (ECDCGNGH_02072)
+Copper chaperone CopZ" points="133,40 139,10 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<polygon class="PF00403" points="136,40 139,28 139,28 139,52 139,52" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copA (ECDCGNGH_02073)
+Copper-exporting P-type ATPase A</title>
+			<polygon class="copA (ECDCGNGH_02073)
+Copper-exporting P-type ATPase A" points="230,25 180,25 180,10 150,40 180,70 180,55 230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="160,34 166,28 181,28 181,52 166,52 160,46" stroke-linejoin="round" width="21" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="183" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="216" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="223" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02074_gene (ECDCGNGH_02074)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02074_gene (ECDCGNGH_02074)
+hypothetical protein" points="238,40 244,10 244,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ECDCGNGH_02075_gene (ECDCGNGH_02075)
+Putative acetyltransferase</title>
+			<polygon class="ECDCGNGH_02075_gene (ECDCGNGH_02075)
+Putative acetyltransferase" points="252,10 271,40 252,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mac (PF12464)
+"Maltose acetyltransferase"</title>
+				<rect class="PF12464" x="252" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(188,228,87)" stroke="rgb(150,182,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep_2 (PF14602)
+"Hexapeptide repeat of succinyl-transferase"</title>
+				<polygon class="PF14602" points="261,29 262,31 262,49 261,51" stroke-linejoin="round" width="1" height="24" fill="rgb(79,205,115)" stroke="rgb(63,164,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="265,36 268,40 268,40 265,44" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rocA (ECDCGNGH_02076)
+1-pyrroline-5-carboxylate dehydrogenase</title>
+			<polygon class="rocA (ECDCGNGH_02076)
+1-pyrroline-5-carboxylate dehydrogenase" points="279,25 300,25 300,10 330,40 300,70 300,55 279,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="283,28 314,28 326,40 314,52 283,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02077_gene (ECDCGNGH_02077)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02077_gene (ECDCGNGH_02077)
+hypothetical protein" points="342,40 360,10 360,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="354" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydfJ (ECDCGNGH_02078)
+Membrane protein YdfJ</title>
+			<polygon class="ydfJ (ECDCGNGH_02078)
+Membrane protein YdfJ" points="365,25 417,25 417,10 447,40 417,70 417,55 365,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="369" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="403,28 431,28 434,31 434,49 431,52 403,52" stroke-linejoin="round" width="31" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02079_gene (ECDCGNGH_02079)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02079_gene (ECDCGNGH_02079)
+hypothetical protein" points="456,10 463,40 456,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoA (PF04023)
+"FeoA domain"</title>
+				<polygon class="PF04023" points="456,28 457,28 460,40 457,52 456,52" stroke-linejoin="round" width="7" height="24" fill="rgb(180,183,81)" stroke="rgb(144,146,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>feoB_2 (ECDCGNGH_02080)
+Fe(2+) transporter FeoB</title>
+			<polygon class="feoB_2 (ECDCGNGH_02080)
+Fe(2+) transporter FeoB" points="464,25 500,25 500,10 530,40 500,70 500,55 464,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoB_N (PF02421)
+"Ferrous iron transport protein B"</title>
+				<rect class="PF02421" x="464" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(82,207,209)" stroke="rgb(65,165,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_Cyto (PF17910)
+"FeoB cytosolic helical domain"</title>
+				<rect class="PF17910" x="481" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(85,92,198)" stroke="rgb(68,73,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<rect class="PF07670" x="498" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_C (PF07664)
+"Ferrous iron transport protein B C terminus"</title>
+				<polygon class="PF07664" points="509,28 513,28 514,29 514,51 513,52 509,52" stroke-linejoin="round" width="5" height="24" fill="rgb(186,56,114)" stroke="rgb(148,44,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<polygon class="PF07670" points="514,29 525,40 514,51" stroke-linejoin="round" width="12" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02081_gene (ECDCGNGH_02081)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02081_gene (ECDCGNGH_02081)
+hypothetical protein" points="530,10 535,40 530,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoB_associated (PF12669)
+"FeoB-associated Cys-rich membrane protein"</title>
+				<polygon class="PF12669" points="530,27 532,40 530,53" stroke-linejoin="round" width="4" height="24" fill="rgb(111,78,186)" stroke="rgb(88,62,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>clpL (ECDCGNGH_02082)
+ATP-dependent Clp protease ATP-binding subunit ClpL</title>
+			<polygon class="clpL (ECDCGNGH_02082)
+ATP-dependent Clp protease ATP-binding subunit ClpL" points="608,25 568,25 568,10 538,40 568,70 568,55 608,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ClpB_D2-small (PF10431)
+"C-terminal, D2-small domain, of ClpB protein"</title>
+				<polygon class="PF10431" points="542,40 547,35 547,45" stroke-linejoin="round" width="8" height="24" fill="rgb(190,198,67)" stroke="rgb(152,158,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_2 (PF07724)
+"AAA domain (Cdc48 subfamily)"</title>
+				<polygon class="PF07724" points="547,35 554,28 562,28 562,52 554,52 547,45" stroke-linejoin="round" width="15" height="24" fill="rgb(132,215,72)" stroke="rgb(105,172,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_lid_9 (PF17871)
+"AAA lid domain"</title>
+				<rect class="PF17871" x="571" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(169,81,187)" stroke="rgb(135,64,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA (PF00004)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<rect class="PF00004" x="582" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(57,194,204)" stroke="rgb(45,155,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ogt (ECDCGNGH_02083)
+Methylated-DNA--protein-cysteine methyltransferase</title>
+			<polygon class="ogt (ECDCGNGH_02083)
+Methylated-DNA--protein-cysteine methyltransferase" points="622,10 639,40 622,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_1N (PF02870)
+"6-O-methylguanine DNA methyltransferase, ribonuclease-like domain"</title>
+				<rect class="PF02870" x="622" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(96,209,110)" stroke="rgb(76,167,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_binding_1 (PF01035)
+"6-O-methylguanine DNA methyltransferase, DNA binding domain"</title>
+				<polygon class="PF01035" points="629,29 635,40 629,51" stroke-linejoin="round" width="8" height="24" fill="rgb(79,155,220)" stroke="rgb(63,123,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>speC (ECDCGNGH_02084)
+Exotoxin type C</title>
+			<polygon class="speC (ECDCGNGH_02084)
+Exotoxin type C" points="646,10 668,40 646,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Stap_Strp_tox_C (PF02876)
+"Staphylococcal/Streptococcal toxin, beta-grasp domain"</title>
+				<polygon class="PF02876" points="658,32 664,40 658,48" stroke-linejoin="round" width="9" height="24" fill="rgb(172,186,83)" stroke="rgb(137,148,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaS (ECDCGNGH_02085)
+Hydroxymethylglutaryl-CoA synthase</title>
+			<polygon class="mvaS (ECDCGNGH_02085)
+Hydroxymethylglutaryl-CoA synthase" points="714,25 706,25 706,10 676,40 706,70 706,55 714,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="680,40 690,30 690,50" stroke-linejoin="round" width="14" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="698" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaA (ECDCGNGH_02086)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase</title>
+			<polygon class="mvaA (ECDCGNGH_02086)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase" points="724,25 736,25 736,10 766,40 736,70 736,55 724,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="725,28 750,28 762,40 762,40 750,52 725,52" stroke-linejoin="round" width="37" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02087_gene (ECDCGNGH_02087)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02087_gene (ECDCGNGH_02087)
+hypothetical protein" points="786,10 794,40 786,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ssaA2_2 (ECDCGNGH_02088)
+Staphylococcal secretory antigen ssaA2</title>
+			<polygon class="ssaA2_2 (ECDCGNGH_02088)
+Staphylococcal secretory antigen ssaA2" points="820,40 834,10 834,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="823,40 829,28 830,28 830,52 829,52" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02089_gene (ECDCGNGH_02089)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02089_gene (ECDCGNGH_02089)
+hypothetical protein" points="848,40 855,10 855,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YozE_SAM_like (PF06855)
+"YozE SAM-like fold"</title>
+				<polygon class="PF06855" points="851,40 854,28 854,28 854,52 854,52" stroke-linejoin="round" width="6" height="24" fill="rgb(83,201,171)" stroke="rgb(66,160,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cynR_1 (ECDCGNGH_02090)
+HTH-type transcriptional regulator CynR</title>
+			<polygon class="cynR_1 (ECDCGNGH_02090)
+HTH-type transcriptional regulator CynR" points="861,10 889,40 861,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="861" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="869,28 873,28 885,40 873,52 869,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidA (ECDCGNGH_02091)
+Holin-like protein CidA</title>
+			<polygon class="cidA (ECDCGNGH_02091)
+Holin-like protein CidA" points="898,10 911,40 898,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgA (PF03788)
+"LrgA family"</title>
+				<polygon class="PF03788" points="900,28 902,28 907,40 902,52 900,52" stroke-linejoin="round" width="9" height="24" fill="rgb(51,191,185)" stroke="rgb(40,152,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidB (ECDCGNGH_02092)
+Holin-like protein CidB</title>
+			<polygon class="cidB (ECDCGNGH_02092)
+Holin-like protein CidB" points="911,10 934,40 911,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgB (PF04172)
+"LrgB-like family"</title>
+				<polygon class="PF04172" points="912,28 921,28 930,40 921,52 912,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,227,179)" stroke="rgb(45,181,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaP (ECDCGNGH_02093)
+Putative thiamine pyrophosphate-containing protein YdaP</title>
+			<polygon class="ydaP (ECDCGNGH_02093)
+Putative thiamine pyrophosphate-containing protein YdaP" points="936,25 964,25 964,10 994,40 964,70 964,55 936,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="936" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="955" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="974,28 977,28 988,39 988,41 977,52 974,52" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glcB (ECDCGNGH_02094)
+PTS system glucoside-specific EIICBA component</title>
+			<polygon class="glcB (ECDCGNGH_02094)
+PTS system glucoside-specific EIICBA component" points="1002,25 1042,25 1042,10 1072,40 1042,70 1042,55 1002,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="1005" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="1048" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="1057,29 1068,40 1057,51" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02095_gene (ECDCGNGH_02095)
+Putative esterase</title>
+			<polygon class="ECDCGNGH_02095_gene (ECDCGNGH_02095)
+Putative esterase" points="1085,10 1098,40 1085,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT_2 (PF13279)
+"Thioesterase-like superfamily"</title>
+				<polygon class="PF13279" points="1086,28 1089,28 1095,40 1089,52 1086,52" stroke-linejoin="round" width="11" height="24" fill="rgb(213,114,82)" stroke="rgb(170,91,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02096_gene (ECDCGNGH_02096)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02096_gene (ECDCGNGH_02096)
+hypothetical protein" points="1100,10 1111,40 1100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="1100,28 1103,28 1108,40 1103,52 1100,52" stroke-linejoin="round" width="10" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lipR (ECDCGNGH_02097)
+Putative acetyl-hydrolase LipR</title>
+			<polygon class="lipR (ECDCGNGH_02097)
+Putative acetyl-hydrolase LipR" points="1117,25 1119,25 1119,10 1149,40 1119,70 1119,55 1117,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="1127,28 1133,28 1145,40 1133,52 1127,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yicL (ECDCGNGH_02098)
+putative inner membrane transporter YicL</title>
+			<polygon class="yicL (ECDCGNGH_02098)
+putative inner membrane transporter YicL" points="1183,25 1182,25 1182,10 1152,40 1182,70 1182,55 1183,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="1156,40 1166,30 1166,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="1167,29 1168,28 1181,28 1181,52 1168,52 1167,51" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02099_gene (ECDCGNGH_02099)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02099_gene (ECDCGNGH_02099)
+hypothetical protein" points="1189,40 1195,10 1195,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ECDCGNGH_02100_gene (ECDCGNGH_02100)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02100_gene (ECDCGNGH_02100)
+hypothetical protein" points="1214,25 1218,25 1218,10 1248,40 1218,70 1218,55 1214,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC_2 (PF13303)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF13303" points="1216,28 1232,28 1244,40 1232,52 1216,52" stroke-linejoin="round" width="30" height="24" fill="rgb(100,202,191)" stroke="rgb(80,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sdhB (ECDCGNGH_02101)
+L-serine dehydratase, beta chain</title>
+			<polygon class="sdhB (ECDCGNGH_02101)
+L-serine dehydratase, beta chain" points="1249,10 1271,40 1249,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_beta (PF03315)
+"Serine dehydratase beta chain"</title>
+				<polygon class="PF03315" points="1249,28 1259,28 1262,33 1262,47 1259,52 1249,52" stroke-linejoin="round" width="13" height="24" fill="rgb(68,217,124)" stroke="rgb(54,173,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sdhA (ECDCGNGH_02102)
+L-serine dehydratase, alpha chain</title>
+			<polygon class="sdhA (ECDCGNGH_02102)
+L-serine dehydratase, alpha chain" points="1272,25 1272,25 1272,10 1302,40 1272,70 1272,55 1272,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_alpha (PF03313)
+"Serine dehydratase alpha chain"</title>
+				<polygon class="PF03313" points="1273,28 1285,28 1297,40 1285,52 1273,52" stroke-linejoin="round" width="26" height="24" fill="rgb(104,203,99)" stroke="rgb(83,162,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02103_gene (ECDCGNGH_02103)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02103_gene (ECDCGNGH_02103)
+hypothetical protein" points="1308,10 1313,40 1308,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pitA_2 (ECDCGNGH_02104)
+L-methionine sulfoximine/L-methionine sulfone acetyltransferase</title>
+			<polygon class="pitA_2 (ECDCGNGH_02104)
+L-methionine sulfoximine/L-methionine sulfone acetyltransferase" points="1325,40 1341,10 1341,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_4 (PF13420)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13420" points="1328,40 1335,28 1340,28 1340,52 1335,52" stroke-linejoin="round" width="15" height="24" fill="rgb(162,66,181)" stroke="rgb(129,52,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ECDCGNGH_02105_gene (ECDCGNGH_02105)
+hypothetical protein</title>
+			<polygon class="ECDCGNGH_02105_gene (ECDCGNGH_02105)
+hypothetical protein" points="1348,10 1368,40 1348,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sortase (PF04203)
+"Sortase domain"</title>
+				<polygon class="PF04203" points="1355,28 1356,28 1365,40 1356,52 1355,52" stroke-linejoin="round" width="12" height="24" fill="rgb(213,184,62)" stroke="rgb(170,147,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

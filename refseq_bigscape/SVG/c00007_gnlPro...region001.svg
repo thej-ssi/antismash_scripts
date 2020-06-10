@@ -1,0 +1,209 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="738.1333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="728.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>LGEIKLPL_01344_gene (LGEIKLPL_01344)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01344_gene (LGEIKLPL_01344)
+hypothetical protein" points="30,25 40,25 40,10 70,40 40,70 40,55 30,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>LGEIKLPL_01345_gene (LGEIKLPL_01345)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01345_gene (LGEIKLPL_01345)
+hypothetical protein" points="70,25 80,25 80,10 110,40 80,70 80,55 70,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="91,28 93,28 105,40 93,52 91,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsL (LGEIKLPL_01346)
+putative sugar transferase EpsL</title>
+			<polygon class="epsL (LGEIKLPL_01346)
+putative sugar transferase EpsL" points="111,10 129,40 111,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="111,28 118,28 126,40 118,52 111,52" stroke-linejoin="round" width="17" height="24" fill="rgb(57,165,209)" stroke="rgb(45,131,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gnu (LGEIKLPL_01347)
+N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,o ctacis-undecaprenol 4-epimerase</title>
+			<polygon class="gnu (LGEIKLPL_01347)
+N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,o ctacis-undecaprenol 4-epimerase" points="129,10 158,40 129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="129,28 142,28 149,35 149,45 142,52 129,52" stroke-linejoin="round" width="20" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wecC (LGEIKLPL_01348)
+UDP-N-acetyl-D-mannosamine dehydrogenase</title>
+			<polygon class="wecC (LGEIKLPL_01348)
+UDP-N-acetyl-D-mannosamine dehydrogenase" points="161,25 173,25 173,10 203,40 173,70 173,55 161,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="161" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<polygon class="PF00984" points="180,28 186,28 188,30 188,50 186,52 180,52" stroke-linejoin="round" width="8" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="191,33 198,40 191,47" stroke-linejoin="round" width="9" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mnaA_1 (LGEIKLPL_01349)
+UDP-N-acetylglucosamine 2-epimerase</title>
+			<polygon class="mnaA_1 (LGEIKLPL_01349)
+UDP-N-acetylglucosamine 2-epimerase" points="205,25 213,25 213,10 243,40 213,70 213,55 205,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase_2 (PF02350)
+"UDP-N-acetylglucosamine 2-epimerase"</title>
+				<polygon class="PF02350" points="207,28 226,28 238,40 226,52 207,52" stroke-linejoin="round" width="34" height="24" fill="rgb(212,113,103)" stroke="rgb(169,90,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>isdI (LGEIKLPL_01350)
+Heme oxygenase (staphylobilin-producing) 2</title>
+			<polygon class="isdI (LGEIKLPL_01350)
+Heme oxygenase (staphylobilin-producing) 2" points="246,40 256,10 256,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="249,40 253,28 256,28 256,52 253,52 249,40" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ybaN (LGEIKLPL_01351)
+Inner membrane protein YbaN</title>
+			<polygon class="ybaN (LGEIKLPL_01351)
+Inner membrane protein YbaN" points="257,40 269,10 269,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF454 (PF04304)
+"Protein of unknown function (DUF454)"</title>
+				<polygon class="PF04304" points="260,40 265,28 269,28 269,52 265,52" stroke-linejoin="round" width="11" height="24" fill="rgb(89,204,158)" stroke="rgb(71,163,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>aldA (LGEIKLPL_01352)
+Putative aldehyde dehydrogenase AldA</title>
+			<polygon class="aldA (LGEIKLPL_01352)
+Putative aldehyde dehydrogenase AldA" points="284,25 303,25 303,10 333,40 303,70 303,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="286,28 317,28 329,40 317,52 286,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>czcD_1 (LGEIKLPL_01353)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter</title>
+			<polygon class="czcD_1 (LGEIKLPL_01353)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter" points="355,25 357,25 357,10 387,40 357,70 357,55 355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cation_efflux (PF01545)
+"Cation efflux family"</title>
+				<polygon class="PF01545" points="358,28 370,28 377,35 377,45 370,52 358,52" stroke-linejoin="round" width="19" height="24" fill="rgb(151,84,211)" stroke="rgb(120,67,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_01354_gene (LGEIKLPL_01354)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01354_gene (LGEIKLPL_01354)
+hypothetical protein" points="389,40 395,10 395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>LGEIKLPL_01355_gene (LGEIKLPL_01355)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01355_gene (LGEIKLPL_01355)
+hypothetical protein" points="402,10 419,40 402,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4242 (PF14026)
+"Protein of unknown function (DUF4242)"</title>
+				<polygon class="PF14026" points="411,32 415,40 411,48" stroke-linejoin="round" width="7" height="24" fill="rgb(115,66,182)" stroke="rgb(92,52,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpD (LGEIKLPL_01356)
+Bicarbonate transport ATP-binding protein CmpD</title>
+			<polygon class="cmpD (LGEIKLPL_01356)
+Bicarbonate transport ATP-binding protein CmpD" points="430,10 454,40 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="431,28 441,28 444,32 444,48 441,52 431,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpC (LGEIKLPL_01357)
+Bicarbonate transport ATP-binding protein CmpC</title>
+			<polygon class="cmpC (LGEIKLPL_01357)
+Bicarbonate transport ATP-binding protein CmpC" points="455,25 457,25 457,10 487,40 457,70 457,55 455,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1_2 (PF13379)
+"NMT1-like family"</title>
+				<polygon class="PF13379" points="458,28 471,28 480,37 480,43 471,52 458,52" stroke-linejoin="round" width="22" height="24" fill="rgb(139,182,81)" stroke="rgb(111,145,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssuC (LGEIKLPL_01358)
+Putative aliphatic sulfonates transport permease protein SsuC</title>
+			<polygon class="ssuC (LGEIKLPL_01358)
+Putative aliphatic sulfonates transport permease protein SsuC" points="487,10 512,40 487,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="494,28 498,28 508,40 498,52 494,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_01359_gene (LGEIKLPL_01359)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01359_gene (LGEIKLPL_01359)
+hypothetical protein" points="513,25 517,25 517,10 547,40 517,70 517,55 513,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>LGEIKLPL_01360_gene (LGEIKLPL_01360)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01360_gene (LGEIKLPL_01360)
+hypothetical protein" points="555,10 567,40 555,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2294 (PF10057)
+"Uncharacterized conserved protein (DUF2294)"</title>
+				<polygon class="PF10057" points="555,28 558,28 563,40 558,52 555,52" stroke-linejoin="round" width="11" height="24" fill="rgb(60,163,178)" stroke="rgb(48,130,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_01361_gene (LGEIKLPL_01361)
+Formate dehydrogenase</title>
+			<polygon class="LGEIKLPL_01361_gene (LGEIKLPL_01361)
+Formate dehydrogenase" points="573,25 577,25 577,10 607,40 577,70 577,55 573,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="585,28 590,28 602,40 602,40 590,52 585,52" stroke-linejoin="round" width="17" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_01362_gene (LGEIKLPL_01362)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01362_gene (LGEIKLPL_01362)
+hypothetical protein" points="620,25 631,25 631,10 661,40 631,70 631,55 620,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="621,28 645,28 657,40 657,40 645,52 621,52" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

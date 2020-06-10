@@ -1,0 +1,33 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="119.6" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="109.6" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>crtM (BOIIOIPH_01641)
+Dehydrosqualene synthase</title>
+			<polygon class="crtM (BOIIOIPH_01641)
+Dehydrosqualene synthase" points="16,10 36,40 16,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="16,28 24,28 32,40 24,52 16,52" stroke-linejoin="round" width="18" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtN (BOIIOIPH_01642)
+Dehydrosqualene desaturase</title>
+			<polygon class="crtN (BOIIOIPH_01642)
+Dehydrosqualene desaturase" points="37,25 57,25 57,10 87,40 57,70 57,55 37,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="38,28 70,28 82,40 70,52 38,52" stroke-linejoin="round" width="48" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_01643_gene (BOIIOIPH_01643)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_01643_gene (BOIIOIPH_01643)
+hypothetical protein" points="88,10 94,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

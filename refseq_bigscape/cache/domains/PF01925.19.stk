@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+c00001_gnlPro...region007_ORF43:gid:GCIAIJCE_02067_gene:pid:gnl_Prokka_GCIAIJCE_02067:loc:48136:48964:strand:-:8:269         -ILIGLLSAVIGSLVGIGGGIIIVPTLVYLgVehhllhgiTPQIAIGTSSVILIVTGLSSSLGYLKTKQVDIKNGSIFLFGLLPGSLAGSLLSRYLTLESFNLYFGIFMILVSIILMVRHKIkpiklfdkpqyrksytdS--EgvTYHYSVPPLVAFVATLFIGVLTGLFGIGGGALMTPLMLIVFRFPPHVAVGTSMMM
+#=GR c00001_gnlPro...region007_ORF43:gid:GCIAIJCE_02067_gene:pid:gnl_Prokka_GCIAIJCE_02067:loc:48136:48964:strand:-:8:269 PP .689*************************64688999************************************************************************9999999888888899999998887765542..14455666666667777677**************************************
+c00001_gnlPro...region006_ORF43:gid:CJKFNKEN_01972_gene:pid:gnl_Prokka_CJKFNKEN_01972:loc:48137:48965:strand:-:8:269         -ILIGLLSAVIGSLVGIGGGIIIVPTLVYLgVehhllhgiTPQIAIGTSSVILIVTGLSSSLGYLKTKQVDIKNGSIFLFGLLPGSLAGSLLSRYLTLESFNLYFGIFMILVSIILMERHKIkpiklfdkpqyrksytdS--EgvTYHYSVPPLVAFVATLFIGVLTGLFGIGGGALMTPLMLIIFRFPPHVAVGTSMMM
+#=GR c00001_gnlPro...region006_ORF43:gid:CJKFNKEN_01972_gene:pid:gnl_Prokka_CJKFNKEN_01972:loc:48137:48965:strand:-:8:269 PP .689*************************64688999*************************************************************************999999766666899999998887766542..14455666666667777677**************************************
+#=GC PP_cons                                                                                                                 .689*************************6.6........*********************************************************************9999999877777.................2..1..55666666667777677**************************************
+#=GC RF                                                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.x........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.................xxxx..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00001_gnlPro...region007_ORF43:gid:GCIAIJCE_02067_gene:pid:gnl_Prokka_GCIAIJCE_02067:loc:48136:48964:strand:-:8:269         IFFSSVMSSIGHIFQGHVAWGYSIILIISSYIGAQIGVKINHSIKSETVVMLLRTVMLFMGIYL
+#=GR c00001_gnlPro...region007_ORF43:gid:GCIAIJCE_02067_gene:pid:gnl_Prokka_GCIAIJCE_02067:loc:48136:48964:strand:-:8:269 PP **************************************************************96
+c00001_gnlPro...region006_ORF43:gid:CJKFNKEN_01972_gene:pid:gnl_Prokka_CJKFNKEN_01972:loc:48137:48965:strand:-:8:269         IFFSSVMSSIGHIFQGHVAWGYSIILIISSYIGAQIGVKINHSIKSETVVMLLRTVMLFMGIYL
+#=GR c00001_gnlPro...region006_ORF43:gid:CJKFNKEN_01972_gene:pid:gnl_Prokka_CJKFNKEN_01972:loc:48137:48965:strand:-:8:269 PP **************************************************************96
+#=GC PP_cons                                                                                                                 **************************************************************96
+#=GC RF                                                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

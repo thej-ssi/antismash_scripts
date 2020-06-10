@@ -1,0 +1,14 @@
+c00018_gnlPro...region001	28.1	NECOBKJD_02216_gene	30	116	PF08240.12	ADH_N	427	1435	c00018_gnlPro...region001_ORF1:gid:NECOBKJD_02216_gene:pid:gnl_Prokka_NECOBKJD_02216:loc:427:1435:strand:+
+c00018_gnlPro...region001	52.0	NECOBKJD_02216_gene	160	285	PF00107.26	ADH_zinc_N	427	1435	c00018_gnlPro...region001_ORF1:gid:NECOBKJD_02216_gene:pid:gnl_Prokka_NECOBKJD_02216:loc:427:1435:strand:+
+c00018_gnlPro...region001	624.0	opuD_2	9	491	PF02028.17	BCCT	1742	3305	c00018_gnlPro...region001_ORF2:gid:opuD_2:pid:gnl_Prokka_NECOBKJD_02217:loc:1742:3305:strand:+
+c00018_gnlPro...region001	50.3	NECOBKJD_02219_gene	19	66	PF10031.9	DUF2273	4028	4268	c00018_gnlPro...region001_ORF4:gid:NECOBKJD_02219_gene:pid:gnl_Prokka_NECOBKJD_02219:loc:4028:4268:strand:+
+c00018_gnlPro...region001	116.4	NECOBKJD_02220_gene	39	145	PF03780.13	Asp23	4330	4840	c00018_gnlPro...region001_ORF5:gid:NECOBKJD_02220_gene:pid:gnl_Prokka_NECOBKJD_02220:loc:4330:4840:strand:+
+c00018_gnlPro...region001	106.4	iucC_3	468	645	PF06276.12	FhuF	5000	6977	c00018_gnlPro...region001_ORF6:gid:iucC_3:pid:gnl_Prokka_NECOBKJD_02221:loc:5000:6977:strand:-
+c00018_gnlPro...region001	191.6	iucC_3	193	437	PF04183.12	IucA_IucC	5000	6977	c00018_gnlPro...region001_ORF6:gid:iucC_3:pid:gnl_Prokka_NECOBKJD_02221:loc:5000:6977:strand:-
+c00018_gnlPro...region001	142.2	NECOBKJD_02222_gene	3	394	PF05977.13	MFS_3	7078	8272	c00018_gnlPro...region001_ORF7:gid:NECOBKJD_02222_gene:pid:gnl_Prokka_NECOBKJD_02222:loc:7078:8272:strand:+
+c00018_gnlPro...region001	172.4	iucC_4	156	385	PF04183.12	IucA_IucC	8258	10016	c00018_gnlPro...region001_ORF8:gid:iucC_4:pid:gnl_Prokka_NECOBKJD_02223:loc:8258:10016:strand:+
+c00018_gnlPro...region001	95.7	iucC_4	412	573	PF06276.12	FhuF	8258	10016	c00018_gnlPro...region001_ORF8:gid:iucC_4:pid:gnl_Prokka_NECOBKJD_02223:loc:8258:10016:strand:+
+c00018_gnlPro...region001	68.6	orr	6	223	PF01168.20	Ala_racemase_N	10022	11093	c00018_gnlPro...region001_ORF9:gid:orr:pid:gnl_Prokka_NECOBKJD_02224:loc:10022:11093:strand:+
+c00018_gnlPro...region001	112.2	yfmC_2	57	300	PF01497.18	Peripla_BP_2	11485	12469	c00018_gnlPro...region001_ORF10:gid:yfmC_2:pid:gnl_Prokka_NECOBKJD_02225:loc:11485:12469:strand:+
+c00018_gnlPro...region001	327.4	yfiZ_2	30	338	PF01032.18	FecCD	12480	13512	c00018_gnlPro...region001_ORF11:gid:yfiZ_2:pid:gnl_Prokka_NECOBKJD_02226:loc:12480:13512:strand:+
+c00018_gnlPro...region001	300.5	fecD_2	16	320	PF01032.18	FecCD	13508	14477	c00018_gnlPro...region001_ORF12:gid:fecD_2:pid:gnl_Prokka_NECOBKJD_02227:loc:13508:14477:strand:+

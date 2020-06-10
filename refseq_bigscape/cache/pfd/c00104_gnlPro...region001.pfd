@@ -1,0 +1,12 @@
+c00104_gnlPro...region001	169.8	emrB_3	13	405	PF07690.16	MFS_1	1231	2662	c00104_gnlPro...region001_ORF2:gid:emrB_3:pid:gnl_Prokka_BOIIOIPH_02156:loc:1231:2662:strand:+
+c00104_gnlPro...region001	225.6	bdhA	11	256	PF13561.6	adh_short_C2	3347	4124	c00104_gnlPro...region001_ORF4:gid:bdhA:pid:gnl_Prokka_BOIIOIPH_02158:loc:3347:4124:strand:+
+c00104_gnlPro...region001	86.3	BOIIOIPH_02159_gene	11	370	PF07690.16	MFS_1	4219	5467	c00104_gnlPro...region001_ORF5:gid:BOIIOIPH_02159_gene:pid:gnl_Prokka_BOIIOIPH_02159:loc:4219:5467:strand:+
+c00104_gnlPro...region001	310.4	tycC	424	814	PF00501.28	AMP-binding	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	25.0	tycC	822	894	PF13193.6	AMP-binding_C	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	47.7	tycC	920	984	PF00550.25	PP-binding	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	315.8	tycC	1000	1423	PF00668.20	Condensation	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	278.9	tycC	1448	1831	PF00501.28	AMP-binding	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	31.9	tycC	1839	1910	PF13193.6	AMP-binding_C	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	38.2	tycC	1935	1998	PF00550.25	PP-binding	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	113.4	tycC	2041	2276	PF07993.12	NAD_binding_4	5658	12825	c00104_gnlPro...region001_ORF6:gid:tycC:pid:gnl_Prokka_BOIIOIPH_02160:loc:5658:12825:strand:+
+c00104_gnlPro...region001	33.5	sfp	102	199	PF01648.20	ACPS	12821	13445	c00104_gnlPro...region001_ORF7:gid:sfp:pid:gnl_Prokka_BOIIOIPH_02161:loc:12821:13445:strand:+

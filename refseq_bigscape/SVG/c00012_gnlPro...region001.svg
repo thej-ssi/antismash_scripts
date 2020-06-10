@@ -1,0 +1,169 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="483.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="473.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>maa_2 (DNGEGIOB_00865)
+Maltose O-acetyltransferase</title>
+			<polygon class="maa_2 (DNGEGIOB_00865)
+Maltose O-acetyltransferase" points="13,10 31,40 13,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="26,37 28,40 26,43" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_00866_gene (DNGEGIOB_00866)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_00866_gene (DNGEGIOB_00866)
+hypothetical protein" points="31,25 42,25 42,10 72,40 42,70 42,55 31,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Polysacc_synt_3 (PF13440)
+"Polysaccharide biosynthesis protein"</title>
+				<polygon class="PF13440" points="34,28 56,28 63,35 63,45 56,52 34,52" stroke-linejoin="round" width="29" height="24" fill="rgb(90,196,165)" stroke="rgb(72,156,132)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_00867_gene (DNGEGIOB_00867)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_00867_gene (DNGEGIOB_00867)
+hypothetical protein" points="74,25 84,25 84,10 114,40 84,70 84,55 74,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyco_transf_4 (PF13439)
+"Glycosyltransferase Family 4"</title>
+				<rect class="PF13439" x="76" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(162,57,186)" stroke="rgb(129,45,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="95,28 97,28 109,40 97,52 95,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsL (DNGEGIOB_00868)
+putative sugar transferase EpsL</title>
+			<polygon class="epsL (DNGEGIOB_00868)
+putative sugar transferase EpsL" points="114,10 132,40 114,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="114,28 121,28 129,40 121,52 114,52" stroke-linejoin="round" width="17" height="24" fill="rgb(57,165,209)" stroke="rgb(45,131,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gnu (DNGEGIOB_00869)
+N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,o ctacis-undecaprenol 4-epimerase</title>
+			<polygon class="gnu (DNGEGIOB_00869)
+N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,o ctacis-undecaprenol 4-epimerase" points="133,10 162,40 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="133,28 146,28 152,34 152,46 146,52 133,52" stroke-linejoin="round" width="19" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wecC (DNGEGIOB_00870)
+UDP-N-acetyl-D-mannosamine dehydrogenase</title>
+			<polygon class="wecC (DNGEGIOB_00870)
+UDP-N-acetyl-D-mannosamine dehydrogenase" points="164,25 176,25 176,10 206,40 176,70 176,55 164,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="164" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<polygon class="PF00984" points="183,28 190,28 191,29 191,51 190,52 183,52" stroke-linejoin="round" width="8" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="194,32 202,40 194,48" stroke-linejoin="round" width="9" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mnaA_2 (DNGEGIOB_00871)
+UDP-N-acetylglucosamine 2-epimerase</title>
+			<polygon class="mnaA_2 (DNGEGIOB_00871)
+UDP-N-acetylglucosamine 2-epimerase" points="209,25 217,25 217,10 247,40 217,70 217,55 209,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase_2 (PF02350)
+"UDP-N-acetylglucosamine 2-epimerase"</title>
+				<polygon class="PF02350" points="211,28 230,28 242,40 230,52 211,52" stroke-linejoin="round" width="34" height="24" fill="rgb(212,113,103)" stroke="rgb(169,90,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>isdI (DNGEGIOB_00872)
+Heme oxygenase (staphylobilin-producing) 2</title>
+			<polygon class="isdI (DNGEGIOB_00872)
+Heme oxygenase (staphylobilin-producing) 2" points="250,40 260,10 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="253,40 257,28 260,28 260,52 257,52 253,40" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ybaN (DNGEGIOB_00873)
+Inner membrane protein YbaN</title>
+			<polygon class="ybaN (DNGEGIOB_00873)
+Inner membrane protein YbaN" points="261,40 273,10 273,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF454 (PF04304)
+"Protein of unknown function (DUF454)"</title>
+				<polygon class="PF04304" points="264,40 269,28 273,28 273,52 269,52" stroke-linejoin="round" width="11" height="24" fill="rgb(89,204,158)" stroke="rgb(71,163,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>aldA (DNGEGIOB_00874)
+Putative aldehyde dehydrogenase AldA</title>
+			<polygon class="aldA (DNGEGIOB_00874)
+Putative aldehyde dehydrogenase AldA" points="288,25 307,25 307,10 337,40 307,70 307,55 288,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="290,28 321,28 333,40 321,52 290,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>czcD_1 (DNGEGIOB_00875)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter</title>
+			<polygon class="czcD_1 (DNGEGIOB_00875)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter" points="355,25 357,25 357,10 387,40 357,70 357,55 355,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cation_efflux (PF01545)
+"Cation efflux family"</title>
+				<polygon class="PF01545" points="358,28 370,28 377,35 377,45 370,52 358,52" stroke-linejoin="round" width="19" height="24" fill="rgb(151,84,211)" stroke="rgb(120,67,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_00876_gene (DNGEGIOB_00876)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_00876_gene (DNGEGIOB_00876)
+hypothetical protein" points="389,40 395,10 395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DNGEGIOB_00877_gene (DNGEGIOB_00877)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_00877_gene (DNGEGIOB_00877)
+hypothetical protein" points="402,10 419,40 402,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4242 (PF14026)
+"Protein of unknown function (DUF4242)"</title>
+				<polygon class="PF14026" points="411,32 415,40 411,48" stroke-linejoin="round" width="7" height="24" fill="rgb(115,66,182)" stroke="rgb(92,52,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpD (DNGEGIOB_00878)
+Bicarbonate transport ATP-binding protein CmpD</title>
+			<polygon class="cmpD (DNGEGIOB_00878)
+Bicarbonate transport ATP-binding protein CmpD" points="430,10 454,40 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="431,28 441,28 444,32 444,48 441,52 431,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

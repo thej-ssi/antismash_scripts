@@ -1,0 +1,94 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="519.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="509.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DJCDADDG_00836_gene (DJCDADDG_00836)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_00836_gene (DJCDADDG_00836)
+hypothetical protein" points="14,40 20,10 20,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DJCDADDG_00837_gene (DJCDADDG_00837)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_00837_gene (DJCDADDG_00837)
+hypothetical protein" points="27,10 44,40 27,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4242 (PF14026)
+"Protein of unknown function (DUF4242)"</title>
+				<polygon class="PF14026" points="36,32 40,40 36,48" stroke-linejoin="round" width="7" height="24" fill="rgb(115,66,182)" stroke="rgb(92,52,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpD (DJCDADDG_00838)
+Bicarbonate transport ATP-binding protein CmpD</title>
+			<polygon class="cmpD (DJCDADDG_00838)
+Bicarbonate transport ATP-binding protein CmpD" points="55,10 79,40 55,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="56,28 66,28 69,32 69,48 66,52 56,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpC (DJCDADDG_00839)
+Bicarbonate transport ATP-binding protein CmpC</title>
+			<polygon class="cmpC (DJCDADDG_00839)
+Bicarbonate transport ATP-binding protein CmpC" points="80,25 82,25 82,10 112,40 82,70 82,55 80,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1_2 (PF13379)
+"NMT1-like family"</title>
+				<polygon class="PF13379" points="83,28 96,28 104,36 104,44 96,52 83,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,182,81)" stroke="rgb(111,145,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssuC (DJCDADDG_00840)
+Putative aliphatic sulfonates transport permease protein SsuC</title>
+			<polygon class="ssuC (DJCDADDG_00840)
+Putative aliphatic sulfonates transport permease protein SsuC" points="113,10 138,40 113,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="120,28 124,28 134,40 124,52 120,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_00841_gene (DJCDADDG_00841)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_00841_gene (DJCDADDG_00841)
+hypothetical protein" points="138,25 142,25 142,10 172,40 142,70 142,55 138,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DJCDADDG_00842_gene (DJCDADDG_00842)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_00842_gene (DJCDADDG_00842)
+hypothetical protein" points="180,10 192,40 180,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2294 (PF10057)
+"Uncharacterized conserved protein (DUF2294)"</title>
+				<polygon class="PF10057" points="180,28 183,28 188,40 183,52 180,52" stroke-linejoin="round" width="11" height="24" fill="rgb(60,163,178)" stroke="rgb(48,130,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_00843_gene (DJCDADDG_00843)
+Formate dehydrogenase</title>
+			<polygon class="DJCDADDG_00843_gene (DJCDADDG_00843)
+Formate dehydrogenase" points="193,25 202,25 202,10 232,40 202,70 202,55 193,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="210,28 215,28 227,40 227,40 215,52 210,52" stroke-linejoin="round" width="17" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_00844_gene (DJCDADDG_00844)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_00844_gene (DJCDADDG_00844)
+hypothetical protein" points="245,25 256,25 256,10 286,40 256,70 256,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="246,28 270,28 282,40 282,40 270,52 246,52" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

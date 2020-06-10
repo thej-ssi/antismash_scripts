@@ -1,0 +1,13 @@
+c00082_gnlPro...region001	125.8	crtM	1	154	PF00494.19	SQS_PSY	85	592	c00082_gnlPro...region001_ORF1:gid:crtM:pid:gnl_Prokka_GFBPJCFC_01317:loc:85:592:strand:+
+c00082_gnlPro...region001	105.0	crtN	10	494	PF01593.24	Amino_oxidase	604	2110	c00082_gnlPro...region001_ORF2:gid:crtN:pid:gnl_Prokka_GFBPJCFC_01318:loc:604:2110:strand:+
+c00082_gnlPro...region001	194.5	bacF	29	377	PF00155.21	Aminotran_1_2	2359	3520	c00082_gnlPro...region001_ORF3:gid:bacF:pid:gnl_Prokka_GFBPJCFC_01319:loc:2359:3520:strand:+
+c00082_gnlPro...region001	165.9	ldhD_2	113	302	PF02826.19	2-Hacid_dh_C	3540	4545	c00082_gnlPro...region001_ORF4:gid:ldhD_2:pid:gnl_Prokka_GFBPJCFC_01320:loc:3540:4545:strand:+
+c00082_gnlPro...region001	64.0	copZ	5	66	PF00403.26	HMA	4611	4818	c00082_gnlPro...region001_ORF5:gid:copZ:pid:gnl_Prokka_GFBPJCFC_01321:loc:4611:4818:strand:-
+c00082_gnlPro...region001	161.6	copA	489	702	PF00702.26	Hydrolase	4905	7293	c00082_gnlPro...region001_ORF6:gid:copA:pid:gnl_Prokka_GFBPJCFC_01322:loc:4905:7293:strand:-
+c00082_gnlPro...region001	197.6	copA	291	473	PF00122.20	E1-E2_ATPase	4905	7293	c00082_gnlPro...region001_ORF6:gid:copA:pid:gnl_Prokka_GFBPJCFC_01322:loc:4905:7293:strand:-
+c00082_gnlPro...region001	53.4	copA	74	135	PF00403.26	HMA	4905	7293	c00082_gnlPro...region001_ORF6:gid:copA:pid:gnl_Prokka_GFBPJCFC_01322:loc:4905:7293:strand:-
+c00082_gnlPro...region001	55.3	copA	7	67	PF00403.26	HMA	4905	7293	c00082_gnlPro...region001_ORF6:gid:copA:pid:gnl_Prokka_GFBPJCFC_01322:loc:4905:7293:strand:-
+c00082_gnlPro...region001	196.1	ydaD	49	285	PF13561.6	adh_short_C2	7966	8836	c00082_gnlPro...region001_ORF8:gid:ydaD:pid:gnl_Prokka_GFBPJCFC_01324:loc:7966:8836:strand:+
+c00082_gnlPro...region001	67.0	GFBPJCFC_01325_gene	6	56	PF12464.8	Mac	8918	9479	c00082_gnlPro...region001_ORF9:gid:GFBPJCFC_01325_gene:pid:gnl_Prokka_GFBPJCFC_01325:loc:8918:9479:strand:+
+c00082_gnlPro...region001	14.6	GFBPJCFC_01325_gene	74	107	PF14602.6	Hexapep_2	8918	9479	c00082_gnlPro...region001_ORF9:gid:GFBPJCFC_01325_gene:pid:gnl_Prokka_GFBPJCFC_01325:loc:8918:9479:strand:+
+c00082_gnlPro...region001	34.2	GFBPJCFC_01325_gene	130	165	PF00132.24	Hexapep	8918	9479	c00082_gnlPro...region001_ORF9:gid:GFBPJCFC_01325_gene:pid:gnl_Prokka_GFBPJCFC_01325:loc:8918:9479:strand:+

@@ -1,0 +1,434 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1465.5" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1455.5" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>pdhC_2 (MJAGDIAD_01310)
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex</title>
+			<polygon class="pdhC_2 (MJAGDIAD_01310)
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex" points="54,25 42,25 42,10 12,40 42,70 42,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-oxoacid_dh (PF00198)
+"2-oxoacid dehydrogenases acyltransferase (catalytic domain)"</title>
+				<polygon class="PF00198" points="16,40 28,28 34,28 34,52 28,52" stroke-linejoin="round" width="22" height="24" fill="rgb(204,74,202)" stroke="rgb(163,59,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E3_binding (PF02817)
+"e3 binding domain"</title>
+				<rect class="PF02817" x="38" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(217,136,99)" stroke="rgb(173,108,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<rect class="PF00364" x="47" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>acoB (MJAGDIAD_01311)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta</title>
+			<polygon class="acoB (MJAGDIAD_01311)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta" points="89,25 85,25 85,10 55,40 85,70 85,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="59,40 68,31 68,49" stroke-linejoin="round" width="12" height="24" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<polygon class="PF02779" points="70,29 71,28 89,28 89,52 71,52 70,51" stroke-linejoin="round" width="19" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>acoA (MJAGDIAD_01312)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha</title>
+			<polygon class="acoA (MJAGDIAD_01312)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha" points="123,25 122,25 122,10 92,40 122,70 122,55 123,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>E1_dh (PF00676)
+"Dehydrogenase E1 component"</title>
+				<polygon class="PF00676" points="96,40 108,28 122,28 122,52 108,52" stroke-linejoin="round" width="29" height="24" fill="rgb(180,115,48)" stroke="rgb(144,92,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpd_1 (MJAGDIAD_01313)
+Dihydrolipoyl dehydrogenase</title>
+			<polygon class="lpd_1 (MJAGDIAD_01313)
+Dihydrolipoyl dehydrogenase" points="126,40 139,10 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_dim (PF02852)
+"Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain"</title>
+				<polygon class="PF02852" points="129,40 134,28 137,28 137,52 134,52" stroke-linejoin="round" width="10" height="24" fill="rgb(191,148,67)" stroke="rgb(152,118,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01314_gene (MJAGDIAD_01314)
+Dihydrolipoyl dehydrogenase</title>
+			<polygon class="MJAGDIAD_01314_gene (MJAGDIAD_01314)
+Dihydrolipoyl dehydrogenase" points="139,40 152,10 152,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="142,40 147,28 152,28 152,52 147,52" stroke-linejoin="round" width="13" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpd_2 (MJAGDIAD_01315)
+Dihydrolipoyl dehydrogenase</title>
+			<polygon class="lpd_2 (MJAGDIAD_01315)
+Dihydrolipoyl dehydrogenase" points="152,40 169,10 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="155,40 162,28 169,28 169,52 162,52" stroke-linejoin="round" width="17" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yflS (MJAGDIAD_01316)
+Putative malate transporter YflS</title>
+			<polygon class="yflS (MJAGDIAD_01316)
+Putative malate transporter YflS" points="181,25 198,25 198,10 228,40 198,70 198,55 181,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_sulph_symp (PF00939)
+"Sodium:sulfate symporter transmembrane region"</title>
+				<polygon class="PF00939" points="181,28 212,28 224,40 212,52 181,52" stroke-linejoin="round" width="46" height="24" fill="rgb(94,204,141)" stroke="rgb(75,163,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01317_gene (MJAGDIAD_01317)
+Putative thiamine biosynthesis protein</title>
+			<polygon class="MJAGDIAD_01317_gene (MJAGDIAD_01317)
+Putative thiamine biosynthesis protein" points="239,25 239,25 239,10 269,40 239,70 239,55 239,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1 (PF09084)
+"NMT1/THI5 like"</title>
+				<polygon class="PF09084" points="240,28 253,28 261,36 261,44 253,52 240,52" stroke-linejoin="round" width="21" height="24" fill="rgb(196,85,209)" stroke="rgb(156,68,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01318_gene (MJAGDIAD_01318)
+hypothetical protein</title>
+			<polygon class="MJAGDIAD_01318_gene (MJAGDIAD_01318)
+hypothetical protein" points="303,25 303,25 303,10 273,40 303,70 303,55 303,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="277,40 287,30 287,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="288,29 289,28 302,28 302,52 289,52 288,51" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01319_gene (MJAGDIAD_01319)
+hypothetical protein</title>
+			<polygon class="MJAGDIAD_01319_gene (MJAGDIAD_01319)
+hypothetical protein" points="308,40 324,10 324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MepB (PF08877)
+"MepB protein"</title>
+				<polygon class="PF08877" points="311,40 318,28 321,28 321,52 318,52" stroke-linejoin="round" width="12" height="24" fill="rgb(183,87,168)" stroke="rgb(146,69,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01320_gene (MJAGDIAD_01320)
+hypothetical protein</title>
+			<polygon class="MJAGDIAD_01320_gene (MJAGDIAD_01320)
+hypothetical protein" points="383,25 357,25 357,10 327,40 357,70 357,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_ATPase (PF09818)
+"Predicted ATPase of the ABC class"</title>
+				<polygon class="PF09818" points="339,32 343,28 383,28 383,52 343,52 339,48" stroke-linejoin="round" width="44" height="24" fill="rgb(224,114,112)" stroke="rgb(179,91,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>csbC (MJAGDIAD_01321)
+putative metabolite transport protein CsbC</title>
+			<polygon class="csbC (MJAGDIAD_01321)
+putative metabolite transport protein CsbC" points="433,25 419,25 419,10 389,40 419,70 419,55 433,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sugar_tr (PF00083)
+"Sugar (and other) transporter"</title>
+				<polygon class="PF00083" points="393,40 405,28 432,28 432,52 405,52" stroke-linejoin="round" width="42" height="24" fill="rgb(48,186,105)" stroke="rgb(38,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lip_1 (MJAGDIAD_01322)
+Lipase</title>
+			<polygon class="lip_1 (MJAGDIAD_01322)
+Lipase" points="515,25 473,25 473,10 443,40 473,70 473,55 515,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YSIRK_signal (PF04650)
+"YSIRK type signal peptide"</title>
+				<rect class="PF04650" x="513" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(74,138,184)" stroke="rgb(59,110,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sfp (MJAGDIAD_01323)
+4'-phosphopantetheinyl transferase sfp</title>
+			<polygon class="sfp (MJAGDIAD_01323)
+4'-phosphopantetheinyl transferase sfp" points="528,40 548,10 548,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="532,40 537,33 537,47" stroke-linejoin="round" width="9" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tycC (MJAGDIAD_01324)
+Tyrocidine synthase 3</title>
+			<polygon class="tycC (MJAGDIAD_01324)
+Tyrocidine synthase 3" points="788,25 580,25 580,10 550,40 580,70 580,55 788,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="560,34 566,28 583,28 583,52 566,52 560,46" stroke-linejoin="round" width="23" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="588" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="597" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="605" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="646" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="690" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="699" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="707" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01325_gene (MJAGDIAD_01325)
+hypothetical protein</title>
+			<polygon class="MJAGDIAD_01325_gene (MJAGDIAD_01325)
+hypothetical protein" points="836,25 825,25 825,10 795,40 825,70 825,55 836,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="799,40 811,28 835,28 835,52 811,52 799,40" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hsrA (MJAGDIAD_01326)
+putative transport protein HsrA</title>
+			<polygon class="hsrA (MJAGDIAD_01326)
+putative transport protein HsrA" points="901,25 884,25 884,10 854,40 884,70 884,55 901,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="860,38 870,28 899,28 899,52 870,52 860,42" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01327_gene (MJAGDIAD_01327)
+hypothetical protein</title>
+			<polygon class="MJAGDIAD_01327_gene (MJAGDIAD_01327)
+hypothetical protein" points="920,40 928,10 928,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>efpA (MJAGDIAD_01328)
+putative MFS-type transporter EfpA</title>
+			<polygon class="efpA (MJAGDIAD_01328)
+putative MFS-type transporter EfpA" points="938,25 957,25 957,10 987,40 957,70 957,55 938,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="939,28 971,28 979,36 979,44 971,52 939,52" stroke-linejoin="round" width="40" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhaM (MJAGDIAD_01329)
+PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM</title>
+			<polygon class="dhaM (MJAGDIAD_01329)
+PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM" points="990,40 1002,10 1002,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EIIA-man (PF03610)
+"PTS system fructose IIA component"</title>
+				<polygon class="PF03610" points="993,40 998,28 1001,28 1001,52 998,52" stroke-linejoin="round" width="11" height="24" fill="rgb(179,218,74)" stroke="rgb(143,174,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhaL (MJAGDIAD_01330)
+PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL</title>
+			<polygon class="dhaL (MJAGDIAD_01330)
+PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL" points="1003,40 1022,10 1022,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dak2 (PF02734)
+"DAK2 domain"</title>
+				<polygon class="PF02734" points="1007,40 1015,28 1018,28 1018,52 1015,52" stroke-linejoin="round" width="15" height="24" fill="rgb(107,200,62)" stroke="rgb(85,160,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhaK (MJAGDIAD_01331)
+PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK</title>
+			<polygon class="dhaK (MJAGDIAD_01331)
+PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK" points="1056,25 1054,25 1054,10 1024,40 1054,70 1054,55 1056,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dak1 (PF02733)
+"Dak1 domain"</title>
+				<polygon class="PF02733" points="1028,40 1040,28 1054,28 1054,52 1040,52" stroke-linejoin="round" width="30" height="24" fill="rgb(110,103,210)" stroke="rgb(88,82,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gldA (MJAGDIAD_01332)
+Glycerol dehydrogenase</title>
+			<polygon class="gldA (MJAGDIAD_01332)
+Glycerol dehydrogenase" points="1092,25 1086,25 1086,10 1056,40 1086,70 1086,55 1092,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fe-ADH (PF00465)
+"Iron-containing alcohol dehydrogenase"</title>
+				<polygon class="PF00465" points="1060,40 1072,28 1091,28 1091,52 1072,52" stroke-linejoin="round" width="34" height="24" fill="rgb(73,179,216)" stroke="rgb(58,143,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bioB_2 (MJAGDIAD_01333)
+Biotin synthase</title>
+			<polygon class="bioB_2 (MJAGDIAD_01333)
+Biotin synthase" points="1135,25 1133,25 1133,10 1103,40 1133,70 1133,55 1135,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BATS (PF06968)
+"Biotin and Thiamin Synthesis associated domain"</title>
+				<polygon class="PF06968" points="1107,40 1111,36 1111,44" stroke-linejoin="round" width="8" height="24" fill="rgb(91,179,207)" stroke="rgb(72,143,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="1113,34 1119,28 1129,28 1129,52 1119,52 1113,46" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hel (MJAGDIAD_01334)
+Lipoprotein E</title>
+			<polygon class="hel (MJAGDIAD_01334)
+Lipoprotein E" points="1145,40 1174,10 1174,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acid_phosphat_B (PF03767)
+"HAD superfamily, subfamily IIIB (Acid phosphatase)"</title>
+				<polygon class="PF03767" points="1149,40 1161,28 1172,28 1172,52 1161,52" stroke-linejoin="round" width="24" height="24" fill="rgb(128,96,194)" stroke="rgb(102,76,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fosB (MJAGDIAD_01335)
+Metallothiol transferase FosB</title>
+			<polygon class="fosB (MJAGDIAD_01335)
+Metallothiol transferase FosB" points="1184,40 1191,10 1191,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="1187,40 1190,28 1191,28 1191,52 1190,52" stroke-linejoin="round" width="7" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01336_gene (MJAGDIAD_01336)
+hypothetical protein</title>
+			<polygon class="MJAGDIAD_01336_gene (MJAGDIAD_01336)
+hypothetical protein" points="1195,40 1202,10 1202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>argF (MJAGDIAD_01337)
+Ornithine carbamoyltransferase</title>
+			<polygon class="argF (MJAGDIAD_01337)
+Ornithine carbamoyltransferase" points="1219,25 1222,25 1222,10 1252,40 1222,70 1222,55 1219,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OTCace_N (PF02729)
+"Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain"</title>
+				<rect class="PF02729" x="1219" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(223,74,58)" stroke="rgb(178,59,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OTCace (PF00185)
+"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"</title>
+				<polygon class="PF00185" points="1234,28 1236,28 1248,40 1236,52 1234,52" stroke-linejoin="round" width="17" height="24" fill="rgb(215,107,106)" stroke="rgb(172,85,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arcC1 (MJAGDIAD_01338)
+Carbamate kinase 1</title>
+			<polygon class="arcC1 (MJAGDIAD_01338)
+Carbamate kinase 1" points="1253,25 1254,25 1254,10 1284,40 1254,70 1254,55 1253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="1253,28 1267,28 1279,40 1267,52 1253,52" stroke-linejoin="round" width="29" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01339_gene (MJAGDIAD_01339)
+hypothetical protein</title>
+			<polygon class="MJAGDIAD_01339_gene (MJAGDIAD_01339)
+hypothetical protein" points="1290,25 1311,25 1311,10 1341,40 1311,70 1311,55 1290,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DcuC (PF03606)
+"C4-dicarboxylate anaerobic carrier"</title>
+				<polygon class="PF03606" points="1291,28 1325,28 1337,40 1325,52 1291,52" stroke-linejoin="round" width="49" height="24" fill="rgb(204,117,55)" stroke="rgb(163,93,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MJAGDIAD_01340_gene (MJAGDIAD_01340)
+S-formylglutathione hydrolase</title>
+			<polygon class="MJAGDIAD_01340_gene (MJAGDIAD_01340)
+S-formylglutathione hydrolase" points="1351,40 1376,10 1376,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="1355,40 1365,28 1374,28 1374,52 1365,52" stroke-linejoin="round" width="23" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>opuCD_2 (MJAGDIAD_01341)
+Carnitine transport permease protein OpuCD</title>
+			<polygon class="opuCD_2 (MJAGDIAD_01341)
+Carnitine transport permease protein OpuCD" points="1378,40 1399,10 1399,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="1382,40 1391,28 1395,28 1395,52 1391,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>opuCC (MJAGDIAD_01342)
+Carnitine transport binding protein OpuCC</title>
+			<polygon class="opuCC (MJAGDIAD_01342)
+Carnitine transport binding protein OpuCC" points="1432,25 1430,25 1430,10 1400,40 1430,70 1430,55 1432,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OpuAC (PF04069)
+"Substrate binding domain of ABC-type glycine betaine transport system"</title>
+				<polygon class="PF04069" points="1404,40 1416,28 1427,28 1427,52 1416,52" stroke-linejoin="round" width="26" height="24" fill="rgb(81,218,80)" stroke="rgb(64,174,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>opuCB_2 (MJAGDIAD_01343)
+Carnitine transport permease protein OpuCB</title>
+			<polygon class="opuCB_2 (MJAGDIAD_01343)
+Carnitine transport permease protein OpuCB" points="1432,40 1453,10 1453,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="1436,40 1444,28 1450,28 1450,52 1444,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

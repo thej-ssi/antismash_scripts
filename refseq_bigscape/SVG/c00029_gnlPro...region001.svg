@@ -1,0 +1,16 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="61.333333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="51.333333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>NMKLMGFH_02248_gene (NMKLMGFH_02248)
+hypothetical protein</title>
+			<polygon class="NMKLMGFH_02248_gene (NMKLMGFH_02248)
+hypothetical protein" points="13,25 18,25 18,10 48,40 18,70 18,55 13,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC_2 (PF13303)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF13303" points="14,28 31,28 43,40 31,52 14,52" stroke-linejoin="round" width="33" height="24" fill="rgb(100,202,191)" stroke="rgb(80,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

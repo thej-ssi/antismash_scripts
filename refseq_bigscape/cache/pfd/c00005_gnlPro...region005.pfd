@@ -1,0 +1,14 @@
+c00005_gnlPro...region005	621.4	opuD_1	13	496	PF02028.17	BCCT	524	2045	c00005_gnlPro...region005_ORF1:gid:opuD_1:pid:gnl_Prokka_ALEOMKEF_01354:loc:524:2045:strand:+
+c00005_gnlPro...region005	52.8	ALEOMKEF_01356_gene	21	68	PF10031.9	DUF2273	2881	3127	c00005_gnlPro...region005_ORF3:gid:ALEOMKEF_01356_gene:pid:gnl_Prokka_ALEOMKEF_01356:loc:2881:3127:strand:+
+c00005_gnlPro...region005	113.8	ALEOMKEF_01357_gene	35	141	PF03780.13	Asp23	3180	3672	c00005_gnlPro...region005_ORF4:gid:ALEOMKEF_01357_gene:pid:gnl_Prokka_ALEOMKEF_01357:loc:3180:3672:strand:+
+c00005_gnlPro...region005	46.2	pbuE	206	380	PF07690.16	MFS_1	3743	4889	c00005_gnlPro...region005_ORF5:gid:pbuE:pid:gnl_Prokka_ALEOMKEF_01358:loc:3743:4889:strand:-
+c00005_gnlPro...region005	109.0	pbuE	9	205	PF07690.16	MFS_1	3743	4889	c00005_gnlPro...region005_ORF5:gid:pbuE:pid:gnl_Prokka_ALEOMKEF_01358:loc:3743:4889:strand:-
+c00005_gnlPro...region005	105.8	iucC_3	469	642	PF06276.12	FhuF	5000	6968	c00005_gnlPro...region005_ORF6:gid:iucC_3:pid:gnl_Prokka_ALEOMKEF_01359:loc:5000:6968:strand:-
+c00005_gnlPro...region005	188.2	iucC_3	193	437	PF04183.12	IucA_IucC	5000	6968	c00005_gnlPro...region005_ORF6:gid:iucC_3:pid:gnl_Prokka_ALEOMKEF_01359:loc:5000:6968:strand:-
+c00005_gnlPro...region005	119.2	ALEOMKEF_01360_gene	3	391	PF05977.13	MFS_3	7068	8253	c00005_gnlPro...region005_ORF7:gid:ALEOMKEF_01360_gene:pid:gnl_Prokka_ALEOMKEF_01360:loc:7068:8253:strand:+
+c00005_gnlPro...region005	160.1	iucC_4	158	386	PF04183.12	IucA_IucC	8236	10000	c00005_gnlPro...region005_ORF8:gid:iucC_4:pid:gnl_Prokka_ALEOMKEF_01361:loc:8236:10000:strand:+
+c00005_gnlPro...region005	96.6	iucC_4	413	575	PF06276.12	FhuF	8236	10000	c00005_gnlPro...region005_ORF8:gid:iucC_4:pid:gnl_Prokka_ALEOMKEF_01361:loc:8236:10000:strand:+
+c00005_gnlPro...region005	58.4	orr	6	225	PF01168.20	Ala_racemase_N	10003	11080	c00005_gnlPro...region005_ORF9:gid:orr:pid:gnl_Prokka_ALEOMKEF_01362:loc:10003:11080:strand:+
+c00005_gnlPro...region005	125.8	yfmC	59	301	PF01497.18	Peripla_BP_2	11149	12139	c00005_gnlPro...region005_ORF10:gid:yfmC:pid:gnl_Prokka_ALEOMKEF_01363:loc:11149:12139:strand:+
+c00005_gnlPro...region005	305.6	yfiZ_2	28	336	PF01032.18	FecCD	12282	13308	c00005_gnlPro...region005_ORF11:gid:yfiZ_2:pid:gnl_Prokka_ALEOMKEF_01364:loc:12282:13308:strand:+
+c00005_gnlPro...region005	298.8	fecD	15	319	PF01032.18	FecCD	13304	14267	c00005_gnlPro...region005_ORF12:gid:fecD:pid:gnl_Prokka_ALEOMKEF_01365:loc:13304:14267:strand:+

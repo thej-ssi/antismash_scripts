@@ -1,0 +1,10 @@
+c00111_gnlPro...region001	131.6	cynR_2	87	292	PF03466.20	LysR_substrate	197	1085	c00111_gnlPro...region001_ORF1:gid:cynR_2:pid:gnl_Prokka_ONKOLKPD_02111:loc:197:1085:strand:-
+c00111_gnlPro...region001	66.1	cynR_2	3	62	PF00126.27	HTH_1	197	1085	c00111_gnlPro...region001_ORF1:gid:cynR_2:pid:gnl_Prokka_ONKOLKPD_02111:loc:197:1085:strand:-
+c00111_gnlPro...region001	66.0	ONKOLKPD_02112_gene	2	67	PF06855.12	YozE_SAM_like	1263	1482	c00111_gnlPro...region001_ORF2:gid:ONKOLKPD_02112_gene:pid:gnl_Prokka_ONKOLKPD_02112:loc:1263:1482:strand:+
+c00111_gnlPro...region001	51.5	ssaA_2	35	120	PF05257.16	CHAP	1734	2169	c00111_gnlPro...region001_ORF3:gid:ssaA_2:pid:gnl_Prokka_ONKOLKPD_02113:loc:1734:2169:strand:+
+c00111_gnlPro...region001	348.5	mvaA	12	383	PF00368.18	HMG-CoA_red	2250	3528	c00111_gnlPro...region001_ORF4:gid:mvaA:pid:gnl_Prokka_ONKOLKPD_02114:loc:2250:3528:strand:-
+c00111_gnlPro...region001	70.7	mvaS	1	167	PF01154.17	HMG_CoA_synt_N	3771	4938	c00111_gnlPro...region001_ORF5:gid:mvaS:pid:gnl_Prokka_ONKOLKPD_02115:loc:3771:4938:strand:+
+c00111_gnlPro...region001	59.7	mvaS	245	387	PF08540.10	HMG_CoA_synt_C	3771	4938	c00111_gnlPro...region001_ORF5:gid:mvaS:pid:gnl_Prokka_ONKOLKPD_02115:loc:3771:4938:strand:+
+c00111_gnlPro...region001	96.0	ogt	73	158	PF01035.20	DNA_binding_1	4992	5511	c00111_gnlPro...region001_ORF6:gid:ogt:pid:gnl_Prokka_ONKOLKPD_02116:loc:4992:5511:strand:-
+c00111_gnlPro...region001	21.7	ogt	1	67	PF02870.15	Methyltransf_1N	4992	5511	c00111_gnlPro...region001_ORF6:gid:ogt:pid:gnl_Prokka_ONKOLKPD_02116:loc:4992:5511:strand:-
+c00111_gnlPro...region001	67.0	ONKOLKPD_02117_gene	30	86	PF14145.6	YrhK	5606	5924	c00111_gnlPro...region001_ORF7:gid:ONKOLKPD_02117_gene:pid:gnl_Prokka_ONKOLKPD_02117:loc:5606:5924:strand:+

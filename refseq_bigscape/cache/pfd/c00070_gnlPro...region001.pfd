@@ -1,0 +1,14 @@
+c00070_gnlPro...region001	76.4	albC	17	164	PF00005.27	ABC_tran	635	1340	c00070_gnlPro...region001_ORF1:gid:albC:pid:gnl_Prokka_GFBPJCFC_01200:loc:635:1340:strand:-
+c00070_gnlPro...region001	32.2	albA	341	414	PF13186.6	SPASM	1498	2833	c00070_gnlPro...region001_ORF3:gid:albA:pid:gnl_Prokka_GFBPJCFC_01202:loc:1498:2833:strand:-
+c00070_gnlPro...region001	60.6	albA	120	278	PF04055.21	Radical_SAM	1498	2833	c00070_gnlPro...region001_ORF3:gid:albA:pid:gnl_Prokka_GFBPJCFC_01202:loc:1498:2833:strand:-
+c00070_gnlPro...region001	74.1	sboA	9	43	PF11420.8	Subtilosin_A	2897	3029	c00070_gnlPro...region001_ORF4:gid:sboA:pid:gnl_Prokka_GFBPJCFC_01203:loc:2897:3029:strand:-
+c00070_gnlPro...region001	204.9	kdpC	4	184	PF02669.15	KdpC	3179	3740	c00070_gnlPro...region001_ORF5:gid:kdpC:pid:gnl_Prokka_GFBPJCFC_01204:loc:3179:3740:strand:-
+c00070_gnlPro...region001	118.6	kdpB	298	523	PF00702.26	Hydrolase	3755	5777	c00070_gnlPro...region001_ORF6:gid:kdpB:pid:gnl_Prokka_GFBPJCFC_01205:loc:3755:5777:strand:-
+c00070_gnlPro...region001	121.8	kdpB	100	281	PF00122.20	E1-E2_ATPase	3755	5777	c00070_gnlPro...region001_ORF6:gid:kdpB:pid:gnl_Prokka_GFBPJCFC_01205:loc:3755:5777:strand:-
+c00070_gnlPro...region001	700.5	kdpA	4	556	PF03814.15	KdpA	5796	7479	c00070_gnlPro...region001_ORF7:gid:kdpA:pid:gnl_Prokka_GFBPJCFC_01206:loc:5796:7479:strand:-
+c00070_gnlPro...region001	264.0	kdpD	7	216	PF02702.17	KdpD	7746	10401	c00070_gnlPro...region001_ORF8:gid:kdpD:pid:gnl_Prokka_GFBPJCFC_01207:loc:7746:10401:strand:+
+c00070_gnlPro...region001	71.3	kdpD	387	497	PF13493.6	DUF4118	7746	10401	c00070_gnlPro...region001_ORF8:gid:kdpD:pid:gnl_Prokka_GFBPJCFC_01207:loc:7746:10401:strand:+
+c00070_gnlPro...region001	41.9	kdpD	655	723	PF00512.25	HisKA	7746	10401	c00070_gnlPro...region001_ORF8:gid:kdpD:pid:gnl_Prokka_GFBPJCFC_01207:loc:7746:10401:strand:+
+c00070_gnlPro...region001	69.7	kdpD	767	879	PF02518.26	HATPase_c	7746	10401	c00070_gnlPro...region001_ORF8:gid:kdpD:pid:gnl_Prokka_GFBPJCFC_01207:loc:7746:10401:strand:+
+c00070_gnlPro...region001	91.5	kdpE	6	115	PF00072.24	Response_reg	10402	11107	c00070_gnlPro...region001_ORF9:gid:kdpE:pid:gnl_Prokka_GFBPJCFC_01208:loc:10402:11107:strand:+
+c00070_gnlPro...region001	65.2	kdpE	149	230	PF00486.28	Trans_reg_C	10402	11107	c00070_gnlPro...region001_ORF9:gid:kdpE:pid:gnl_Prokka_GFBPJCFC_01208:loc:10402:11107:strand:+

@@ -1,0 +1,207 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1592.1333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="817.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>splD (PHEHJLOB_02481)
+Serine protease SplD</title>
+			<polygon class="splD (PHEHJLOB_02481)
+Serine protease SplD" points="34,40 58,10 58,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin_2 (PF13365)
+"Trypsin-like peptidase domain"</title>
+				<polygon class="PF13365" points="38,40 48,28 51,28 51,52 48,52" stroke-linejoin="round" width="14" height="24" fill="rgb(126,86,188)" stroke="rgb(100,68,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>splC (PHEHJLOB_02482)
+Serine protease SplC</title>
+			<polygon class="splC (PHEHJLOB_02482)
+Serine protease SplC" points="62,40 86,10 86,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin (PF00089)
+"Trypsin"</title>
+				<polygon class="PF00089" points="66,40 76,28 81,28 81,52 76,52" stroke-linejoin="round" width="19" height="24" fill="rgb(207,127,78)" stroke="rgb(165,101,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>splB (PHEHJLOB_02483)
+Serine protease SplB</title>
+			<polygon class="splB (PHEHJLOB_02483)
+Serine protease SplB" points="88,40 112,10 112,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin (PF00089)
+"Trypsin"</title>
+				<polygon class="PF00089" points="92,40 102,28 107,28 107,52 102,52" stroke-linejoin="round" width="19" height="24" fill="rgb(207,127,78)" stroke="rgb(165,101,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>splA (PHEHJLOB_02484)
+Serine protease SplA</title>
+			<polygon class="splA (PHEHJLOB_02484)
+Serine protease SplA" points="116,40 139,10 139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin (PF00089)
+"Trypsin"</title>
+				<polygon class="PF00089" points="120,40 129,28 135,28 135,52 129,52" stroke-linejoin="round" width="19" height="24" fill="rgb(207,127,78)" stroke="rgb(165,101,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PHEHJLOB_02485_gene (PHEHJLOB_02485)
+hypothetical protein</title>
+			<polygon class="PHEHJLOB_02485_gene (PHEHJLOB_02485)
+hypothetical protein" points="172,10 190,40 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4888 (PF16229)
+"Domain of unknown function (DUF4888)"</title>
+				<polygon class="PF16229" points="176,28 179,28 187,40 179,52 176,52" stroke-linejoin="round" width="14" height="24" fill="rgb(187,61,86)" stroke="rgb(149,48,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PHEHJLOB_02486_gene (PHEHJLOB_02486)
+hypothetical protein</title>
+			<polygon class="PHEHJLOB_02486_gene (PHEHJLOB_02486)
+hypothetical protein" points="207,40 230,10 230,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PHEHJLOB_02487_gene (PHEHJLOB_02487)
+hypothetical protein</title>
+			<polygon class="PHEHJLOB_02487_gene (PHEHJLOB_02487)
+hypothetical protein" points="230,40 255,10 255,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>yxlF_4 (PHEHJLOB_02488)
+putative ABC transporter ATP-binding protein YxlF</title>
+			<polygon class="yxlF_4 (PHEHJLOB_02488)
+putative ABC transporter ATP-binding protein YxlF" points="255,40 278,10 278,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="262,36 268,28 275,28 275,52 268,52 262,44" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisP (PHEHJLOB_02489)
+Nisin leader peptide-processing serine protease NisP</title>
+			<polygon class="nisP (PHEHJLOB_02489)
+Nisin leader peptide-processing serine protease NisP" points="324,25 309,25 309,10 279,40 309,70 309,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="283,40 295,28 311,28 311,52 295,52" stroke-linejoin="round" width="31" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epiD (PHEHJLOB_02490)
+Epidermin decarboxylase</title>
+			<polygon class="epiD (PHEHJLOB_02490)
+Epidermin decarboxylase" points="325,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="328,40 335,28 341,28 341,52 335,52" stroke-linejoin="round" width="16" height="24" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisC (PHEHJLOB_02491)
+Nisin biosynthesis protein NisC</title>
+			<polygon class="nisC (PHEHJLOB_02491)
+Nisin biosynthesis protein NisC" points="384,25 373,25 373,10 343,40 373,70 373,55 384,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="347,40 359,28 381,28 381,52 359,52" stroke-linejoin="round" width="38" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisB (PHEHJLOB_02492)
+Nisin biosynthesis protein NisB</title>
+			<polygon class="nisB (PHEHJLOB_02492)
+Nisin biosynthesis protein NisB" points="483,25 414,25 414,10 384,40 414,70 414,55 483,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="388,40 400,28 410,28 410,52 400,52" stroke-linejoin="round" width="25" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="416" y="28" stroke-linejoin="round" width="63" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdmA (PHEHJLOB_02493)
+Lantibiotic gallidermin</title>
+			<polygon class="gdmA (PHEHJLOB_02493)
+Lantibiotic gallidermin" points="486,40 490,10 490,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="489,40 490,34 490,46" stroke-linejoin="round" width="4" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>allorf_17207_17350 (allorf_17207_17350)</title>
+			<polygon class="allorf_17207_17350 (allorf_17207_17350)" points="515,40 519,10 519,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="518,40 519,34 519,46" stroke-linejoin="round" width="4" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lukDv_2 (PHEHJLOB_02494)
+Leucotoxin LukDv</title>
+			<polygon class="lukDv_2 (PHEHJLOB_02494)
+Leucotoxin LukDv" points="560,25 558,25 558,10 528,40 558,70 558,55 560,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Leukocidin (PF07968)
+"Leukocidin/Hemolysin toxin family"</title>
+				<polygon class="PF07968" points="532,40 544,28 554,28 554,52 544,52" stroke-linejoin="round" width="25" height="24" fill="rgb(170,196,89)" stroke="rgb(136,156,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lukEv (PHEHJLOB_02495)
+Leucotoxin LukEv</title>
+			<polygon class="lukEv (PHEHJLOB_02495)
+Leucotoxin LukEv" points="592,25 591,25 591,10 561,40 591,70 591,55 592,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Leukocidin (PF07968)
+"Leukocidin/Hemolysin toxin family"</title>
+				<polygon class="PF07968" points="565,40 577,28 586,28 586,52 577,52" stroke-linejoin="round" width="24" height="24" fill="rgb(170,196,89)" stroke="rgb(136,156,71)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PHEHJLOB_02496_gene (PHEHJLOB_02496)
+hypothetical protein</title>
+			<polygon class="PHEHJLOB_02496_gene (PHEHJLOB_02496)
+hypothetical protein" points="622,10 637,40 622,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PHEHJLOB_02497_gene (PHEHJLOB_02497)
+hypothetical protein</title>
+			<polygon class="PHEHJLOB_02497_gene (PHEHJLOB_02497)
+hypothetical protein" points="637,10 658,40 637,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1828 (PF08861)
+"Domain of unknown function DUF1828"</title>
+				<polygon class="PF08861" points="640,28 646,28 649,32 649,48 646,52 640,52" stroke-linejoin="round" width="9" height="24" fill="rgb(218,102,174)" stroke="rgb(174,81,139)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF1829 (PF08862)
+"Domain of unknown function DUF1829"</title>
+				<polygon class="PF08862" points="653,38 654,40 653,42" stroke-linejoin="round" width="4" height="24" fill="rgb(224,98,148)" stroke="rgb(179,78,118)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydeN (PHEHJLOB_02506)
+Putative hydrolase YdeN</title>
+			<polygon class="ydeN (PHEHJLOB_02506)
+Putative hydrolase YdeN" points="745,40 763,10 763,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ser_hydrolase (PF06821)
+"Serine hydrolase"</title>
+				<polygon class="PF06821" points="749,40 756,28 762,28 762,52 756,52" stroke-linejoin="round" width="17" height="24" fill="rgb(74,96,227)" stroke="rgb(59,76,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

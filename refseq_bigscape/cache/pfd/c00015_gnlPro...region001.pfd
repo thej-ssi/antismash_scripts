@@ -1,0 +1,13 @@
+c00015_gnlPro...region001	327.2	yfiZ_1	30	338	PF01032.18	FecCD	163	1195	c00015_gnlPro...region001_ORF1:gid:yfiZ_1:pid:gnl_Prokka_DJCDADDG_01550:loc:163:1195:strand:-
+c00015_gnlPro...region001	113.5	yfmC_2	57	300	PF01497.18	Peripla_BP_2	1206	2190	c00015_gnlPro...region001_ORF2:gid:yfmC_2:pid:gnl_Prokka_DJCDADDG_01551:loc:1206:2190:strand:-
+c00015_gnlPro...region001	71.8	orr	6	223	PF01168.20	Ala_racemase_N	2581	3652	c00015_gnlPro...region001_ORF3:gid:orr:pid:gnl_Prokka_DJCDADDG_01552:loc:2581:3652:strand:-
+c00015_gnlPro...region001	95.7	iucA_1	412	573	PF06276.12	FhuF	3658	5416	c00015_gnlPro...region001_ORF4:gid:iucA_1:pid:gnl_Prokka_DJCDADDG_01553:loc:3658:5416:strand:-
+c00015_gnlPro...region001	172.5	iucA_1	156	385	PF04183.12	IucA_IucC	3658	5416	c00015_gnlPro...region001_ORF4:gid:iucA_1:pid:gnl_Prokka_DJCDADDG_01553:loc:3658:5416:strand:-
+c00015_gnlPro...region001	141.6	DJCDADDG_01554_gene	3	394	PF05977.13	MFS_3	5402	6596	c00015_gnlPro...region001_ORF5:gid:DJCDADDG_01554_gene:pid:gnl_Prokka_DJCDADDG_01554:loc:5402:6596:strand:-
+c00015_gnlPro...region001	188.5	iucC_1	193	437	PF04183.12	IucA_IucC	6697	8674	c00015_gnlPro...region001_ORF6:gid:iucC_1:pid:gnl_Prokka_DJCDADDG_01555:loc:6697:8674:strand:+
+c00015_gnlPro...region001	105.7	iucC_1	468	645	PF06276.12	FhuF	6697	8674	c00015_gnlPro...region001_ORF6:gid:iucC_1:pid:gnl_Prokka_DJCDADDG_01555:loc:6697:8674:strand:+
+c00015_gnlPro...region001	116.4	DJCDADDG_01556_gene	39	145	PF03780.13	Asp23	8833	9343	c00015_gnlPro...region001_ORF7:gid:DJCDADDG_01556_gene:pid:gnl_Prokka_DJCDADDG_01556:loc:8833:9343:strand:-
+c00015_gnlPro...region001	49.4	DJCDADDG_01557_gene	19	66	PF10031.9	DUF2273	9405	9645	c00015_gnlPro...region001_ORF8:gid:DJCDADDG_01557_gene:pid:gnl_Prokka_DJCDADDG_01557:loc:9405:9645:strand:-
+c00015_gnlPro...region001	626.0	opuD_2	9	491	PF02028.17	BCCT	10368	11931	c00015_gnlPro...region001_ORF10:gid:opuD_2:pid:gnl_Prokka_DJCDADDG_01559:loc:10368:11931:strand:-
+c00015_gnlPro...region001	52.0	DJCDADDG_01560_gene	160	285	PF00107.26	ADH_zinc_N	12238	13246	c00015_gnlPro...region001_ORF11:gid:DJCDADDG_01560_gene:pid:gnl_Prokka_DJCDADDG_01560:loc:12238:13246:strand:-
+c00015_gnlPro...region001	27.0	DJCDADDG_01560_gene	30	117	PF08240.12	ADH_N	12238	13246	c00015_gnlPro...region001_ORF11:gid:DJCDADDG_01560_gene:pid:gnl_Prokka_DJCDADDG_01560:loc:12238:13246:strand:-

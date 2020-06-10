@@ -1,0 +1,121 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="520.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="352.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>comK (LGEIKLPL_00279)
+Competence transcription factor</title>
+			<polygon class="comK (LGEIKLPL_00279)
+Competence transcription factor" points="41,40 60,10 60,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ComK (PF06338)
+"ComK protein"</title>
+				<polygon class="PF06338" points="45,40 53,28 59,28 59,52 53,52" stroke-linejoin="round" width="15" height="24" fill="rgb(206,181,57)" stroke="rgb(164,144,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00280_gene (LGEIKLPL_00280)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_00280_gene (LGEIKLPL_00280)
+hypothetical protein" points="67,10 74,40 67,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IDEAL (PF08858)
+"IDEAL domain"</title>
+				<polygon class="PF08858" points="69,31 71,40 69,49" stroke-linejoin="round" width="3" height="24" fill="rgb(70,186,91)" stroke="rgb(56,148,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00281_gene (LGEIKLPL_00281)
+Lipoate--protein ligase 1</title>
+			<polygon class="LGEIKLPL_00281_gene (LGEIKLPL_00281)
+Lipoate--protein ligase 1" points="109,25 107,25 107,10 77,40 107,70 107,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lip_prot_lig_C (PF10437)
+"Bacterial lipoate protein ligase C-terminus"</title>
+				<polygon class="PF10437" points="81,40 85,36 85,44" stroke-linejoin="round" width="8" height="24" fill="rgb(202,62,112)" stroke="rgb(161,49,89)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BPL_LplA_LipB (PF03099)
+"Biotin/lipoate A/B protein ligase family"</title>
+				<rect class="PF03099" x="94" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(228,147,105)" stroke="rgb(182,117,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00282_gene (LGEIKLPL_00282)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_00282_gene (LGEIKLPL_00282)
+hypothetical protein" points="116,10 121,40 116,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2187 (PF09953)
+"Uncharacterized protein conserved in bacteria (DUF2187)"</title>
+				<polygon class="PF09953" points="116,28 116,28 118,40 116,52 116,52" stroke-linejoin="round" width="5" height="24" fill="rgb(69,227,78)" stroke="rgb(55,181,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00283_gene (LGEIKLPL_00283)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_00283_gene (LGEIKLPL_00283)
+hypothetical protein" points="122,10 142,40 122,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPBP (PF02517)
+"CPBP intramembrane metalloprotease"</title>
+				<polygon class="PF02517" points="132,31 138,40 132,49" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00284_gene (LGEIKLPL_00284)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_00284_gene (LGEIKLPL_00284)
+hypothetical protein" points="176,10 185,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="179,30 182,40 179,50" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00285_gene (LGEIKLPL_00285)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_00285_gene (LGEIKLPL_00285)
+hypothetical protein" points="187,25 222,25 222,10 252,40 222,70 222,55 187,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="242,34 248,40 242,46" stroke-linejoin="round" width="9" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00286_gene (LGEIKLPL_00286)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_00286_gene (LGEIKLPL_00286)
+hypothetical protein" points="253,10 263,40 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>LGEIKLPL_00287_gene (LGEIKLPL_00287)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="LGEIKLPL_00287_gene (LGEIKLPL_00287)
+putative ABC transporter ATP-binding protein" points="263,10 284,40 263,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="264,28 272,28 278,37 278,43 272,52 264,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_00288_gene (LGEIKLPL_00288)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_00288_gene (LGEIKLPL_00288)
+hypothetical protein" points="288,40 296,10 296,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>catD (LGEIKLPL_00289)
+Putative oxidoreductase CatD</title>
+			<polygon class="catD (LGEIKLPL_00289)
+Putative oxidoreductase CatD" points="309,40 320,10 320,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="312,40 317,28 320,28 320,52 317,52 312,40" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

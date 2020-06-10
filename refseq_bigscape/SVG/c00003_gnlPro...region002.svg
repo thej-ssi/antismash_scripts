@@ -1,0 +1,450 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1592.5333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1582.5333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ALNBFAGF_01583_gene (ALNBFAGF_01583)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01583_gene (ALNBFAGF_01583)
+hypothetical protein" points="24,25 34,25 34,10 64,40 34,70 34,55 24,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ALNBFAGF_01584_gene (ALNBFAGF_01584)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01584_gene (ALNBFAGF_01584)
+hypothetical protein" points="64,25 74,25 74,10 104,40 74,70 74,55 64,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="85,28 87,28 99,40 87,52 85,52" stroke-linejoin="round" width="17" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epsL (ALNBFAGF_01585)
+putative sugar transferase EpsL</title>
+			<polygon class="epsL (ALNBFAGF_01585)
+putative sugar transferase EpsL" points="105,10 123,40 105,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Bac_transf (PF02397)
+"Bacterial sugar transferase"</title>
+				<polygon class="PF02397" points="105,28 112,28 120,40 112,52 105,52" stroke-linejoin="round" width="17" height="24" fill="rgb(57,165,209)" stroke="rgb(45,131,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gnu (ALNBFAGF_01586)
+N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,o ctacis-undecaprenol 4-epimerase</title>
+			<polygon class="gnu (ALNBFAGF_01586)
+N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,o ctacis-undecaprenol 4-epimerase" points="123,10 152,40 123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="123,28 136,28 143,35 143,45 136,52 123,52" stroke-linejoin="round" width="20" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wecC (ALNBFAGF_01587)
+UDP-N-acetyl-D-mannosamine dehydrogenase</title>
+			<polygon class="wecC (ALNBFAGF_01587)
+UDP-N-acetyl-D-mannosamine dehydrogenase" points="155,25 167,25 167,10 197,40 167,70 167,55 155,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UDPG_MGDP_dh_N (PF03721)
+"UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain"</title>
+				<rect class="PF03721" x="155" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(156,194,58)" stroke="rgb(124,155,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh (PF00984)
+"UDP-glucose/GDP-mannose dehydrogenase family, central domain"</title>
+				<polygon class="PF00984" points="174,28 180,28 182,30 182,50 180,52 174,52" stroke-linejoin="round" width="8" height="24" fill="rgb(69,189,184)" stroke="rgb(55,151,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>UDPG_MGDP_dh_C (PF03720)
+"UDP-glucose/GDP-mannose dehydrogenase family, UDP binding domain"</title>
+				<polygon class="PF03720" points="185,33 192,40 185,47" stroke-linejoin="round" width="9" height="24" fill="rgb(221,130,74)" stroke="rgb(176,103,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mnaA_1 (ALNBFAGF_01588)
+UDP-N-acetylglucosamine 2-epimerase</title>
+			<polygon class="mnaA_1 (ALNBFAGF_01588)
+UDP-N-acetylglucosamine 2-epimerase" points="199,25 207,25 207,10 237,40 207,70 207,55 199,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase_2 (PF02350)
+"UDP-N-acetylglucosamine 2-epimerase"</title>
+				<polygon class="PF02350" points="201,28 220,28 232,40 220,52 201,52" stroke-linejoin="round" width="34" height="24" fill="rgb(212,113,103)" stroke="rgb(169,90,82)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>isdI (ALNBFAGF_01589)
+Heme oxygenase (staphylobilin-producing) 2</title>
+			<polygon class="isdI (ALNBFAGF_01589)
+Heme oxygenase (staphylobilin-producing) 2" points="240,40 250,10 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="243,40 247,28 250,28 250,52 247,52 243,40" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ybaN (ALNBFAGF_01590)
+Inner membrane protein YbaN</title>
+			<polygon class="ybaN (ALNBFAGF_01590)
+Inner membrane protein YbaN" points="251,40 263,10 263,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF454 (PF04304)
+"Protein of unknown function (DUF454)"</title>
+				<polygon class="PF04304" points="254,40 259,28 263,28 263,52 259,52" stroke-linejoin="round" width="11" height="24" fill="rgb(89,204,158)" stroke="rgb(71,163,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>aldA (ALNBFAGF_01591)
+Putative aldehyde dehydrogenase AldA</title>
+			<polygon class="aldA (ALNBFAGF_01591)
+Putative aldehyde dehydrogenase AldA" points="278,25 297,25 297,10 327,40 297,70 297,55 278,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="280,28 311,28 323,40 311,52 280,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>czcD_1 (ALNBFAGF_01592)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter</title>
+			<polygon class="czcD_1 (ALNBFAGF_01592)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter" points="349,25 351,25 351,10 381,40 351,70 351,55 349,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cation_efflux (PF01545)
+"Cation efflux family"</title>
+				<polygon class="PF01545" points="352,28 364,28 371,35 371,45 364,52 352,52" stroke-linejoin="round" width="19" height="24" fill="rgb(151,84,211)" stroke="rgb(120,67,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALNBFAGF_01593_gene (ALNBFAGF_01593)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01593_gene (ALNBFAGF_01593)
+hypothetical protein" points="389,40 395,10 395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ALNBFAGF_01594_gene (ALNBFAGF_01594)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01594_gene (ALNBFAGF_01594)
+hypothetical protein" points="402,10 419,40 402,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4242 (PF14026)
+"Protein of unknown function (DUF4242)"</title>
+				<polygon class="PF14026" points="411,32 415,40 411,48" stroke-linejoin="round" width="7" height="24" fill="rgb(115,66,182)" stroke="rgb(92,52,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpD (ALNBFAGF_01595)
+Bicarbonate transport ATP-binding protein CmpD</title>
+			<polygon class="cmpD (ALNBFAGF_01595)
+Bicarbonate transport ATP-binding protein CmpD" points="430,10 454,40 430,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="431,28 441,28 444,32 444,48 441,52 431,52" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpC (ALNBFAGF_01596)
+Bicarbonate transport ATP-binding protein CmpC</title>
+			<polygon class="cmpC (ALNBFAGF_01596)
+Bicarbonate transport ATP-binding protein CmpC" points="455,25 457,25 457,10 487,40 457,70 457,55 455,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1_2 (PF13379)
+"NMT1-like family"</title>
+				<polygon class="PF13379" points="458,28 471,28 479,36 479,44 471,52 458,52" stroke-linejoin="round" width="21" height="24" fill="rgb(139,182,81)" stroke="rgb(111,145,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssuC (ALNBFAGF_01597)
+Putative aliphatic sulfonates transport permease protein SsuC</title>
+			<polygon class="ssuC (ALNBFAGF_01597)
+Putative aliphatic sulfonates transport permease protein SsuC" points="487,10 512,40 487,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="494,28 498,28 508,40 498,52 494,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALNBFAGF_01598_gene (ALNBFAGF_01598)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01598_gene (ALNBFAGF_01598)
+hypothetical protein" points="513,25 517,25 517,10 547,40 517,70 517,55 513,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ALNBFAGF_01599_gene (ALNBFAGF_01599)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01599_gene (ALNBFAGF_01599)
+hypothetical protein" points="555,10 567,40 555,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2294 (PF10057)
+"Uncharacterized conserved protein (DUF2294)"</title>
+				<polygon class="PF10057" points="555,28 558,28 563,40 558,52 555,52" stroke-linejoin="round" width="11" height="24" fill="rgb(60,163,178)" stroke="rgb(48,130,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALNBFAGF_01600_gene (ALNBFAGF_01600)
+Formate dehydrogenase</title>
+			<polygon class="ALNBFAGF_01600_gene (ALNBFAGF_01600)
+Formate dehydrogenase" points="568,25 577,25 577,10 607,40 577,70 577,55 568,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="585,28 590,28 602,40 602,40 590,52 585,52" stroke-linejoin="round" width="17" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALNBFAGF_01601_gene (ALNBFAGF_01601)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01601_gene (ALNBFAGF_01601)
+hypothetical protein" points="620,25 631,25 631,10 661,40 631,70 631,55 620,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="621,28 645,28 657,40 657,40 645,52 621,52" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>grsB (ALNBFAGF_01602)
+Gramicidin S synthase 2</title>
+			<polygon class="grsB (ALNBFAGF_01602)
+Gramicidin S synthase 2" points="676,25 885,25 885,10 915,40 885,70 885,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="676" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="717" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="757" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="767" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="775" y="28" stroke-linejoin="round" width="41" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="820" y="28" stroke-linejoin="round" width="39" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="860" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="869" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="880,28 898,28 903,33 903,47 898,52 880,52" stroke-linejoin="round" width="23" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sfp (ALNBFAGF_01603)
+4'-phosphopantetheinyl transferase sfp</title>
+			<polygon class="sfp (ALNBFAGF_01603)
+4'-phosphopantetheinyl transferase sfp" points="916,10 937,40 916,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="926,30 933,40 926,50" stroke-linejoin="round" width="8" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yagU (ALNBFAGF_01604)
+Inner membrane protein YagU</title>
+			<polygon class="yagU (ALNBFAGF_01604)
+Inner membrane protein YagU" points="948,40 964,10 964,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1440 (PF07274)
+"Protein of unknown function (DUF1440)"</title>
+				<polygon class="PF07274" points="951,40 958,28 962,28 962,52 958,52" stroke-linejoin="round" width="13" height="24" fill="rgb(67,129,184)" stroke="rgb(53,103,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argB (ALNBFAGF_01605)
+Acetylglutamate kinase</title>
+			<polygon class="argB (ALNBFAGF_01605)
+Acetylglutamate kinase" points="973,40 998,10 998,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="977,40 987,28 997,28 997,52 987,52" stroke-linejoin="round" width="22" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argJ (ALNBFAGF_01606)
+Arginine biosynthesis bifunctional protein ArgJ</title>
+			<polygon class="argJ (ALNBFAGF_01606)
+Arginine biosynthesis bifunctional protein ArgJ" points="1040,25 1029,25 1029,10 999,40 1029,70 1029,55 1040,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArgJ (PF01960)
+"ArgJ family"</title>
+				<polygon class="PF01960" points="1003,40 1015,28 1037,28 1037,52 1015,52" stroke-linejoin="round" width="38" height="24" fill="rgb(81,120,181)" stroke="rgb(64,95,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argC (ALNBFAGF_01607)
+N-acetyl-gamma-glutamyl-phosphate reductase</title>
+			<polygon class="argC (ALNBFAGF_01607)
+N-acetyl-gamma-glutamyl-phosphate reductase" points="1075,25 1071,25 1071,10 1041,40 1071,70 1071,55 1075,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dhC (PF02774)
+"Semialdehyde dehydrogenase, dimerisation domain"</title>
+				<polygon class="PF02774" points="1045,40 1057,28 1059,28 1059,52 1057,52" stroke-linejoin="round" width="15" height="24" fill="rgb(57,188,185)" stroke="rgb(45,150,147)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Semialdhyde_dh (PF01118)
+"Semialdehyde dehydrogenase, NAD binding domain"</title>
+				<rect class="PF01118" x="1061" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(191,106,221)" stroke="rgb(152,84,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rocD2_2 (ALNBFAGF_01608)
+Ornithine aminotransferase 2</title>
+			<polygon class="rocD2_2 (ALNBFAGF_01608)
+Ornithine aminotransferase 2" points="1116,25 1107,25 1107,10 1077,40 1107,70 1107,55 1116,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="1081,40 1093,28 1115,28 1115,52 1093,52" stroke-linejoin="round" width="38" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>brnQ_2 (ALNBFAGF_01609)
+Branched-chain amino acid transport system 2 carrier protein</title>
+			<polygon class="brnQ_2 (ALNBFAGF_01609)
+Branched-chain amino acid transport system 2 carrier protein" points="1170,25 1155,25 1155,10 1125,40 1155,70 1155,55 1170,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Branch_AA_trans (PF05525)
+"Branched-chain amino acid transport protein"</title>
+				<polygon class="PF05525" points="1129,40 1141,28 1168,28 1168,52 1141,52" stroke-linejoin="round" width="43" height="24" fill="rgb(192,58,193)" stroke="rgb(153,46,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yecD (ALNBFAGF_01610)
+Isochorismatase family protein YecD</title>
+			<polygon class="yecD (ALNBFAGF_01610)
+Isochorismatase family protein YecD" points="1179,40 1197,10 1197,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Isochorismatase (PF00857)
+"Isochorismatase family"</title>
+				<polygon class="PF00857" points="1183,40 1190,28 1196,28 1196,52 1190,52" stroke-linejoin="round" width="17" height="24" fill="rgb(144,224,70)" stroke="rgb(115,179,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ipdC (ALNBFAGF_01611)
+Indole-3-pyruvate decarboxylase</title>
+			<polygon class="ipdC (ALNBFAGF_01611)
+Indole-3-pyruvate decarboxylase" points="1254,25 1230,25 1230,10 1200,40 1230,70 1230,55 1254,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="1204,40 1216,28 1216,28 1216,52 1216,52" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="1222" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="1236" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptsG_1 (ALNBFAGF_01612)
+PTS system glucose-specific EIICBA component</title>
+			<polygon class="ptsG_1 (ALNBFAGF_01612)
+PTS system glucose-specific EIICBA component" points="1332,25 1294,25 1294,10 1264,40 1294,70 1294,55 1332,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="1268,40 1278,30 1278,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="1286" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="1297" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALNBFAGF_01613_gene (ALNBFAGF_01613)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01613_gene (ALNBFAGF_01613)
+hypothetical protein" points="1351,25 1356,25 1356,10 1386,40 1356,70 1356,55 1351,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF871 (PF05913)
+"Bacterial protein of unknown function (DUF871)"</title>
+				<polygon class="PF05913" points="1351,28 1369,28 1381,40 1369,52 1351,52" stroke-linejoin="round" width="34" height="24" fill="rgb(145,216,105)" stroke="rgb(116,172,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>murQ (ALNBFAGF_01614)
+N-acetylmuramic acid 6-phosphate etherase</title>
+			<polygon class="murQ (ALNBFAGF_01614)
+N-acetylmuramic acid 6-phosphate etherase" points="1386,10 1415,40 1386,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ALNBFAGF_01615_gene (ALNBFAGF_01615)
+PTS system EIIBC component</title>
+			<polygon class="ALNBFAGF_01615_gene (ALNBFAGF_01615)
+PTS system EIIBC component" points="1417,25 1435,25 1435,10 1465,40 1435,70 1435,55 1417,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="1417" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF02378" points="1430,28 1449,28 1458,37 1458,43 1449,52 1430,52" stroke-linejoin="round" width="28" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ybbH_2 (ALNBFAGF_01616)
+putative HTH-type transcriptional regulator YbbH</title>
+			<polygon class="ybbH_2 (ALNBFAGF_01616)
+putative HTH-type transcriptional regulator YbbH" points="1465,10 1494,40 1465,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_6 (PF01418)
+"Helix-turn-helix domain, rpiR family"</title>
+				<rect class="PF01418" x="1465" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(214,118,93)" stroke="rgb(171,94,74)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SIS (PF01380)
+"SIS domain"</title>
+				<polygon class="PF01380" points="1477,28 1478,28 1490,40 1490,40 1478,52 1477,52" stroke-linejoin="round" width="13" height="24" fill="rgb(212,106,227)" stroke="rgb(169,84,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALNBFAGF_01617_gene (ALNBFAGF_01617)
+hypothetical protein</title>
+			<polygon class="ALNBFAGF_01617_gene (ALNBFAGF_01617)
+hypothetical protein" points="1501,40 1510,10 1510,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

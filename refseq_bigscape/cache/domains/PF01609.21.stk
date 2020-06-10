@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+c00005_gnlPro...region004_ORF5:gid:ALEOMKEF_00591_gene:pid:gnl_Prokka_ALEOMKEF_00591:loc:8180:8780:strand:-:28:180         ks---YSKTDHDATFMRMKDDH------MRNGELKPGYNLQIATNNQF--VLAFGV-YSYPGDTRTLKPFLKSIHKLygdIPEYIVADAGYGSeynyTVILDEFEkTPLITYSMYLKEKQRKY------KNNPFITANWEYNVI--------------------------------------------------------
+#=GR c00005_gnlPro...region004_ORF5:gid:ALEOMKEF_00591_gene:pid:gnl_Prokka_ALEOMKEF_00591:loc:8180:8780:strand:-:28:180 PP 86...67789********9999......99*****************8..******.******************99***************9666666666666444455555556666555......667777777776655........................................................
+c00113_gnlPro...region001_ORF5:gid:HPGMPKAP_02310_gene:pid:gnl_Prokka_HPGMPKAP_02310:loc:3166:3766:strand:+:28:180         ks---YSKTDHDATFMRMKDDH------MRNGELKPGYNLQIATNNQF--VLAFGV-YSYPGDTRTLKPFLKSIHKLygdIPEYIVADAGYGSeynyTVILDEFEkTPLITYSMYLKEKQRKY------KNNPFITANWEYNVI--------------------------------------------------------
+#=GR c00113_gnlPro...region001_ORF5:gid:HPGMPKAP_02310_gene:pid:gnl_Prokka_HPGMPKAP_02310:loc:3166:3766:strand:+:28:180 PP 86...67789********9999......99*****************8..******.******************99***************9666666666666444455555556666555......667777777776655........................................................
+#=GC PP_cons                                                                                                               .....67789********9999......99*****************8..******.******************99...************9....66666666.44455555556666555......667777777776655........................................................
+#=GC RF                                                                                                                    ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxx....xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00005_gnlPro...region004_ORF5:gid:ALEOMKEF_00591_gene:pid:gnl_Prokka_ALEOMKEF_00591:loc:8180:8780:strand:-:28:180         ------------------------edyyicpnkktlhfqsyrkrrdgygi
+#=GR c00005_gnlPro...region004_ORF5:gid:ALEOMKEF_00591_gene:pid:gnl_Prokka_ALEOMKEF_00591:loc:8180:8780:strand:-:28:180 PP ........................45677777788888888889999***
+c00113_gnlPro...region001_ORF5:gid:HPGMPKAP_02310_gene:pid:gnl_Prokka_HPGMPKAP_02310:loc:3166:3766:strand:+:28:180         ------------------------edyyicpnkktlhfqsyrkrrdgygi
+#=GR c00113_gnlPro...region001_ORF5:gid:HPGMPKAP_02310_gene:pid:gnl_Prokka_HPGMPKAP_02310:loc:3166:3766:strand:+:28:180 PP ........................45677777788888888889999***
+#=GC PP_cons                                                                                                               ..................................................
+#=GC RF                                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxx..........................
+//

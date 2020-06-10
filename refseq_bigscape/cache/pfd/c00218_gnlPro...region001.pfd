@@ -1,0 +1,5 @@
+c00218_gnlPro...region001	67.0	GFBPJCFC_02054_gene	30	86	PF14145.6	YrhK	642	960	c00218_gnlPro...region001_ORF2:gid:GFBPJCFC_02054_gene:pid:gnl_Prokka_GFBPJCFC_02054:loc:642:960:strand:-
+c00218_gnlPro...region001	21.7	ogt	1	67	PF02870.15	Methyltransf_1N	1055	1574	c00218_gnlPro...region001_ORF3:gid:ogt:pid:gnl_Prokka_GFBPJCFC_02055:loc:1055:1574:strand:+
+c00218_gnlPro...region001	96.0	ogt	73	158	PF01035.20	DNA_binding_1	1055	1574	c00218_gnlPro...region001_ORF3:gid:ogt:pid:gnl_Prokka_GFBPJCFC_02055:loc:1055:1574:strand:+
+c00218_gnlPro...region001	59.7	mvaS	245	387	PF08540.10	HMG_CoA_synt_C	1628	2795	c00218_gnlPro...region001_ORF4:gid:mvaS:pid:gnl_Prokka_GFBPJCFC_02056:loc:1628:2795:strand:-
+c00218_gnlPro...region001	70.7	mvaS	1	167	PF01154.17	HMG_CoA_synt_N	1628	2795	c00218_gnlPro...region001_ORF4:gid:mvaS:pid:gnl_Prokka_GFBPJCFC_02056:loc:1628:2795:strand:-

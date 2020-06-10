@@ -1,0 +1,129 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="520.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="401.8" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ONKOLKPD_00889_gene (ONKOLKPD_00889)
+hypothetical protein</title>
+			<polygon class="ONKOLKPD_00889_gene (ONKOLKPD_00889)
+hypothetical protein" points="18,40 23,10 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albA (ONKOLKPD_00890)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA</title>
+			<polygon class="albA (ONKOLKPD_00890)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA" points="67,25 53,25 53,10 23,40 53,70 53,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="27,40 33,34 33,46" stroke-linejoin="round" width="7" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="39,28 39,28 54,28 54,52 39,52 39,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sboA (ONKOLKPD_00891)
+Subtilosin-A</title>
+			<polygon class="sboA (ONKOLKPD_00891)
+Subtilosin-A" points="70,40 74,10 74,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Subtilosin_A (PF11420)
+"Bacteriocin subtilosin A"</title>
+				<polygon class="PF11420" points="73,40 73,40 73,40" stroke-linejoin="round" width="3" height="24" fill="rgb(190,123,83)" stroke="rgb(152,98,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpC (ONKOLKPD_00892)
+Potassium-transporting ATPase KdpC subunit</title>
+			<polygon class="kdpC (ONKOLKPD_00892)
+Potassium-transporting ATPase KdpC subunit" points="80,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KdpC (PF02669)
+"K+-transporting ATPase, c chain"</title>
+				<polygon class="PF02669" points="84,40 91,28 98,28 98,52 91,52" stroke-linejoin="round" width="18" height="24" fill="rgb(219,108,136)" stroke="rgb(175,86,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpB (ONKOLKPD_00893)
+Potassium-transporting ATPase ATP-binding subunit</title>
+			<polygon class="kdpB (ONKOLKPD_00893)
+Potassium-transporting ATPase ATP-binding subunit" points="166,25 129,25 129,10 99,40 129,70 129,55 166,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="114,29 115,28 136,28 136,52 115,52 114,51" stroke-linejoin="round" width="22" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="138" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpA (ONKOLKPD_00894)
+Potassium-transporting ATPase potassium-binding subunit</title>
+			<polygon class="kdpA (ONKOLKPD_00894)
+Potassium-transporting ATPase potassium-binding subunit" points="223,25 197,25 197,10 167,40 197,70 197,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KdpA (PF03814)
+"Potassium-transporting ATPase A subunit"</title>
+				<polygon class="PF03814" points="171,40 183,28 222,28 222,52 183,52" stroke-linejoin="round" width="55" height="24" fill="rgb(220,180,109)" stroke="rgb(176,144,87)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpD (ONKOLKPD_00895)
+Sensor protein KdpD</title>
+			<polygon class="kdpD (ONKOLKPD_00895)
+Sensor protein KdpD" points="232,25 290,25 290,10 320,40 290,70 290,55 232,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KdpD (PF02702)
+"Osmosensitive K+ channel His kinase sensor domain"</title>
+				<rect class="PF02702" x="232" y="28" stroke-linejoin="round" width="20" height="24" fill="rgb(180,144,84)" stroke="rgb(144,115,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DUF4118 (PF13493)
+"Domain of unknown function (DUF4118)"</title>
+				<rect class="PF13493" x="270" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(94,129,195)" stroke="rgb(75,103,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HisKA (PF00512)
+"His Kinase A (phospho-acceptor) domain"</title>
+				<rect class="PF00512" x="297" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(193,125,62)" stroke="rgb(154,100,49)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HATPase_c (PF02518)
+"Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase"</title>
+				<polygon class="PF02518" points="308,32 316,40 308,48" stroke-linejoin="round" width="11" height="24" fill="rgb(80,94,225)" stroke="rgb(64,75,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpE (ONKOLKPD_00896)
+Transcriptional regulatory protein KdpE</title>
+			<polygon class="kdpE (ONKOLKPD_00896)
+Transcriptional regulatory protein KdpE" points="320,10 343,40 320,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Response_reg (PF00072)
+"Response regulator receiver domain"</title>
+				<rect class="PF00072" x="320" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(100,107,203)" stroke="rgb(80,85,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="334,33 339,40 334,47" stroke-linejoin="round" width="8" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ONKOLKPD_00897_gene (ONKOLKPD_00897)
+hypothetical protein</title>
+			<polygon class="ONKOLKPD_00897_gene (ONKOLKPD_00897)
+hypothetical protein" points="386,25 379,25 379,10 349,40 379,70 379,55 386,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="372" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

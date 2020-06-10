@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+c00001_gnlPro...region003_ORF25:gid:mbtB_2:pid:gnl_Prokka_MNHGGPBM_00606:loc:29719:32497:strand:+:6:56         knkll------SLYQNGVNIWIENNQLRYKSVKGKFTQKDLEFLKENKEDIMAVL--n
+#=GR c00001_gnlPro...region003_ORF25:gid:mbtB_2:pid:gnl_Prokka_MNHGGPBM_00606:loc:29719:32497:strand:+:6:56 PP 99865......69****************************************98..6
+c00001_gnlPro...region007_ORF19:gid:mbtB:pid:gnl_Prokka_GCIAIJCE_02043:loc:20000:22754:strand:-:3:53           ...eq---QLIELYKQGITLWTKDGQLHYKSKNAKINEKILAFLKQNKQDILKLL--l
+#=GR c00001_gnlPro...region007_ORF19:gid:mbtB:pid:gnl_Prokka_GCIAIJCE_02043:loc:20000:22754:strand:-:3:53   PP ...75...5789****************************************988..9
+c00009_gnlPro...region004_ORF22:gid:mbtB_2:pid:gnl_Prokka_DHAILMMN_00990:loc:29721:33924:strand:-:3:54         ....q--SLLKSFTEKGILIWIDQEKVKYRAPKGIMKPSDIQTLKDNKNEIITYLN-s
+#=GR c00009_gnlPro...region004_ORF22:gid:mbtB_2:pid:gnl_Prokka_DHAILMMN_00990:loc:29721:33924:strand:-:3:54 PP ....6..7999*******************************************95.9
+c00001_gnlPro...region006_ORF19:gid:mbtB:pid:gnl_Prokka_CJKFNKEN_01948:loc:20000:22754:strand:-:3:53           ...eq---QLIELYKQGITLWTKDGQLHYKSKNAKINEKILAFLKQNKQDILKIL--l
+#=GR c00001_gnlPro...region006_ORF19:gid:mbtB:pid:gnl_Prokka_CJKFNKEN_01948:loc:20000:22754:strand:-:3:53   PP ...75...5789****************************************987..9
+#=GC PP_cons                                                                                                   .......76889****************************************9985..
+#=GC RF                                                                                                        .....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

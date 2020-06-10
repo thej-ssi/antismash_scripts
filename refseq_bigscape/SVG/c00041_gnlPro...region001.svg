@@ -1,0 +1,115 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="406.23333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="396.23333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DAFNCOFO_01697_gene (DAFNCOFO_01697)
+hypothetical protein</title>
+			<polygon class="DAFNCOFO_01697_gene (DAFNCOFO_01697)
+hypothetical protein" points="14,40 23,10 23,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DAFNCOFO_01698_gene (DAFNCOFO_01698)
+hypothetical protein</title>
+			<polygon class="DAFNCOFO_01698_gene (DAFNCOFO_01698)
+hypothetical protein" points="40,10 46,40 40,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>copA (DAFNCOFO_01699)
+Copper-exporting P-type ATPase A</title>
+			<polygon class="copA (DAFNCOFO_01699)
+Copper-exporting P-type ATPase A" points="56,25 105,25 105,10 135,40 105,70 105,55 56,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="56" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="63" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="85" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="104,28 119,28 125,34 125,46 119,52 104,52" stroke-linejoin="round" width="21" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copZ (DAFNCOFO_01700)
+Copper chaperone CopZ</title>
+			<polygon class="copZ (DAFNCOFO_01700)
+Copper chaperone CopZ" points="138,10 144,40 138,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<polygon class="PF00403" points="138,28 138,28 141,40 138,52 138,52" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bacF (DAFNCOFO_01701)
+Transaminase BacF</title>
+			<polygon class="bacF (DAFNCOFO_01701)
+Transaminase BacF" points="186,25 178,25 178,10 148,40 178,70 178,55 186,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="152,40 164,28 183,28 183,52 164,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtN (DAFNCOFO_01702)
+Dehydrosqualene desaturase</title>
+			<polygon class="crtN (DAFNCOFO_01702)
+Dehydrosqualene desaturase" points="250,25 230,25 230,10 200,40 230,70 230,55 250,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="204,40 216,28 248,28 248,52 216,52" stroke-linejoin="round" width="48" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtM (DAFNCOFO_01703)
+Dehydrosqualene synthase</title>
+			<polygon class="crtM (DAFNCOFO_01703)
+Dehydrosqualene synthase" points="251,40 279,10 279,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="255,40 267,28 277,28 277,52 267,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtQ (DAFNCOFO_01704)
+4,4'-diaponeurosporenoate glycosyltransferase</title>
+			<polygon class="crtQ (DAFNCOFO_01704)
+4,4'-diaponeurosporenoate glycosyltransferase" points="318,25 311,25 311,10 281,40 311,70 311,55 318,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="297,28 297,28 313,28 313,52 297,52 297,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtP (DAFNCOFO_01705)
+Diapolycopene oxygenase</title>
+			<polygon class="crtP (DAFNCOFO_01705)
+Diapolycopene oxygenase" points="368,25 349,25 349,10 319,40 349,70 349,55 368,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="323,40 335,28 366,28 366,52 335,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DAFNCOFO_01706_gene (DAFNCOFO_01706)
+hypothetical protein</title>
+			<polygon class="DAFNCOFO_01706_gene (DAFNCOFO_01706)
+hypothetical protein" points="368,40 384,10 384,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

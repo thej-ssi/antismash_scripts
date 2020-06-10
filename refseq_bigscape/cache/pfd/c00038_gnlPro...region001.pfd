@@ -1,0 +1,10 @@
+c00038_gnlPro...region001	286.1	PCIJMFOK_02588_gene	8	311	PF13738.6	Pyr_redox_3	754	1876	c00038_gnlPro...region001_ORF1:gid:PCIJMFOK_02588_gene:pid:gnl_Prokka_PCIJMFOK_02588:loc:754:1876:strand:+
+c00038_gnlPro...region001	132.5	lagD	2	137	PF03412.15	Peptidase_C39	5000	7163	c00038_gnlPro...region001_ORF6:gid:lagD:pid:gnl_Prokka_PCIJMFOK_02593:loc:5000:7163:strand:+
+c00038_gnlPro...region001	169.5	lagD	162	432	PF00664.23	ABC_membrane	5000	7163	c00038_gnlPro...region001_ORF6:gid:lagD:pid:gnl_Prokka_PCIJMFOK_02593:loc:5000:7163:strand:+
+c00038_gnlPro...region001	116.6	lagD	493	643	PF00005.27	ABC_tran	5000	7163	c00038_gnlPro...region001_ORF6:gid:lagD:pid:gnl_Prokka_PCIJMFOK_02593:loc:5000:7163:strand:+
+c00038_gnlPro...region001	136.2	chrA	220	384	PF02417.15	Chromate_transp	7385	8549	c00038_gnlPro...region001_ORF7:gid:chrA:pid:gnl_Prokka_PCIJMFOK_02594:loc:7385:8549:strand:-
+c00038_gnlPro...region001	111.5	chrA	5	169	PF02417.15	Chromate_transp	7385	8549	c00038_gnlPro...region001_ORF7:gid:chrA:pid:gnl_Prokka_PCIJMFOK_02594:loc:7385:8549:strand:-
+c00038_gnlPro...region001	89.9	arsC_2	6	128	PF01451.21	LMWPc	8585	8978	c00038_gnlPro...region001_ORF8:gid:arsC_2:pid:gnl_Prokka_PCIJMFOK_02595:loc:8585:8978:strand:-
+c00038_gnlPro...region001	656.1	arsB_3	5	427	PF02040.15	ArsB	8995	10288	c00038_gnlPro...region001_ORF9:gid:arsB_3:pid:gnl_Prokka_PCIJMFOK_02596:loc:8995:10288:strand:-
+c00038_gnlPro...region001	57.0	sdpR_2	15	61	PF01022.20	HTH_5	10287	10602	c00038_gnlPro...region001_ORF10:gid:sdpR_2:pid:gnl_Prokka_PCIJMFOK_02597:loc:10287:10602:strand:-
+c00038_gnlPro...region001	304.4	lpl2	32	252	PF04507.12	DUF576	10907	11675	c00038_gnlPro...region001_ORF11:gid:lpl2:pid:gnl_Prokka_PCIJMFOK_02598:loc:10907:11675:strand:+

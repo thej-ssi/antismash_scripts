@@ -1,0 +1,147 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="520.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="510.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DNGEGIOB_01205_gene (DNGEGIOB_01205)
+Zinc-type alcohol dehydrogenase-like protein</title>
+			<polygon class="DNGEGIOB_01205_gene (DNGEGIOB_01205)
+Zinc-type alcohol dehydrogenase-like protein" points="23,25 26,25 26,10 56,40 26,70 26,55 23,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="26" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N_2 (PF13602)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF13602" points="42,30 52,40 42,50" stroke-linejoin="round" width="14" height="24" fill="rgb(101,131,226)" stroke="rgb(80,104,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>opuD_2 (DNGEGIOB_01206)
+Glycine betaine transporter OpuD</title>
+			<polygon class="opuD_2 (DNGEGIOB_01206)
+Glycine betaine transporter OpuD" points="67,25 89,25 89,10 119,40 89,70 89,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BCCT (PF02028)
+"BCCT, betaine/carnitine/choline family transporter"</title>
+				<polygon class="PF02028" points="67,28 102,28 114,40 102,52 67,52" stroke-linejoin="round" width="48" height="24" fill="rgb(206,109,74)" stroke="rgb(164,87,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_01207_gene (DNGEGIOB_01207)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_01207_gene (DNGEGIOB_01207)
+hypothetical protein" points="125,10 142,40 125,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DNGEGIOB_01208_gene (DNGEGIOB_01208)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_01208_gene (DNGEGIOB_01208)
+hypothetical protein" points="143,10 151,40 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2273 (PF10031)
+"Small integral membrane protein (DUF2273)"</title>
+				<polygon class="PF10031" points="144,28 144,28 147,40 144,52 144,52" stroke-linejoin="round" width="4" height="24" fill="rgb(203,147,56)" stroke="rgb(162,117,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_01209_gene (DNGEGIOB_01209)
+Alkaline shock protein 23</title>
+			<polygon class="DNGEGIOB_01209_gene (DNGEGIOB_01209)
+Alkaline shock protein 23" points="154,10 171,40 154,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp23 (PF03780)
+"Asp23 family, cell envelope-related function"</title>
+				<polygon class="PF03780" points="157,28 160,28 167,40 167,40 160,52 157,52" stroke-linejoin="round" width="10" height="24" fill="rgb(195,60,141)" stroke="rgb(156,48,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_3 (DNGEGIOB_01210)
+Aerobactin synthase</title>
+			<polygon class="iucC_3 (DNGEGIOB_01210)
+Aerobactin synthase" points="241,25 206,25 206,10 176,40 206,70 206,55 241,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 194,28 194,52 192,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="198" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_01211_gene (DNGEGIOB_01211)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_01211_gene (DNGEGIOB_01211)
+hypothetical protein" points="245,25 254,25 254,10 284,40 254,70 254,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="245,28 268,28 280,40 268,52 245,52" stroke-linejoin="round" width="39" height="24" fill="rgb(80,62,217)" stroke="rgb(64,49,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucA_2 (DNGEGIOB_01212)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase</title>
+			<polygon class="iucA_2 (DNGEGIOB_01212)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase" points="285,25 313,25 313,10 343,40 313,70 313,55 285,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="300" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="326,28 327,28 339,40 327,52 326,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orr (DNGEGIOB_01213)
+Ornithine racemase</title>
+			<polygon class="orr (DNGEGIOB_01213)
+Ornithine racemase" points="344,25 349,25 349,10 379,40 349,70 349,55 344,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ala_racemase_N (PF01168)
+"Alanine racemase, N-terminal domain"</title>
+				<polygon class="PF01168" points="344,28 363,28 365,30 365,50 363,52 344,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,82,180)" stroke="rgb(69,65,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfmC (DNGEGIOB_01214)
+Fe(3+)-citrate-binding protein YfmC</title>
+			<polygon class="yfmC (DNGEGIOB_01214)
+Fe(3+)-citrate-binding protein YfmC" points="395,25 397,25 397,10 427,40 397,70 397,55 395,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="400,28 411,28 423,40 411,52 400,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiZ_2 (DNGEGIOB_01215)
+putative siderophore transport system permease protein YfiZ</title>
+			<polygon class="yfiZ_2 (DNGEGIOB_01215)
+putative siderophore transport system permease protein YfiZ" points="428,25 432,25 432,10 462,40 432,70 432,55 428,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="431,28 446,28 458,40 446,52 431,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fecD_2 (DNGEGIOB_01216)
+Fe(3+) dicitrate transport system permease protein FecD</title>
+			<polygon class="fecD_2 (DNGEGIOB_01216)
+Fe(3+) dicitrate transport system permease protein FecD" points="462,25 464,25 464,10 494,40 464,70 464,55 462,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="463,28 478,28 490,40 478,52 463,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

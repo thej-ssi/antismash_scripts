@@ -1,0 +1,239 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="827.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="817.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>patA_3 (PDCLAJNK_02224)
+Putative N-acetyl-LL-diaminopimelate aminotransferase</title>
+			<polygon class="patA_3 (PDCLAJNK_02224)
+Putative N-acetyl-LL-diaminopimelate aminotransferase" points="37,25 46,25 46,10 76,40 46,70 46,55 37,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="39,28 59,28 71,40 59,52 39,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>menB (PDCLAJNK_02225)
+1,4-dihydroxy-2-naphthoyl-CoA synthase</title>
+			<polygon class="menB (PDCLAJNK_02225)
+1,4-dihydroxy-2-naphthoyl-CoA synthase" points="80,40 107,10 107,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ECH_1 (PF00378)
+"Enoyl-CoA hydratase/isomerase"</title>
+				<polygon class="PF00378" points="84,40 95,28 105,28 105,52 95,52" stroke-linejoin="round" width="25" height="24" fill="rgb(218,72,181)" stroke="rgb(174,57,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>menH (PDCLAJNK_02226)
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxy late synthase</title>
+			<polygon class="menH (PDCLAJNK_02226)
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxy late synthase" points="107,40 133,10 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_6 (PF12697)
+"Alpha/beta hydrolase family"</title>
+				<polygon class="PF12697" points="111,40 122,28 131,28 131,52 122,52" stroke-linejoin="round" width="23" height="24" fill="rgb(113,71,219)" stroke="rgb(90,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>menD (PDCLAJNK_02227)
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene- 1-carboxylate synthase</title>
+			<polygon class="menD (PDCLAJNK_02227)
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene- 1-carboxylate synthase" points="188,25 163,25 163,10 133,40 163,70 163,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="137,40 148,29 148,51" stroke-linejoin="round" width="12" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M_2 (PF16582)
+"Middle domain of thiamine pyrophosphate"</title>
+				<rect class="PF16582" x="150" y="28" stroke-linejoin="round" width="19" height="24" fill="rgb(60,158,198)" stroke="rgb(47,126,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="170" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pchA (PDCLAJNK_02228)
+Salicylate biosynthesis isochorismate synthase</title>
+			<polygon class="pchA (PDCLAJNK_02228)
+Salicylate biosynthesis isochorismate synthase" points="233,25 218,25 218,10 188,40 218,70 218,55 233,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chorismate_bind (PF00425)
+"chorismate binding enzyme"</title>
+				<polygon class="PF00425" points="192,40 204,28 214,28 214,52 204,52" stroke-linejoin="round" width="25" height="24" fill="rgb(188,116,88)" stroke="rgb(150,92,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>menA (PDCLAJNK_02229)
+1,4-dihydroxy-2-naphthoate octaprenyltransferase</title>
+			<polygon class="menA (PDCLAJNK_02229)
+1,4-dihydroxy-2-naphthoate octaprenyltransferase" points="240,25 241,25 241,10 271,40 241,70 241,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UbiA (PF01040)
+"UbiA prenyltransferase family"</title>
+				<polygon class="PF01040" points="242,28 255,28 267,40 255,52 242,52" stroke-linejoin="round" width="26" height="24" fill="rgb(189,57,100)" stroke="rgb(151,45,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02230_gene (PDCLAJNK_02230)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02230_gene (PDCLAJNK_02230)
+hypothetical protein" points="273,40 291,10 291,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_1 (PF00583)
+"Acetyltransferase (GNAT) family"</title>
+				<polygon class="PF00583" points="277,40 284,28 290,28 290,52 284,52" stroke-linejoin="round" width="15" height="24" fill="rgb(121,183,50)" stroke="rgb(96,146,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02231_gene (PDCLAJNK_02231)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02231_gene (PDCLAJNK_02231)
+hypothetical protein" points="298,10 302,40 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02232_gene (PDCLAJNK_02232)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02232_gene (PDCLAJNK_02232)
+hypothetical protein" points="318,10 338,40 318,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trans_reg_C (PF00486)
+"Transcriptional regulatory protein, C terminal"</title>
+				<polygon class="PF00486" points="330,33 334,40 330,47" stroke-linejoin="round" width="7" height="24" fill="rgb(204,153,57)" stroke="rgb(163,122,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisC (PDCLAJNK_02233)
+Nisin biosynthesis protein NisC</title>
+			<polygon class="nisC (PDCLAJNK_02233)
+Nisin biosynthesis protein NisC" points="383,25 373,25 373,10 343,40 373,70 373,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="347,40 359,28 381,28 381,52 359,52" stroke-linejoin="round" width="38" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisB (PDCLAJNK_02234)
+Nisin biosynthesis protein NisB</title>
+			<polygon class="nisB (PDCLAJNK_02234)
+Nisin biosynthesis protein NisB" points="483,25 414,25 414,10 384,40 414,70 414,55 483,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="388,40 400,28 410,28 410,52 400,52" stroke-linejoin="round" width="25" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="416" y="28" stroke-linejoin="round" width="63" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdmA (PDCLAJNK_02235)
+Lantibiotic gallidermin</title>
+			<polygon class="gdmA (PDCLAJNK_02235)
+Lantibiotic gallidermin" points="487,40 491,10 491,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="490,40 491,33 491,47" stroke-linejoin="round" width="4" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02236_gene (PDCLAJNK_02236)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02236_gene (PDCLAJNK_02236)
+hypothetical protein" points="509,10 528,40 509,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02237_gene (PDCLAJNK_02237)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02237_gene (PDCLAJNK_02237)
+hypothetical protein" points="553,40 561,10 561,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02238_gene (PDCLAJNK_02238)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02238_gene (PDCLAJNK_02238)
+hypothetical protein" points="563,40 581,10 581,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02239_gene (PDCLAJNK_02239)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02239_gene (PDCLAJNK_02239)
+hypothetical protein" points="596,40 602,10 602,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02240_gene (PDCLAJNK_02240)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02240_gene (PDCLAJNK_02240)
+hypothetical protein" points="617,40 631,10 631,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02241_gene (PDCLAJNK_02241)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02241_gene (PDCLAJNK_02241)
+hypothetical protein" points="633,40 639,10 639,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02242_gene (PDCLAJNK_02242)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02242_gene (PDCLAJNK_02242)
+hypothetical protein" points="658,40 664,10 664,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02243_gene (PDCLAJNK_02243)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02243_gene (PDCLAJNK_02243)
+hypothetical protein" points="697,40 703,10 703,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lss (PDCLAJNK_02244)
+Lysostaphin</title>
+			<polygon class="lss (PDCLAJNK_02244)
+Lysostaphin" points="767,25 749,25 749,10 719,40 749,70 749,55 767,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SH3_5 (PF08460)
+"Bacterial SH3 domain"</title>
+				<polygon class="PF08460" points="723,40 726,37 726,43" stroke-linejoin="round" width="6" height="24" fill="rgb(222,70,219)" stroke="rgb(177,56,175)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Amidase_2 (PF01510)
+"N-acetylmuramoyl-L-alanine amidase"</title>
+				<polygon class="PF01510" points="734,29 735,28 747,28 747,52 735,52 734,51" stroke-linejoin="round" width="13" height="24" fill="rgb(122,192,71)" stroke="rgb(97,153,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<rect class="PF05257" x="754" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02245_gene (PDCLAJNK_02245)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02245_gene (PDCLAJNK_02245)
+hypothetical protein" points="767,40 780,10 780,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Phage_holin_1 (PF04531)
+"Bacteriophage holin"</title>
+				<polygon class="PF04531" points="772,36 775,28 779,28 779,52 775,52 772,44" stroke-linejoin="round" width="7" height="24" fill="rgb(221,100,221)" stroke="rgb(176,80,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PDCLAJNK_02246_gene (PDCLAJNK_02246)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02246_gene (PDCLAJNK_02246)
+hypothetical protein" points="782,40 799,10 799,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PDCLAJNK_02247_gene (PDCLAJNK_02247)
+hypothetical protein</title>
+			<polygon class="PDCLAJNK_02247_gene (PDCLAJNK_02247)
+hypothetical protein" points="800,40 817,10 817,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

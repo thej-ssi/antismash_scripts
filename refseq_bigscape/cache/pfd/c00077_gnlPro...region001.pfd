@@ -1,0 +1,4 @@
+c00077_gnlPro...region001	145.2	crtM	1	188	PF00494.19	SQS_PSY	189	798	c00077_gnlPro...region001_ORF1:gid:crtM:pid:gnl_Prokka_BOIIOIPH_01641:loc:189:798:strand:+
+c00077_gnlPro...region001	102.2	crtN	10	494	PF01593.24	Amino_oxidase	810	2316	c00077_gnlPro...region001_ORF2:gid:crtN:pid:gnl_Prokka_BOIIOIPH_01642:loc:810:2316:strand:+
+c00077_gnlPro...region001	194.2	bacF	29	377	PF00155.21	Aminotran_1_2	2566	3727	c00077_gnlPro...region001_ORF4:gid:bacF:pid:gnl_Prokka_BOIIOIPH_01644:loc:2566:3727:strand:+
+c00077_gnlPro...region001	158.6	ldhD_1	113	302	PF02826.19	2-Hacid_dh_C	3747	4752	c00077_gnlPro...region001_ORF5:gid:ldhD_1:pid:gnl_Prokka_BOIIOIPH_01645:loc:3747:4752:strand:+

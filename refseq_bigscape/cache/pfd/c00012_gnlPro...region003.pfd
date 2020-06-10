@@ -1,0 +1,14 @@
+c00012_gnlPro...region003	26.9	JOBKCDGE_01930_gene	30	109	PF08240.12	ADH_N	442	1456	c00012_gnlPro...region003_ORF1:gid:JOBKCDGE_01930_gene:pid:gnl_Prokka_JOBKCDGE_01930:loc:442:1456:strand:+
+c00012_gnlPro...region003	53.5	JOBKCDGE_01930_gene	160	282	PF00107.26	ADH_zinc_N	442	1456	c00012_gnlPro...region003_ORF1:gid:JOBKCDGE_01930_gene:pid:gnl_Prokka_JOBKCDGE_01930:loc:442:1456:strand:+
+c00012_gnlPro...region003	621.1	opuD_2	17	499	PF02028.17	BCCT	1652	3242	c00012_gnlPro...region003_ORF2:gid:opuD_2:pid:gnl_Prokka_JOBKCDGE_01931:loc:1652:3242:strand:+
+c00012_gnlPro...region003	51.8	JOBKCDGE_01933_gene	19	66	PF10031.9	DUF2273	3974	4214	c00012_gnlPro...region003_ORF4:gid:JOBKCDGE_01933_gene:pid:gnl_Prokka_JOBKCDGE_01933:loc:3974:4214:strand:+
+c00012_gnlPro...region003	117.9	JOBKCDGE_01934_gene	39	145	PF03780.13	Asp23	4287	4800	c00012_gnlPro...region003_ORF5:gid:JOBKCDGE_01934_gene:pid:gnl_Prokka_JOBKCDGE_01934:loc:4287:4800:strand:+
+c00012_gnlPro...region003	97.8	iucC	469	639	PF06276.12	FhuF	5000	6947	c00012_gnlPro...region003_ORF6:gid:iucC:pid:gnl_Prokka_JOBKCDGE_01935:loc:5000:6947:strand:-
+c00012_gnlPro...region003	193.5	iucC	194	438	PF04183.12	IucA_IucC	5000	6947	c00012_gnlPro...region003_ORF6:gid:iucC:pid:gnl_Prokka_JOBKCDGE_01935:loc:5000:6947:strand:-
+c00012_gnlPro...region003	140.7	JOBKCDGE_01936_gene	3	393	PF05977.13	MFS_3	7051	8233	c00012_gnlPro...region003_ORF7:gid:JOBKCDGE_01936_gene:pid:gnl_Prokka_JOBKCDGE_01936:loc:7051:8233:strand:+
+c00012_gnlPro...region003	169.6	iucA	156	385	PF04183.12	IucA_IucC	8222	9980	c00012_gnlPro...region003_ORF8:gid:iucA:pid:gnl_Prokka_JOBKCDGE_01937:loc:8222:9980:strand:+
+c00012_gnlPro...region003	94.2	iucA	412	573	PF06276.12	FhuF	8222	9980	c00012_gnlPro...region003_ORF8:gid:iucA:pid:gnl_Prokka_JOBKCDGE_01937:loc:8222:9980:strand:+
+c00012_gnlPro...region003	75.4	orr	6	222	PF01168.20	Ala_racemase_N	9983	11039	c00012_gnlPro...region003_ORF9:gid:orr:pid:gnl_Prokka_JOBKCDGE_01938:loc:9983:11039:strand:+
+c00012_gnlPro...region003	108.9	yfmC_2	58	302	PF01497.18	Peripla_BP_2	11327	12326	c00012_gnlPro...region003_ORF10:gid:yfmC_2:pid:gnl_Prokka_JOBKCDGE_01939:loc:11327:12326:strand:+
+c00012_gnlPro...region003	316.7	yfiZ	30	338	PF01032.18	FecCD	12337	13369	c00012_gnlPro...region003_ORF11:gid:yfiZ:pid:gnl_Prokka_JOBKCDGE_01940:loc:12337:13369:strand:+
+c00012_gnlPro...region003	294.0	fecD	16	320	PF01032.18	FecCD	13365	14334	c00012_gnlPro...region003_ORF12:gid:fecD:pid:gnl_Prokka_JOBKCDGE_01941:loc:13365:14334:strand:+

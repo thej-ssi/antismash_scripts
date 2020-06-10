@@ -1,0 +1,99 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="373.6666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="363.6666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>JIGFPPLC_02437_gene (JIGFPPLC_02437)
+hypothetical protein</title>
+			<polygon class="JIGFPPLC_02437_gene (JIGFPPLC_02437)
+hypothetical protein" points="30,10 49,40 30,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4888 (PF16229)
+"Domain of unknown function (DUF4888)"</title>
+				<polygon class="PF16229" points="34,28 37,28 45,40 37,52 34,52" stroke-linejoin="round" width="14" height="24" fill="rgb(187,61,86)" stroke="rgb(149,48,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JIGFPPLC_02438_gene (JIGFPPLC_02438)
+hypothetical protein</title>
+			<polygon class="JIGFPPLC_02438_gene (JIGFPPLC_02438)
+hypothetical protein" points="63,40 86,10 86,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>JIGFPPLC_02439_gene (JIGFPPLC_02439)
+hypothetical protein</title>
+			<polygon class="JIGFPPLC_02439_gene (JIGFPPLC_02439)
+hypothetical protein" points="86,40 111,10 111,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>yxlF_1 (JIGFPPLC_02440)
+putative ABC transporter ATP-binding protein YxlF</title>
+			<polygon class="yxlF_1 (JIGFPPLC_02440)
+putative ABC transporter ATP-binding protein YxlF" points="111,40 134,10 134,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="118,36 124,28 131,28 131,52 124,52 118,44" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisP (JIGFPPLC_02441)
+Nisin leader peptide-processing serine protease NisP</title>
+			<polygon class="nisP (JIGFPPLC_02441)
+Nisin leader peptide-processing serine protease NisP" points="180,25 165,25 165,10 135,40 165,70 165,55 180,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_S8 (PF00082)
+"Subtilase family"</title>
+				<polygon class="PF00082" points="139,40 151,28 167,28 167,52 151,52" stroke-linejoin="round" width="31" height="24" fill="rgb(193,159,94)" stroke="rgb(154,127,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>epiD (JIGFPPLC_02442)
+Epidermin decarboxylase</title>
+			<polygon class="epiD (JIGFPPLC_02442)
+Epidermin decarboxylase" points="181,40 198,10 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavoprotein (PF02441)
+"Flavoprotein"</title>
+				<polygon class="PF02441" points="184,40 191,28 197,28 197,52 191,52" stroke-linejoin="round" width="16" height="24" fill="rgb(199,95,88)" stroke="rgb(159,76,70)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisC (JIGFPPLC_02443)
+Nisin biosynthesis protein NisC</title>
+			<polygon class="nisC (JIGFPPLC_02443)
+Nisin biosynthesis protein NisC" points="240,25 229,25 229,10 199,40 229,70 229,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LANC_like (PF05147)
+"Lanthionine synthetase C-like protein"</title>
+				<polygon class="PF05147" points="203,40 215,28 237,28 237,52 215,52" stroke-linejoin="round" width="38" height="24" fill="rgb(129,182,79)" stroke="rgb(103,145,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nisB (JIGFPPLC_02444)
+Nisin biosynthesis protein NisB</title>
+			<polygon class="nisB (JIGFPPLC_02444)
+Nisin biosynthesis protein NisB" points="339,25 270,25 270,10 240,40 270,70 270,55 339,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lant_dehydr_C (PF14028)
+"Lantibiotic biosynthesis dehydratase C-term"</title>
+				<polygon class="PF14028" points="244,40 256,28 266,28 266,52 256,52" stroke-linejoin="round" width="25" height="24" fill="rgb(107,223,113)" stroke="rgb(85,178,90)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lant_dehydr_N (PF04738)
+"Lantibiotic dehydratase, N terminus"</title>
+				<rect class="PF04738" x="272" y="28" stroke-linejoin="round" width="63" height="24" fill="rgb(219,60,229)" stroke="rgb(175,47,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gdmA_1 (JIGFPPLC_02445)
+Lantibiotic gallidermin</title>
+			<polygon class="gdmA_1 (JIGFPPLC_02445)
+Lantibiotic gallidermin" points="342,40 346,10 346,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gallidermin (PF02052)
+"Gallidermin"</title>
+				<polygon class="PF02052" points="345,40 346,34 346,46" stroke-linejoin="round" width="4" height="24" fill="rgb(66,195,175)" stroke="rgb(52,156,140)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

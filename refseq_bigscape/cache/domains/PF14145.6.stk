@@ -1,0 +1,25 @@
+# STOCKHOLM 1.0
+
+c00020_gnlPro...region001_ORF24:gid:HNPJFCIA_01282_gene:pid:gnl_Prokka_HNPJFCIA_01282:loc:21835:22153:strand:+:30:86         f--YKALYQINDIVLGLIFLVGSFLFF----SDKTMIAGTVLFVIGSLQMTARPIISFIHD-l
+#=GR c00020_gnlPro...region001_ORF24:gid:HNPJFCIA_01282_gene:pid:gnl_Prokka_HNPJFCIA_01282:loc:21835:22153:strand:+:30:86 PP 5..9***********************....99**************************96.6
+c00012_gnlPro...region002_ORF26:gid:JOBKCDGE_01594_gene:pid:gnl_Prokka_JOBKCDGE_01594:loc:29236:29554:strand:-:30:86         f--YKALYQINDIVLGLIFLVGSFLFF----SDKTMIAGTVLFVIGSLQMTARPIISFIHD-l
+#=GR c00012_gnlPro...region002_ORF26:gid:JOBKCDGE_01594_gene:pid:gnl_Prokka_JOBKCDGE_01594:loc:29236:29554:strand:-:30:86 PP 5..9***********************....99**************************96.6
+c00218_gnlPro...region001_ORF2:gid:GFBPJCFC_02054_gene:pid:gnl_Prokka_GFBPJCFC_02054:loc:642:960:strand:-:30:86              f--YKALYQINDIVLGLIFLVGSFLFF----SDKTMIAGTVLFVIGSLQMTARPIISFIHD-l
+#=GR c00218_gnlPro...region001_ORF2:gid:GFBPJCFC_02054_gene:pid:gnl_Prokka_GFBPJCFC_02054:loc:642:960:strand:-:30:86      PP 5..9***********************....99**************************96.6
+c00111_gnlPro...region001_ORF7:gid:ONKOLKPD_02117_gene:pid:gnl_Prokka_ONKOLKPD_02117:loc:5606:5924:strand:+:30:86            f--YKALYQINDIVLGLIFLVGSFLFF----SDKTMIAGTVLFVIGSLQMTARPIISFIHD-l
+#=GR c00111_gnlPro...region001_ORF7:gid:ONKOLKPD_02117_gene:pid:gnl_Prokka_ONKOLKPD_02117:loc:5606:5924:strand:+:30:86    PP 5..9***********************....99**************************96.6
+c00062_gnlPro...region001_ORF12:gid:IJPGPKLD_02191_gene:pid:gnl_Prokka_IJPGPKLD_02191:loc:11907:12228:strand:+:30:86         f--YKALYQINDIVLGLIFLVGSFFFF----SDQTMIAGTVLFVIGSLQMTARPVISFIHD-l
+#=GR c00062_gnlPro...region001_ORF12:gid:IJPGPKLD_02191_gene:pid:gnl_Prokka_IJPGPKLD_02191:loc:11907:12228:strand:+:30:86 PP 5..9***********************....99**************************96.6
+c00052_gnlPro...region001_ORF2:gid:MHLOJDLD_01228_gene:pid:gnl_Prokka_MHLOJDLD_01228:loc:669:987:strand:-:30:86              f--YKALYQINDIVLGLIFLVGSFLFF----SDKTMIAGTVLFVIGSLQMTARPIISFIHD-l
+#=GR c00052_gnlPro...region001_ORF2:gid:MHLOJDLD_01228_gene:pid:gnl_Prokka_MHLOJDLD_01228:loc:669:987:strand:-:30:86      PP 5..9***********************....99**************************96.6
+c00009_gnlPro...region002_ORF24:gid:DHAILMMN_00654_gene:pid:gnl_Prokka_DHAILMMN_00654:loc:21849:22170:strand:+:30:86         f--YKALYQINDIVLGLIFLVGSFFFF----SDQTMVAGTILFVIGSLQMTARPVISFIHD-l
+#=GR c00009_gnlPro...region002_ORF24:gid:DHAILMMN_00654_gene:pid:gnl_Prokka_DHAILMMN_00654:loc:21849:22170:strand:+:30:86 PP 5..9***********************....99**************************96.6
+c00013_gnlPro...region002_ORF24:gid:BALGINPN_01694_gene:pid:gnl_Prokka_BALGINPN_01694:loc:21835:22153:strand:+:30:86         f--YKALYQINDIVLGLIFLVGSFLFF----SDKTMIAGTVLFVIGSLQMTARPIISFIHD-l
+#=GR c00013_gnlPro...region002_ORF24:gid:BALGINPN_01694_gene:pid:gnl_Prokka_BALGINPN_01694:loc:21835:22153:strand:+:30:86 PP 5..9***********************....99**************************96.6
+c00098_gnlPro...region001_ORF3:gid:BOIIOIPH_02073_gene:pid:gnl_Prokka_BOIIOIPH_02073:loc:1482:1800:strand:-:30:86            f--YKALYQINDIVLGLIFLVGSFLFF----SDKTMIAGTVLFVIGSLQMTARPIISFIHD-l
+#=GR c00098_gnlPro...region001_ORF3:gid:BOIIOIPH_02073_gene:pid:gnl_Prokka_BOIIOIPH_02073:loc:1482:1800:strand:-:30:86    PP 5..9***********************....99**************************96.6
+c00039_gnlPro...region001_ORF15:gid:DAFNCOFO_01581_gene:pid:gnl_Prokka_DAFNCOFO_01581:loc:13438:13759:strand:-:30:86         f--YKALYQINDIVLGLIFLVGSFFFF----SDQTMVAGTILFVIGSLQMTARPVISFIHD-l
+#=GR c00039_gnlPro...region001_ORF15:gid:DAFNCOFO_01581_gene:pid:gnl_Prokka_DAFNCOFO_01581:loc:13438:13759:strand:-:30:86 PP 5..9***********************....99**************************96.6
+#=GC PP_cons                                                                                                                 ...9***********************....99**************************96..
+#=GC RF                                                                                                                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

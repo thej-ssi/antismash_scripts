@@ -1,0 +1,109 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="412.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="402.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>yfiZ_1 (DJCDADDG_01550)
+putative siderophore transport system permease protein YfiZ</title>
+			<polygon class="yfiZ_1 (DJCDADDG_01550)
+putative siderophore transport system permease protein YfiZ" points="49,25 45,25 45,10 15,40 45,70 45,55 49,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="19,40 31,28 45,28 45,52 31,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfmC_2 (DJCDADDG_01551)
+Fe(3+)-citrate-binding protein YfmC</title>
+			<polygon class="yfmC_2 (DJCDADDG_01551)
+Fe(3+)-citrate-binding protein YfmC" points="82,25 80,25 80,10 50,40 80,70 80,55 82,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="54,40 66,28 76,28 76,52 66,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orr (DJCDADDG_01552)
+Ornithine racemase</title>
+			<polygon class="orr (DJCDADDG_01552)
+Ornithine racemase" points="131,25 126,25 126,10 96,40 126,70 126,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ala_racemase_N (PF01168)
+"Alanine racemase, N-terminal domain"</title>
+				<polygon class="PF01168" points="109,31 112,28 130,28 130,52 112,52 109,49" stroke-linejoin="round" width="21" height="24" fill="rgb(87,82,180)" stroke="rgb(69,65,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucA_1 (DJCDADDG_01553)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase</title>
+			<polygon class="iucA_1 (DJCDADDG_01553)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase" points="189,25 161,25 161,10 131,40 161,70 161,55 189,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="135,40 147,28 148,28 148,52 147,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="151" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01554_gene (DJCDADDG_01554)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01554_gene (DJCDADDG_01554)
+hypothetical protein" points="229,25 220,25 220,10 190,40 220,70 220,55 229,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="194,40 206,28 229,28 229,52 206,52" stroke-linejoin="round" width="39" height="24" fill="rgb(80,62,217)" stroke="rgb(64,49,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_1 (DJCDADDG_01555)
+Aerobactin synthase</title>
+			<polygon class="iucC_1 (DJCDADDG_01555)
+Aerobactin synthase" points="233,25 268,25 268,10 298,40 268,70 268,55 233,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="252" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="279,28 282,28 294,40 282,52 279,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01556_gene (DJCDADDG_01556)
+Alkaline shock protein 23</title>
+			<polygon class="DJCDADDG_01556_gene (DJCDADDG_01556)
+Alkaline shock protein 23" points="304,40 321,10 321,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp23 (PF03780)
+"Asp23 family, cell envelope-related function"</title>
+				<polygon class="PF03780" points="307,40 314,28 316,28 316,52 314,52" stroke-linejoin="round" width="10" height="24" fill="rgb(195,60,141)" stroke="rgb(156,48,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01557_gene (DJCDADDG_01557)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01557_gene (DJCDADDG_01557)
+hypothetical protein" points="323,40 331,10 331,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2273 (PF10031)
+"Small integral membrane protein (DUF2273)"</title>
+				<polygon class="PF10031" points="326,40 328,32 328,48" stroke-linejoin="round" width="4" height="24" fill="rgb(203,147,56)" stroke="rgb(162,117,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01558_gene (DJCDADDG_01558)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01558_gene (DJCDADDG_01558)
+hypothetical protein" points="331,40 348,10 348,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

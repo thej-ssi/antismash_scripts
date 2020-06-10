@@ -1,0 +1,14 @@
+c00033_gnlPro...region001	294.0	fecD	16	320	PF01032.18	FecCD	646	1615	c00033_gnlPro...region001_ORF1:gid:fecD:pid:gnl_Prokka_BOIIOIPH_00621:loc:646:1615:strand:-
+c00033_gnlPro...region001	316.7	yfiZ	30	338	PF01032.18	FecCD	1611	2643	c00033_gnlPro...region001_ORF2:gid:yfiZ:pid:gnl_Prokka_BOIIOIPH_00622:loc:1611:2643:strand:-
+c00033_gnlPro...region001	108.9	yfmC_1	58	302	PF01497.18	Peripla_BP_2	2654	3653	c00033_gnlPro...region001_ORF3:gid:yfmC_1:pid:gnl_Prokka_BOIIOIPH_00623:loc:2654:3653:strand:-
+c00033_gnlPro...region001	75.4	orr	6	222	PF01168.20	Ala_racemase_N	3941	4997	c00033_gnlPro...region001_ORF4:gid:orr:pid:gnl_Prokka_BOIIOIPH_00624:loc:3941:4997:strand:-
+c00033_gnlPro...region001	94.2	iucA	412	573	PF06276.12	FhuF	5000	6758	c00033_gnlPro...region001_ORF5:gid:iucA:pid:gnl_Prokka_BOIIOIPH_00625:loc:5000:6758:strand:-
+c00033_gnlPro...region001	169.6	iucA	156	385	PF04183.12	IucA_IucC	5000	6758	c00033_gnlPro...region001_ORF5:gid:iucA:pid:gnl_Prokka_BOIIOIPH_00625:loc:5000:6758:strand:-
+c00033_gnlPro...region001	140.1	BOIIOIPH_00626_gene	3	393	PF05977.13	MFS_3	6747	7929	c00033_gnlPro...region001_ORF6:gid:BOIIOIPH_00626_gene:pid:gnl_Prokka_BOIIOIPH_00626:loc:6747:7929:strand:-
+c00033_gnlPro...region001	193.5	iucC	194	438	PF04183.12	IucA_IucC	8033	9980	c00033_gnlPro...region001_ORF7:gid:iucC:pid:gnl_Prokka_BOIIOIPH_00627:loc:8033:9980:strand:+
+c00033_gnlPro...region001	97.8	iucC	469	639	PF06276.12	FhuF	8033	9980	c00033_gnlPro...region001_ORF7:gid:iucC:pid:gnl_Prokka_BOIIOIPH_00627:loc:8033:9980:strand:+
+c00033_gnlPro...region001	117.9	BOIIOIPH_00628_gene	39	145	PF03780.13	Asp23	10180	10693	c00033_gnlPro...region001_ORF8:gid:BOIIOIPH_00628_gene:pid:gnl_Prokka_BOIIOIPH_00628:loc:10180:10693:strand:-
+c00033_gnlPro...region001	51.8	BOIIOIPH_00629_gene	19	66	PF10031.9	DUF2273	10766	11006	c00033_gnlPro...region001_ORF9:gid:BOIIOIPH_00629_gene:pid:gnl_Prokka_BOIIOIPH_00629:loc:10766:11006:strand:-
+c00033_gnlPro...region001	621.1	opuD_1	17	499	PF02028.17	BCCT	11738	13328	c00033_gnlPro...region001_ORF11:gid:opuD_1:pid:gnl_Prokka_BOIIOIPH_00631:loc:11738:13328:strand:-
+c00033_gnlPro...region001	53.5	BOIIOIPH_00632_gene	160	282	PF00107.26	ADH_zinc_N	13524	14538	c00033_gnlPro...region001_ORF12:gid:BOIIOIPH_00632_gene:pid:gnl_Prokka_BOIIOIPH_00632:loc:13524:14538:strand:-
+c00033_gnlPro...region001	26.9	BOIIOIPH_00632_gene	30	109	PF08240.12	ADH_N	13524	14538	c00033_gnlPro...region001_ORF12:gid:BOIIOIPH_00632_gene:pid:gnl_Prokka_BOIIOIPH_00632:loc:13524:14538:strand:-

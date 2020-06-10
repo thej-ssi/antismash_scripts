@@ -1,0 +1,152 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="519.3" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="509.3" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>yfmJ (PCIJMFOK_01727)
+Putative NADP-dependent oxidoreductase YfmJ</title>
+			<polygon class="yfmJ (PCIJMFOK_01727)
+Putative NADP-dependent oxidoreductase YfmJ" points="41,25 44,25 44,10 74,40 44,70 44,55 41,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N_2 (PF16884)
+"N-terminal domain of oxidoreductase"</title>
+				<rect class="PF16884" x="41" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(185,119,52)" stroke="rgb(148,95,41)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="56,28 58,28 69,39 69,41 58,52 56,52" stroke-linejoin="round" width="13" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PCIJMFOK_01728_gene (PCIJMFOK_01728)
+Zinc-type alcohol dehydrogenase-like protein</title>
+			<polygon class="PCIJMFOK_01728_gene (PCIJMFOK_01728)
+Zinc-type alcohol dehydrogenase-like protein" points="78,25 81,25 81,10 111,40 81,70 81,55 78,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="81" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="94,28 95,28 106,39 106,41 95,52 94,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PCIJMFOK_01729_gene (PCIJMFOK_01729)
+hypothetical protein</title>
+			<polygon class="PCIJMFOK_01729_gene (PCIJMFOK_01729)
+hypothetical protein" points="127,10 144,40 127,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PCIJMFOK_01730_gene (PCIJMFOK_01730)
+hypothetical protein</title>
+			<polygon class="PCIJMFOK_01730_gene (PCIJMFOK_01730)
+hypothetical protein" points="145,10 153,40 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2273 (PF10031)
+"Small integral membrane protein (DUF2273)"</title>
+				<polygon class="PF10031" points="146,28 146,28 149,40 146,52 146,52" stroke-linejoin="round" width="4" height="24" fill="rgb(203,147,56)" stroke="rgb(162,117,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PCIJMFOK_01731_gene (PCIJMFOK_01731)
+Alkaline shock protein 23</title>
+			<polygon class="PCIJMFOK_01731_gene (PCIJMFOK_01731)
+Alkaline shock protein 23" points="155,10 172,40 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp23 (PF03780)
+"Asp23 family, cell envelope-related function"</title>
+				<polygon class="PF03780" points="158,28 161,28 168,40 168,40 161,52 158,52" stroke-linejoin="round" width="10" height="24" fill="rgb(195,60,141)" stroke="rgb(156,48,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC (PCIJMFOK_01732)
+Aerobactin synthase</title>
+			<polygon class="iucC (PCIJMFOK_01732)
+Aerobactin synthase" points="240,25 206,25 206,10 176,40 206,70 206,55 240,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 194,28 194,52 192,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="197" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PCIJMFOK_01733_gene (PCIJMFOK_01733)
+hypothetical protein</title>
+			<polygon class="PCIJMFOK_01733_gene (PCIJMFOK_01733)
+hypothetical protein" points="245,25 254,25 254,10 284,40 254,70 254,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="245,28 268,28 280,40 268,52 245,52" stroke-linejoin="round" width="39" height="24" fill="rgb(80,62,217)" stroke="rgb(64,49,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucA (PCIJMFOK_01734)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase</title>
+			<polygon class="iucA (PCIJMFOK_01734)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase" points="284,25 312,25 312,10 342,40 312,70 312,55 284,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="299" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="325,28 326,28 338,40 326,52 325,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orr (PCIJMFOK_01735)
+Ornithine racemase</title>
+			<polygon class="orr (PCIJMFOK_01735)
+Ornithine racemase" points="342,25 347,25 347,10 377,40 347,70 347,55 342,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ala_racemase_N (PF01168)
+"Alanine racemase, N-terminal domain"</title>
+				<polygon class="PF01168" points="342,28 361,28 363,30 363,50 361,52 342,52" stroke-linejoin="round" width="21" height="24" fill="rgb(87,82,180)" stroke="rgb(69,65,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfmC_1 (PCIJMFOK_01736)
+Fe(3+)-citrate-binding protein YfmC</title>
+			<polygon class="yfmC_1 (PCIJMFOK_01736)
+Fe(3+)-citrate-binding protein YfmC" points="391,25 394,25 394,10 424,40 394,70 394,55 391,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="396,28 408,28 420,40 420,40 408,52 396,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiZ (PCIJMFOK_01737)
+putative siderophore transport system permease protein YfiZ</title>
+			<polygon class="yfiZ (PCIJMFOK_01737)
+putative siderophore transport system permease protein YfiZ" points="425,25 429,25 429,10 459,40 429,70 429,55 425,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="428,28 443,28 455,40 443,52 428,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fecD_1 (PCIJMFOK_01738)
+Fe(3+) dicitrate transport system permease protein FecD</title>
+			<polygon class="fecD_1 (PCIJMFOK_01738)
+Fe(3+) dicitrate transport system permease protein FecD" points="459,25 461,25 461,10 491,40 461,70 461,55 459,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="460,28 475,28 487,40 475,52 460,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+c00079_gnlPro...region001	351.4	cycA_3	13	455	PF00324.21	AA_permease	164	1562	c00079_gnlPro...region001_ORF1:gid:cycA_3:pid:gnl_Prokka_MHLOJDLD_02046:loc:164:1562:strand:+
+c00079_gnlPro...region001	106.9	lipR	106	308	PF07859.13	Abhydrolase_3	1661	2672	c00079_gnlPro...region001_ORF2:gid:lipR:pid:gnl_Prokka_MHLOJDLD_02047:loc:1661:2672:strand:-
+c00079_gnlPro...region001	301.8	MHLOJDLD_02048_gene	15	350	PF13303.6	PTS_EIIC_2	2959	4018	c00079_gnlPro...region001_ORF3:gid:MHLOJDLD_02048_gene:pid:gnl_Prokka_MHLOJDLD_02048:loc:2959:4018:strand:+
+c00079_gnlPro...region001	87.8	tmk_2	1	220	PF03976.14	PPK2	4123	5530	c00079_gnlPro...region001_ORF4:gid:tmk_2:pid:gnl_Prokka_MHLOJDLD_02049:loc:4123:5530:strand:+
+c00079_gnlPro...region001	285.0	tmk_2	244	467	PF03976.14	PPK2	4123	5530	c00079_gnlPro...region001_ORF4:gid:tmk_2:pid:gnl_Prokka_MHLOJDLD_02049:loc:4123:5530:strand:+
+c00079_gnlPro...region001	78.3	crtP	12	489	PF01593.24	Amino_oxidase	7353	8844	c00079_gnlPro...region001_ORF7:gid:crtP:pid:gnl_Prokka_MHLOJDLD_02052:loc:7353:8844:strand:+
+c00079_gnlPro...region001	69.0	crtQ	43	205	PF00535.26	Glycos_transf_2	8850	9963	c00079_gnlPro...region001_ORF8:gid:crtQ:pid:gnl_Prokka_MHLOJDLD_02053:loc:8850:9963:strand:+
+c00079_gnlPro...region001	191.7	crtM	15	273	PF00494.19	SQS_PSY	10000	10864	c00079_gnlPro...region001_ORF9:gid:crtM:pid:gnl_Prokka_MHLOJDLD_02054:loc:10000:10864:strand:+
+c00079_gnlPro...region001	105.3	crtN	10	494	PF01593.24	Amino_oxidase	10876	12382	c00079_gnlPro...region001_ORF10:gid:crtN:pid:gnl_Prokka_MHLOJDLD_02055:loc:10876:12382:strand:+
+c00079_gnlPro...region001	192.7	bacF	29	377	PF00155.21	Aminotran_1_2	12632	13793	c00079_gnlPro...region001_ORF12:gid:bacF:pid:gnl_Prokka_MHLOJDLD_02057:loc:12632:13793:strand:+
+c00079_gnlPro...region001	164.8	ldhD_2	113	302	PF02826.19	2-Hacid_dh_C	13813	14818	c00079_gnlPro...region001_ORF13:gid:ldhD_2:pid:gnl_Prokka_MHLOJDLD_02058:loc:13813:14818:strand:+

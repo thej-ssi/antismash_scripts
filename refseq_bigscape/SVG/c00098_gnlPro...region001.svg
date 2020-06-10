@@ -1,0 +1,189 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="473.76666666666665" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="463.76666666666665" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>feoB (BOIIOIPH_02071)
+Fe(2+) transporter FeoB</title>
+			<polygon class="feoB (BOIIOIPH_02071)
+Fe(2+) transporter FeoB" points="11,10 26,40 11,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<polygon class="PF07670" points="11,28 16,28 23,40 23,40 16,52 11,52" stroke-linejoin="round" width="12" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_02072_gene (BOIIOIPH_02072)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_02072_gene (BOIIOIPH_02072)
+hypothetical protein" points="39,10 54,40 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>BOIIOIPH_02073_gene (BOIIOIPH_02073)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_02073_gene (BOIIOIPH_02073)
+hypothetical protein" points="59,40 69,10 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YrhK (PF14145)
+"YrhK-like protein"</title>
+				<polygon class="PF14145" points="62,40 66,28 66,28 66,52 66,52" stroke-linejoin="round" width="5" height="24" fill="rgb(102,190,225)" stroke="rgb(81,152,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ogt (BOIIOIPH_02074)
+Methylated-DNA--protein-cysteine methyltransferase</title>
+			<polygon class="ogt (BOIIOIPH_02074)
+Methylated-DNA--protein-cysteine methyltransferase" points="73,10 90,40 73,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_1N (PF02870)
+"6-O-methylguanine DNA methyltransferase, ribonuclease-like domain"</title>
+				<rect class="PF02870" x="73" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(96,209,110)" stroke="rgb(76,167,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_binding_1 (PF01035)
+"6-O-methylguanine DNA methyltransferase, DNA binding domain"</title>
+				<polygon class="PF01035" points="80,29 86,40 80,51" stroke-linejoin="round" width="8" height="24" fill="rgb(79,155,220)" stroke="rgb(63,123,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaS (BOIIOIPH_02075)
+Hydroxymethylglutaryl-CoA synthase</title>
+			<polygon class="mvaS (BOIIOIPH_02075)
+Hydroxymethylglutaryl-CoA synthase" points="130,25 122,25 122,10 92,40 122,70 122,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="96,40 105,31 105,49" stroke-linejoin="round" width="13" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="114" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaA (BOIIOIPH_02076)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase</title>
+			<polygon class="mvaA (BOIIOIPH_02076)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase" points="139,25 151,25 151,10 181,40 151,70 151,55 139,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="140,28 165,28 177,40 177,40 165,52 140,52" stroke-linejoin="round" width="37" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssaA_3 (BOIIOIPH_02077)
+Staphylococcal secretory antigen SsaA</title>
+			<polygon class="ssaA_3 (BOIIOIPH_02077)
+Staphylococcal secretory antigen SsaA" points="184,40 198,10 198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="187,40 193,28 194,28 194,52 193,52" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_02078_gene (BOIIOIPH_02078)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_02078_gene (BOIIOIPH_02078)
+hypothetical protein" points="207,40 214,10 214,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YozE_SAM_like (PF06855)
+"YozE SAM-like fold"</title>
+				<polygon class="PF06855" points="210,40 213,28 213,28 213,52 213,52" stroke-linejoin="round" width="6" height="24" fill="rgb(83,201,171)" stroke="rgb(66,160,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cynR_2 (BOIIOIPH_02079)
+HTH-type transcriptional regulator CynR</title>
+			<polygon class="cynR_2 (BOIIOIPH_02079)
+HTH-type transcriptional regulator CynR" points="220,10 249,40 220,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="220" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="228,28 233,28 245,40 233,52 228,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidA (BOIIOIPH_02080)
+Holin-like protein CidA</title>
+			<polygon class="cidA (BOIIOIPH_02080)
+Holin-like protein CidA" points="260,10 273,40 260,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgA (PF03788)
+"LrgA family"</title>
+				<polygon class="PF03788" points="262,28 264,28 269,40 264,52 262,52" stroke-linejoin="round" width="9" height="24" fill="rgb(51,191,185)" stroke="rgb(40,152,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidB (BOIIOIPH_02081)
+Holin-like protein CidB</title>
+			<polygon class="cidB (BOIIOIPH_02081)
+Holin-like protein CidB" points="273,10 296,40 273,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgB (PF04172)
+"LrgB-like family"</title>
+				<polygon class="PF04172" points="274,28 283,28 292,40 283,52 274,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,227,179)" stroke="rgb(45,181,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaP (BOIIOIPH_02082)
+Putative thiamine pyrophosphate-containing protein YdaP</title>
+			<polygon class="ydaP (BOIIOIPH_02082)
+Putative thiamine pyrophosphate-containing protein YdaP" points="298,25 326,25 326,10 356,40 326,70 326,55 298,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="298" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="317" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="336,28 339,28 350,39 350,41 339,52 336,52" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glcB (BOIIOIPH_02083)
+PTS system glucoside-specific EIICBA component</title>
+			<polygon class="glcB (BOIIOIPH_02083)
+PTS system glucoside-specific EIICBA component" points="364,25 402,25 402,10 432,40 402,70 402,55 364,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="365" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="408" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="418,30 428,40 418,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_02084_gene (BOIIOIPH_02084)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_02084_gene (BOIIOIPH_02084)
+hypothetical protein" points="438,10 457,40 438,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPBP (PF02517)
+"CPBP intramembrane metalloprotease"</title>
+				<polygon class="PF02517" points="452,37 454,40 452,43" stroke-linejoin="round" width="5" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

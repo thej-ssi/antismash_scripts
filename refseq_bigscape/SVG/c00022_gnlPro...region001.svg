@@ -1,0 +1,88 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="363.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="232.03333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>bin3 (DNGEGIOB_01879)
+Putative transposon Tn552 DNA-invertase bin3</title>
+			<polygon class="bin3 (DNGEGIOB_01879)
+Putative transposon Tn552 DNA-invertase bin3" points="24,10 41,40 24,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<rect class="PF00239" x="24" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(99,177,201)" stroke="rgb(79,141,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_7 (PF02796)
+"Helix-turn-helix domain of resolvase"</title>
+				<polygon class="PF02796" points="36,37 38,40 36,43" stroke-linejoin="round" width="5" height="24" fill="rgb(223,208,93)" stroke="rgb(178,166,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_01880_gene (DNGEGIOB_01880)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_01880_gene (DNGEGIOB_01880)
+hypothetical protein" points="55,10 64,40 55,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="58,29 61,40 58,51" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_01881_gene (DNGEGIOB_01881)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_01881_gene (DNGEGIOB_01881)
+hypothetical protein" points="67,25 101,25 101,10 131,40 101,70 101,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="121,34 127,40 121,46" stroke-linejoin="round" width="9" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_01882_gene (DNGEGIOB_01882)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_01882_gene (DNGEGIOB_01882)
+hypothetical protein" points="132,10 142,40 132,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DNGEGIOB_01883_gene (DNGEGIOB_01883)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="DNGEGIOB_01883_gene (DNGEGIOB_01883)
+putative ABC transporter ATP-binding protein" points="143,10 163,40 143,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="144,28 152,28 158,37 158,43 152,52 144,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pre_1 (DNGEGIOB_01884)
+Plasmid recombination enzyme</title>
+			<polygon class="pre_1 (DNGEGIOB_01884)
+Plasmid recombination enzyme" points="172,10 182,40 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mob_Pre (PF01076)
+"Plasmid recombination enzyme"</title>
+				<polygon class="PF01076" points="172,28 174,28 179,40 174,52 172,52" stroke-linejoin="round" width="10" height="24" fill="rgb(51,103,188)" stroke="rgb(40,82,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pre_2 (DNGEGIOB_01885)
+Plasmid recombination enzyme</title>
+			<polygon class="pre_2 (DNGEGIOB_01885)
+Plasmid recombination enzyme" points="183,10 193,40 183,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mob_Pre (PF01076)
+"Plasmid recombination enzyme"</title>
+				<polygon class="PF01076" points="183,28 185,28 189,40 185,52 183,52" stroke-linejoin="round" width="8" height="24" fill="rgb(51,103,188)" stroke="rgb(40,82,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_01886_gene (DNGEGIOB_01886)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_01886_gene (DNGEGIOB_01886)
+hypothetical protein" points="196,10 214,40 196,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

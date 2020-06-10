@@ -1,0 +1,191 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="799.7666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="789.7666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>NDLEPOIB_02403_gene (NDLEPOIB_02403)
+hypothetical protein</title>
+			<polygon class="NDLEPOIB_02403_gene (NDLEPOIB_02403)
+hypothetical protein" points="20,40 39,10 39,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_8 (PF14278)
+"Transcriptional regulator C-terminal region"</title>
+				<polygon class="PF14278" points="24,40 31,29 31,51" stroke-linejoin="round" width="10" height="24" fill="rgb(192,229,97)" stroke="rgb(153,183,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="33" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NDLEPOIB_02404_gene (NDLEPOIB_02404)
+hypothetical protein</title>
+			<polygon class="NDLEPOIB_02404_gene (NDLEPOIB_02404)
+hypothetical protein" points="47,25 53,25 53,10 83,40 53,70 53,55 47,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_2 (PF04909)
+"Amidohydrolase"</title>
+				<polygon class="PF04909" points="47,28 66,28 78,40 66,52 47,52" stroke-linejoin="round" width="35" height="24" fill="rgb(95,225,123)" stroke="rgb(76,180,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydgH (NDLEPOIB_02405)
+Putative membrane protein YdgH</title>
+			<polygon class="ydgH (NDLEPOIB_02405)
+Putative membrane protein YdgH" points="83,25 135,25 135,10 165,40 135,70 135,55 83,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<rect class="PF03176" x="86" y="28" stroke-linejoin="round" width="31" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>MMPL (PF03176)
+"MMPL family"</title>
+				<polygon class="PF03176" points="132,28 149,28 161,40 149,52 132,52" stroke-linejoin="round" width="33" height="24" fill="rgb(228,109,193)" stroke="rgb(182,87,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NDLEPOIB_02406_gene (NDLEPOIB_02406)
+hypothetical protein</title>
+			<polygon class="NDLEPOIB_02406_gene (NDLEPOIB_02406)
+hypothetical protein" points="204,25 204,25 204,10 174,40 204,70 204,55 204,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="178,40 188,30 188,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="189,29 190,28 203,28 203,52 190,52 189,51" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NDLEPOIB_02407_gene (NDLEPOIB_02407)
+hypothetical protein</title>
+			<polygon class="NDLEPOIB_02407_gene (NDLEPOIB_02407)
+hypothetical protein" points="210,40 217,10 217,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>zinc_ribbon_13 (PF09855)
+"Nucleic-acid-binding protein containing Zn-ribbon domain (DUF2082)"</title>
+				<polygon class="PF09855" points="213,40 216,28 216,28 216,52 216,52" stroke-linejoin="round" width="6" height="24" fill="rgb(162,223,70)" stroke="rgb(129,178,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nixA (NDLEPOIB_02408)
+High-affinity nickel-transport protein NixA</title>
+			<polygon class="nixA (NDLEPOIB_02408)
+High-affinity nickel-transport protein NixA" points="223,25 226,25 226,10 256,40 226,70 226,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NicO (PF03824)
+"High-affinity nickel-transport protein"</title>
+				<polygon class="PF03824" points="226,28 240,28 252,40 240,52 226,52" stroke-linejoin="round" width="28" height="24" fill="rgb(179,63,179)" stroke="rgb(143,50,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cpnA (NDLEPOIB_02409)
+Cyclopentanol dehydrogenase</title>
+			<polygon class="cpnA (NDLEPOIB_02409)
+Cyclopentanol dehydrogenase" points="262,10 290,40 262,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short (PF00106)
+"short chain dehydrogenase"</title>
+				<polygon class="PF00106" points="262,28 274,28 281,35 281,45 274,52 262,52" stroke-linejoin="round" width="19" height="24" fill="rgb(182,219,73)" stroke="rgb(145,175,58)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiT (NDLEPOIB_02410)
+Putative metal-dependent hydrolase YfiT</title>
+			<polygon class="yfiT (NDLEPOIB_02410)
+Putative metal-dependent hydrolase YfiT" points="295,40 312,10 312,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DinB_2 (PF12867)
+"DinB superfamily"</title>
+				<polygon class="PF12867" points="298,40 305,28 308,28 308,52 305,52" stroke-linejoin="round" width="13" height="24" fill="rgb(184,90,185)" stroke="rgb(147,72,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gabD (NDLEPOIB_02411)
+Succinate-semialdehyde dehydrogenase [NADP(+)]</title>
+			<polygon class="gabD (NDLEPOIB_02411)
+Succinate-semialdehyde dehydrogenase [NADP(+)]" points="359,25 343,25 343,10 313,40 343,70 343,55 359,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="317,40 329,28 358,28 358,52 329,52" stroke-linejoin="round" width="45" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mhqR (NDLEPOIB_02412)
+HTH-type transcriptional regulator MhqR</title>
+			<polygon class="mhqR (NDLEPOIB_02412)
+HTH-type transcriptional regulator MhqR" points="362,40 376,10 376,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_27 (PF13463)
+"Winged helix DNA-binding domain"</title>
+				<polygon class="PF13463" points="365,40 371,28 371,28 371,52 371,52 365,40" stroke-linejoin="round" width="6" height="24" fill="rgb(130,111,228)" stroke="rgb(103,88,182)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NDLEPOIB_02413_gene (NDLEPOIB_02413)
+KsdD-like steroid dehydrogenase</title>
+			<polygon class="NDLEPOIB_02413_gene (NDLEPOIB_02413)
+KsdD-like steroid dehydrogenase" points="383,25 408,25 408,10 438,40 408,70 408,55 383,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FAD_binding_2 (PF00890)
+"FAD binding domain"</title>
+				<polygon class="PF00890" points="383,28 422,28 434,40 422,52 383,52" stroke-linejoin="round" width="52" height="24" fill="rgb(63,199,116)" stroke="rgb(50,159,92)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>NDLEPOIB_02414_gene (NDLEPOIB_02414)
+hypothetical protein</title>
+			<polygon class="NDLEPOIB_02414_gene (NDLEPOIB_02414)
+hypothetical protein" points="443,10 456,40 443,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>NDLEPOIB_02415_gene (NDLEPOIB_02415)
+hypothetical protein</title>
+			<polygon class="NDLEPOIB_02415_gene (NDLEPOIB_02415)
+hypothetical protein" points="516,25 490,25 490,10 460,40 490,70 490,55 516,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_ATPase (PF09818)
+"Predicted ATPase of the ABC class"</title>
+				<polygon class="PF09818" points="472,32 476,28 516,28 516,52 476,52 472,48" stroke-linejoin="round" width="44" height="24" fill="rgb(224,114,112)" stroke="rgb(179,91,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>csbC (NDLEPOIB_02416)
+putative metabolite transport protein CsbC</title>
+			<polygon class="csbC (NDLEPOIB_02416)
+putative metabolite transport protein CsbC" points="566,25 552,25 552,10 522,40 552,70 552,55 566,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sugar_tr (PF00083)
+"Sugar (and other) transporter"</title>
+				<polygon class="PF00083" points="526,40 538,28 565,28 565,52 538,52" stroke-linejoin="round" width="42" height="24" fill="rgb(48,186,105)" stroke="rgb(38,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lip_2 (NDLEPOIB_02417)
+Lipase</title>
+			<polygon class="lip_2 (NDLEPOIB_02417)
+Lipase" points="646,25 604,25 604,10 574,40 604,70 604,55 646,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YSIRK_signal (PF04650)
+"YSIRK type signal peptide"</title>
+				<rect class="PF04650" x="644" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(74,138,184)" stroke="rgb(59,110,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sfp (NDLEPOIB_02418)
+4'-phosphopantetheinyl transferase sfp</title>
+			<polygon class="sfp (NDLEPOIB_02418)
+4'-phosphopantetheinyl transferase sfp" points="655,40 676,10 676,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="659,40 665,31 665,49" stroke-linejoin="round" width="9" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

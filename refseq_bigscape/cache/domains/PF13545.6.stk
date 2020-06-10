@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+c00005_gnlPro...region002_ORF5:gid:fnr:pid:gnl_Prokka_GMMBMKIH_02001:loc:4590:5277:strand:+:137:213         ailsn------LVRLANSfgkifKNGt.iLIDVKLTHEDLSQLCGMSRERITKSISKLKKDNILDydKKSKkFIILDLES----ike
+#=GR c00005_gnlPro...region002_ORF5:gid:fnr:pid:gnl_Prokka_GMMBMKIH_02001:loc:4590:5277:strand:+:137:213 PP 98766......6777665322222245.889**********************************8533234*****996....567
+c00005_gnlPro...region004_ORF6:gid:fnr:pid:gnl_Prokka_ALEOMKEF_00592:loc:9237:9876:strand:-:124:198         .....-RLLSILVRLANTf..geEEGrmiVIKIKITQEELAQYCGTTRENVARIMKQLKDRKIVD..TSSRfIKILSLEEIK--qm.
+#=GR c00005_gnlPro...region004_ORF6:gid:fnr:pid:gnl_Prokka_ALEOMKEF_00592:loc:9237:9876:strand:-:124:198 PP ......8999*****8863..3222368889**********************************..87688*****99876..57.
+c00113_gnlPro...region001_ORF4:gid:fnr:pid:gnl_Prokka_HPGMPKAP_02309:loc:2070:2709:strand:+:124:198         .....-RLLSILVRLANTf..geEEGrmiVIKIKITQEELAQYCGTTRENIARIMKQLKDRKIVD..TSSRfIKILSLEEIK--qm.
+#=GR c00113_gnlPro...region001_ORF4:gid:fnr:pid:gnl_Prokka_HPGMPKAP_02309:loc:2070:2709:strand:+:124:198 PP ......8999*****8863..3222368889**********************************..87688*****99876..57.
+#=GC PP_cons                                                                                                ......8999*9999776.....223...89**********************************..6656.*****99776.....
+#=GC RF                                                                                                     .....xxxxxxxxxxxxx.....xxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..xxxx.xxxxxxxxxxxx...
+//

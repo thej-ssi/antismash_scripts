@@ -1,0 +1,240 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="710.2666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="700.2666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DNGEGIOB_02517_gene (DNGEGIOB_02517)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_02517_gene (DNGEGIOB_02517)
+hypothetical protein" points="23,40 43,10 43,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sortase (PF04203)
+"Sortase domain"</title>
+				<polygon class="PF04203" points="27,40 35,28 35,28 35,52 35,52" stroke-linejoin="round" width="12" height="24" fill="rgb(213,184,62)" stroke="rgb(170,147,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pitA_2 (DNGEGIOB_02518)
+L-methionine sulfoximine/L-methionine sulfone acetyltransferase</title>
+			<polygon class="pitA_2 (DNGEGIOB_02518)
+L-methionine sulfoximine/L-methionine sulfone acetyltransferase" points="50,10 66,40 50,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acetyltransf_4 (PF13420)
+"Acetyltransferase (GNAT) domain"</title>
+				<polygon class="PF13420" points="50,28 56,28 63,40 56,52 50,52" stroke-linejoin="round" width="15" height="24" fill="rgb(162,66,181)" stroke="rgb(129,52,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_02519_gene (DNGEGIOB_02519)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_02519_gene (DNGEGIOB_02519)
+hypothetical protein" points="78,40 83,10 83,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sdhA (DNGEGIOB_02520)
+L-serine dehydratase, alpha chain</title>
+			<polygon class="sdhA (DNGEGIOB_02520)
+L-serine dehydratase, alpha chain" points="119,25 119,25 119,10 89,40 119,70 119,55 119,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_alpha (PF03313)
+"Serine dehydratase alpha chain"</title>
+				<polygon class="PF03313" points="93,40 105,28 117,28 117,52 105,52" stroke-linejoin="round" width="26" height="24" fill="rgb(104,203,99)" stroke="rgb(83,162,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sdhB (DNGEGIOB_02521)
+L-serine dehydratase, beta chain</title>
+			<polygon class="sdhB (DNGEGIOB_02521)
+L-serine dehydratase, beta chain" points="120,40 142,10 142,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_beta (PF03315)
+"Serine dehydratase beta chain"</title>
+				<polygon class="PF03315" points="128,35 133,28 141,28 141,52 133,52 128,45" stroke-linejoin="round" width="13" height="24" fill="rgb(68,217,124)" stroke="rgb(54,173,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_02522_gene (DNGEGIOB_02522)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_02522_gene (DNGEGIOB_02522)
+hypothetical protein" points="177,25 173,25 173,10 143,40 173,70 173,55 177,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC_2 (PF13303)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF13303" points="147,40 159,28 174,28 174,52 159,52" stroke-linejoin="round" width="30" height="24" fill="rgb(100,202,191)" stroke="rgb(80,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_02523_gene (DNGEGIOB_02523)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_02523_gene (DNGEGIOB_02523)
+hypothetical protein" points="196,10 202,40 196,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>yicL (DNGEGIOB_02524)
+putative inner membrane transporter YicL</title>
+			<polygon class="yicL (DNGEGIOB_02524)
+putative inner membrane transporter YicL" points="208,25 209,25 209,10 239,40 209,70 209,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="209,28 222,28 223,29 223,51 222,52 209,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="224,30 234,40 224,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lipR (DNGEGIOB_02525)
+Putative acetyl-hydrolase LipR</title>
+			<polygon class="lipR (DNGEGIOB_02525)
+Putative acetyl-hydrolase LipR" points="274,25 272,25 272,10 242,40 272,70 272,55 274,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="246,40 258,28 264,28 264,52 258,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_02526_gene (DNGEGIOB_02526)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_02526_gene (DNGEGIOB_02526)
+hypothetical protein" points="279,40 290,10 290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="282,40 287,28 290,28 290,52 287,52" stroke-linejoin="round" width="10" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_02527_gene (DNGEGIOB_02527)
+Putative esterase</title>
+			<polygon class="DNGEGIOB_02527_gene (DNGEGIOB_02527)
+Putative esterase" points="292,40 305,10 305,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT_2 (PF13279)
+"Thioesterase-like superfamily"</title>
+				<polygon class="PF13279" points="295,40 300,28 303,28 303,52 300,52" stroke-linejoin="round" width="11" height="24" fill="rgb(213,114,82)" stroke="rgb(170,91,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glcB (DNGEGIOB_02528)
+PTS system glucoside-specific EIICBA component</title>
+			<polygon class="glcB (DNGEGIOB_02528)
+PTS system glucoside-specific EIICBA component" points="389,25 349,25 349,10 319,40 349,70 349,55 389,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="323,40 333,30 333,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="340" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="352" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaP (DNGEGIOB_02529)
+Putative thiamine pyrophosphate-containing protein YdaP</title>
+			<polygon class="ydaP (DNGEGIOB_02529)
+Putative thiamine pyrophosphate-containing protein YdaP" points="456,25 428,25 428,10 398,40 428,70 428,55 456,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="403,39 414,28 417,28 417,52 414,52 403,41" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="423" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="438" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidB (DNGEGIOB_02530)
+Holin-like protein CidB</title>
+			<polygon class="cidB (DNGEGIOB_02530)
+Holin-like protein CidB" points="457,40 480,10 480,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgB (PF04172)
+"LrgB-like family"</title>
+				<polygon class="PF04172" points="461,40 470,28 478,28 478,52 470,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,227,179)" stroke="rgb(45,181,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidA (DNGEGIOB_02531)
+Holin-like protein CidA</title>
+			<polygon class="cidA (DNGEGIOB_02531)
+Holin-like protein CidA" points="480,40 493,10 493,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgA (PF03788)
+"LrgA family"</title>
+				<polygon class="PF03788" points="483,40 488,28 490,28 490,52 488,52" stroke-linejoin="round" width="9" height="24" fill="rgb(51,191,185)" stroke="rgb(40,152,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cynR_2 (DNGEGIOB_02532)
+HTH-type transcriptional regulator CynR</title>
+			<polygon class="cynR_2 (DNGEGIOB_02532)
+HTH-type transcriptional regulator CynR" points="501,40 529,10 529,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="505,40 517,28 521,28 521,52 517,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="524" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_02533_gene (DNGEGIOB_02533)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_02533_gene (DNGEGIOB_02533)
+hypothetical protein" points="536,10 543,40 536,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YozE_SAM_like (PF06855)
+"YozE SAM-like fold"</title>
+				<polygon class="PF06855" points="536,28 536,28 540,40 536,52 536,52" stroke-linejoin="round" width="6" height="24" fill="rgb(83,201,171)" stroke="rgb(66,160,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssaA2_4 (DNGEGIOB_02534)
+Staphylococcal secretory antigen ssaA2</title>
+			<polygon class="ssaA2_4 (DNGEGIOB_02534)
+Staphylococcal secretory antigen ssaA2" points="557,10 571,40 557,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="560,28 562,28 568,40 568,40 562,52 560,52" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DNGEGIOB_02535_gene (DNGEGIOB_02535)
+hypothetical protein</title>
+			<polygon class="DNGEGIOB_02535_gene (DNGEGIOB_02535)
+hypothetical protein" points="597,40 605,10 605,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>mvaA (DNGEGIOB_02536)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase</title>
+			<polygon class="mvaA (DNGEGIOB_02536)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase" points="667,25 655,25 655,10 625,40 655,70 655,55 667,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="629,40 641,28 666,28 666,52 641,52 629,40" stroke-linejoin="round" width="37" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

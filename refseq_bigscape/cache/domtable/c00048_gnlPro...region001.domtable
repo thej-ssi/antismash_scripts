@@ -1,0 +1,27 @@
+#                                                                                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                  accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                        -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+FecCD                PF01032.18   312 c00048_gnlPro...region001_ORF1:gid:fecD:pid:gnl_Prokka_ONKOLKPD_01413:loc:645:1614:strand:- -            322   1.4e-87  293.6  36.2   1   1   9.4e-92   1.7e-87  293.4  36.2     1   312    16   320    16   320 0.98 FecCD transport family
+FecCD                PF01032.18   312 c00048_gnlPro...region001_ORF2:gid:yfiZ:pid:gnl_Prokka_ONKOLKPD_01414:loc:1610:2642:strand:- -            343     6e-94  314.6  33.1   1   1   8.1e-98   7.2e-94  314.3  33.1     2   312    31   338    30   338 0.98 FecCD transport family
+ABC-3                PF00950.17   258 c00048_gnlPro...region001_ORF2:gid:yfiZ:pid:gnl_Prokka_ONKOLKPD_01414:loc:1610:2642:strand:- -            343   0.00024   20.7  21.9   1   1   2.6e-08   0.00024   20.7  21.9    60   254   134   335   116   339 0.80 ABC 3 transport family
+Peripla_BP_2         PF01497.18   238 c00048_gnlPro...region001_ORF3:gid:yfmC_1:pid:gnl_Prokka_ONKOLKPD_01415:loc:2653:3652:strand:- -            332   3.4e-32  111.9   0.2   1   1   2.3e-36   4.1e-32  111.6   0.2     1   235    58   299    58   302 0.92 Periplasmic binding protein
+Ala_racemase_N       PF01168.20   219 c00048_gnlPro...region001_ORF4:gid:orr:pid:gnl_Prokka_ONKOLKPD_01416:loc:3941:4997:strand:- -            351   4.1e-21   75.7   0.0   1   1   2.9e-25   5.2e-21   75.3   0.0     1   215     6   218     6   222 0.85 Alanine racemase, N-terminal domain
+IucA_IucC            PF04183.12   239 c00048_gnlPro...region001_ORF5:gid:iucA:pid:gnl_Prokka_ONKOLKPD_01417:loc:5000:6758:strand:- -            585   3.3e-50  170.9   0.0   1   1   6.5e-54   5.8e-50  170.1   0.0     5   238   160   384   156   385 0.93 IucA / IucC family
+FhuF                 PF06276.12   163 c00048_gnlPro...region001_ORF5:gid:iucA:pid:gnl_Prokka_ONKOLKPD_01417:loc:5000:6758:strand:- -            585   5.6e-27   95.2   0.0   1   1   1.2e-30   1.1e-26   94.2   0.0     3   159   414   569   412   573 0.94 Ferric iron reductase FhuF-like transporter
+MFS_3                PF05977.13   522 c00048_gnlPro...region001_ORF6:gid:ONKOLKPD_01418_gene:pid:gnl_Prokka_ONKOLKPD_01418:loc:6747:7929:strand:- -            393   1.3e-40  139.3  17.6   1   1   1.7e-44   1.5e-40  139.1  17.6    20   401    10   389     3   393 0.89 Transmembrane secretion effector
+MFS_1                PF07690.16   353 c00048_gnlPro...region001_ORF6:gid:ONKOLKPD_01418_gene:pid:gnl_Prokka_ONKOLKPD_01418:loc:6747:7929:strand:- -            393   3.4e-30  105.1  57.5   1   2     2e-26   1.8e-22   79.8  27.6     2   343     6   338     5   338 0.84 Major Facilitator Superfamily
+MFS_1                PF07690.16   353 c00048_gnlPro...region001_ORF6:gid:ONKOLKPD_01418_gene:pid:gnl_Prokka_ONKOLKPD_01418:loc:6747:7929:strand:- -            393   3.4e-30  105.1  57.5   2   2   4.6e-14   4.1e-10   39.1  21.8     2   170   213   379   212   392 0.85 Major Facilitator Superfamily
+IucA_IucC            PF04183.12   239 c00048_gnlPro...region001_ORF7:gid:iucC:pid:gnl_Prokka_ONKOLKPD_01419:loc:8033:9980:strand:+ -            648   2.7e-57  194.1   0.0   1   1   4.6e-61   4.1e-57  193.5   0.0     1   232   194   431   194   438 0.91 IucA / IucC family
+FhuF                 PF06276.12   163 c00048_gnlPro...region001_ORF7:gid:iucC:pid:gnl_Prokka_ONKOLKPD_01419:loc:8033:9980:strand:+ -            648   7.3e-29  101.3   0.0   1   1   9.2e-32   8.3e-28   97.8   0.0     2   161   470   637   469   639 0.95 Ferric iron reductase FhuF-like transporter
+Asp23                PF03780.13   108 c00048_gnlPro...region001_ORF8:gid:ONKOLKPD_01420_gene:pid:gnl_Prokka_ONKOLKPD_01420:loc:10180:10693:strand:- -            170   1.5e-34  118.6   3.8   1   1   1.5e-38   2.6e-34  117.9   3.8     3   108    40   145    39   145 0.97 Asp23 family, cell envelope-related function
+DUF2273              PF10031.9     48 c00048_gnlPro...region001_ORF9:gid:ONKOLKPD_01421_gene:pid:gnl_Prokka_ONKOLKPD_01421:loc:10766:11006:strand:- -             79   5.1e-14   52.0  18.4   1   1   3.3e-18     6e-14   51.8  18.4     1    48    19    66    19    66 0.97 Small integral membrane protein (DUF2273)
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      refseq_bigscape/cache/fasta/c00048_gnlPro...region001.fasta
+# Target file:     /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout refseq_bigscape/cache/domtable/c00048_gnlPro...region001.domtable --cut_tc --cpu 0 /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm refseq_bigscape/cache/fasta/c00048_gnlPro...region001.fasta 
+# Current dir:     /srv/data/MPV/THEJ/antismash_testing
+# Date:            Wed Jun 10 09:36:57 2020
+# [ok]

@@ -1,0 +1,60 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="226.83333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="216.83333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>crtM (GFBPJCFC_01317)
+Dehydrosqualene synthase</title>
+			<polygon class="crtM (GFBPJCFC_01317)
+Dehydrosqualene synthase" points="12,10 28,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="12,28 18,28 25,40 18,52 12,52" stroke-linejoin="round" width="15" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtN (GFBPJCFC_01318)
+Dehydrosqualene desaturase</title>
+			<polygon class="crtN (GFBPJCFC_01318)
+Dehydrosqualene desaturase" points="30,25 50,25 50,10 80,40 50,70 50,55 30,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="31,28 63,28 75,40 63,52 31,52" stroke-linejoin="round" width="48" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bacF (GFBPJCFC_01319)
+Transaminase BacF</title>
+			<polygon class="bacF (GFBPJCFC_01319)
+Transaminase BacF" points="88,25 96,25 96,10 126,40 96,70 96,55 88,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="90,28 110,28 122,40 110,52 90,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ldhD_2 (GFBPJCFC_01320)
+D-lactate dehydrogenase</title>
+			<polygon class="ldhD_2 (GFBPJCFC_01320)
+D-lactate dehydrogenase" points="128,25 131,25 131,10 161,40 131,70 131,55 128,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="139,28 145,28 157,40 157,40 145,52 139,52" stroke-linejoin="round" width="18" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copZ (GFBPJCFC_01321)
+Copper chaperone CopZ</title>
+			<polygon class="copZ (GFBPJCFC_01321)
+Copper chaperone CopZ" points="163,40 169,10 169,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<polygon class="PF00403" points="166,40 169,28 169,28 169,52 169,52" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,24 @@
+BGC	Accession ID	Description	Product Prediction	BiG-SCAPE class	Organism	Taxonomy
+c00001_gnlPro...region005	c00001_gnlPro..	gnl|Prokka|FEOFILKJ_1	NRPS.LAP	Others		
+c00003_gnlPro...region001	c00003_gnlPro..	gnl|Prokka|INJLGPOM_3	LAP	RiPPs		
+c00004_gnlPro...region001	c00004_gnlPro..	gnl|Prokka|FAJLLJMA_7	LAP	RiPPs		
+c00005_gnlPro...region001	c00005_gnlPro..	gnl|Prokka|ALEOMKEF_5	bacteriocin	RiPPs		
+c00005_gnlPro...region003	c00005_gnlPro..	gnl|Prokka|ALEOMKEF_5	LAP	RiPPs		
+c00005_gnlPro...region004	c00005_gnlPro..	gnl|Prokka|ALEOMKEF_5	head_to_tail.sactipeptide	RiPPs		
+c00007_gnlPro...region001	c00007_gnlPro..	gnl|Prokka|DHJBFFDH_7	head_to_tail.sactipeptide	RiPPs		
+c00019_gnlPro...region002	c00019_gnlPro..	gnl|Prokka|DMMFHILO_19	LAP	RiPPs		
+c00020_gnlPro...region001	c00020_gnlPro..	gnl|Prokka|DHJBFFDH_20	LAP	RiPPs		
+c00022_gnlPro...region001	c00022_gnlPro..	gnl|Prokka|FAJLLJMA_25	bacteriocin	RiPPs		
+c00026_gnlPro...region001	c00026_gnlPro..	gnl|Prokka|DJJMIKAL_33	LAP	RiPPs		
+c00030_gnlPro...region001	c00030_gnlPro..	gnl|Prokka|DMMFHILO_30	LAP	RiPPs		
+c00032_gnlPro...region001	c00032_gnlPro..	gnl|Prokka|DMMFHILO_32	thiopeptide	RiPPs		
+c00034_gnlPro...region001	c00034_gnlPro..	gnl|Prokka|FAJLLJMA_37	bacteriocin	RiPPs		
+c00039_gnlPro...region001	c00039_gnlPro..	gnl|Prokka|INJLGPOM_64	bacteriocin	RiPPs		
+c00041_gnlPro...region001	c00041_gnlPro..	gnl|Prokka|BGHEFFMJ_56	bacteriocin	RiPPs		
+c00043_gnlPro...region001	c00043_gnlPro..	gnl|Prokka|BGHEFFMJ_74	bacteriocin	RiPPs		
+c00047_gnlPro...region001	c00047_gnlPro..	gnl|Prokka|PDCLAJNK_76	lanthipeptide	RiPPs		
+c00051_gnlPro...region001	c00051_gnlPro..	gnl|Prokka|JIGFPPLC_51	lanthipeptide	RiPPs		
+c00073_gnlPro...region001	c00073_gnlPro..	gnl|Prokka|HPGMPKAP_217	LAP	RiPPs		
+c00077_gnlPro...region001	c00077_gnlPro..	gnl|Prokka|HNPJFCIA_77	lanthipeptide	RiPPs		
+c00082_gnlPro...region001	c00082_gnlPro..	gnl|Prokka|KKLCPFEP_82	lanthipeptide	RiPPs		
+c00113_gnlPro...region001	c00113_gnlPro..	gnl|Prokka|HPGMPKAP_262	head_to_tail.sactipeptide	RiPPs		

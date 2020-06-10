@@ -1,0 +1,19 @@
+# STOCKHOLM 1.0
+
+c00009_gnlPro...region003_ORF1:gid:DHAILMMN_00912_gene:pid:gnl_Prokka_DHAILMMN_00912:loc:0:591:strand:-:83:183                dfei-----SFYRLLEFIELNFEFIKVLIMNMNNTYFRALLVQKVREEIYYPL....LEKN-DVNID-FKKDIILNHTIYGHLGVIERWMNSEVEYGSHYIAKVLVEISN-h.
+#=GR c00009_gnlPro...region003_ORF1:gid:DHAILMMN_00912_gene:pid:gnl_Prokka_DHAILMMN_00912:loc:0:591:strand:-:83:183        PP 8766.....699**********************************9999999....7777.33443.689********************************9988765.7.
+c00015_gnlPro...region002_ORF22:gid:PLAHONHL_01846_gene:pid:gnl_Prokka_PLAHONHL_01846:loc:21376:21940:strand:-:82:184         .nki----QFFENVLNFWEQEGSIFLKLIEDKGAHMIHQDIKRNLQQNIEVRL....IPFLKTQTLTHKEKYFLIIFMSNAIFGVLQDWVQRGRKEKPKEVAMIMNHILT-t.
+#=GR c00015_gnlPro...region002_ORF22:gid:PLAHONHL_01846_gene:pid:gnl_Prokka_PLAHONHL_01846:loc:21376:21940:strand:-:82:184 PP .886....89*******************************************....************************************************99985.8.
+c00008_gnlPro...region001_ORF10:gid:kstR2:pid:gnl_Prokka_INJJNJAE_01844:loc:11906:12521:strand:-:89:194                       ..di---KNAFTRLFEYIYMNHTVFGVMLSDKGLSQFRPKLETEVQKEIYIPLfhalVKI-DGEKASKFPQHYFLNYITSAHIGVICTWLNDDMNYSPKYMAELLYKLT--le
+#=GR c00008_gnlPro...region001_ORF10:gid:kstR2:pid:gnl_Prokka_INJJNJAE_01844:loc:11906:12521:strand:-:89:194               PP ..75...688**************************999999888877766653321333.3559999*************************************9986..79
+c00012_gnlPro...region001_ORF29:gid:kstR2:pid:gnl_Prokka_DNGEGIOB_00893:loc:34842:35457:strand:+:89:194                       ..di---KNAFTRLFEYIYMNHTVFGVMLSDKGLSQFRPKLETEVQKEIYIPLfhalVKI-DGEKASKFPQHYFLNYITSAHIGVICTWLNDDMNYSPKYMAELLYKLT--le
+#=GR c00012_gnlPro...region001_ORF29:gid:kstR2:pid:gnl_Prokka_DNGEGIOB_00893:loc:34842:35457:strand:+:89:194               PP ..75...688**************************999999888877766653321333.3559999*************************************9986..79
+c00046_gnlPro...region001_ORF10:gid:kstR2:pid:gnl_Prokka_IJOLGDCI_02684:loc:11907:12522:strand:-:89:194                       ..di---KNAFTRLFEYIYMNHTVFGVMLSDKGLSQFRPKLETEVQKEIYIPLfhalVKI-DGEKASKFPQHYFLNYITSAHIGVICTWLNDDMNYSPKYMAELLYKLT--le
+#=GR c00046_gnlPro...region001_ORF10:gid:kstR2:pid:gnl_Prokka_IJOLGDCI_02684:loc:11907:12522:strand:-:89:194               PP ..75...688**************************999999888877766653321333.3559999*************************************9986..79
+c00007_gnlPro...region001_ORF28:gid:LGEIKLPL_01371_gene:pid:gnl_Prokka_LGEIKLPL_01371:loc:34726:35341:strand:+:89:194         ..di---KNAFTRLFEYIYMNYEFFSVMLSDRGLSQFRPKLESVVQKEIYIPLfhalVKI-DGEKTSKFPQHYFLNYITSAHIGVICTWLNDDMNYSPKYMAELLYKLT--le
+#=GR c00007_gnlPro...region001_ORF28:gid:LGEIKLPL_01371_gene:pid:gnl_Prokka_LGEIKLPL_01371:loc:34726:35341:strand:+:89:194 PP ..75...688***********************************998887774331233.35588999************************************9986..79
+c00026_gnlPro...region001_ORF1:gid:NDLEPOIB_02403_gene:pid:gnl_Prokka_NDLEPOIB_02403:loc:329:920:strand:-:83:183              dfei-----SFYRLLEFIELNFEFIKVLIMNMNNTYFRALLVQKVREEIYYPL....LEKN-DVNID-FKKDIILNHTIYGHLGVIERWMNSEVEYGSHYIAKVLVEISN-h.
+#=GR c00026_gnlPro...region001_ORF1:gid:NDLEPOIB_02403_gene:pid:gnl_Prokka_NDLEPOIB_02403:loc:329:920:strand:-:83:183      PP 8766.....699**********************************9999999....7777.33443.689********************************9988765.7.
+#=GC PP_cons                                                                                                                  .......6889******************************999998888777....5558555788989***********************************99865...
+#=GC RF                                                                                                                       ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

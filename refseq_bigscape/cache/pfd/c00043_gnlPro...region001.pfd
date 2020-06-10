@@ -1,0 +1,9 @@
+c00043_gnlPro...region001	313.9	tcyP	30	442	PF00375.18	SDF	197	1589	c00043_gnlPro...region001_ORF1:gid:tcyP:pid:gnl_Prokka_BGHEFFMJ_02547:loc:197:1589:strand:+
+c00043_gnlPro...region001	116.9	BGHEFFMJ_02548_gene	17	161	PF00005.27	ABC_tran	2021	2678	c00043_gnlPro...region001_ORF2:gid:BGHEFFMJ_02548_gene:pid:gnl_Prokka_BGHEFFMJ_02548:loc:2021:2678:strand:-
+c00043_gnlPro...region001	42.0	BGHEFFMJ_02550_gene	556	654	PF07242.11	DUF1430	3007	4975	c00043_gnlPro...region001_ORF4:gid:BGHEFFMJ_02550_gene:pid:gnl_Prokka_BGHEFFMJ_02550:loc:3007:4975:strand:-
+c00043_gnlPro...region001	48.0	BGHEFFMJ_02551_gene	32	93	PF09683.10	Lactococcin_972	5000	5291	c00043_gnlPro...region001_ORF5:gid:BGHEFFMJ_02551_gene:pid:gnl_Prokka_BGHEFFMJ_02551:loc:5000:5291:strand:-
+c00043_gnlPro...region001	71.0	nfrA	9	165	PF00881.24	Nitroreductase	6040	6796	c00043_gnlPro...region001_ORF7:gid:nfrA:pid:gnl_Prokka_BGHEFFMJ_02553:loc:6040:6796:strand:-
+c00043_gnlPro...region001	113.2	ahpC	4	136	PF00578.21	AhpC-TSA	7348	7918	c00043_gnlPro...region001_ORF8:gid:ahpC:pid:gnl_Prokka_BGHEFFMJ_02554:loc:7348:7918:strand:+
+c00043_gnlPro...region001	21.7	ahpC	156	183	PF10417.9	1-cysPrx_C	7348	7918	c00043_gnlPro...region001_ORF8:gid:ahpC:pid:gnl_Prokka_BGHEFFMJ_02554:loc:7348:7918:strand:+
+c00043_gnlPro...region001	26.6	ahpF_1	117	192	PF13192.6	Thioredoxin_3	7932	8613	c00043_gnlPro...region001_ORF9:gid:ahpF_1:pid:gnl_Prokka_BGHEFFMJ_02555:loc:7932:8613:strand:+
+c00043_gnlPro...region001	123.3	ahpF_2	2	240	PF07992.14	Pyr_redox_2	8692	9457	c00043_gnlPro...region001_ORF10:gid:ahpF_2:pid:gnl_Prokka_BGHEFFMJ_02556:loc:8692:9457:strand:+

@@ -1,0 +1,120 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="363.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="353.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DAFNCOFO_01567_gene (DAFNCOFO_01567)
+hypothetical protein</title>
+			<polygon class="DAFNCOFO_01567_gene (DAFNCOFO_01567)
+hypothetical protein" points="17,10 30,40 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ydaD (DAFNCOFO_01568)
+General stress protein 39</title>
+			<polygon class="ydaD (DAFNCOFO_01568)
+General stress protein 39" points="38,10 67,40 38,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="42,28 50,28 62,40 50,52 42,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DAFNCOFO_01569_gene (DAFNCOFO_01569)
+Putative acetyltransferase</title>
+			<polygon class="DAFNCOFO_01569_gene (DAFNCOFO_01569)
+Putative acetyltransferase" points="76,10 94,40 76,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mac (PF12464)
+"Maltose acetyltransferase"</title>
+				<rect class="PF12464" x="76" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(188,228,87)" stroke="rgb(150,182,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep_2 (PF14602)
+"Hexapeptide repeat of succinyl-transferase"</title>
+				<polygon class="PF14602" points="83,28 83,28 86,32 86,48 83,52 83,52" stroke-linejoin="round" width="3" height="24" fill="rgb(79,205,115)" stroke="rgb(63,164,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="89,37 91,40 89,43" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tarF (DAFNCOFO_01570)
+Teichoic acid poly(glycerol phosphate) polymerase</title>
+			<polygon class="tarF (DAFNCOFO_01570)
+Teichoic acid poly(glycerol phosphate) polymerase" points="100,25 109,25 109,10 139,40 109,70 109,55 100,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyphos_transf (PF04464)
+"CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase"</title>
+				<polygon class="PF04464" points="103,28 123,28 135,40 123,52 103,52" stroke-linejoin="round" width="34" height="24" fill="rgb(55,181,67)" stroke="rgb(44,144,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pglJ (DAFNCOFO_01571)
+N-acetylgalactosamine-N,N'-diacetylbacillosaminyl -diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase</title>
+			<polygon class="pglJ (DAFNCOFO_01571)
+N-acetylgalactosamine-N,N'-diacetylbacillosaminyl -diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase" points="143,25 149,25 149,10 179,40 149,70 149,55 143,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="165,30 175,40 165,50" stroke-linejoin="round" width="13" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wbgU (DAFNCOFO_01572)
+UDP-N-acetylglucosamine 4-epimerase</title>
+			<polygon class="wbgU (DAFNCOFO_01572)
+UDP-N-acetylglucosamine 4-epimerase" points="217,25 216,25 216,10 186,40 216,70 216,55 217,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="192,38 202,28 216,28 216,52 202,52 192,42" stroke-linejoin="round" width="24" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DAFNCOFO_01573_gene (DAFNCOFO_01573)
+hypothetical protein</title>
+			<polygon class="DAFNCOFO_01573_gene (DAFNCOFO_01573)
+hypothetical protein" points="223,40 240,10 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="226,40 233,28 239,28 239,52 233,52" stroke-linejoin="round" width="14" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DAFNCOFO_01574_gene (DAFNCOFO_01574)
+hypothetical protein</title>
+			<polygon class="DAFNCOFO_01574_gene (DAFNCOFO_01574)
+hypothetical protein" points="241,40 259,10 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="244,40 251,28 258,28 258,52 251,52" stroke-linejoin="round" width="17" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rocA (DAFNCOFO_01575)
+1-pyrroline-5-carboxylate dehydrogenase</title>
+			<polygon class="rocA (DAFNCOFO_01575)
+1-pyrroline-5-carboxylate dehydrogenase" points="270,25 291,25 291,10 321,40 291,70 291,55 270,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="274,28 305,28 317,40 305,52 274,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DAFNCOFO_01576_gene (DAFNCOFO_01576)
+hypothetical protein</title>
+			<polygon class="DAFNCOFO_01576_gene (DAFNCOFO_01576)
+hypothetical protein" points="324,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="336" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

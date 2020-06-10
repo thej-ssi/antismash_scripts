@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+c00005_gnlPro...region002_ORF4:gid:GMMBMKIH_02000_gene:pid:gnl_Prokka_GMMBMKIH_02000:loc:3513:4206:strand:-:2:230         s--IARKEFVSLFKSIKSILIVLIMIAI--SLGIAKILSLFGSQLSSEIGLHKTPYQLA------------------LMLTVILTSPLFVFTLSHDIINEEVKNRTMRFLAT-KTTRNNILFGKFLGALLF---WITCLLITTLL----LIIYSHEFYFLELIQSIAFVS------YFLGLATLLSVLIDNTMLTNFLG-
+#=GR c00005_gnlPro...region002_ORF4:gid:GMMBMKIH_02000_gene:pid:gnl_Prokka_GMMBMKIH_02000:loc:3513:4206:strand:-:2:230 PP 6..9************************..66666666666666666666666663222..................235788889**********************9755.579***************...********777....444566666666666655555......569***********554443333.
+c00009_gnlPro...region004_ORF5:gid:DHAILMMN_00973_gene:pid:gnl_Prokka_DHAILMMN_00973:loc:3796:4489:strand:-:2:230         s--IARKEFVALFKSIKSILIILIMIAISLGIAKLLSLFGSQINSVTGL-EKTPFQLALL-------------------LTVLLTSPLFVFTLSHNIINEEVKSRTIRFI-ATKINRSHILLGKFIGALLF---WLTCLFITTLLLI----FYSHEFYLLELLQCLVFVS------YFLALATLLSVLID--NT--ILTN
+#=GR c00009_gnlPro...region004_ORF5:gid:DHAILMMN_00973_gene:pid:gnl_Prokka_DHAILMMN_00973:loc:3796:4489:strand:-:2:230 PP 6..899*********9999999999999677777776666666655554.3445543332...................3666777999*******************96.677*****************...********77744....4666777788888777777......468***********..44..4445
+#=GC PP_cons                                                                                                              ...99********************99967666666666666666555565555543332.................23477778899********************9656768****************...********77744..444566666777777666666......568***********5544434445
+#=GC RF                                                                                                                   .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00005_gnlPro...region002_ORF4:gid:GMMBMKIH_02000_gene:pid:gnl_Prokka_GMMBMKIH_02000:loc:3513:4206:strand:-:2:230         ---IALSIIFTVLG--LWSIETGRIW-------LKLLKYIMPYFYYFNENKAVP------------FVILIFTIIFLIISLYIFRKRDL
+#=GR c00005_gnlPro...region002_ORF4:gid:GMMBMKIH_02000_gene:pid:gnl_Prokka_GMMBMKIH_02000:loc:3513:4206:strand:-:2:230 PP ...34444444444..5566677777.......9***************99999............8999*****************97
+c00009_gnlPro...region004_ORF5:gid:DHAILMMN_00973_gene:pid:gnl_Prokka_DHAILMMN_00973:loc:3796:4489:strand:-:2:230         FLGIALSLIMTILG--LWSMNSDKIW-------LKLFSYITPYFYYLKDNPAMP------------FIVVIFPVVFLIISVYVFRKRDL
+#=GR c00009_gnlPro...region004_ORF5:gid:DHAILMMN_00973_gene:pid:gnl_Prokka_DHAILMMN_00973:loc:3796:4489:strand:-:2:230 PP 55566667888888..6677776666.......888888888888777766666............9*********************7
+#=GC PP_cons                                                                                                              55545555666666..5567776666.......999999999999998888877............899*******************7
+#=GC RF                                                                                                                   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+
+c00043_gnlPro...region001_ORF1:gid:tcyP:pid:gnl_Prokka_BGHEFFMJ_02547:loc:197:1589:strand:+:30:442         pk---RVFFALGLGIVLGLLlhlvygvegTVTSQTTDWVGLIGNGYIALLQMIVIPLIFVSIVAAFTKIEIGEKFAKVGSFIFMFLIGTVTIAAMIGIIYALAFNLDassidlgqAENARSAEIADKAKGLTATTLPTQILELLPSNPFLDFTgarATSTIAVVIFAAFVGFAFLRVARKQpengQTLKRGIDAIYALVM
+#=GR c00043_gnlPro...region001_ORF1:gid:tcyP:pid:gnl_Prokka_BGHEFFMJ_02547:loc:197:1589:strand:+:30:442 PP 96...79999999999999999999999999*********************************************************************************9998888888899999999999******************988889********************9999999***************
+c00022_gnlPro...region002_ORF1:gid:tcyP:pid:gnl_Prokka_OJOJPOKM_01495:loc:197:1589:strand:+:30:442         pk---RVFFALGLGIVLGLLlhlvygvegTVTSQTTDWVGLIGNGYIALLQMIVIPLIFVSIVAAFTKIEIGEKFAKVGSFIFMFLIGTVTIAAMIGIIYALAFNLDassidlgqAENARSAEIADKAKGLTATTLPTQILELLPSNPFLDFTgarATSTIAVVIFAAFVGFAFLRVARKQpengQTLKRGIDAIYALVM
+#=GR c00022_gnlPro...region002_ORF1:gid:tcyP:pid:gnl_Prokka_OJOJPOKM_01495:loc:197:1589:strand:+:30:442 PP 96...79999999999999999999999999*********************************************************************************9998888888899999999999******************988889********************9999999***************
+#=GC PP_cons                                                                                               .....799999999999999.........99****************************************************************************........8888888899999999999******************9...89********************999....***************
+#=GC RF                                                                                                    ..xxxxxxxxxxxxxxxxxx.........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx........xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxx....xxxxxxxxxxxxxxx
+
+c00043_gnlPro...region001_ORF1:gid:tcyP:pid:gnl_Prokka_BGHEFFMJ_02547:loc:197:1589:strand:+:30:442         AIVTFVLRLTPYGILAIMINTIATSDFAAIWTLGKFVIASYAALITM--YIIHLIILAVIGVNPVQYVKKTAEVILFAFTSRSSAGTLPLNVQAQTNRLGVPQAIANFSGSFGLSIGQNGCaGIYPAMLAIMVAPVAGVEVNLQFIVTVIIVVVLSSFGVAGVGGGATFASILVLSALNLPVGLAGVLISVEPLIDMGRT
+#=GR c00043_gnlPro...region001_ORF1:gid:tcyP:pid:gnl_Prokka_BGHEFFMJ_02547:loc:197:1589:strand:+:30:442 PP **********************************************5..5555555578999******************************************************************************************************************************************
+c00022_gnlPro...region002_ORF1:gid:tcyP:pid:gnl_Prokka_OJOJPOKM_01495:loc:197:1589:strand:+:30:442         AIVTFVLRLTPYGILAIMINTIATSDFAAIWTLGKFVIASYAALITM--YIIHLIILAVIGVNPVQYVKKTAEVILFAFTSRSSAGTLPLNVQTQTNRLGVPQAIANFSGSFGLSIGQNGCaGIYPAMLAIMVAPVAGVEVNLQFIVTVIIVVVLSSFGVAGVGGGATFASILVLSALNLPVGLAGVLISVEPLIDMGRT
+#=GR c00022_gnlPro...region002_ORF1:gid:tcyP:pid:gnl_Prokka_OJOJPOKM_01495:loc:197:1589:strand:+:30:442 PP **********************************************5..5555555578999******************************************************************************************************************************************
+#=GC PP_cons                                                                                               **********************************************5..5555555578999***********************************************************.******************************************************************************
+#=GC RF                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00043_gnlPro...region001_ORF1:gid:tcyP:pid:gnl_Prokka_BGHEFFMJ_02547:loc:197:1589:strand:+:30:442         ALNVNDSILAGTGTAK-l
+#=GR c00043_gnlPro...region001_ORF1:gid:tcyP:pid:gnl_Prokka_BGHEFFMJ_02547:loc:197:1589:strand:+:30:442 PP *****99999887776.7
+c00022_gnlPro...region002_ORF1:gid:tcyP:pid:gnl_Prokka_OJOJPOKM_01495:loc:197:1589:strand:+:30:442         ALNVNDSILAGTGTAK-l
+#=GR c00022_gnlPro...region002_ORF1:gid:tcyP:pid:gnl_Prokka_OJOJPOKM_01495:loc:197:1589:strand:+:30:442 PP *****99999887776.7
+#=GC PP_cons                                                                                               *****99999887776..
+#=GC RF                                                                                                    xxxxxxxxxxxxxxxxx.
+//

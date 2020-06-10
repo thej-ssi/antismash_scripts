@@ -1,0 +1,14 @@
+c00024_gnlPro...region001	32.2	albA	341	414	PF13186.6	SPASM	419	1754	c00024_gnlPro...region001_ORF2:gid:albA:pid:gnl_Prokka_ONKOLKPD_00890:loc:419:1754:strand:-
+c00024_gnlPro...region001	60.6	albA	120	278	PF04055.21	Radical_SAM	419	1754	c00024_gnlPro...region001_ORF2:gid:albA:pid:gnl_Prokka_ONKOLKPD_00890:loc:419:1754:strand:-
+c00024_gnlPro...region001	74.1	sboA	9	43	PF11420.8	Subtilosin_A	1818	1950	c00024_gnlPro...region001_ORF3:gid:sboA:pid:gnl_Prokka_ONKOLKPD_00891:loc:1818:1950:strand:-
+c00024_gnlPro...region001	204.9	kdpC	4	184	PF02669.15	KdpC	2100	2661	c00024_gnlPro...region001_ORF4:gid:kdpC:pid:gnl_Prokka_ONKOLKPD_00892:loc:2100:2661:strand:-
+c00024_gnlPro...region001	118.6	kdpB	298	523	PF00702.26	Hydrolase	2676	4698	c00024_gnlPro...region001_ORF5:gid:kdpB:pid:gnl_Prokka_ONKOLKPD_00893:loc:2676:4698:strand:-
+c00024_gnlPro...region001	121.8	kdpB	100	281	PF00122.20	E1-E2_ATPase	2676	4698	c00024_gnlPro...region001_ORF5:gid:kdpB:pid:gnl_Prokka_ONKOLKPD_00893:loc:2676:4698:strand:-
+c00024_gnlPro...region001	700.5	kdpA	4	556	PF03814.15	KdpA	4717	6400	c00024_gnlPro...region001_ORF6:gid:kdpA:pid:gnl_Prokka_ONKOLKPD_00894:loc:4717:6400:strand:-
+c00024_gnlPro...region001	264.0	kdpD	7	216	PF02702.17	KdpD	6667	9322	c00024_gnlPro...region001_ORF7:gid:kdpD:pid:gnl_Prokka_ONKOLKPD_00895:loc:6667:9322:strand:+
+c00024_gnlPro...region001	71.3	kdpD	387	497	PF13493.6	DUF4118	6667	9322	c00024_gnlPro...region001_ORF7:gid:kdpD:pid:gnl_Prokka_ONKOLKPD_00895:loc:6667:9322:strand:+
+c00024_gnlPro...region001	41.9	kdpD	655	723	PF00512.25	HisKA	6667	9322	c00024_gnlPro...region001_ORF7:gid:kdpD:pid:gnl_Prokka_ONKOLKPD_00895:loc:6667:9322:strand:+
+c00024_gnlPro...region001	69.7	kdpD	767	879	PF02518.26	HATPase_c	6667	9322	c00024_gnlPro...region001_ORF7:gid:kdpD:pid:gnl_Prokka_ONKOLKPD_00895:loc:6667:9322:strand:+
+c00024_gnlPro...region001	93.4	kdpE	6	115	PF00072.24	Response_reg	9323	10028	c00024_gnlPro...region001_ORF8:gid:kdpE:pid:gnl_Prokka_ONKOLKPD_00896:loc:9323:10028:strand:+
+c00024_gnlPro...region001	65.2	kdpE	149	230	PF00486.28	Trans_reg_C	9323	10028	c00024_gnlPro...region001_ORF8:gid:kdpE:pid:gnl_Prokka_ONKOLKPD_00896:loc:9323:10028:strand:+
+c00024_gnlPro...region001	21.3	ONKOLKPD_00897_gene	50	136	PF08240.12	ADH_N	10172	11285	c00024_gnlPro...region001_ORF9:gid:ONKOLKPD_00897_gene:pid:gnl_Prokka_ONKOLKPD_00897:loc:10172:11285:strand:-

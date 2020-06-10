@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+c00022_gnlPro...region001_ORF1:gid:bin3:pid:gnl_Prokka_DNGEGIOB_01879:loc:420:954:strand:+:122:174             -RPLLYSPNakDpqkriiYHRVVEMLEEGQSISKIAKEVNITRQTIYRIKNDN.
+#=GR c00022_gnlPro...region001_ORF1:gid:bin3:pid:gnl_Prokka_DNGEGIOB_01879:loc:420:954:strand:+:122:174     PP .9*******754999************************************97.
+c00023_gnlPro...region001_ORF8:gid:bin3:pid:gnl_Prokka_IJOLGDCI_01709:loc:5707:6241:strand:-:122:174           -RPLLYSPNakDpqkriiYHRVVEMLEEGQSISKIAKEVNITRQTIYRIKNDN.
+#=GR c00023_gnlPro...region001_ORF8:gid:bin3:pid:gnl_Prokka_IJOLGDCI_01709:loc:5707:6241:strand:-:122:174   PP .9*******754999************************************97.
+c00005_gnlPro...region001_ORF4:gid:bin3_1:pid:gnl_Prokka_INJJNJAE_01537:loc:4053:4587:strand:+:122:174         -RPLLYSPNakDpqkriiYHRVVEMLEEGQSISKIAKEVNITRQTIYRIKNDN.
+#=GR c00005_gnlPro...region001_ORF4:gid:bin3_1:pid:gnl_Prokka_INJJNJAE_01537:loc:4053:4587:strand:+:122:174 PP .9*******754999************************************97.
+c00035_gnlPro...region001_ORF2:gid:bin3:pid:gnl_Prokka_NECOBKJD_02765:loc:595:913:strand:+:53:105              -RPILYSPNakDpqkrlvYYRVVELLEQGKSISTIAKEVGITRQTIYRIKNS-k
+#=GR c00035_gnlPro...region001_ORF2:gid:bin3:pid:gnl_Prokka_NECOBKJD_02765:loc:595:913:strand:+:53:105      PP .8999***9754889999********************************96.6
+#=GC PP_cons                                                                                                   .9*******..4......*********************************87.
+#=GC RF                                                                                                        xxxxxxxxx..x......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

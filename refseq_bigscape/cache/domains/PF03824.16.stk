@@ -1,0 +1,20 @@
+# STOCKHOLM 1.0
+
+c00009_gnlPro...region003_ORF6:gid:nixA:pid:gnl_Prokka_DHAILMMN_00917:loc:6344:7358:strand:+:39:326            f--GMGILAYTLGLRHAFDADHIAAIdntVRKLLQQRRDPVGVGFYFSIGHSTVVFLMAVLLGISVKWAKSeLPHFQDIGGTIGTLVsGFFLVLIGILNLIILVSLIKLFAKLRH-QRVNEEEVDALLEARGFVSRFVGPYFKVISRSWHVLPLGFLFGLGFDTASEIALLALSSGASQQAISFIGILSLPILFASGMSL
+#=GR c00009_gnlPro...region003_ORF6:gid:nixA:pid:gnl_Prokka_DHAILMMN_00917:loc:6344:7358:strand:+:39:326    PP 6..689****************************************************************99*******************************************.************************************************************9***********************
+c00050_gnlPro...region001_ORF27:gid:nixA:pid:gnl_Prokka_PDCLAJNK_02394:loc:36950:37964:strand:-:39:326         f--GMGILAYTLGLRHAFDADHIAAIdntVRKLLQQRRDPVGVGFYFSIGHSTVVFLMAVLLGISVKWAKSeLPYFQEVGGTIGTLVsGFFLVLIGVLNLIILISLIKLFSQLRH-QHVKEEEVDALLEARGFITRFIGPYFKVISRSWHVLPLGFLFGLGFDTASEIALLALSSGASQQAISFIGILSLPILFASGMSL
+#=GR c00050_gnlPro...region001_ORF27:gid:nixA:pid:gnl_Prokka_PDCLAJNK_02394:loc:36950:37964:strand:-:39:326 PP 6..689****************************************************************99******************************************9.************************************************************9***********************
+c00026_gnlPro...region001_ORF6:gid:nixA:pid:gnl_Prokka_NDLEPOIB_02408:loc:6395:7409:strand:+:39:326            f--GMGILAYTLGLRHAFDADHIAAIdntVRKLLQQRRDPVGVGFYFSIGHSTVVFLMAVLLGISVKWAKSeLPHFQDIGGTIGTLVsGFFLVLIGILNLIILVSLIKLFAKLRH-QRVNEEEVDALLEARGFVSRFVGPYFKVISRSWHVLPLGFLFGLGFDTASEIALLALSSGASQQAISFIGILSLPILFASGMSL
+#=GR c00026_gnlPro...region001_ORF6:gid:nixA:pid:gnl_Prokka_NDLEPOIB_02408:loc:6395:7409:strand:+:39:326    PP 6..689****************************************************************99*******************************************.************************************************************9***********************
+#=GC PP_cons                                                                                                   ...689********************...*****************************************9.***************.***************************.************************************************************9***********************
+#=GC RF                                                                                                        .xxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00009_gnlPro...region003_ORF6:gid:nixA:pid:gnl_Prokka_DHAILMMN_00917:loc:6344:7358:strand:+:39:326            LDTLDGIVMKSAYNWAFFNpIRKIYYNITITAISVIAALVIGVIELLQIIADKFDFKGRFWDFIQSIQFDYLGYILVALFLVTWLISTL-i
+#=GR c00009_gnlPro...region003_ORF6:gid:nixA:pid:gnl_Prokka_DHAILMMN_00917:loc:6344:7358:strand:+:39:326    PP ***************************************************************************************97.6
+c00050_gnlPro...region001_ORF27:gid:nixA:pid:gnl_Prokka_PDCLAJNK_02394:loc:36950:37964:strand:-:39:326         LDTLDGIVMKSAYNWAFFNpIRKIYYNITITAISVIAALIIGMIELLQITAEKFHLKGGFWDFIQALQFDYLGYILVALFLVTWLISTL-i
+#=GR c00050_gnlPro...region001_ORF27:gid:nixA:pid:gnl_Prokka_PDCLAJNK_02394:loc:36950:37964:strand:-:39:326 PP ***************************************************************************************97.6
+c00026_gnlPro...region001_ORF6:gid:nixA:pid:gnl_Prokka_NDLEPOIB_02408:loc:6395:7409:strand:+:39:326            LDTLDGIVMKSAYNWAFFNpIRKIYYNITITAISVIAALVIGVIELLQIIADKFDFKGRFWDFIQSIQFDYLGYILVALFLVTWLISTL-i
+#=GR c00026_gnlPro...region001_ORF6:gid:nixA:pid:gnl_Prokka_NDLEPOIB_02408:loc:6395:7409:strand:+:39:326    PP ***************************************************************************************97.6
+#=GC PP_cons                                                                                                   *******************.*******************************************************************97..
+#=GC RF                                                                                                        xxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

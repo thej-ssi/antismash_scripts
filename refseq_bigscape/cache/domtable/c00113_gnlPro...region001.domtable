@@ -1,0 +1,26 @@
+#                                                                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                                accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                                      -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+DUF308               PF03729.13    73 c00113_gnlPro...region001_ORF1:gid:HPGMPKAP_02306_gene:pid:gnl_Prokka_HPGMPKAP_02306:loc:214:388:strand:- -             57     1e-05   25.8   2.2   1   1   7.6e-10   1.4e-05   25.4   2.2     5    49     6    50     5    55 0.89 Short repeat of unknown function (DUF308)
+Radical_SAM          PF04055.21   167 c00113_gnlPro...region001_ORF2:gid:albA:pid:gnl_Prokka_HPGMPKAP_02307:loc:401:1736:strand:- -            444   1.6e-20   74.2   0.1   1   1     4e-24   2.4e-20   73.6   0.1     2   166   121   277   120   278 0.91 Radical SAM superfamily
+SPASM                PF13186.6     68 c00113_gnlPro...region001_ORF2:gid:albA:pid:gnl_Prokka_HPGMPKAP_02307:loc:401:1736:strand:- -            444   3.3e-08   33.9   3.2   1   1   2.2e-11   1.3e-07   32.0   1.3     1    67   341   404   341   414 0.75 Iron-sulfur cluster-binding domain
+Fer4_12              PF13353.6    139 c00113_gnlPro...region001_ORF2:gid:albA:pid:gnl_Prokka_HPGMPKAP_02307:loc:401:1736:strand:- -            444   0.00012   22.4   0.1   1   1     2e-08   0.00012   22.4   0.1    12   135   123   238   114   241 0.73 4Fe-4S single cluster domain
+Subtilosin_A         PF11420.8     35 c00113_gnlPro...region001_ORF3:gid:sboA:pid:gnl_Prokka_HPGMPKAP_02308:loc:1813:1945:strand:- -             43   1.6e-21   75.9   2.7   1   1     1e-25   1.8e-21   75.8   2.7     1    34     9    42     9    43 0.97 Bacteriocin subtilosin A
+HTH_Crp_2            PF13545.6     68 c00113_gnlPro...region001_ORF4:gid:fnr:pid:gnl_Prokka_HPGMPKAP_02309:loc:2070:2709:strand:+ -            212   1.5e-15   56.9   0.6   1   1   2.6e-19   2.3e-15   56.3   0.6     2    66   125   196   124   198 0.86 Crp-like helix-turn-helix domain
+Crp                  PF00325.20    32 c00113_gnlPro...region001_ORF4:gid:fnr:pid:gnl_Prokka_HPGMPKAP_02309:loc:2070:2709:strand:+ -            212   6.8e-06   25.6   0.0   1   1   1.4e-09   1.3e-05   24.8   0.0     2    30   150   178   149   180 0.91 Bacterial regulatory proteins, crp family
+DDE_Tnp_1            PF01609.21   214 c00113_gnlPro...region001_ORF5:gid:HPGMPKAP_02310_gene:pid:gnl_Prokka_HPGMPKAP_02310:loc:3166:3766:strand:+ -            199     4e-11   43.0   0.3   1   1   2.7e-15   4.9e-11   42.7   0.3     4   134    31   154    28   180 0.81 Transposase DDE domain
+ABC_tran             PF00005.27   137 c00113_gnlPro...region001_ORF6:gid:uvrA_2:pid:gnl_Prokka_HPGMPKAP_02311:loc:4156:6418:strand:- -            753   1.4e-23   83.9   0.1   1   1   1.7e-14   6.2e-11   43.0   0.0     1   136   466   671   466   672 0.93 ABC transporter
+YibE_F               PF07907.11   241 c00113_gnlPro...region001_ORF7:gid:HPGMPKAP_02312_gene:pid:gnl_Prokka_HPGMPKAP_02312:loc:6466:7240:strand:- -            257   1.5e-67  227.6  35.7   1   1   9.3e-72   1.7e-67  227.5  35.7     1   241     4   244     4   244 0.98 YibE/F-like protein
+YibE_F               PF07907.11   241 c00113_gnlPro...region001_ORF8:gid:HPGMPKAP_02313_gene:pid:gnl_Prokka_HPGMPKAP_02313:loc:7236:8346:strand:- -            369   9.7e-65  218.4  36.3   1   1   1.2e-68   2.2e-64  217.2  34.7     2   239   126   357   125   359 0.98 YibE/F-like protein
+HTH_1                PF00126.27    60 c00113_gnlPro...region001_ORF9:gid:gltC:pid:gnl_Prokka_HPGMPKAP_02314:loc:8358:9237:strand:- -            292   5.1e-20   71.2   0.2   1   1   1.4e-23   1.3e-19   69.9   0.2     1    60     3    62     3    62 0.98 Bacterial regulatory helix-turn-helix protein, lysR family
+LysR_substrate       PF03466.20   209 c00113_gnlPro...region001_ORF9:gid:gltC:pid:gnl_Prokka_HPGMPKAP_02314:loc:8358:9237:strand:- -            292     1e-08   34.8   0.0   1   1   2.4e-12   2.1e-08   33.8   0.0     3   206    88   283    87   286 0.87 LysR substrate binding domain
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      refseq_bigscape/cache/fasta/c00113_gnlPro...region001.fasta
+# Target file:     /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout refseq_bigscape/cache/domtable/c00113_gnlPro...region001.domtable --cut_tc --cpu 0 /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm refseq_bigscape/cache/fasta/c00113_gnlPro...region001.fasta 
+# Current dir:     /srv/data/MPV/THEJ/antismash_testing
+# Date:            Wed Jun 10 09:36:08 2020
+# [ok]

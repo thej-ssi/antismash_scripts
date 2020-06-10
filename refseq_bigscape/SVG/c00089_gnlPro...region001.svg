@@ -1,0 +1,87 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="332.9" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="322.9" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>iucA (GFBPJCFC_01377)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase</title>
+			<polygon class="iucA (GFBPJCFC_01377)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase" points="100,25 72,25 72,10 42,40 72,70 72,55 100,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="46,40 58,28 59,28 59,52 58,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="62" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>GFBPJCFC_01378_gene (GFBPJCFC_01378)
+hypothetical protein</title>
+			<polygon class="GFBPJCFC_01378_gene (GFBPJCFC_01378)
+hypothetical protein" points="139,25 130,25 130,10 100,40 130,70 130,55 139,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="104,40 116,28 139,28 139,52 116,52" stroke-linejoin="round" width="39" height="24" fill="rgb(80,62,217)" stroke="rgb(64,49,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC (GFBPJCFC_01379)
+Aerobactin synthase</title>
+			<polygon class="iucC (GFBPJCFC_01379)
+Aerobactin synthase" points="143,25 177,25 177,10 207,40 177,70 177,55 143,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="162" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="189,28 191,28 203,40 191,52 189,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>GFBPJCFC_01380_gene (GFBPJCFC_01380)
+Alkaline shock protein 23</title>
+			<polygon class="GFBPJCFC_01380_gene (GFBPJCFC_01380)
+Alkaline shock protein 23" points="215,40 232,10 232,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp23 (PF03780)
+"Asp23 family, cell envelope-related function"</title>
+				<polygon class="PF03780" points="218,40 225,28 227,28 227,52 225,52" stroke-linejoin="round" width="10" height="24" fill="rgb(195,60,141)" stroke="rgb(156,48,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>GFBPJCFC_01381_gene (GFBPJCFC_01381)
+hypothetical protein</title>
+			<polygon class="GFBPJCFC_01381_gene (GFBPJCFC_01381)
+hypothetical protein" points="234,40 242,10 242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2273 (PF10031)
+"Small integral membrane protein (DUF2273)"</title>
+				<polygon class="PF10031" points="237,40 239,32 239,48" stroke-linejoin="round" width="4" height="24" fill="rgb(203,147,56)" stroke="rgb(162,117,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>GFBPJCFC_01382_gene (GFBPJCFC_01382)
+hypothetical protein</title>
+			<polygon class="GFBPJCFC_01382_gene (GFBPJCFC_01382)
+hypothetical protein" points="242,40 259,10 259,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>opuD_1 (GFBPJCFC_01383)
+Glycine betaine transporter OpuD</title>
+			<polygon class="opuD_1 (GFBPJCFC_01383)
+Glycine betaine transporter OpuD" points="319,25 296,25 296,10 266,40 296,70 296,55 319,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BCCT (PF02028)
+"BCCT, betaine/carnitine/choline family transporter"</title>
+				<polygon class="PF02028" points="270,40 282,28 317,28 317,52 282,52" stroke-linejoin="round" width="48" height="24" fill="rgb(206,109,74)" stroke="rgb(164,87,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

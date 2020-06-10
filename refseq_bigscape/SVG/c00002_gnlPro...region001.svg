@@ -1,0 +1,121 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="568.4333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="356.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>catD (MNHGGPBM_01171)
+Putative oxidoreductase CatD</title>
+			<polygon class="catD (MNHGGPBM_01171)
+Putative oxidoreductase CatD" points="41,10 52,40 41,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DoxX (PF07681)
+"DoxX"</title>
+				<polygon class="PF07681" points="41,28 44,28 49,39 49,41 44,52 41,52" stroke-linejoin="round" width="8" height="24" fill="rgb(93,188,216)" stroke="rgb(74,150,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_01172_gene (MNHGGPBM_01172)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_01172_gene (MNHGGPBM_01172)
+hypothetical protein" points="66,10 74,40 66,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>MNHGGPBM_01173_gene (MNHGGPBM_01173)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="MNHGGPBM_01173_gene (MNHGGPBM_01173)
+putative ABC transporter ATP-binding protein" points="77,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="82,39 90,28 96,28 96,52 90,52 82,41" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_01174_gene (MNHGGPBM_01174)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_01174_gene (MNHGGPBM_01174)
+hypothetical protein" points="98,40 108,10 108,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>MNHGGPBM_01175_gene (MNHGGPBM_01175)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_01175_gene (MNHGGPBM_01175)
+hypothetical protein" points="174,25 139,25 139,10 109,40 139,70 139,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="113,40 118,35 118,45" stroke-linejoin="round" width="9" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_01176_gene (MNHGGPBM_01176)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_01176_gene (MNHGGPBM_01176)
+hypothetical protein" points="176,40 188,10 188,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="179,40 182,33 182,47" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_01177_gene (MNHGGPBM_01177)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_01177_gene (MNHGGPBM_01177)
+hypothetical protein" points="220,40 240,10 240,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPBP (PF02517)
+"CPBP intramembrane metalloprotease"</title>
+				<polygon class="PF02517" points="224,40 229,33 229,47" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_01178_gene (MNHGGPBM_01178)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_01178_gene (MNHGGPBM_01178)
+hypothetical protein" points="240,40 245,10 245,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2187 (PF09953)
+"Uncharacterized protein conserved in bacteria (DUF2187)"</title>
+				<polygon class="PF09953" points="243,40 245,28 245,28 245,52 245,52" stroke-linejoin="round" width="5" height="24" fill="rgb(69,227,78)" stroke="rgb(55,181,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_01179_gene (MNHGGPBM_01179)
+Lipoate--protein ligase 1</title>
+			<polygon class="MNHGGPBM_01179_gene (MNHGGPBM_01179)
+Lipoate--protein ligase 1" points="253,25 255,25 255,10 285,40 255,70 255,55 253,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPL_LplA_LipB (PF03099)
+"Biotin/lipoate A/B protein ligase family"</title>
+				<rect class="PF03099" x="257" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(228,147,105)" stroke="rgb(182,117,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Lip_prot_lig_C (PF10437)
+"Bacterial lipoate protein ligase C-terminus"</title>
+				<polygon class="PF10437" points="277,36 281,40 277,44" stroke-linejoin="round" width="8" height="24" fill="rgb(202,62,112)" stroke="rgb(161,49,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_01180_gene (MNHGGPBM_01180)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_01180_gene (MNHGGPBM_01180)
+hypothetical protein" points="288,40 295,10 295,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IDEAL (PF08858)
+"IDEAL domain"</title>
+				<polygon class="PF08858" points="291,40 292,36 292,44" stroke-linejoin="round" width="3" height="24" fill="rgb(70,186,91)" stroke="rgb(56,148,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>comK (MNHGGPBM_01181)
+Competence transcription factor</title>
+			<polygon class="comK (MNHGGPBM_01181)
+Competence transcription factor" points="302,10 321,40 302,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ComK (PF06338)
+"ComK protein"</title>
+				<polygon class="PF06338" points="302,28 309,28 317,40 317,40 309,52 302,52" stroke-linejoin="round" width="15" height="24" fill="rgb(206,181,57)" stroke="rgb(164,144,45)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

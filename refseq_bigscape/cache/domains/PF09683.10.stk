@@ -1,0 +1,21 @@
+# STOCKHOLM 1.0
+
+c00022_gnlPro...region001_ORF2:gid:DNGEGIOB_01880_gene:pid:gnl_Prokka_DNGEGIOB_01880:loc:1367:1661:strand:+:34:94          -GGVWSHGIGKHY--VWSYYSHNKRNHGSTAV-GKYSSFSGVaRPGVQSKAS.APKAWGGNKTFY
+#=GR c00022_gnlPro...region001_ORF2:gid:DNGEGIOB_01880_gene:pid:gnl_Prokka_DNGEGIOB_01880:loc:1367:1661:strand:+:34:94  PP .9********777..*****************.****998877*********.***********9
+c00023_gnlPro...region001_ORF7:gid:IJOLGDCI_01708_gene:pid:gnl_Prokka_IJOLGDCI_01708:loc:5000:5294:strand:-:34:94          -GGVWSHGIGKHY--VWSYYSHNKRNHGSTAV-GKYSSFSGVaRPGVQSKAS.APKAWGGNKTFY
+#=GR c00023_gnlPro...region001_ORF7:gid:IJOLGDCI_01708_gene:pid:gnl_Prokka_IJOLGDCI_01708:loc:5000:5294:strand:-:34:94  PP .9********777..*****************.****998877*********.***********9
+c00043_gnlPro...region001_ORF5:gid:BGHEFFMJ_02551_gene:pid:gnl_Prokka_BGHEFFMJ_02551:loc:5000:5291:strand:-:32:93          -GGIWNHGVGSKY--VWSYYSHNGKYHTSTAI-GKYRSDSGAtKPGEEAQASaEKRWWWRNEAYY
+#=GR c00043_gnlPro...region001_ORF5:gid:BGHEFFMJ_02551_gene:pid:gnl_Prokka_BGHEFFMJ_02551:loc:5000:5291:strand:-:32:93  PP .9********888..*****************.9998888888*********7788899*****9
+c00005_gnlPro...region001_ORF5:gid:INJJNJAE_01538_gene:pid:gnl_Prokka_INJJNJAE_01538:loc:5000:5294:strand:+:34:94          -GGVWSHGIGKHY--VWSYYSHNKRNHGSTAV-GKYSSFSGVaRPGVQSKAS.APKAWGGNKTFY
+#=GR c00005_gnlPro...region001_ORF5:gid:INJJNJAE_01538_gene:pid:gnl_Prokka_INJJNJAE_01538:loc:5000:5294:strand:+:34:94  PP .9********777..*****************.****998877*********.***********9
+c00022_gnlPro...region002_ORF5:gid:OJOJPOKM_01499_gene:pid:gnl_Prokka_OJOJPOKM_01499:loc:5000:5291:strand:-:32:93          -GGIWNHGVGSKY--VWSYYSHNGKYHTSTAI-GKYRSDSGAtKPGEEAQASaEKRWWWRNEAYY
+#=GR c00022_gnlPro...region002_ORF5:gid:OJOJPOKM_01499_gene:pid:gnl_Prokka_OJOJPOKM_01499:loc:5000:5291:strand:-:32:93  PP .9********888..*****************.9998888888*********7788899*****9
+c00035_gnlPro...region001_ORF6:gid:NECOBKJD_02769_gene:pid:gnl_Prokka_NECOBKJD_02769:loc:3369:3663:strand:+:34:94          -GGVWSHGIGKHY--VWSYYSHNKRNHGSTAV-GKYSSFSGVaRPGVQSKAS.APKAWGGNKTFY
+#=GR c00035_gnlPro...region001_ORF6:gid:NECOBKJD_02769_gene:pid:gnl_Prokka_NECOBKJD_02769:loc:3369:3663:strand:+:34:94  PP .9********777..*****************.****998877*********.***********9
+c00001_gnlPro...region001_ORF6:gid:LGEIKLPL_00284_gene:pid:gnl_Prokka_LGEIKLPL_00284:loc:5000:5285:strand:+:30:91          -GGTWSHGVGSKY--VWSYYYHGHKGHGATAI-GKYRSFSGYtRAGVKAKASaTKNNWWVNRAYY
+#=GR c00001_gnlPro...region001_ORF6:gid:LGEIKLPL_00284_gene:pid:gnl_Prokka_LGEIKLPL_00284:loc:5000:5285:strand:+:30:91  PP .9********888..*****************.9988877666*********99**********9
+c00002_gnlPro...region001_ORF6:gid:MNHGGPBM_01176_gene:pid:gnl_Prokka_MNHGGPBM_01176:loc:5000:5384:strand:-:63:124         -GGTWSHGVGSKY--VWSYYYHGHKGHGATAI-GKYRSFSGYtRAGVKAKASaTKNNWWVNRAYY
+#=GR c00002_gnlPro...region001_ORF6:gid:MNHGGPBM_01176_gene:pid:gnl_Prokka_MNHGGPBM_01176:loc:5000:5384:strand:-:63:124 PP .9********888..*****************.9988877666*********99**********9
+#=GC PP_cons                                                                                                               .9********877..*****************.*99998877.*********.999********9
+#=GC RF                                                                                                                    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxx.xxxxxxxxxxxx
+//

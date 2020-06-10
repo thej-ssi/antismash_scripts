@@ -1,0 +1,15 @@
+c00032_gnlPro...region001	21.3	HNPJFCIA_01639_gene	50	136	PF08240.12	ADH_N	469	1582	c00032_gnlPro...region001_ORF1:gid:HNPJFCIA_01639_gene:pid:gnl_Prokka_HNPJFCIA_01639:loc:469:1582:strand:+
+c00032_gnlPro...region001	65.2	kdpE	149	230	PF00486.28	Trans_reg_C	1726	2431	c00032_gnlPro...region001_ORF2:gid:kdpE:pid:gnl_Prokka_HNPJFCIA_01640:loc:1726:2431:strand:-
+c00032_gnlPro...region001	93.4	kdpE	6	115	PF00072.24	Response_reg	1726	2431	c00032_gnlPro...region001_ORF2:gid:kdpE:pid:gnl_Prokka_HNPJFCIA_01640:loc:1726:2431:strand:-
+c00032_gnlPro...region001	69.7	kdpD	767	879	PF02518.26	HATPase_c	2432	5087	c00032_gnlPro...region001_ORF3:gid:kdpD:pid:gnl_Prokka_HNPJFCIA_01641:loc:2432:5087:strand:-
+c00032_gnlPro...region001	41.9	kdpD	655	723	PF00512.25	HisKA	2432	5087	c00032_gnlPro...region001_ORF3:gid:kdpD:pid:gnl_Prokka_HNPJFCIA_01641:loc:2432:5087:strand:-
+c00032_gnlPro...region001	71.3	kdpD	387	497	PF13493.6	DUF4118	2432	5087	c00032_gnlPro...region001_ORF3:gid:kdpD:pid:gnl_Prokka_HNPJFCIA_01641:loc:2432:5087:strand:-
+c00032_gnlPro...region001	264.0	kdpD	7	216	PF02702.17	KdpD	2432	5087	c00032_gnlPro...region001_ORF3:gid:kdpD:pid:gnl_Prokka_HNPJFCIA_01641:loc:2432:5087:strand:-
+c00032_gnlPro...region001	700.5	kdpA	4	556	PF03814.15	KdpA	5354	7037	c00032_gnlPro...region001_ORF4:gid:kdpA:pid:gnl_Prokka_HNPJFCIA_01642:loc:5354:7037:strand:+
+c00032_gnlPro...region001	121.8	kdpB	100	281	PF00122.20	E1-E2_ATPase	7056	9078	c00032_gnlPro...region001_ORF5:gid:kdpB:pid:gnl_Prokka_HNPJFCIA_01643:loc:7056:9078:strand:+
+c00032_gnlPro...region001	118.6	kdpB	298	523	PF00702.26	Hydrolase	7056	9078	c00032_gnlPro...region001_ORF5:gid:kdpB:pid:gnl_Prokka_HNPJFCIA_01643:loc:7056:9078:strand:+
+c00032_gnlPro...region001	204.9	kdpC	4	184	PF02669.15	KdpC	9093	9654	c00032_gnlPro...region001_ORF6:gid:kdpC:pid:gnl_Prokka_HNPJFCIA_01644:loc:9093:9654:strand:+
+c00032_gnlPro...region001	74.1	sboA	9	43	PF11420.8	Subtilosin_A	9804	9936	c00032_gnlPro...region001_ORF7:gid:sboA:pid:gnl_Prokka_HNPJFCIA_01645:loc:9804:9936:strand:+
+c00032_gnlPro...region001	60.6	albA	120	278	PF04055.21	Radical_SAM	10000	11335	c00032_gnlPro...region001_ORF8:gid:albA:pid:gnl_Prokka_HNPJFCIA_01646:loc:10000:11335:strand:+
+c00032_gnlPro...region001	32.2	albA	341	414	PF13186.6	SPASM	10000	11335	c00032_gnlPro...region001_ORF8:gid:albA:pid:gnl_Prokka_HNPJFCIA_01646:loc:10000:11335:strand:+
+c00032_gnlPro...region001	75.9	albC	17	164	PF00005.27	ABC_tran	11493	12198	c00032_gnlPro...region001_ORF10:gid:albC:pid:gnl_Prokka_HNPJFCIA_01648:loc:11493:12198:strand:+

@@ -1,0 +1,147 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="520.0" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="510.0" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>yfiZ_1 (LGEIKLPL_01641)
+putative siderophore transport system permease protein YfiZ</title>
+			<polygon class="yfiZ_1 (LGEIKLPL_01641)
+putative siderophore transport system permease protein YfiZ" points="68,25 65,25 65,10 35,40 65,70 65,55 68,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="39,40 51,28 66,28 66,52 51,52" stroke-linejoin="round" width="31" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiY (LGEIKLPL_01642)
+putative siderophore-binding lipoprotein YfiY</title>
+			<polygon class="yfiY (LGEIKLPL_01642)
+putative siderophore-binding lipoprotein YfiY" points="101,25 98,25 98,10 68,40 98,70 98,55 101,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="72,40 84,28 95,28 95,52 84,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbnA (LGEIKLPL_01643)
+putative siderophore biosynthesis protein SbnA</title>
+			<polygon class="sbnA (LGEIKLPL_01643)
+putative siderophore biosynthesis protein SbnA" points="109,25 111,25 111,10 141,40 111,70 111,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="110,28 125,28 137,40 125,52 110,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arcB_1 (LGEIKLPL_01644)
+Delta(1)-pyrroline-2-carboxylate reductase</title>
+			<polygon class="arcB_1 (LGEIKLPL_01644)
+Delta(1)-pyrroline-2-carboxylate reductase" points="142,25 145,25 145,10 175,40 145,70 145,55 142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OCD_Mu_crystall (PF02423)
+"Ornithine cyclodeaminase/mu-crystallin family"</title>
+				<polygon class="PF02423" points="142,28 159,28 171,40 159,52 142,52" stroke-linejoin="round" width="32" height="24" fill="rgb(221,120,93)" stroke="rgb(176,96,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_1 (LGEIKLPL_01645)
+Aerobactin synthase</title>
+			<polygon class="iucC_1 (LGEIKLPL_01645)
+Aerobactin synthase" points="176,25 204,25 204,10 234,40 204,70 204,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="189" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="215,28 218,28 230,40 218,52 215,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tetA_2 (LGEIKLPL_01646)
+Tetracycline resistance protein, class B</title>
+			<polygon class="tetA_2 (LGEIKLPL_01646)
+Tetracycline resistance protein, class B" points="237,25 246,25 246,10 276,40 246,70 246,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<rect class="PF07690" x="237" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucA_1 (LGEIKLPL_01647)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase</title>
+			<polygon class="iucA_1 (LGEIKLPL_01647)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase" points="276,25 303,25 303,10 333,40 303,70 303,55 276,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="289" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="315,28 317,28 329,40 317,52 315,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_2 (LGEIKLPL_01648)
+Aerobactin synthase</title>
+			<polygon class="iucC_2 (LGEIKLPL_01648)
+Aerobactin synthase" points="333,25 362,25 362,10 392,40 362,70 362,55 333,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="346" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="372,28 376,28 388,40 376,52 372,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>garL (LGEIKLPL_01649)
+5-keto-4-deoxy-D-glucarate aldolase</title>
+			<polygon class="garL (LGEIKLPL_01649)
+5-keto-4-deoxy-D-glucarate aldolase" points="392,10 417,40 392,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HpcH_HpaI (PF03328)
+"HpcH/HpaI aldolase/citrate lyase family"</title>
+				<polygon class="PF03328" points="393,28 404,28 413,40 404,52 393,52" stroke-linejoin="round" width="22" height="24" fill="rgb(81,183,94)" stroke="rgb(64,146,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>btrK (LGEIKLPL_01650)
+L-glutamyl-[BtrI acyl-carrier protein] decarboxylase</title>
+			<polygon class="btrK (LGEIKLPL_01650)
+L-glutamyl-[BtrI acyl-carrier protein] decarboxylase" points="417,25 427,25 427,10 457,40 427,70 427,55 417,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Orn_Arg_deC_N (PF02784)
+"Pyridoxal-dependent decarboxylase, pyridoxal binding domain"</title>
+				<polygon class="PF02784" points="419,28 440,28 443,31 443,49 440,52 419,52" stroke-linejoin="round" width="24" height="24" fill="rgb(106,204,212)" stroke="rgb(84,163,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_01651_gene (LGEIKLPL_01651)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01651_gene (LGEIKLPL_01651)
+hypothetical protein" points="458,10 483,40 458,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ParBc (PF02195)
+"ParB-like nuclease domain"</title>
+				<rect class="PF02195" x="458" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(55,214,209)" stroke="rgb(44,171,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>LGEIKLPL_01652_gene (LGEIKLPL_01652)
+hypothetical protein</title>
+			<polygon class="LGEIKLPL_01652_gene (LGEIKLPL_01652)
+hypothetical protein" points="490,10 504,40 490,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

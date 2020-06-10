@@ -1,0 +1,10 @@
+c00002_gnlPro...region001	57.1	catD	4	84	PF07681.12	DoxX	930	1287	c00002_gnlPro...region001_ORF1:gid:catD:pid:gnl_Prokka_MNHGGPBM_01171:loc:930:1287:strand:+
+c00002_gnlPro...region001	109.6	MNHGGPBM_01173_gene	17	161	PF00005.27	ABC_tran	2031	2673	c00002_gnlPro...region001_ORF3:gid:MNHGGPBM_01173_gene:pid:gnl_Prokka_MNHGGPBM_01173:loc:2031:2673:strand:-
+c00002_gnlPro...region001	48.2	MNHGGPBM_01175_gene	555	653	PF07242.11	DUF1430	2992	4957	c00002_gnlPro...region001_ORF5:gid:MNHGGPBM_01175_gene:pid:gnl_Prokka_MNHGGPBM_01175:loc:2992:4957:strand:-
+c00002_gnlPro...region001	48.2	MNHGGPBM_01176_gene	63	124	PF09683.10	Lactococcin_972	5000	5384	c00002_gnlPro...region001_ORF6:gid:MNHGGPBM_01176_gene:pid:gnl_Prokka_MNHGGPBM_01176:loc:5000:5384:strand:-
+c00002_gnlPro...region001	28.2	MNHGGPBM_01177_gene	100	194	PF02517.16	CPBP	6301	6904	c00002_gnlPro...region001_ORF7:gid:MNHGGPBM_01177_gene:pid:gnl_Prokka_MNHGGPBM_01177:loc:6301:6904:strand:-
+c00002_gnlPro...region001	97.5	MNHGGPBM_01178_gene	2	57	PF09953.9	DUF2187	6918	7095	c00002_gnlPro...region001_ORF8:gid:MNHGGPBM_01178_gene:pid:gnl_Prokka_MNHGGPBM_01178:loc:6918:7095:strand:-
+c00002_gnlPro...region001	34.9	MNHGGPBM_01179_gene	42	155	PF03099.19	BPL_LplA_LipB	7293	8280	c00002_gnlPro...region001_ORF9:gid:MNHGGPBM_01179_gene:pid:gnl_Prokka_MNHGGPBM_01179:loc:7293:8280:strand:+
+c00002_gnlPro...region001	92.9	MNHGGPBM_01179_gene	243	327	PF10437.9	Lip_prot_lig_C	7293	8280	c00002_gnlPro...region001_ORF9:gid:MNHGGPBM_01179_gene:pid:gnl_Prokka_MNHGGPBM_01179:loc:7293:8280:strand:+
+c00002_gnlPro...region001	48.7	MNHGGPBM_01180_gene	27	63	PF08858.10	IDEAL	8360	8579	c00002_gnlPro...region001_ORF10:gid:MNHGGPBM_01180_gene:pid:gnl_Prokka_MNHGGPBM_01180:loc:8360:8579:strand:-
+c00002_gnlPro...region001	161.8	comK	4	157	PF06338.11	ComK	8788	9358	c00002_gnlPro...region001_ORF11:gid:comK:pid:gnl_Prokka_MNHGGPBM_01181:loc:8788:9358:strand:+

@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+c00023_gnlPro...region001_ORF9:gid:blaZ:pid:gnl_Prokka_IJOLGDCI_01710:loc:6609:7455:strand:-:45:254         k--SGKEVKFNSDKRFAYASTSKAINSAILLEQVP--YNKLNKKVHINKDDIVAYSPILEKYVGKDITLKELIEASMTYSDNTANNKIIKEIGgIKKVKQRLKELGDKVTNPVRYEIELNyYSPKSKKDTSTPAAFGKTLNKLIANGKLSKKnknFLLDLMFnNKNGDTLIKDGVPKDYKVADKSGQaiTYASRNDVAFV
+#=GR c00023_gnlPro...region001_ORF9:gid:blaZ:pid:gnl_Prokka_IJOLGDCI_01710:loc:6609:7455:strand:-:45:254 PP 6..799*******************8888899999..8899***************************************************99*****************99998888845678889***************9999999999*******996777789******************877**********
+c00005_gnlPro...region001_ORF3:gid:blaZ:pid:gnl_Prokka_INJJNJAE_01536:loc:2839:3685:strand:+:45:254         k--SGKEVKFNSDKRFAYASTSKAINSAILLEQVP--YNKLNKKVHINKDDIVAYSPILEKYVGKDITLKELIEASMTYSDNTANNKIIKEIGgIKKVKQRLKELGDKVTNPVRYEIELNyYSPKSKKDTSTPAAFGKTLNKLIANGKLSKKnknFLLDLMFnNKNGDTLIKDGVPKDYKVADKSGQaiTYASRNDVAFV
+#=GR c00005_gnlPro...region001_ORF3:gid:blaZ:pid:gnl_Prokka_INJJNJAE_01536:loc:2839:3685:strand:+:45:254 PP 6..799*******************8888899999..8899***************************************************99*****************99998888845678889***************9999999999*******996777789******************877**********
+#=GC PP_cons                                                                                                ...799*******************8888899999..8899***************************************************9.*****************999988888.5678889***************999999999...*****99.777789******************..7**********
+#=GC RF                                                                                                     .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx...xxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxx
+
+c00023_gnlPro...region001_ORF9:gid:blaZ:pid:gnl_Prokka_IJOLGDCI_01710:loc:6609:7455:strand:-:45:254         YPKGQ------sepivlvi
+#=GR c00023_gnlPro...region001_ORF9:gid:blaZ:pid:gnl_Prokka_IJOLGDCI_01710:loc:6609:7455:strand:-:45:254 PP *9554......34555567
+c00005_gnlPro...region001_ORF3:gid:blaZ:pid:gnl_Prokka_INJJNJAE_01536:loc:2839:3685:strand:+:45:254         YPKGQ------sepivlvi
+#=GR c00005_gnlPro...region001_ORF3:gid:blaZ:pid:gnl_Prokka_INJJNJAE_01536:loc:2839:3685:strand:+:45:254 PP *9554......34555567
+#=GC PP_cons                                                                                                *9554..............
+#=GC RF                                                                                                     xxxxxxxxxxx........
+//

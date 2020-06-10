@@ -1,0 +1,630 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1768.4" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1758.4" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DHAILMMN_00631_gene (DHAILMMN_00631)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00631_gene (DHAILMMN_00631)
+hypothetical protein" points="12,40 17,10 17,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>capA_1 (DHAILMMN_00632)
+Capsule biosynthesis protein CapA</title>
+			<polygon class="capA_1 (DHAILMMN_00632)
+Capsule biosynthesis protein CapA" points="52,25 47,25 47,10 17,40 47,70 47,55 52,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGA_cap (PF09587)
+"Bacterial capsule synthesis protein PGA_cap"</title>
+				<polygon class="PF09587" points="24,37 33,28 46,28 46,52 33,52 24,43" stroke-linejoin="round" width="22" height="24" fill="rgb(179,65,131)" stroke="rgb(143,52,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>capC (DHAILMMN_00633)
+Capsule biosynthesis protein CapC</title>
+			<polygon class="capC (DHAILMMN_00633)
+Capsule biosynthesis protein CapC" points="54,40 69,10 69,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caps_synth_CapC (PF14102)
+"Capsule biosynthesis CapC"</title>
+				<polygon class="PF14102" points="57,40 63,28 67,28 67,52 63,52" stroke-linejoin="round" width="11" height="24" fill="rgb(56,185,111)" stroke="rgb(44,148,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>capB (DHAILMMN_00634)
+Capsule biosynthesis protein CapB</title>
+			<polygon class="capB (DHAILMMN_00634)
+Capsule biosynthesis protein CapB" points="107,25 99,25 99,10 69,40 99,70 99,55 107,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mur_ligase_M (PF08245)
+"Mur ligase middle domain"</title>
+				<polygon class="PF08245" points="83,30 85,28 103,28 103,52 85,52 83,50" stroke-linejoin="round" width="20" height="24" fill="rgb(57,133,195)" stroke="rgb(45,106,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00635_gene (DHAILMMN_00635)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00635_gene (DHAILMMN_00635)
+hypothetical protein" points="123,10 133,40 123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>rclR (DHAILMMN_00636)
+RCS-specific HTH-type transcriptional activator RclR</title>
+			<polygon class="rclR (DHAILMMN_00636)
+RCS-specific HTH-type transcriptional activator RclR" points="134,40 163,10 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="138,40 141,37 141,43" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AraC_binding (PF02311)
+"AraC-like ligand binding domain"</title>
+				<rect class="PF02311" x="152" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(81,203,213)" stroke="rgb(64,162,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yicL (DHAILMMN_00637)
+putative inner membrane transporter YicL</title>
+			<polygon class="yicL (DHAILMMN_00637)
+putative inner membrane transporter YicL" points="167,25 167,25 167,10 197,40 167,70 167,55 167,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<rect class="PF00892" x="167" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="183,30 193,40 183,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lipR (DHAILMMN_00638)
+Putative acetyl-hydrolase LipR</title>
+			<polygon class="lipR (DHAILMMN_00638)
+Putative acetyl-hydrolase LipR" points="233,25 231,25 231,10 201,40 231,70 231,55 233,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="205,40 217,28 223,28 223,52 217,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00639_gene (DHAILMMN_00639)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00639_gene (DHAILMMN_00639)
+hypothetical protein" points="236,40 264,10 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2179 (PF10035)
+"Uncharacterized protein conserved in bacteria (DUF2179)"</title>
+				<polygon class="PF10035" points="240,40 241,39 241,41" stroke-linejoin="round" width="5" height="24" fill="rgb(197,111,90)" stroke="rgb(157,88,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YitT_membrane (PF02588)
+"Uncharacterised 5xTM membrane BCR, YitT family COG1284"</title>
+				<polygon class="PF02588" points="242,38 251,28 262,28 262,52 251,52 242,42" stroke-linejoin="round" width="20" height="24" fill="rgb(155,63,204)" stroke="rgb(123,50,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydbP_1 (DHAILMMN_00640)
+Thioredoxin-like protein YdbP</title>
+			<polygon class="ydbP_1 (DHAILMMN_00640)
+Thioredoxin-like protein YdbP" points="273,40 283,10 283,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="276,40 280,28 282,28 282,52 280,52" stroke-linejoin="round" width="9" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00641_gene (DHAILMMN_00641)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00641_gene (DHAILMMN_00641)
+hypothetical protein" points="286,40 299,10 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT_2 (PF13279)
+"Thioesterase-like superfamily"</title>
+				<polygon class="PF13279" points="289,40 294,28 297,28 297,52 294,52" stroke-linejoin="round" width="11" height="24" fill="rgb(213,114,82)" stroke="rgb(170,91,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>adh (DHAILMMN_00642)
+Alcohol dehydrogenase</title>
+			<polygon class="adh (DHAILMMN_00642)
+Alcohol dehydrogenase" points="306,25 311,25 311,10 341,40 311,70 311,55 306,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="308" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="323,28 324,28 335,39 335,41 324,52 323,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00643_gene (DHAILMMN_00643)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00643_gene (DHAILMMN_00643)
+hypothetical protein" points="345,40 370,10 370,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPBP (PF02517)
+"CPBP intramembrane metalloprotease"</title>
+				<polygon class="PF02517" points="349,40 355,33 355,47" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptsG (DHAILMMN_00644)
+PTS system glucose-specific EIICBA component</title>
+			<polygon class="ptsG (DHAILMMN_00644)
+PTS system glucose-specific EIICBA component" points="445,25 408,25 408,10 378,40 408,70 408,55 445,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="382,40 392,30 392,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="399" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="411" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaP (DHAILMMN_00645)
+Putative thiamine pyrophosphate-containing protein YdaP</title>
+			<polygon class="ydaP (DHAILMMN_00645)
+Putative thiamine pyrophosphate-containing protein YdaP" points="512,25 484,25 484,10 454,40 484,70 484,55 512,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="459,39 470,28 473,28 473,52 470,52 459,41" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="479" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="494" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidB (DHAILMMN_00646)
+Holin-like protein CidB</title>
+			<polygon class="cidB (DHAILMMN_00646)
+Holin-like protein CidB" points="514,40 537,10 537,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgB (PF04172)
+"LrgB-like family"</title>
+				<polygon class="PF04172" points="518,40 527,28 535,28 535,52 527,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,227,179)" stroke="rgb(45,181,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidA (DHAILMMN_00647)
+Holin-like protein CidA</title>
+			<polygon class="cidA (DHAILMMN_00647)
+Holin-like protein CidA" points="536,40 548,10 548,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgA (PF03788)
+"LrgA family"</title>
+				<polygon class="PF03788" points="539,40 544,28 546,28 546,52 544,52" stroke-linejoin="round" width="9" height="24" fill="rgb(51,191,185)" stroke="rgb(40,152,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cynR_2 (DHAILMMN_00648)
+HTH-type transcriptional regulator CynR</title>
+			<polygon class="cynR_2 (DHAILMMN_00648)
+HTH-type transcriptional regulator CynR" points="557,40 586,10 586,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="561,40 573,28 577,28 577,52 573,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="580" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00649_gene (DHAILMMN_00649)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00649_gene (DHAILMMN_00649)
+hypothetical protein" points="593,10 600,40 593,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YozE_SAM_like (PF06855)
+"YozE SAM-like fold"</title>
+				<polygon class="PF06855" points="593,28 593,28 597,40 593,52 593,52" stroke-linejoin="round" width="6" height="24" fill="rgb(83,201,171)" stroke="rgb(66,160,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssaA_2 (DHAILMMN_00650)
+Staphylococcal secretory antigen SsaA</title>
+			<polygon class="ssaA_2 (DHAILMMN_00650)
+Staphylococcal secretory antigen SsaA" points="608,10 622,40 608,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="611,28 613,28 619,40 619,40 613,52 611,52" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaA (DHAILMMN_00651)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase</title>
+			<polygon class="mvaA (DHAILMMN_00651)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase" points="667,25 655,25 655,10 625,40 655,70 655,55 667,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="629,40 641,28 666,28 666,52 641,52 629,40" stroke-linejoin="round" width="37" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaS (DHAILMMN_00652)
+Hydroxymethylglutaryl-CoA synthase</title>
+			<polygon class="mvaS (DHAILMMN_00652)
+Hydroxymethylglutaryl-CoA synthase" points="676,25 684,25 684,10 714,40 684,70 684,55 676,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="676" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="700,30 710,40 700,50" stroke-linejoin="round" width="13" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ogt (DHAILMMN_00653)
+Methylated-DNA--protein-cysteine methyltransferase</title>
+			<polygon class="ogt (DHAILMMN_00653)
+Methylated-DNA--protein-cysteine methyltransferase" points="717,40 734,10 734,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DNA_binding_1 (PF01035)
+"6-O-methylguanine DNA methyltransferase, DNA binding domain"</title>
+				<polygon class="PF01035" points="720,40 726,30 726,50" stroke-linejoin="round" width="8" height="24" fill="rgb(79,155,220)" stroke="rgb(63,123,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00654_gene (DHAILMMN_00654)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00654_gene (DHAILMMN_00654)
+hypothetical protein" points="738,10 748,40 738,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YrhK (PF14145)
+"YrhK-like protein"</title>
+				<polygon class="PF14145" points="741,28 745,40 741,52" stroke-linejoin="round" width="5" height="24" fill="rgb(102,190,225)" stroke="rgb(81,152,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00655_gene (DHAILMMN_00655)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00655_gene (DHAILMMN_00655)
+hypothetical protein" points="754,40 769,10 769,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DHAILMMN_00656_gene (DHAILMMN_00656)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00656_gene (DHAILMMN_00656)
+hypothetical protein" points="776,40 781,10 781,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoB_associated (PF12669)
+"FeoB-associated Cys-rich membrane protein"</title>
+				<polygon class="PF12669" points="779,40 781,28 781,28 781,52 781,52" stroke-linejoin="round" width="4" height="24" fill="rgb(111,78,186)" stroke="rgb(88,62,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>feoB (DHAILMMN_00657)
+Fe(2+) transporter FeoB</title>
+			<polygon class="feoB (DHAILMMN_00657)
+Fe(2+) transporter FeoB" points="848,25 812,25 812,10 782,40 812,70 812,55 848,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<polygon class="PF07670" points="786,40 797,29 797,51" stroke-linejoin="round" width="12" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_C (PF07664)
+"Ferrous iron transport protein B C terminus"</title>
+				<polygon class="PF07664" points="797,29 798,28 802,28 802,52 798,52 797,51" stroke-linejoin="round" width="5" height="24" fill="rgb(186,56,114)" stroke="rgb(148,44,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<rect class="PF07670" x="804" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_Cyto (PF17910)
+"FeoB cytosolic helical domain"</title>
+				<rect class="PF17910" x="822" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(85,92,198)" stroke="rgb(68,73,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_N (PF02421)
+"Ferrous iron transport protein B"</title>
+				<rect class="PF02421" x="832" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(82,207,209)" stroke="rgb(65,165,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00658_gene (DHAILMMN_00658)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00658_gene (DHAILMMN_00658)
+hypothetical protein" points="848,40 855,10 855,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoA (PF04023)
+"FeoA domain"</title>
+				<polygon class="PF04023" points="851,40 854,28 855,28 855,52 854,52" stroke-linejoin="round" width="7" height="24" fill="rgb(180,183,81)" stroke="rgb(144,146,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00659_gene (DHAILMMN_00659)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00659_gene (DHAILMMN_00659)
+hypothetical protein" points="863,10 881,40 863,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="864" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rocA (DHAILMMN_00660)
+1-pyrroline-5-carboxylate dehydrogenase</title>
+			<polygon class="rocA (DHAILMMN_00660)
+1-pyrroline-5-carboxylate dehydrogenase" points="936,25 915,25 915,10 885,40 915,70 915,55 936,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="889,40 901,28 931,28 931,52 901,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>icaC_1 (DHAILMMN_00661)
+putative poly-beta-1,6-N-acetyl-D-glucosamine export protein</title>
+			<polygon class="icaC_1 (DHAILMMN_00661)
+putative poly-beta-1,6-N-acetyl-D-glucosamine export protein" points="947,25 952,25 952,10 982,40 952,70 952,55 947,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="947,28 966,28 978,40 978,40 966,52 947,52" stroke-linejoin="round" width="31" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>wbgU_1 (DHAILMMN_00662)
+UDP-N-acetylglucosamine 4-epimerase</title>
+			<polygon class="wbgU_1 (DHAILMMN_00662)
+UDP-N-acetylglucosamine 4-epimerase" points="989,25 990,25 990,10 1020,40 990,70 990,55 989,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Epimerase (PF01370)
+"NAD dependent epimerase/dehydratase family"</title>
+				<polygon class="PF01370" points="989,28 1004,28 1013,37 1013,43 1004,52 989,52" stroke-linejoin="round" width="24" height="24" fill="rgb(98,102,214)" stroke="rgb(78,81,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tarF (DHAILMMN_00663)
+Teichoic acid poly(glycerol phosphate) polymerase</title>
+			<polygon class="tarF (DHAILMMN_00663)
+Teichoic acid poly(glycerol phosphate) polymerase" points="1105,25 1052,25 1052,10 1022,40 1052,70 1052,55 1105,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_1 (PF00534)
+"Glycosyl transferases group 1"</title>
+				<polygon class="PF00534" points="1026,40 1038,28 1039,28 1039,52 1038,52" stroke-linejoin="round" width="16" height="24" fill="rgb(228,92,150)" stroke="rgb(182,73,119)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Glyphos_transf (PF04464)
+"CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase"</title>
+				<rect class="PF04464" x="1064" y="28" stroke-linejoin="round" width="37" height="24" fill="rgb(55,181,67)" stroke="rgb(44,144,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00664_gene (DHAILMMN_00664)
+Putative acetyltransferase</title>
+			<polygon class="DHAILMMN_00664_gene (DHAILMMN_00664)
+Putative acetyltransferase" points="1111,40 1129,10 1129,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="1115,40 1116,38 1116,42" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep_2 (PF14602)
+"Hexapeptide repeat of succinyl-transferase"</title>
+				<polygon class="PF14602" points="1119,34 1122,28 1122,28 1122,52 1122,52 1119,46" stroke-linejoin="round" width="3" height="24" fill="rgb(79,205,115)" stroke="rgb(63,164,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Mac (PF12464)
+"Maltose acetyltransferase"</title>
+				<rect class="PF12464" x="1124" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(188,228,87)" stroke="rgb(150,182,69)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaD (DHAILMMN_00665)
+General stress protein 39</title>
+			<polygon class="ydaD (DHAILMMN_00665)
+General stress protein 39" points="1133,40 1162,10 1162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="1137,40 1149,28 1156,28 1156,52 1149,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00666_gene (DHAILMMN_00666)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00666_gene (DHAILMMN_00666)
+hypothetical protein" points="1172,10 1185,40 1172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF3139 (PF11337)
+"Protein of unknown function (DUF3139)"</title>
+				<polygon class="PF11337" points="1172,28 1176,28 1180,36 1180,44 1176,52 1172,52" stroke-linejoin="round" width="8" height="24" fill="rgb(105,223,97)" stroke="rgb(83,178,77)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00667_gene (DHAILMMN_00667)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00667_gene (DHAILMMN_00667)
+hypothetical protein" points="1191,10 1197,40 1191,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>copA (DHAILMMN_00668)
+Copper-exporting P-type ATPase A</title>
+			<polygon class="copA (DHAILMMN_00668)
+Copper-exporting P-type ATPase A" points="1207,25 1256,25 1256,10 1286,40 1256,70 1256,55 1207,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="1207" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="1214" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="1236" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="1255,28 1270,28 1276,34 1276,46 1270,52 1255,52" stroke-linejoin="round" width="21" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copZ (DHAILMMN_00669)
+Copper chaperone CopZ</title>
+			<polygon class="copZ (DHAILMMN_00669)
+Copper chaperone CopZ" points="1290,10 1296,40 1290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<polygon class="PF00403" points="1290,28 1290,28 1293,40 1290,52 1290,52" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bacF (DHAILMMN_00670)
+Transaminase BacF</title>
+			<polygon class="bacF (DHAILMMN_00670)
+Transaminase BacF" points="1337,25 1329,25 1329,10 1299,40 1329,70 1329,55 1337,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="1303,40 1315,28 1334,28 1334,52 1315,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtN_1 (DHAILMMN_00671)
+Dehydrosqualene desaturase</title>
+			<polygon class="crtN_1 (DHAILMMN_00671)
+Dehydrosqualene desaturase" points="1380,25 1375,25 1375,10 1345,40 1375,70 1375,55 1380,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="1349,40 1361,28 1378,28 1378,52 1361,52" stroke-linejoin="round" width="33" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtN_2 (DHAILMMN_00672)
+Dehydrosqualene desaturase</title>
+			<polygon class="crtN_2 (DHAILMMN_00672)
+Dehydrosqualene desaturase" points="1380,40 1395,10 1395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_8 (PF13450)
+"NAD(P)-binding Rossmann-like domain"</title>
+				<polygon class="PF13450" points="1388,30 1389,28 1394,28 1394,52 1389,52 1388,50" stroke-linejoin="round" width="6" height="24" fill="rgb(91,180,227)" stroke="rgb(72,144,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtM (DHAILMMN_00673)
+Dehydrosqualene synthase</title>
+			<polygon class="crtM (DHAILMMN_00673)
+Dehydrosqualene synthase" points="1396,40 1424,10 1424,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="1400,40 1412,28 1422,28 1422,52 1412,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtQ (DHAILMMN_00674)
+4,4'-diaponeurosporenoate glycosyltransferase</title>
+			<polygon class="crtQ (DHAILMMN_00674)
+4,4'-diaponeurosporenoate glycosyltransferase" points="1463,25 1456,25 1456,10 1426,40 1456,70 1456,55 1463,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="1442,28 1442,28 1458,28 1458,52 1442,52 1442,52" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtP (DHAILMMN_00675)
+Diapolycopene oxygenase</title>
+			<polygon class="crtP (DHAILMMN_00675)
+Diapolycopene oxygenase" points="1512,25 1493,25 1493,10 1463,40 1493,70 1493,55 1512,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="1467,40 1479,28 1510,28 1510,52 1479,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00676_gene (DHAILMMN_00676)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00676_gene (DHAILMMN_00676)
+hypothetical protein" points="1513,40 1529,10 1529,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>isaA (DHAILMMN_00677)
+putative transglycosylase IsaA</title>
+			<polygon class="isaA (DHAILMMN_00677)
+putative transglycosylase IsaA" points="1536,40 1559,10 1559,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>tmk_2 (DHAILMMN_00678)
+Thymidylate kinase</title>
+			<polygon class="tmk_2 (DHAILMMN_00678)
+Thymidylate kinase" points="1620,25 1604,25 1604,10 1574,40 1604,70 1604,55 1620,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<polygon class="PF03976" points="1578,40 1590,28 1596,28 1596,52 1590,52" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<rect class="PF03976" x="1599" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DHAILMMN_00679_gene (DHAILMMN_00679)
+hypothetical protein</title>
+			<polygon class="DHAILMMN_00679_gene (DHAILMMN_00679)
+hypothetical protein" points="1674,25 1669,25 1669,10 1639,40 1669,70 1669,55 1674,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC_2 (PF13303)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF13303" points="1643,40 1655,28 1672,28 1672,52 1655,52" stroke-linejoin="round" width="33" height="24" fill="rgb(100,202,191)" stroke="rgb(80,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cycA_2 (DHAILMMN_00680)
+D-serine/D-alanine/glycine transporter</title>
+			<polygon class="cycA_2 (DHAILMMN_00680)
+D-serine/D-alanine/glycine transporter" points="1735,25 1719,25 1719,10 1689,40 1719,70 1719,55 1735,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_permease (PF00324)
+"Amino acid permease"</title>
+				<polygon class="PF00324" points="1693,40 1705,28 1734,28 1734,52 1705,52" stroke-linejoin="round" width="44" height="24" fill="rgb(82,225,201)" stroke="rgb(65,180,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

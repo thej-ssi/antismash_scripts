@@ -1,0 +1,22 @@
+#                                                                                                                                                  --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name                                                                                 accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- -----                                                                       -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+SQS_PSY              PF00494.19   263 c00077_gnlPro...region001_ORF1:gid:crtM:pid:gnl_Prokka_BOIIOIPH_01641:loc:189:798:strand:+ -            202   2.2e-42  145.4   0.0   1   1   1.4e-46   2.5e-42  145.2   0.0    74   263     3   188     1   188 0.97 Squalene/phytoene synthase
+Amino_oxidase        PF01593.24   452 c00077_gnlPro...region001_ORF2:gid:crtN:pid:gnl_Prokka_BOIIOIPH_01642:loc:810:2316:strand:+ -            501   2.7e-29  102.7   0.0   1   1   8.8e-33   3.9e-29  102.2   0.0     2   452    11   494    10   494 0.80 Flavin containing amine oxidoreductase
+NAD_binding_8        PF13450.6     68 c00077_gnlPro...region001_ORF2:gid:crtN:pid:gnl_Prokka_BOIIOIPH_01642:loc:810:2316:strand:+ -            501   2.4e-15   56.5   0.0   1   1   1.3e-18   5.7e-15   55.3   0.0     1    62     5    66     5    68 0.96 NAD(P)-binding Rossmann-like domain
+FAD_binding_2        PF00890.24   417 c00077_gnlPro...region001_ORF2:gid:crtN:pid:gnl_Prokka_BOIIOIPH_01642:loc:810:2316:strand:+ -            501   1.1e-05   24.7   0.2   1   1   5.4e-09   2.4e-05   23.6   0.3     2    36     3    37     2    46 0.91 FAD binding domain
+Aminotran_1_2        PF00155.21   363 c00077_gnlPro...region001_ORF4:gid:bacF:pid:gnl_Prokka_BOIIOIPH_01644:loc:2566:3727:strand:+ -            386   3.1e-57  194.4   0.0   1   1   6.2e-61   3.7e-57  194.2   0.0     3   363    30   377    29   377 0.95 Aminotransferase class I and II
+DegT_DnrJ_EryC1      PF01041.17   361 c00077_gnlPro...region001_ORF4:gid:bacF:pid:gnl_Prokka_BOIIOIPH_01644:loc:2566:3727:strand:+ -            386   0.00011   21.7   0.0   1   1   2.7e-08   0.00016   21.1   0.0    28   117    79   168    64   282 0.75 DegT/DnrJ/EryC1/StrS aminotransferase family
+2-Hacid_dh_C         PF02826.19   178 c00077_gnlPro...region001_ORF5:gid:ldhD_1:pid:gnl_Prokka_BOIIOIPH_01645:loc:3747:4752:strand:+ -            334   5.8e-47  159.3   0.0   1   1   1.6e-50   9.6e-47  158.6   0.0     2   178   114   302   113   302 0.94 D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain
+2-Hacid_dh           PF00389.30   134 c00077_gnlPro...region001_ORF5:gid:ldhD_1:pid:gnl_Prokka_BOIIOIPH_01645:loc:3747:4752:strand:+ -            334     2e-27   95.5   0.1   1   1   4.1e-31   2.5e-27   95.2   0.1     6   134    10   334     6   334 0.98 D-isomer specific 2-hydroxyacid dehydrogenase, catalytic domain
+NAD_binding_2        PF03446.15   158 c00077_gnlPro...region001_ORF5:gid:ldhD_1:pid:gnl_Prokka_BOIIOIPH_01645:loc:3747:4752:strand:+ -            334   4.9e-07   30.0   0.0   1   1   1.5e-10   9.1e-07   29.2   0.0     1   109   150   257   150   263 0.83 NAD binding domain of 6-phosphogluconate dehydrogenase
+#
+# Program:         hmmscan
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SCAN
+# Query file:      refseq_bigscape/cache/fasta/c00077_gnlPro...region001.fasta
+# Target file:     /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm
+# Option settings: hmmscan --domtblout refseq_bigscape/cache/domtable/c00077_gnlPro...region001.domtable --cut_tc --cpu 0 /srv/data/tools/git.repositories/BiG-SCAPE/Pfam-A.hmm refseq_bigscape/cache/fasta/c00077_gnlPro...region001.fasta 
+# Current dir:     /srv/data/MPV/THEJ/antismash_testing
+# Date:            Wed Jun 10 09:36:36 2020
+# [ok]

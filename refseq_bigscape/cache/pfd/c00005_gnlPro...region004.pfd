@@ -1,0 +1,16 @@
+c00005_gnlPro...region004	69.9	gltC	3	62	PF00126.27	HTH_1	2709	3588	c00005_gnlPro...region004_ORF1:gid:gltC:pid:gnl_Prokka_ALEOMKEF_00587:loc:2709:3588:strand:+
+c00005_gnlPro...region004	34.2	gltC	87	286	PF03466.20	LysR_substrate	2709	3588	c00005_gnlPro...region004_ORF1:gid:gltC:pid:gnl_Prokka_ALEOMKEF_00587:loc:2709:3588:strand:+
+c00005_gnlPro...region004	216.9	ALEOMKEF_00588_gene	125	359	PF07907.11	YibE_F	3600	4710	c00005_gnlPro...region004_ORF2:gid:ALEOMKEF_00588_gene:pid:gnl_Prokka_ALEOMKEF_00588:loc:3600:4710:strand:+
+c00005_gnlPro...region004	226.6	ALEOMKEF_00589_gene	4	244	PF07907.11	YibE_F	4706	5480	c00005_gnlPro...region004_ORF3:gid:ALEOMKEF_00589_gene:pid:gnl_Prokka_ALEOMKEF_00589:loc:4706:5480:strand:+
+c00005_gnlPro...region004	42.6	uvrA_2	466	672	PF00005.27	ABC_tran	5528	7790	c00005_gnlPro...region004_ORF4:gid:uvrA_2:pid:gnl_Prokka_ALEOMKEF_00590:loc:5528:7790:strand:+
+c00005_gnlPro...region004	42.7	ALEOMKEF_00591_gene	28	180	PF01609.21	DDE_Tnp_1	8180	8780	c00005_gnlPro...region004_ORF5:gid:ALEOMKEF_00591_gene:pid:gnl_Prokka_ALEOMKEF_00591:loc:8180:8780:strand:-
+c00005_gnlPro...region004	57.9	fnr	124	198	PF13545.6	HTH_Crp_2	9237	9876	c00005_gnlPro...region004_ORF6:gid:fnr:pid:gnl_Prokka_ALEOMKEF_00592:loc:9237:9876:strand:-
+c00005_gnlPro...region004	75.8	sboA	9	43	PF11420.8	Subtilosin_A	10000	10132	c00005_gnlPro...region004_ORF7:gid:sboA:pid:gnl_Prokka_ALEOMKEF_00593:loc:10000:10132:strand:+
+c00005_gnlPro...region004	73.6	albA	120	278	PF04055.21	Radical_SAM	10207	11542	c00005_gnlPro...region004_ORF8:gid:albA:pid:gnl_Prokka_ALEOMKEF_00594:loc:10207:11542:strand:+
+c00005_gnlPro...region004	32.0	albA	341	414	PF13186.6	SPASM	10207	11542	c00005_gnlPro...region004_ORF8:gid:albA:pid:gnl_Prokka_ALEOMKEF_00594:loc:10207:11542:strand:+
+c00005_gnlPro...region004	67.9	albC	20	162	PF00005.27	ABC_tran	11706	12405	c00005_gnlPro...region004_ORF10:gid:albC:pid:gnl_Prokka_ALEOMKEF_00596:loc:11706:12405:strand:+
+c00005_gnlPro...region004	29.7	albF_1	37	160	PF00675.20	Peptidase_M16	14752	15709	c00005_gnlPro...region004_ORF13:gid:albF_1:pid:gnl_Prokka_ALEOMKEF_00599:loc:14752:15709:strand:+
+c00005_gnlPro...region004	49.2	sle1_2	226	310	PF05257.16	CHAP	18256	19264	c00005_gnlPro...region004_ORF17:gid:sle1_2:pid:gnl_Prokka_ALEOMKEF_00603:loc:18256:19264:strand:-
+c00005_gnlPro...region004	53.1	sle1_2	162	204	PF01476.20	LysM	18256	19264	c00005_gnlPro...region004_ORF17:gid:sle1_2:pid:gnl_Prokka_ALEOMKEF_00603:loc:18256:19264:strand:-
+c00005_gnlPro...region004	53.9	sle1_2	94	136	PF01476.20	LysM	18256	19264	c00005_gnlPro...region004_ORF17:gid:sle1_2:pid:gnl_Prokka_ALEOMKEF_00603:loc:18256:19264:strand:-
+c00005_gnlPro...region004	54.8	sle1_2	29	71	PF01476.20	LysM	18256	19264	c00005_gnlPro...region004_ORF17:gid:sle1_2:pid:gnl_Prokka_ALEOMKEF_00603:loc:18256:19264:strand:-

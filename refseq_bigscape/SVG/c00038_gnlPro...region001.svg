@@ -1,0 +1,121 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1466.2" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="415.43333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>PCIJMFOK_02588_gene (PCIJMFOK_02588)
+Baeyer-Villiger flavin-containing monooxygenase</title>
+			<polygon class="PCIJMFOK_02588_gene (PCIJMFOK_02588)
+Baeyer-Villiger flavin-containing monooxygenase" points="35,25 42,25 42,10 72,40 42,70 42,55 35,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_3 (PF13738)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF13738" points="35,28 56,28 65,37 65,43 56,52 35,52" stroke-linejoin="round" width="30" height="24" fill="rgb(213,91,84)" stroke="rgb(170,72,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>PCIJMFOK_02589_gene (PCIJMFOK_02589)
+hypothetical protein</title>
+			<polygon class="PCIJMFOK_02589_gene (PCIJMFOK_02589)
+hypothetical protein" points="72,25 86,25 86,10 116,40 86,70 86,55 72,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PCIJMFOK_02590_gene (PCIJMFOK_02590)
+hypothetical protein</title>
+			<polygon class="PCIJMFOK_02590_gene (PCIJMFOK_02590)
+hypothetical protein" points="155,10 159,40 155,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PCIJMFOK_02591_gene (PCIJMFOK_02591)
+hypothetical protein</title>
+			<polygon class="PCIJMFOK_02591_gene (PCIJMFOK_02591)
+hypothetical protein" points="162,10 167,40 162,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>PCIJMFOK_02592_gene (PCIJMFOK_02592)
+hypothetical protein</title>
+			<polygon class="PCIJMFOK_02592_gene (PCIJMFOK_02592)
+hypothetical protein" points="168,10 172,40 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lagD (PCIJMFOK_02593)
+Lactococcin-G-processing and transport ATP-binding protein LagD</title>
+			<polygon class="lagD (PCIJMFOK_02593)
+Lactococcin-G-processing and transport ATP-binding protein LagD" points="176,25 218,25 218,10 248,40 218,70 218,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_C39 (PF03412)
+"Peptidase C39 family"</title>
+				<rect class="PF03412" x="176" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(214,226,77)" stroke="rgb(171,180,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_membrane (PF00664)
+"ABC transporter transmembrane region"</title>
+				<rect class="PF00664" x="192" y="28" stroke-linejoin="round" width="27" height="24" fill="rgb(149,226,73)" stroke="rgb(119,180,58)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="225,28 231,28 240,37 240,43 231,52 225,52" stroke-linejoin="round" width="15" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>chrA (PCIJMFOK_02594)
+Chromate transport protein</title>
+			<polygon class="chrA (PCIJMFOK_02594)
+Chromate transport protein" points="294,25 286,25 286,10 256,40 286,70 286,55 294,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<polygon class="PF02417" points="260,40 272,28 272,28 272,52 272,52" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Chromate_transp (PF02417)
+"Chromate transporter"</title>
+				<rect class="PF02417" x="277" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(216,70,196)" stroke="rgb(172,56,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arsC_2 (PCIJMFOK_02595)
+Glutaredoxin arsenate reductase</title>
+			<polygon class="arsC_2 (PCIJMFOK_02595)
+Glutaredoxin arsenate reductase" points="296,40 309,10 309,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LMWPc (PF01451)
+"Low molecular weight phosphotyrosine protein phosphatase"</title>
+				<polygon class="PF01451" points="299,40 304,28 308,28 308,52 304,52" stroke-linejoin="round" width="12" height="24" fill="rgb(199,53,196)" stroke="rgb(159,42,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arsB_3 (PCIJMFOK_02596)
+Arsenical pump membrane protein</title>
+			<polygon class="arsB_3 (PCIJMFOK_02596)
+Arsenical pump membrane protein" points="352,25 339,25 339,10 309,40 339,70 339,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsB (PF02040)
+"Arsenical pump membrane protein"</title>
+				<polygon class="PF02040" points="313,40 325,28 351,28 351,52 325,52" stroke-linejoin="round" width="42" height="24" fill="rgb(207,201,91)" stroke="rgb(165,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sdpR_2 (PCIJMFOK_02597)
+Transcriptional repressor SdpR</title>
+			<polygon class="sdpR_2 (PCIJMFOK_02597)
+Transcriptional repressor SdpR" points="352,40 362,10 362,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_5 (PF01022)
+"Bacterial regulatory protein, arsR family"</title>
+				<polygon class="PF01022" points="356,37 359,28 360,28 360,52 359,52 356,43" stroke-linejoin="round" width="4" height="24" fill="rgb(95,208,123)" stroke="rgb(76,166,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpl2 (PCIJMFOK_02598)
+putative lipoprotein</title>
+			<polygon class="lpl2 (PCIJMFOK_02598)
+putative lipoprotein" points="373,10 398,40 373,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF576 (PF04507)
+"Csa1 family"</title>
+				<polygon class="PF04507" points="376,28 384,28 394,40 384,52 376,52" stroke-linejoin="round" width="22" height="24" fill="rgb(227,109,110)" stroke="rgb(181,87,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

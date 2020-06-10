@@ -1,0 +1,16 @@
+# STOCKHOLM 1.0
+
+c00023_gnlPro...region001_ORF10:gid:blaR1:pid:gnl_Prokka_IJOLGDCI_01711:loc:7561:9319:strand:+:3:298         l--LIMSVVSFCFIFLLLVFFRYILKRYFNYSLNYKVWYLTVLAGLIPFIP-------IKFSFIKFNNVNNQAPTVESKSHDLNHNIIttkpvqEFATDIHKFNWDSIDNICTVIWIVLVIILSFKFLKALLYLK--YLKKQSLYLNENEKNKIDTILFNHQYKKNIVIRKAEAIQSPITFWYGKYIILIPSSYFKSVID
+#=GR c00023_gnlPro...region001_ORF10:gid:blaR1:pid:gnl_Prokka_IJOLGDCI_01711:loc:7561:9319:strand:+:3:298 PP 6..78999*****************************************88.......79***************************99**********************************************..9**************************************************************
+c00005_gnlPro...region001_ORF2:gid:blaR1:pid:gnl_Prokka_INJJNJAE_01535:loc:975:2733:strand:-:3:298           l--LIMSVVSFCFIFLLLVFFRYILKRYFNYSLNYKVWYLTVLAGLIPFIP-------IKFSFIKFNNVNNQAPTVESKSHDLNHNIIttkpvqEFATDIHKFNWDSIDNICTVIWIVLVIILSFKFLKALLYLK--YLKKQSLYLNENEKNKIDTILFNHQYKKNIVIRKAEAIQSPITFWYGKYIILIPSSYFKSVID
+#=GR c00005_gnlPro...region001_ORF2:gid:blaR1:pid:gnl_Prokka_INJJNJAE_01535:loc:975:2733:strand:-:3:298   PP 6..78999*****************************************88.......79***************************99**********************************************..9**************************************************************
+#=GC PP_cons                                                                                                 ...78999*****************************************88.......79***************************9......*****************************************..9**************************************************************
+#=GC RF                                                                                                      .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx......xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+c00023_gnlPro...region001_ORF10:gid:blaR1:pid:gnl_Prokka_IJOLGDCI_01711:loc:7561:9319:strand:+:3:298         KRLKYIILHEYAHAKNRDTLHLIIFNIFSIIMSYNPLVHIVKRKIIHDNEVEADRFVLNNINKNEFKTYAESIMDSVLKTSFFNKNILSHSFNGKKSLLKNRLINI
+#=GR c00023_gnlPro...region001_ORF10:gid:blaR1:pid:gnl_Prokka_IJOLGDCI_01711:loc:7561:9319:strand:+:3:298 PP *******************************************************************************************************997
+c00005_gnlPro...region001_ORF2:gid:blaR1:pid:gnl_Prokka_INJJNJAE_01535:loc:975:2733:strand:-:3:298           KRLKYIILHEYAHAKNRDTLHLIIFNIFSIIMSYNPLVHIVKRKIIHDNEVEADRFVLNNINKNEFKTYAESIMDSVLKTSFFNKNILSHSFNGKKSLLKNRLINI
+#=GR c00005_gnlPro...region001_ORF2:gid:blaR1:pid:gnl_Prokka_INJJNJAE_01535:loc:975:2733:strand:-:3:298   PP *******************************************************************************************************997
+#=GC PP_cons                                                                                                 *******************************************************************************************************997
+#=GC RF                                                                                                      xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

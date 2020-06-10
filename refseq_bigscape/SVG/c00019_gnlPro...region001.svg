@@ -1,0 +1,212 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="568.4333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="558.4333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>DJCDADDG_01762_gene (DJCDADDG_01762)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01762_gene (DJCDADDG_01762)
+hypothetical protein" points="15,40 20,10 20,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sdhA (DJCDADDG_01763)
+L-serine dehydratase, alpha chain</title>
+			<polygon class="sdhA (DJCDADDG_01763)
+L-serine dehydratase, alpha chain" points="57,25 57,25 57,10 27,40 57,70 57,55 57,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_alpha (PF03313)
+"Serine dehydratase alpha chain"</title>
+				<polygon class="PF03313" points="31,40 43,28 55,28 55,52 43,52" stroke-linejoin="round" width="26" height="24" fill="rgb(104,203,99)" stroke="rgb(83,162,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sdhB (DJCDADDG_01764)
+L-serine dehydratase, beta chain</title>
+			<polygon class="sdhB (DJCDADDG_01764)
+L-serine dehydratase, beta chain" points="57,40 79,10 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDH_beta (PF03315)
+"Serine dehydratase beta chain"</title>
+				<polygon class="PF03315" points="65,35 70,28 78,28 78,52 70,52 65,45" stroke-linejoin="round" width="13" height="24" fill="rgb(68,217,124)" stroke="rgb(54,173,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01765_gene (DJCDADDG_01765)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01765_gene (DJCDADDG_01765)
+hypothetical protein" points="114,25 110,25 110,10 80,40 110,70 110,55 114,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC_2 (PF13303)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF13303" points="84,40 96,28 111,28 111,52 96,52" stroke-linejoin="round" width="30" height="24" fill="rgb(100,202,191)" stroke="rgb(80,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01766_gene (DJCDADDG_01766)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01766_gene (DJCDADDG_01766)
+hypothetical protein" points="133,10 139,40 133,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>yicL (DJCDADDG_01767)
+putative inner membrane transporter YicL</title>
+			<polygon class="yicL (DJCDADDG_01767)
+putative inner membrane transporter YicL" points="145,25 147,25 147,10 177,40 147,70 147,55 145,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="147,28 160,28 161,29 161,51 160,52 147,52" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="162,30 172,40 162,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lipR (DJCDADDG_01768)
+Putative acetyl-hydrolase LipR</title>
+			<polygon class="lipR (DJCDADDG_01768)
+Putative acetyl-hydrolase LipR" points="212,25 210,25 210,10 180,40 210,70 210,55 212,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="184,40 196,28 202,28 202,52 196,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01769_gene (DJCDADDG_01769)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01769_gene (DJCDADDG_01769)
+hypothetical protein" points="217,40 228,10 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="220,40 225,28 228,28 228,52 225,52" stroke-linejoin="round" width="10" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01770_gene (DJCDADDG_01770)
+Putative esterase</title>
+			<polygon class="DJCDADDG_01770_gene (DJCDADDG_01770)
+Putative esterase" points="229,40 242,10 242,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT_2 (PF13279)
+"Thioesterase-like superfamily"</title>
+				<polygon class="PF13279" points="232,40 237,28 240,28 240,52 237,52" stroke-linejoin="round" width="11" height="24" fill="rgb(213,114,82)" stroke="rgb(170,91,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glcB (DJCDADDG_01771)
+PTS system glucoside-specific EIICBA component</title>
+			<polygon class="glcB (DJCDADDG_01771)
+PTS system glucoside-specific EIICBA component" points="325,25 285,25 285,10 255,40 285,70 285,55 325,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="259,40 269,30 269,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="276" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="288" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaP (DJCDADDG_01772)
+Putative thiamine pyrophosphate-containing protein YdaP</title>
+			<polygon class="ydaP (DJCDADDG_01772)
+Putative thiamine pyrophosphate-containing protein YdaP" points="392,25 364,25 364,10 334,40 364,70 364,55 392,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="339,39 350,28 353,28 353,52 350,52 339,41" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="359" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="374" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidB (DJCDADDG_01773)
+Holin-like protein CidB</title>
+			<polygon class="cidB (DJCDADDG_01773)
+Holin-like protein CidB" points="394,40 417,10 417,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgB (PF04172)
+"LrgB-like family"</title>
+				<polygon class="PF04172" points="398,40 407,28 415,28 415,52 407,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,227,179)" stroke="rgb(45,181,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidA (DJCDADDG_01774)
+Holin-like protein CidA</title>
+			<polygon class="cidA (DJCDADDG_01774)
+Holin-like protein CidA" points="416,40 429,10 429,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgA (PF03788)
+"LrgA family"</title>
+				<polygon class="PF03788" points="419,40 424,28 426,28 426,52 424,52" stroke-linejoin="round" width="9" height="24" fill="rgb(51,191,185)" stroke="rgb(40,152,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cynR_2 (DJCDADDG_01775)
+HTH-type transcriptional regulator CynR</title>
+			<polygon class="cynR_2 (DJCDADDG_01775)
+HTH-type transcriptional regulator CynR" points="437,40 465,10 465,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="441,40 453,28 457,28 457,52 453,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="460" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DJCDADDG_01776_gene (DJCDADDG_01776)
+hypothetical protein</title>
+			<polygon class="DJCDADDG_01776_gene (DJCDADDG_01776)
+hypothetical protein" points="472,10 479,40 472,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YozE_SAM_like (PF06855)
+"YozE SAM-like fold"</title>
+				<polygon class="PF06855" points="472,28 472,28 476,40 472,52 472,52" stroke-linejoin="round" width="6" height="24" fill="rgb(83,201,171)" stroke="rgb(66,160,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssaA2_3 (DJCDADDG_01777)
+Staphylococcal secretory antigen ssaA2</title>
+			<polygon class="ssaA2_3 (DJCDADDG_01777)
+Staphylococcal secretory antigen ssaA2" points="492,10 506,40 492,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="495,28 497,28 503,40 503,40 497,52 495,52" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaA (DJCDADDG_01778)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase</title>
+			<polygon class="mvaA (DJCDADDG_01778)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase" points="553,25 541,25 541,10 511,40 541,70 541,55 553,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="515,40 527,28 552,28 552,52 527,52 515,40" stroke-linejoin="round" width="37" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

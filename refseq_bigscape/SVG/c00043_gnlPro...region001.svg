@@ -1,0 +1,110 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="363.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="353.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>tcyP (BGHEFFMJ_02547)
+L-cystine uptake protein TcyP</title>
+			<polygon class="tcyP (BGHEFFMJ_02547)
+L-cystine uptake protein TcyP" points="16,25 32,25 32,10 62,40 32,70 32,55 16,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SDF (PF00375)
+"Sodium:dicarboxylate symporter family"</title>
+				<polygon class="PF00375" points="19,28 46,28 58,40 46,52 19,52" stroke-linejoin="round" width="41" height="24" fill="rgb(141,207,101)" stroke="rgb(112,165,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BGHEFFMJ_02548_gene (BGHEFFMJ_02548)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="BGHEFFMJ_02548_gene (BGHEFFMJ_02548)
+putative ABC transporter ATP-binding protein" points="77,40 98,10 98,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="82,39 90,28 96,28 96,52 90,52 82,41" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BGHEFFMJ_02549_gene (BGHEFFMJ_02549)
+hypothetical protein</title>
+			<polygon class="BGHEFFMJ_02549_gene (BGHEFFMJ_02549)
+hypothetical protein" points="99,40 110,10 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>BGHEFFMJ_02550_gene (BGHEFFMJ_02550)
+hypothetical protein</title>
+			<polygon class="BGHEFFMJ_02550_gene (BGHEFFMJ_02550)
+hypothetical protein" points="175,25 140,25 140,10 110,40 140,70 140,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="114,40 119,35 119,45" stroke-linejoin="round" width="9" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BGHEFFMJ_02551_gene (BGHEFFMJ_02551)
+hypothetical protein</title>
+			<polygon class="BGHEFFMJ_02551_gene (BGHEFFMJ_02551)
+hypothetical protein" points="176,40 185,10 185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="179,40 182,31 182,49" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BGHEFFMJ_02552_gene (BGHEFFMJ_02552)
+hypothetical protein</title>
+			<polygon class="BGHEFFMJ_02552_gene (BGHEFFMJ_02552)
+hypothetical protein" points="203,40 210,10 210,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>nfrA (BGHEFFMJ_02553)
+NADPH-dependent oxidoreductase</title>
+			<polygon class="nfrA (BGHEFFMJ_02553)
+NADPH-dependent oxidoreductase" points="211,40 236,10 236,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="219,35 225,28 234,28 234,52 225,52 219,45" stroke-linejoin="round" width="15" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ahpC (BGHEFFMJ_02554)
+Alkyl hydroperoxide reductase subunit C</title>
+			<polygon class="ahpC (BGHEFFMJ_02554)
+Alkyl hydroperoxide reductase subunit C" points="254,10 273,40 254,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AhpC-TSA (PF00578)
+"AhpC/TSA family"</title>
+				<polygon class="PF00578" points="254,28 261,28 267,37 267,43 261,52 254,52" stroke-linejoin="round" width="13" height="24" fill="rgb(166,71,190)" stroke="rgb(132,56,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>1-cysPrx_C (PF10417)
+"C-terminal domain of 1-Cys peroxiredoxin"</title>
+				<polygon class="PF10417" points="269,40 269,40 269,40" stroke-linejoin="round" width="2" height="24" fill="rgb(80,189,172)" stroke="rgb(64,151,137)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ahpF_1 (BGHEFFMJ_02555)
+Alkyl hydroperoxide reductase subunit F</title>
+			<polygon class="ahpF_1 (BGHEFFMJ_02555)
+Alkyl hydroperoxide reductase subunit F" points="274,10 296,40 274,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin_3 (PF13192)
+"Thioredoxin domain"</title>
+				<polygon class="PF13192" points="285,30 292,39 292,41 285,50" stroke-linejoin="round" width="7" height="24" fill="rgb(181,201,98)" stroke="rgb(144,160,78)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ahpF_2 (BGHEFFMJ_02556)
+NADH dehydrogenase</title>
+			<polygon class="ahpF_2 (BGHEFFMJ_02556)
+NADH dehydrogenase" points="299,10 324,40 299,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="299,28 310,28 320,40 310,52 299,52" stroke-linejoin="round" width="23" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

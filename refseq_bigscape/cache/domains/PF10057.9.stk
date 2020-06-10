@@ -1,0 +1,17 @@
+# STOCKHOLM 1.0
+
+c00008_gnlPro...region001_ORF21:gid:INJJNJAE_01855_gene:pid:gnl_Prokka_INJJNJAE_01855:loc:30647:31007:strand:-:5:116         th---TKEQQFSNLVRSYRKEYVGKGPNSIRVSFKDNWAIAYMTGVLSKVESFYLNDKRNESMLHYTRTEKIKQMYKEIDvNEMENLVGAKFVKLFTDIDLNDDEVISIFVFDK
+#=GR c00008_gnlPro...region001_ORF21:gid:INJJNJAE_01855_gene:pid:gnl_Prokka_INJJNJAE_01855:loc:30647:31007:strand:-:5:116 PP 86...689********************************************************************7775389*****************************96
+c00012_gnlPro...region001_ORF18:gid:DNGEGIOB_00882_gene:pid:gnl_Prokka_DNGEGIOB_00882:loc:16355:16715:strand:+:5:116         th---TKEQQFSNLVRSYRKEYVGKGPNSIRVSFKDNWAIAYMTGVLSKVESFYLNDKRNESMLHYTRTEKIKQMYKEIDvNEMENLVGAKFVKLFTDIDLNDDEVISIFVFDK
+#=GR c00012_gnlPro...region001_ORF18:gid:DNGEGIOB_00882_gene:pid:gnl_Prokka_DNGEGIOB_00882:loc:16355:16715:strand:+:5:116 PP 86...689********************************************************************7775389*****************************96
+c00046_gnlPro...region001_ORF21:gid:IJOLGDCI_02695_gene:pid:gnl_Prokka_IJOLGDCI_02695:loc:30647:31007:strand:-:5:116         th---TKEQQFSNLVRSYRKEYVGKGPNSIRVSFKDNWAIAYMTGVLSKVESFYLNDKRNESMLHYTRTEKIKQMYKEIDvNEMENLVGAKFVKLFTDIDLNDDEVISIFVFDK
+#=GR c00046_gnlPro...region001_ORF21:gid:IJOLGDCI_02695_gene:pid:gnl_Prokka_IJOLGDCI_02695:loc:30647:31007:strand:-:5:116 PP 86...689********************************************************************7775389*****************************96
+c00007_gnlPro...region001_ORF17:gid:LGEIKLPL_01360_gene:pid:gnl_Prokka_LGEIKLPL_01360:loc:16361:16721:strand:+:5:116         th---TKEQQFSNLVRSYRKEYVGKGPNSIRVSFKDNWAIAHMTGVLSKVESFYLNDKRNESMLHYTRTEKIKQMYKEIDvNEMESLVGAKFVKLFTDIDLNDDEVISIFVFDK
+#=GR c00007_gnlPro...region001_ORF17:gid:LGEIKLPL_01360_gene:pid:gnl_Prokka_LGEIKLPL_01360:loc:16361:16721:strand:+:5:116 PP 86...689********************************************************************7775389*****************************96
+c00006_gnlPro...region001_ORF7:gid:DJCDADDG_00842_gene:pid:gnl_Prokka_DJCDADDG_00842:loc:5120:5480:strand:+:5:116            th---TKEQQFSNLVRSYRKEYVGKGPNSIRVSFKDNWAIAHMTGVLSKVESFYLNDKRNESMLHYTRTEKIKQMYKEIDvNEMESLVGAKFVKLFTDIDLNDDEVISIFVFDK
+#=GR c00006_gnlPro...region001_ORF7:gid:DJCDADDG_00842_gene:pid:gnl_Prokka_DJCDADDG_00842:loc:5120:5480:strand:+:5:116    PP 86...689********************************************************************7775389*****************************96
+c00003_gnlPro...region002_ORF17:gid:ALNBFAGF_01599_gene:pid:gnl_Prokka_ALNBFAGF_01599:loc:16359:16719:strand:+:5:116         th---TKEQQFSNLVRSYRKEYVGKGPNSIRVSFKDNWAIAHMTGVLSKVESFYLNDKRNESMLHYTRTEKIKQMYKEIDvNEMESLVGAKFVKLFTDIDLNDDEVISIFVFDK
+#=GR c00003_gnlPro...region002_ORF17:gid:ALNBFAGF_01599_gene:pid:gnl_Prokka_ALNBFAGF_01599:loc:16359:16719:strand:+:5:116 PP 86...689********************************************************************7775389*****************************96
+#=GC PP_cons                                                                                                                 .....689********************************************************************7775.89*****************************96
+#=GC RF                                                                                                                      ..xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//

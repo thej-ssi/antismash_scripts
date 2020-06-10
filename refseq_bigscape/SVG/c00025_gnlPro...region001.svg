@@ -1,0 +1,429 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1549.9666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1539.9666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>ectT (EHOPHGMD_01276)
+Ectoine/hydroxyectoine transporter</title>
+			<polygon class="ectT (EHOPHGMD_01276)
+Ectoine/hydroxyectoine transporter" points="14,25 37,25 37,10 67,40 37,70 37,55 14,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BCCT (PF02028)
+"BCCT, betaine/carnitine/choline family transporter"</title>
+				<polygon class="PF02028" points="15,28 51,28 63,40 63,40 51,52 15,52" stroke-linejoin="round" width="48" height="24" fill="rgb(206,109,74)" stroke="rgb(164,87,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>isaB (EHOPHGMD_01277)
+Immunodominant staphylococcal antigen B</title>
+			<polygon class="isaB (EHOPHGMD_01277)
+Immunodominant staphylococcal antigen B" points="73,40 90,10 90,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>pdhC_2 (EHOPHGMD_01278)
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex</title>
+			<polygon class="pdhC_2 (EHOPHGMD_01278)
+Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex" points="139,25 127,25 127,10 97,40 127,70 127,55 139,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-oxoacid_dh (PF00198)
+"2-oxoacid dehydrogenases acyltransferase (catalytic domain)"</title>
+				<polygon class="PF00198" points="101,40 113,28 119,28 119,52 113,52" stroke-linejoin="round" width="22" height="24" fill="rgb(204,74,202)" stroke="rgb(163,59,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E3_binding (PF02817)
+"e3 binding domain"</title>
+				<rect class="PF02817" x="123" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(217,136,99)" stroke="rgb(173,108,79)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Biotin_lipoyl (PF00364)
+"Biotin-requiring enzyme"</title>
+				<rect class="PF00364" x="132" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(67,214,213)" stroke="rgb(53,171,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>acoB (EHOPHGMD_01279)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta</title>
+			<polygon class="acoB (EHOPHGMD_01279)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta" points="174,25 170,25 170,10 140,40 170,70 170,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transketolase_C (PF02780)
+"Transketolase, C-terminal domain"</title>
+				<polygon class="PF02780" points="144,40 153,31 153,49" stroke-linejoin="round" width="12" height="24" fill="rgb(76,206,101)" stroke="rgb(60,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Transket_pyr (PF02779)
+"Transketolase, pyrimidine binding domain"</title>
+				<polygon class="PF02779" points="155,29 156,28 174,28 174,52 156,52 155,51" stroke-linejoin="round" width="19" height="24" fill="rgb(189,186,84)" stroke="rgb(151,148,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>acoA (EHOPHGMD_01280)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha</title>
+			<polygon class="acoA (EHOPHGMD_01280)
+Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha" points="208,25 207,25 207,10 177,40 207,70 207,55 208,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>E1_dh (PF00676)
+"Dehydrogenase E1 component"</title>
+				<polygon class="PF00676" points="181,40 193,28 207,28 207,52 193,52" stroke-linejoin="round" width="29" height="24" fill="rgb(180,115,48)" stroke="rgb(144,92,38)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lpd (EHOPHGMD_01281)
+Dihydrolipoyl dehydrogenase</title>
+			<polygon class="lpd (EHOPHGMD_01281)
+Dihydrolipoyl dehydrogenase" points="255,25 240,25 240,10 210,40 240,70 240,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Pyr_redox_dim (PF02852)
+"Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain"</title>
+				<polygon class="PF02852" points="214,40 221,33 221,47" stroke-linejoin="round" width="10" height="24" fill="rgb(191,148,67)" stroke="rgb(152,118,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Pyr_redox_2 (PF07992)
+"Pyridine nucleotide-disulphide oxidoreductase"</title>
+				<polygon class="PF07992" points="224,30 226,28 254,28 254,52 226,52 224,50" stroke-linejoin="round" width="30" height="24" fill="rgb(83,223,167)" stroke="rgb(66,178,133)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yflS (EHOPHGMD_01282)
+Putative malate transporter YflS</title>
+			<polygon class="yflS (EHOPHGMD_01282)
+Putative malate transporter YflS" points="266,25 283,25 283,10 313,40 283,70 283,55 266,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Na_sulph_symp (PF00939)
+"Sodium:sulfate symporter transmembrane region"</title>
+				<polygon class="PF00939" points="266,28 297,28 309,40 297,52 266,52" stroke-linejoin="round" width="46" height="24" fill="rgb(94,204,141)" stroke="rgb(75,163,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01283_gene (EHOPHGMD_01283)
+Putative thiamine biosynthesis protein</title>
+			<polygon class="EHOPHGMD_01283_gene (EHOPHGMD_01283)
+Putative thiamine biosynthesis protein" points="324,25 324,25 324,10 354,40 324,70 324,55 324,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1 (PF09084)
+"NMT1/THI5 like"</title>
+				<polygon class="PF09084" points="325,28 338,28 346,36 346,44 338,52 325,52" stroke-linejoin="round" width="21" height="24" fill="rgb(196,85,209)" stroke="rgb(156,68,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01284_gene (EHOPHGMD_01284)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01284_gene (EHOPHGMD_01284)
+hypothetical protein" points="357,40 380,10 380,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="361,40 370,28 371,28 371,52 370,52" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<rect class="PF00892" x="372" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01285_gene (EHOPHGMD_01285)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01285_gene (EHOPHGMD_01285)
+hypothetical protein" points="381,40 387,10 387,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>EHOPHGMD_01286_gene (EHOPHGMD_01286)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01286_gene (EHOPHGMD_01286)
+hypothetical protein" points="392,40 408,10 408,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MepB (PF08877)
+"MepB protein"</title>
+				<polygon class="PF08877" points="395,40 402,28 405,28 405,52 402,52" stroke-linejoin="round" width="12" height="24" fill="rgb(183,87,168)" stroke="rgb(146,69,134)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01287_gene (EHOPHGMD_01287)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01287_gene (EHOPHGMD_01287)
+hypothetical protein" points="468,25 442,25 442,10 412,40 442,70 442,55 468,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_ATPase (PF09818)
+"Predicted ATPase of the ABC class"</title>
+				<polygon class="PF09818" points="424,32 428,28 468,28 468,52 428,52 424,48" stroke-linejoin="round" width="44" height="24" fill="rgb(224,114,112)" stroke="rgb(179,91,89)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>csbC (EHOPHGMD_01288)
+putative metabolite transport protein CsbC</title>
+			<polygon class="csbC (EHOPHGMD_01288)
+putative metabolite transport protein CsbC" points="518,25 504,25 504,10 474,40 504,70 504,55 518,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Sugar_tr (PF00083)
+"Sugar (and other) transporter"</title>
+				<polygon class="PF00083" points="478,40 490,28 517,28 517,52 490,52" stroke-linejoin="round" width="42" height="24" fill="rgb(48,186,105)" stroke="rgb(38,148,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lip_2 (EHOPHGMD_01289)
+Lipase</title>
+			<polygon class="lip_2 (EHOPHGMD_01289)
+Lipase" points="600,25 558,25 558,10 528,40 558,70 558,55 600,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YSIRK_signal (PF04650)
+"YSIRK type signal peptide"</title>
+				<rect class="PF04650" x="598" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(74,138,184)" stroke="rgb(59,110,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sfp (EHOPHGMD_01290)
+4'-phosphopantetheinyl transferase sfp</title>
+			<polygon class="sfp (EHOPHGMD_01290)
+4'-phosphopantetheinyl transferase sfp" points="613,40 633,10 633,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="617,40 623,31 623,49" stroke-linejoin="round" width="10" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tycC (EHOPHGMD_01291)
+Tyrocidine synthase 3</title>
+			<polygon class="tycC (EHOPHGMD_01291)
+Tyrocidine synthase 3" points="872,25 664,25 664,10 634,40 664,70 664,55 872,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="644,34 650,28 667,28 667,52 650,52 644,46" stroke-linejoin="round" width="23" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="672" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="681" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="689" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="730" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="774" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="791" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01292_gene (EHOPHGMD_01292)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01292_gene (EHOPHGMD_01292)
+hypothetical protein" points="920,25 909,25 909,10 879,40 909,70 909,55 920,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="883,40 895,28 919,28 919,52 895,52 883,40" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ribZ (EHOPHGMD_01293)
+Riboflavin transporter RibZ</title>
+			<polygon class="ribZ (EHOPHGMD_01293)
+Riboflavin transporter RibZ" points="985,25 968,25 968,10 938,40 968,70 968,55 985,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="944,38 954,28 983,28 983,52 954,52 944,42" stroke-linejoin="round" width="39" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cysB (EHOPHGMD_01294)
+HTH-type transcriptional regulator CysB</title>
+			<polygon class="cysB (EHOPHGMD_01294)
+HTH-type transcriptional regulator CysB" points="1015,40 1044,10 1044,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="1019,40 1031,28 1036,28 1036,52 1031,52" stroke-linejoin="round" width="21" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="1038" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pbuE_2 (EHOPHGMD_01295)
+Purine efflux pump PbuE</title>
+			<polygon class="pbuE_2 (EHOPHGMD_01295)
+Purine efflux pump PbuE" points="1049,25 1058,25 1058,10 1088,40 1058,70 1058,55 1049,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="1050,28 1072,28 1076,32 1076,48 1072,52 1050,52" stroke-linejoin="round" width="26" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01296_gene (EHOPHGMD_01296)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01296_gene (EHOPHGMD_01296)
+hypothetical protein" points="1098,10 1117,40 1098,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dhaM (EHOPHGMD_01297)
+PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM</title>
+			<polygon class="dhaM (EHOPHGMD_01297)
+PTS-dependent dihydroxyacetone kinase, phosphotransferase subunit DhaM" points="1128,40 1140,10 1140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EIIA-man (PF03610)
+"PTS system fructose IIA component"</title>
+				<polygon class="PF03610" points="1131,40 1136,28 1139,28 1139,52 1136,52" stroke-linejoin="round" width="11" height="24" fill="rgb(179,218,74)" stroke="rgb(143,174,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhaL (EHOPHGMD_01298)
+PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL</title>
+			<polygon class="dhaL (EHOPHGMD_01298)
+PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL" points="1140,40 1159,10 1159,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dak2 (PF02734)
+"DAK2 domain"</title>
+				<polygon class="PF02734" points="1144,40 1152,28 1155,28 1155,52 1152,52" stroke-linejoin="round" width="15" height="24" fill="rgb(107,200,62)" stroke="rgb(85,160,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhaK (EHOPHGMD_01299)
+PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK</title>
+			<polygon class="dhaK (EHOPHGMD_01299)
+PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK" points="1193,25 1191,25 1191,10 1161,40 1191,70 1191,55 1193,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dak1 (PF02733)
+"Dak1 domain"</title>
+				<polygon class="PF02733" points="1165,40 1177,28 1191,28 1191,52 1177,52" stroke-linejoin="round" width="30" height="24" fill="rgb(110,103,210)" stroke="rgb(88,82,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gldA (EHOPHGMD_01300)
+Glycerol dehydrogenase</title>
+			<polygon class="gldA (EHOPHGMD_01300)
+Glycerol dehydrogenase" points="1230,25 1224,25 1224,10 1194,40 1224,70 1224,55 1230,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fe-ADH (PF00465)
+"Iron-containing alcohol dehydrogenase"</title>
+				<polygon class="PF00465" points="1198,40 1210,28 1229,28 1229,52 1210,52" stroke-linejoin="round" width="34" height="24" fill="rgb(73,179,216)" stroke="rgb(58,143,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bioB_2 (EHOPHGMD_01301)
+Biotin synthase</title>
+			<polygon class="bioB_2 (EHOPHGMD_01301)
+Biotin synthase" points="1273,25 1271,25 1271,10 1241,40 1271,70 1271,55 1273,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BATS (PF06968)
+"Biotin and Thiamin Synthesis associated domain"</title>
+				<polygon class="PF06968" points="1245,40 1249,36 1249,44" stroke-linejoin="round" width="8" height="24" fill="rgb(91,179,207)" stroke="rgb(72,143,165)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="1251,34 1257,28 1267,28 1267,52 1257,52 1251,46" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hel (EHOPHGMD_01302)
+Lipoprotein E</title>
+			<polygon class="hel (EHOPHGMD_01302)
+Lipoprotein E" points="1283,40 1312,10 1312,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acid_phosphat_B (PF03767)
+"HAD superfamily, subfamily IIIB (Acid phosphatase)"</title>
+				<polygon class="PF03767" points="1287,40 1299,28 1310,28 1310,52 1299,52" stroke-linejoin="round" width="24" height="24" fill="rgb(128,96,194)" stroke="rgb(102,76,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fosB (EHOPHGMD_01303)
+Metallothiol transferase FosB</title>
+			<polygon class="fosB (EHOPHGMD_01303)
+Metallothiol transferase FosB" points="1324,40 1330,10 1330,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="1327,40 1329,28 1329,28 1329,52 1329,52" stroke-linejoin="round" width="5" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01304_gene (EHOPHGMD_01304)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01304_gene (EHOPHGMD_01304)
+hypothetical protein" points="1333,40 1340,10 1340,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>argF (EHOPHGMD_01305)
+Ornithine carbamoyltransferase</title>
+			<polygon class="argF (EHOPHGMD_01305)
+Ornithine carbamoyltransferase" points="1357,25 1360,25 1360,10 1390,40 1360,70 1360,55 1357,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OTCace_N (PF02729)
+"Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain"</title>
+				<rect class="PF02729" x="1357" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(223,74,58)" stroke="rgb(178,59,46)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OTCace (PF00185)
+"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"</title>
+				<polygon class="PF00185" points="1372,28 1374,28 1386,40 1374,52 1372,52" stroke-linejoin="round" width="17" height="24" fill="rgb(215,107,106)" stroke="rgb(172,85,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arcC1 (EHOPHGMD_01306)
+Carbamate kinase 1</title>
+			<polygon class="arcC1 (EHOPHGMD_01306)
+Carbamate kinase 1" points="1391,25 1392,25 1392,10 1422,40 1392,70 1392,55 1391,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="1391,28 1405,28 1417,40 1405,52 1391,52" stroke-linejoin="round" width="29" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01307_gene (EHOPHGMD_01307)
+hypothetical protein</title>
+			<polygon class="EHOPHGMD_01307_gene (EHOPHGMD_01307)
+hypothetical protein" points="1428,25 1449,25 1449,10 1479,40 1449,70 1449,55 1428,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DcuC (PF03606)
+"C4-dicarboxylate anaerobic carrier"</title>
+				<polygon class="PF03606" points="1429,28 1463,28 1475,40 1463,52 1429,52" stroke-linejoin="round" width="49" height="24" fill="rgb(204,117,55)" stroke="rgb(163,93,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>EHOPHGMD_01308_gene (EHOPHGMD_01308)
+S-formylglutathione hydrolase</title>
+			<polygon class="EHOPHGMD_01308_gene (EHOPHGMD_01308)
+S-formylglutathione hydrolase" points="1489,40 1514,10 1514,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="1493,40 1503,28 1512,28 1512,52 1503,52" stroke-linejoin="round" width="23" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>opuCD_2 (EHOPHGMD_01309)
+Carnitine transport permease protein OpuCD</title>
+			<polygon class="opuCD_2 (EHOPHGMD_01309)
+Carnitine transport permease protein OpuCD" points="1516,40 1537,10 1537,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="1520,40 1529,28 1533,28 1533,52 1529,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

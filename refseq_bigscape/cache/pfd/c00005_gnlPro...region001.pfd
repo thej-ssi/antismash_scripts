@@ -1,0 +1,11 @@
+c00005_gnlPro...region001	119.8	blaI	8	122	PF03965.16	Penicillinase_R	605	986	c00005_gnlPro...region001_ORF1:gid:blaI:pid:gnl_Prokka_INJJNJAE_01534:loc:605:986:strand:-
+c00005_gnlPro...region001	134.8	blaR1	358	577	PF00905.22	Transpeptidase	975	2733	c00005_gnlPro...region001_ORF2:gid:blaR1:pid:gnl_Prokka_INJJNJAE_01535:loc:975:2733:strand:-
+c00005_gnlPro...region001	311.6	blaR1	3	298	PF05569.11	Peptidase_M56	975	2733	c00005_gnlPro...region001_ORF2:gid:blaR1:pid:gnl_Prokka_INJJNJAE_01535:loc:975:2733:strand:-
+c00005_gnlPro...region001	126.7	blaZ	45	254	PF13354.6	Beta-lactamase2	2839	3685	c00005_gnlPro...region001_ORF3:gid:blaZ:pid:gnl_Prokka_INJJNJAE_01536:loc:2839:3685:strand:+
+c00005_gnlPro...region001	69.0	bin3_1	2	77	PF00239.21	Resolvase	4053	4587	c00005_gnlPro...region001_ORF4:gid:bin3_1:pid:gnl_Prokka_INJJNJAE_01537:loc:4053:4587:strand:+
+c00005_gnlPro...region001	74.5	bin3_1	122	174	PF02796.15	HTH_7	4053	4587	c00005_gnlPro...region001_ORF4:gid:bin3_1:pid:gnl_Prokka_INJJNJAE_01537:loc:4053:4587:strand:+
+c00005_gnlPro...region001	51.0	INJJNJAE_01538_gene	34	94	PF09683.10	Lactococcin_972	5000	5294	c00005_gnlPro...region001_ORF5:gid:INJJNJAE_01538_gene:pid:gnl_Prokka_INJJNJAE_01538:loc:5000:5294:strand:+
+c00005_gnlPro...region001	69.2	INJJNJAE_01539_gene	545	643	PF07242.11	DUF1430	5368	7303	c00005_gnlPro...region001_ORF6:gid:INJJNJAE_01539_gene:pid:gnl_Prokka_INJJNJAE_01539:loc:5368:7303:strand:+
+c00005_gnlPro...region001	118.8	INJJNJAE_01541_gene	17	160	PF00005.27	ABC_tran	7629	8256	c00005_gnlPro...region001_ORF8:gid:INJJNJAE_01541_gene:pid:gnl_Prokka_INJJNJAE_01541:loc:7629:8256:strand:+
+c00005_gnlPro...region001	101.2	pre_1	1	101	PF01076.19	Mob_Pre	8493	8799	c00005_gnlPro...region001_ORF9:gid:pre_1:pid:gnl_Prokka_INJJNJAE_01542:loc:8493:8799:strand:+
+c00005_gnlPro...region001	116.0	pre_2	1	88	PF01076.19	Mob_Pre	8823	9123	c00005_gnlPro...region001_ORF10:gid:pre_2:pid:gnl_Prokka_INJJNJAE_01543:loc:8823:9123:strand:+

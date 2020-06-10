@@ -1,0 +1,271 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="700.7" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="690.7" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>HNPJFCIA_01259_gene (HNPJFCIA_01259)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01259_gene (HNPJFCIA_01259)
+hypothetical protein" points="14,40 19,10 19,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>capA_2 (HNPJFCIA_01260)
+Capsule biosynthesis protein CapA</title>
+			<polygon class="capA_2 (HNPJFCIA_01260)
+Capsule biosynthesis protein CapA" points="54,25 49,25 49,10 19,40 49,70 49,55 54,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGA_cap (PF09587)
+"Bacterial capsule synthesis protein PGA_cap"</title>
+				<polygon class="PF09587" points="26,37 35,28 48,28 48,52 35,52 26,43" stroke-linejoin="round" width="22" height="24" fill="rgb(179,65,131)" stroke="rgb(143,52,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>capC (HNPJFCIA_01261)
+Capsule biosynthesis protein CapC</title>
+			<polygon class="capC (HNPJFCIA_01261)
+Capsule biosynthesis protein CapC" points="56,40 71,10 71,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caps_synth_CapC (PF14102)
+"Capsule biosynthesis CapC"</title>
+				<polygon class="PF14102" points="59,40 65,28 69,28 69,52 65,52" stroke-linejoin="round" width="11" height="24" fill="rgb(56,185,111)" stroke="rgb(44,148,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>capB (HNPJFCIA_01262)
+Capsule biosynthesis protein CapB</title>
+			<polygon class="capB (HNPJFCIA_01262)
+Capsule biosynthesis protein CapB" points="109,25 101,25 101,10 71,40 101,70 101,55 109,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mur_ligase_M (PF08245)
+"Mur ligase middle domain"</title>
+				<polygon class="PF08245" points="85,30 87,28 105,28 105,52 87,52 85,50" stroke-linejoin="round" width="20" height="24" fill="rgb(57,133,195)" stroke="rgb(45,106,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HNPJFCIA_01263_gene (HNPJFCIA_01263)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01263_gene (HNPJFCIA_01263)
+hypothetical protein" points="125,10 135,40 125,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>cdhR (HNPJFCIA_01264)
+HTH-type transcriptional regulator CdhR</title>
+			<polygon class="cdhR (HNPJFCIA_01264)
+HTH-type transcriptional regulator CdhR" points="136,40 165,10 165,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_18 (PF12833)
+"Helix-turn-helix domain"</title>
+				<polygon class="PF12833" points="140,40 143,37 143,43" stroke-linejoin="round" width="7" height="24" fill="rgb(216,58,224)" stroke="rgb(172,46,179)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AraC_binding (PF02311)
+"AraC-like ligand binding domain"</title>
+				<rect class="PF02311" x="154" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(81,203,213)" stroke="rgb(64,162,170)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yicL (HNPJFCIA_01265)
+putative inner membrane transporter YicL</title>
+			<polygon class="yicL (HNPJFCIA_01265)
+putative inner membrane transporter YicL" points="169,25 169,25 169,10 199,40 169,70 169,55 169,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<rect class="PF00892" x="169" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>EamA (PF00892)
+"EamA-like transporter family"</title>
+				<polygon class="PF00892" points="185,30 195,40 185,50" stroke-linejoin="round" width="13" height="24" fill="rgb(105,217,77)" stroke="rgb(84,173,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mlhB (HNPJFCIA_01266)
+Monoterpene epsilon-lactone hydrolase</title>
+			<polygon class="mlhB (HNPJFCIA_01266)
+Monoterpene epsilon-lactone hydrolase" points="235,25 233,25 233,10 203,40 233,70 233,55 235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="207,40 219,28 225,28 225,52 219,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HNPJFCIA_01267_gene (HNPJFCIA_01267)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01267_gene (HNPJFCIA_01267)
+hypothetical protein" points="239,40 267,10 267,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2179 (PF10035)
+"Uncharacterized protein conserved in bacteria (DUF2179)"</title>
+				<polygon class="PF10035" points="243,40 244,39 244,41" stroke-linejoin="round" width="5" height="24" fill="rgb(197,111,90)" stroke="rgb(157,88,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YitT_membrane (PF02588)
+"Uncharacterised 5xTM membrane BCR, YitT family COG1284"</title>
+				<polygon class="PF02588" points="245,38 254,28 265,28 265,52 254,52 245,42" stroke-linejoin="round" width="20" height="24" fill="rgb(155,63,204)" stroke="rgb(123,50,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HNPJFCIA_01268_gene (HNPJFCIA_01268)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01268_gene (HNPJFCIA_01268)
+hypothetical protein" points="272,40 283,10 283,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="275,40 279,28 281,28 281,52 279,52" stroke-linejoin="round" width="9" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HNPJFCIA_01269_gene (HNPJFCIA_01269)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01269_gene (HNPJFCIA_01269)
+hypothetical protein" points="285,40 298,10 298,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>4HBT_2 (PF13279)
+"Thioesterase-like superfamily"</title>
+				<polygon class="PF13279" points="288,40 293,28 296,28 296,52 293,52" stroke-linejoin="round" width="11" height="24" fill="rgb(213,114,82)" stroke="rgb(170,91,65)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>adh (HNPJFCIA_01270)
+Alcohol dehydrogenase</title>
+			<polygon class="adh (HNPJFCIA_01270)
+Alcohol dehydrogenase" points="305,25 310,25 310,10 340,40 310,70 310,55 305,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="307" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="322,28 323,28 334,39 334,41 323,52 322,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HNPJFCIA_01271_gene (HNPJFCIA_01271)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01271_gene (HNPJFCIA_01271)
+hypothetical protein" points="344,40 369,10 369,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPBP (PF02517)
+"CPBP intramembrane metalloprotease"</title>
+				<polygon class="PF02517" points="348,40 354,33 354,47" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glcB (HNPJFCIA_01272)
+PTS system glucoside-specific EIICBA component</title>
+			<polygon class="glcB (HNPJFCIA_01272)
+PTS system glucoside-specific EIICBA component" points="442,25 404,25 404,10 374,40 404,70 404,55 442,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="378,40 388,30 388,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="395" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="407" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaP (HNPJFCIA_01273)
+Putative thiamine pyrophosphate-containing protein YdaP</title>
+			<polygon class="ydaP (HNPJFCIA_01273)
+Putative thiamine pyrophosphate-containing protein YdaP" points="509,25 481,25 481,10 451,40 481,70 481,55 509,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="456,39 467,28 470,28 470,52 467,52 456,41" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="476" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="491" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidB (HNPJFCIA_01274)
+Holin-like protein CidB</title>
+			<polygon class="cidB (HNPJFCIA_01274)
+Holin-like protein CidB" points="511,40 534,10 534,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgB (PF04172)
+"LrgB-like family"</title>
+				<polygon class="PF04172" points="515,40 524,28 532,28 532,52 524,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,227,179)" stroke="rgb(45,181,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidA (HNPJFCIA_01275)
+Holin-like protein CidA</title>
+			<polygon class="cidA (HNPJFCIA_01275)
+Holin-like protein CidA" points="534,40 547,10 547,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgA (PF03788)
+"LrgA family"</title>
+				<polygon class="PF03788" points="537,40 542,28 544,28 544,52 542,52" stroke-linejoin="round" width="9" height="24" fill="rgb(51,191,185)" stroke="rgb(40,152,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cynR_2 (HNPJFCIA_01276)
+HTH-type transcriptional regulator CynR</title>
+			<polygon class="cynR_2 (HNPJFCIA_01276)
+HTH-type transcriptional regulator CynR" points="557,40 586,10 586,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="561,40 573,28 577,28 577,52 573,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="580" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HNPJFCIA_01277_gene (HNPJFCIA_01277)
+hypothetical protein</title>
+			<polygon class="HNPJFCIA_01277_gene (HNPJFCIA_01277)
+hypothetical protein" points="593,10 600,40 593,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YozE_SAM_like (PF06855)
+"YozE SAM-like fold"</title>
+				<polygon class="PF06855" points="593,28 593,28 597,40 593,52 593,52" stroke-linejoin="round" width="6" height="24" fill="rgb(83,201,171)" stroke="rgb(66,160,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssaA_3 (HNPJFCIA_01278)
+Staphylococcal secretory antigen SsaA</title>
+			<polygon class="ssaA_3 (HNPJFCIA_01278)
+Staphylococcal secretory antigen SsaA" points="608,10 622,40 608,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="611,28 613,28 619,40 619,40 613,52 611,52" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaA (HNPJFCIA_01279)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase</title>
+			<polygon class="mvaA (HNPJFCIA_01279)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase" points="667,25 655,25 655,10 625,40 655,70 655,55 667,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="629,40 641,28 666,28 666,52 641,52 629,40" stroke-linejoin="round" width="37" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+# STOCKHOLM 1.0
+
+c00001_gnlPro...region003_ORF7:gid:sdpR_1:pid:gnl_Prokka_MNHGGPBM_00588:loc:4583:4898:strand:-:15:61            .-PSRLEIIDLLSCGELCACDLLEHFQFSQPTLSHHMKSLVDKQLV--ls
+#=GR c00001_gnlPro...region003_ORF7:gid:sdpR_1:pid:gnl_Prokka_MNHGGPBM_00588:loc:4583:4898:strand:-:15:61    PP ..89************************************998887..89
+c00038_gnlPro...region001_ORF10:gid:sdpR_2:pid:gnl_Prokka_PCIJMFOK_02597:loc:10287:10602:strand:-:15:61         .-PSRLEILDLLSCGELCACDLLEHFQFSQPTLSHHMKSLVDNELVI-v.
+#=GR c00038_gnlPro...region001_ORF10:gid:sdpR_2:pid:gnl_Prokka_PCIJMFOK_02597:loc:10287:10602:strand:-:15:61 PP ..89*****************************************96.7.
+c00035_gnlPro...region001_ORF3:gid:sdpR_2:pid:gnl_Prokka_NECOBKJD_02766:loc:973:1288:strand:+:15:61             s--SRLEILDLLSCGELCACDLLEHFQFSQPTLSHHMKSLVDNELVT-t.
+#=GR c00035_gnlPro...region001_ORF3:gid:sdpR_2:pid:gnl_Prokka_NECOBKJD_02766:loc:973:1288:strand:+:15:61     PP 6..7******************************************7.5.
+#=GC PP_cons                                                                                                    ..88**************************************99997...
+#=GC RF                                                                                                         .xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx..
+//

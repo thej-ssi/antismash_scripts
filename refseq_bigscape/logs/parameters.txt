@@ -1,0 +1,1 @@
+/srv/data/tools/git.repositories/BiG-SCAPE/bigscape.py -i refseq_antismash -o refseq_bigscape

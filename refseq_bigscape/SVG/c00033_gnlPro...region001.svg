@@ -1,0 +1,120 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="419.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="409.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>fecD (BOIIOIPH_00621)
+Fe(3+) dicitrate transport system permease protein FecD</title>
+			<polygon class="fecD (BOIIOIPH_00621)
+Fe(3+) dicitrate transport system permease protein FecD" points="63,25 61,25 61,10 31,40 61,70 61,55 63,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="35,40 47,28 61,28 61,52 47,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiZ (BOIIOIPH_00622)
+putative siderophore transport system permease protein YfiZ</title>
+			<polygon class="yfiZ (BOIIOIPH_00622)
+putative siderophore transport system permease protein YfiZ" points="97,25 93,25 93,10 63,40 93,70 93,55 97,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="67,40 79,28 93,28 93,52 79,52" stroke-linejoin="round" width="30" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfmC_1 (BOIIOIPH_00623)
+Fe(3+)-citrate-binding protein YfmC</title>
+			<polygon class="yfmC_1 (BOIIOIPH_00623)
+Fe(3+)-citrate-binding protein YfmC" points="131,25 128,25 128,10 98,40 128,70 128,55 131,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="102,40 114,28 125,28 125,52 114,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>orr (BOIIOIPH_00624)
+Ornithine racemase</title>
+			<polygon class="orr (BOIIOIPH_00624)
+Ornithine racemase" points="176,25 171,25 171,10 141,40 171,70 171,55 176,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Ala_racemase_N (PF01168)
+"Alanine racemase, N-terminal domain"</title>
+				<polygon class="PF01168" points="154,31 157,28 175,28 175,52 157,52 154,49" stroke-linejoin="round" width="21" height="24" fill="rgb(87,82,180)" stroke="rgb(69,65,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucA (BOIIOIPH_00625)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase</title>
+			<polygon class="iucA (BOIIOIPH_00625)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase" points="234,25 206,25 206,10 176,40 206,70 206,55 234,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 193,28 193,52 192,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="196" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_00626_gene (BOIIOIPH_00626)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_00626_gene (BOIIOIPH_00626)
+hypothetical protein" points="273,25 264,25 264,10 234,40 264,70 264,55 273,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_3 (PF05977)
+"Transmembrane secretion effector"</title>
+				<polygon class="PF05977" points="238,40 250,28 273,28 273,52 250,52" stroke-linejoin="round" width="39" height="24" fill="rgb(80,62,217)" stroke="rgb(64,49,173)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC (BOIIOIPH_00627)
+Aerobactin synthase</title>
+			<polygon class="iucC (BOIIOIPH_00627)
+Aerobactin synthase" points="277,25 311,25 311,10 341,40 311,70 311,55 277,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="296" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="323,28 325,28 337,40 325,52 323,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_00628_gene (BOIIOIPH_00628)
+Alkaline shock protein 23</title>
+			<polygon class="BOIIOIPH_00628_gene (BOIIOIPH_00628)
+Alkaline shock protein 23" points="349,40 366,10 366,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Asp23 (PF03780)
+"Asp23 family, cell envelope-related function"</title>
+				<polygon class="PF03780" points="352,40 359,28 361,28 361,52 359,52" stroke-linejoin="round" width="10" height="24" fill="rgb(195,60,141)" stroke="rgb(156,48,112)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_00629_gene (BOIIOIPH_00629)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_00629_gene (BOIIOIPH_00629)
+hypothetical protein" points="368,40 376,10 376,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2273 (PF10031)
+"Small integral membrane protein (DUF2273)"</title>
+				<polygon class="PF10031" points="371,40 373,32 373,48" stroke-linejoin="round" width="4" height="24" fill="rgb(203,147,56)" stroke="rgb(162,117,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>BOIIOIPH_00630_gene (BOIIOIPH_00630)
+hypothetical protein</title>
+			<polygon class="BOIIOIPH_00630_gene (BOIIOIPH_00630)
+hypothetical protein" points="377,40 394,10 394,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

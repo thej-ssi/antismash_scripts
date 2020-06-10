@@ -1,0 +1,126 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="412.93333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="353.1333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>blaI (INJJNJAE_01534)
+Penicillinase repressor</title>
+			<polygon class="blaI (INJJNJAE_01534)
+Penicillinase repressor" points="30,40 42,10 42,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Penicillinase_R (PF03965)
+"Penicillinase repressor"</title>
+				<polygon class="PF03965" points="33,40 38,28 41,28 41,52 38,52" stroke-linejoin="round" width="11" height="24" fill="rgb(208,59,133)" stroke="rgb(166,47,106)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blaR1 (INJJNJAE_01535)
+Regulatory protein BlaR1</title>
+			<polygon class="blaR1 (INJJNJAE_01535)
+Regulatory protein BlaR1" points="100,25 72,25 72,10 42,40 72,70 72,55 100,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transpeptidase (PF00905)
+"Penicillin binding protein transpeptidase domain"</title>
+				<polygon class="PF00905" points="46,40 58,28 63,28 63,52 58,52" stroke-linejoin="round" width="21" height="24" fill="rgb(161,226,87)" stroke="rgb(128,180,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Peptidase_M56 (PF05569)
+"BlaR1 peptidase M56"</title>
+				<rect class="PF05569" x="70" y="28" stroke-linejoin="round" width="29" height="24" fill="rgb(60,182,225)" stroke="rgb(48,145,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>blaZ (INJJNJAE_01536)
+Beta-lactamase</title>
+			<polygon class="blaZ (INJJNJAE_01536)
+Beta-lactamase" points="104,10 132,40 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Beta-lactamase2 (PF13354)
+"Beta-lactamase enzyme family"</title>
+				<polygon class="PF13354" points="108,28 116,28 128,40 128,40 116,52 108,52" stroke-linejoin="round" width="20" height="24" fill="rgb(72,61,190)" stroke="rgb(57,48,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bin3_1 (INJJNJAE_01537)
+Putative transposon Tn552 DNA-invertase bin3</title>
+			<polygon class="bin3_1 (INJJNJAE_01537)
+Putative transposon Tn552 DNA-invertase bin3" points="145,10 162,40 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Resolvase (PF00239)
+"Resolvase, N terminal domain"</title>
+				<rect class="PF00239" x="145" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(99,177,201)" stroke="rgb(79,141,160)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_7 (PF02796)
+"Helix-turn-helix domain of resolvase"</title>
+				<polygon class="PF02796" points="157,37 159,40 157,43" stroke-linejoin="round" width="5" height="24" fill="rgb(223,208,93)" stroke="rgb(178,166,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01538_gene (INJJNJAE_01538)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01538_gene (INJJNJAE_01538)
+hypothetical protein" points="176,10 185,40 176,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Lactococcin_972 (PF09683)
+"Bacteriocin (Lactococcin_972)"</title>
+				<polygon class="PF09683" points="179,29 182,40 179,51" stroke-linejoin="round" width="6" height="24" fill="rgb(202,100,222)" stroke="rgb(161,80,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01539_gene (INJJNJAE_01539)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01539_gene (INJJNJAE_01539)
+hypothetical protein" points="188,25 222,25 222,10 252,40 222,70 222,55 188,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1430 (PF07242)
+"Protein of unknown function (DUF1430)"</title>
+				<polygon class="PF07242" points="242,34 248,40 242,46" stroke-linejoin="round" width="9" height="24" fill="rgb(183,55,187)" stroke="rgb(146,44,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01540_gene (INJJNJAE_01540)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01540_gene (INJJNJAE_01540)
+hypothetical protein" points="253,10 263,40 253,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>INJJNJAE_01541_gene (INJJNJAE_01541)
+putative ABC transporter ATP-binding protein</title>
+			<polygon class="INJJNJAE_01541_gene (INJJNJAE_01541)
+putative ABC transporter ATP-binding protein" points="264,10 284,40 264,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="265,28 273,28 279,37 279,43 273,52 265,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pre_1 (INJJNJAE_01542)
+Plasmid recombination enzyme</title>
+			<polygon class="pre_1 (INJJNJAE_01542)
+Plasmid recombination enzyme" points="293,10 303,40 293,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mob_Pre (PF01076)
+"Plasmid recombination enzyme"</title>
+				<polygon class="PF01076" points="293,28 295,28 300,40 295,52 293,52" stroke-linejoin="round" width="10" height="24" fill="rgb(51,103,188)" stroke="rgb(40,82,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pre_2 (INJJNJAE_01543)
+Plasmid recombination enzyme</title>
+			<polygon class="pre_2 (INJJNJAE_01543)
+Plasmid recombination enzyme" points="304,10 314,40 304,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mob_Pre (PF01076)
+"Plasmid recombination enzyme"</title>
+				<polygon class="PF01076" points="304,28 306,28 310,40 306,52 304,52" stroke-linejoin="round" width="8" height="24" fill="rgb(51,103,188)" stroke="rgb(40,82,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01544_gene (INJJNJAE_01544)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01544_gene (INJJNJAE_01544)
+hypothetical protein" points="317,10 335,40 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

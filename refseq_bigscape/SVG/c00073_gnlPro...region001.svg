@@ -1,0 +1,238 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="696.8666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="686.8666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>gltX (HPGMPKAP_01428)
+Glutamate--tRNA ligase</title>
+			<polygon class="gltX (HPGMPKAP_01428)
+Glutamate--tRNA ligase" points="68,25 50,25 50,10 20,40 50,70 50,55 68,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_1c (PF00749)
+"tRNA synthetases class I (E and Q), catalytic domain"</title>
+				<polygon class="PF00749" points="36,28 36,28 67,28 67,52 36,52 36,52" stroke-linejoin="round" width="31" height="24" fill="rgb(218,142,61)" stroke="rgb(174,113,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ispF (HPGMPKAP_01429)
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase</title>
+			<polygon class="ispF (HPGMPKAP_01429)
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase" points="71,40 87,10 87,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YgbB (PF02542)
+"YgbB family"</title>
+				<polygon class="PF02542" points="74,40 80,28 86,28 86,52 80,52" stroke-linejoin="round" width="15" height="24" fill="rgb(183,87,193)" stroke="rgb(146,69,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ispD (HPGMPKAP_01430)
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase</title>
+			<polygon class="ispD (HPGMPKAP_01430)
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase" points="86,40 109,10 109,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IspD (PF01128)
+"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase"</title>
+				<polygon class="PF01128" points="90,40 99,28 108,28 108,52 99,52" stroke-linejoin="round" width="22" height="24" fill="rgb(113,223,84)" stroke="rgb(90,178,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yacL (HPGMPKAP_01431)
+putative PIN and TRAM-domain containing protein YacL</title>
+			<polygon class="yacL (HPGMPKAP_01431)
+putative PIN and TRAM-domain containing protein YacL" points="145,25 140,25 140,10 110,40 140,70 140,55 145,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN_9 (PF18477)
+"PIN like domain"</title>
+				<polygon class="PF18477" points="117,37 126,28 128,28 128,52 126,52 117,43" stroke-linejoin="round" width="11" height="24" fill="rgb(107,186,90)" stroke="rgb(85,148,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>radA (HPGMPKAP_01432)
+DNA repair protein RadA</title>
+			<polygon class="radA (HPGMPKAP_01432)
+DNA repair protein RadA" points="191,25 176,25 176,10 146,40 176,70 176,55 191,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ChlI (PF13541)
+"Subunit ChlI of Mg-chelatase"</title>
+				<polygon class="PF13541" points="150,40 157,33 157,47" stroke-linejoin="round" width="9" height="24" fill="rgb(192,77,61)" stroke="rgb(153,61,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_25 (PF13481)
+"AAA domain"</title>
+				<rect class="PF13481" x="169" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(81,83,185)" stroke="rgb(64,66,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rubredoxin_2 (PF18073)
+"Rubredoxin metal binding domain"</title>
+				<rect class="PF18073" x="188" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(82,197,196)" stroke="rgb(65,157,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_01433_gene (HPGMPKAP_01433)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_01433_gene (HPGMPKAP_01433)
+hypothetical protein" points="204,40 228,10 228,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="208,40 218,28 228,28 228,52 218,52 208,40" stroke-linejoin="round" width="20" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssuB_2 (HPGMPKAP_01434)
+Aliphatic sulfonates import ATP-binding protein SsuB</title>
+			<polygon class="ssuB_2 (HPGMPKAP_01434)
+Aliphatic sulfonates import ATP-binding protein SsuB" points="229,40 252,10 252,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="237,35 242,28 250,28 250,52 242,52 237,45" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_01435_gene (HPGMPKAP_01435)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_01435_gene (HPGMPKAP_01435)
+hypothetical protein" points="285,25 283,25 283,10 253,40 283,70 283,55 285,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>HPGMPKAP_01436_gene (HPGMPKAP_01436)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_01436_gene (HPGMPKAP_01436)
+hypothetical protein" points="285,40 312,10 312,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="289,40 300,28 302,28 302,52 300,52" stroke-linejoin="round" width="17" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_01437_gene (HPGMPKAP_01437)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_01437_gene (HPGMPKAP_01437)
+hypothetical protein" points="352,25 342,25 342,10 312,40 342,70 342,55 352,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="316,40 328,28 347,28 347,52 328,52 316,40" stroke-linejoin="round" width="31" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_01438_gene (HPGMPKAP_01438)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_01438_gene (HPGMPKAP_01438)
+hypothetical protein" points="353,40 381,10 381,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>clpC (HPGMPKAP_01439)
+ATP-dependent Clp protease ATP-binding subunit ClpC</title>
+			<polygon class="clpC (HPGMPKAP_01439)
+ATP-dependent Clp protease ATP-binding subunit ClpC" points="486,25 434,25 434,10 404,40 434,70 434,55 486,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ClpB_D2-small (PF10431)
+"C-terminal, D2-small domain, of ClpB protein"</title>
+				<polygon class="PF10431" points="408,40 414,34 414,46" stroke-linejoin="round" width="8" height="24" fill="rgb(190,198,67)" stroke="rgb(152,158,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_2 (PF07724)
+"AAA domain (Cdc48 subfamily)"</title>
+				<polygon class="PF07724" points="415,33 420,28 432,28 432,52 420,52 415,47" stroke-linejoin="round" width="17" height="24" fill="rgb(132,215,72)" stroke="rgb(105,172,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_lid_9 (PF17871)
+"AAA lid domain"</title>
+				<rect class="PF17871" x="441" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(169,81,187)" stroke="rgb(135,64,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA (PF00004)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<rect class="PF00004" x="451" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(57,194,204)" stroke="rgb(45,155,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Clp_N (PF02861)
+"Clp amino terminal domain, pathogenicity island component"</title>
+				<rect class="PF02861" x="471" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(97,199,190)" stroke="rgb(77,159,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Clp_N (PF02861)
+"Clp amino terminal domain, pathogenicity island component"</title>
+				<rect class="PF02861" x="479" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(97,199,190)" stroke="rgb(77,159,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mcsB (HPGMPKAP_01440)
+Protein-arginine kinase</title>
+			<polygon class="mcsB (HPGMPKAP_01440)
+Protein-arginine kinase" points="519,25 516,25 516,10 486,40 516,70 516,55 519,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-gua_Ptrans (PF00217)
+"ATP:guanido phosphotransferase, C-terminal catalytic domain"</title>
+				<polygon class="PF00217" points="495,35 502,28 514,28 514,52 502,52 495,45" stroke-linejoin="round" width="19" height="24" fill="rgb(68,225,124)" stroke="rgb(54,180,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mcsA (HPGMPKAP_01441)
+Protein-arginine kinase activator protein</title>
+			<polygon class="mcsA (HPGMPKAP_01441)
+Protein-arginine kinase activator protein" points="520,40 537,10 537,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UVR (PF02151)
+"UvrB/uvrC motif"</title>
+				<polygon class="PF02151" points="523,40 524,38 524,42" stroke-linejoin="round" width="3" height="24" fill="rgb(179,74,81)" stroke="rgb(143,59,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ctsR (HPGMPKAP_01442)
+Transcriptional regulator CtsR</title>
+			<polygon class="ctsR (HPGMPKAP_01442)
+Transcriptional regulator CtsR" points="538,40 553,10 553,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CtsR_C (PF17727)
+"CtsR C-terminal dimerization domain"</title>
+				<polygon class="PF17727" points="541,40 545,32 545,48" stroke-linejoin="round" width="7" height="24" fill="rgb(223,172,90)" stroke="rgb(178,137,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CtsR (PF05848)
+"CtsR N-terminal HTH domain"</title>
+				<polygon class="PF05848" points="546,30 547,28 553,28 553,52 547,52 546,50" stroke-linejoin="round" width="7" height="24" fill="rgb(216,69,105)" stroke="rgb(172,55,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nupC_1 (HPGMPKAP_01443)
+Nucleoside permease NupC</title>
+			<polygon class="nupC_1 (HPGMPKAP_01443)
+Nucleoside permease NupC" points="559,25 569,25 569,10 599,40 569,70 569,55 559,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nucleos_tra2_N (PF01773)
+"Na+ dependent nucleoside transporter N-terminus"</title>
+				<rect class="PF01773" x="559" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(127,66,183)" stroke="rgb(101,52,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nucleos_tra2_C (PF07662)
+"Na+ dependent nucleoside transporter C-terminus"</title>
+				<polygon class="PF07662" points="578,28 582,28 594,40 582,52 578,52" stroke-linejoin="round" width="20" height="24" fill="rgb(169,225,108)" stroke="rgb(135,180,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_01444_gene (HPGMPKAP_01444)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_01444_gene (HPGMPKAP_01444)
+hypothetical protein" points="615,10 640,40 615,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin_2 (PF13365)
+"Trypsin-like peptidase domain"</title>
+				<polygon class="PF13365" points="621,28 626,28 636,40 636,40 626,52 621,52" stroke-linejoin="round" width="15" height="24" fill="rgb(126,86,188)" stroke="rgb(100,68,150)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pdxT (HPGMPKAP_01445)
+Pyridoxal 5'-phosphate synthase subunit PdxT</title>
+			<polygon class="pdxT (HPGMPKAP_01445)
+Pyridoxal 5'-phosphate synthase subunit PdxT" points="645,40 663,10 663,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SNO (PF01174)
+"SNO glutamine amidotransferase family"</title>
+				<polygon class="PF01174" points="649,40 656,28 662,28 662,52 656,52" stroke-linejoin="round" width="17" height="24" fill="rgb(204,136,90)" stroke="rgb(163,108,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

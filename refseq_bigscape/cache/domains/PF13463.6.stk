@@ -1,0 +1,13 @@
+# STOCKHOLM 1.0
+
+c00009_gnlPro...region003_ORF10:gid:mhqR:pid:gnl_Prokka_DHAILMMN_00921:loc:10509:10932:strand:-:36:104         refy-------VLYELY.KAKDKKYKiNDLIKEVKLSQSAMSRLIDRLRSPkkAFICKDMSKEDQRATYIYLTEKG
+#=GR c00009_gnlPro...region003_ORF10:gid:mhqR:pid:gnl_Prokka_DHAILMMN_00921:loc:10509:10932:strand:-:36:104 PP 8665.......677777.444555444**********************98889**8888889************9
+c00065_gnlPro...region001_ORF13:gid:slyA:pid:gnl_Prokka_MHLOJDLD_01686:loc:22533:22956:strand:+:34:104         .slr----EFYVLHELY.KAKDKKYKiNDLIKEVKLSQSAMSRLIDRLRSPkkALICKDISDEDQRATYIYLTDKG
+#=GR c00065_gnlPro...region001_ORF13:gid:slyA:pid:gnl_Prokka_MHLOJDLD_01686:loc:22533:22956:strand:+:34:104 PP .997....6679*****.666666555**********************9888***8888889************9
+c00050_gnlPro...region001_ORF24:gid:slyA:pid:gnl_Prokka_PDCLAJNK_02391:loc:34531:34954:strand:+:34:104         .slr----EFYVLHELYkAQDKKYKI.NDLIKEVKLSQSAMSRLIDRLRSPkkALICKDISDEDQRATYIYLTDKG
+#=GR c00050_gnlPro...region001_ORF24:gid:slyA:pid:gnl_Prokka_PDCLAJNK_02391:loc:34531:34954:strand:+:34:104 PP .997....6679*****666666666.**********************9888***8888889************9
+c00026_gnlPro...region001_ORF10:gid:mhqR:pid:gnl_Prokka_NDLEPOIB_02412:loc:10560:10983:strand:-:36:104         refy-------VLYELY.KAKDKKYKiNDLIKEVKLSQSAMSRLIDRLRSPkkAFICKDMSKEDQRATYIYLTEKG
+#=GR c00026_gnlPro...region001_ORF10:gid:mhqR:pid:gnl_Prokka_NDLEPOIB_02412:loc:10560:10983:strand:-:36:104 PP 8665.......677777.444555444**********************98889**8888889************9
+#=GC PP_cons                                                                                                   ........667788888.55555555.**********************98..***8888889************9
+#=GC RF                                                                                                        ....xxxxxxxxxxxxx.xxxxxxxx.xxxxxxxxxxxxxxxxxxxxxxxx..xxxxxxxxxxxxxxxxxxxxxxx
+//

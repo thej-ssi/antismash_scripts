@@ -1,0 +1,164 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="483.8333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="473.8333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>opuCB_1 (HLGFMNBB_00983)
+Carnitine transport permease protein OpuCB</title>
+			<polygon class="opuCB_1 (HLGFMNBB_00983)
+Carnitine transport permease protein OpuCB" points="11,10 32,40 11,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="13,28 20,28 28,40 20,52 13,52" stroke-linejoin="round" width="18" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>opuCC (HLGFMNBB_00984)
+Carnitine transport binding protein OpuCC</title>
+			<polygon class="opuCC (HLGFMNBB_00984)
+Carnitine transport binding protein OpuCC" points="33,25 35,25 35,10 65,40 35,70 35,55 33,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OpuAC (PF04069)
+"Substrate binding domain of ABC-type glycine betaine transport system"</title>
+				<polygon class="PF04069" points="36,28 48,28 60,40 48,52 36,52" stroke-linejoin="round" width="26" height="24" fill="rgb(81,218,80)" stroke="rgb(64,174,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>opuCD_1 (HLGFMNBB_00985)
+Carnitine transport permease protein OpuCD</title>
+			<polygon class="opuCD_1 (HLGFMNBB_00985)
+Carnitine transport permease protein OpuCD" points="65,10 86,40 65,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="69,28 74,28 82,40 74,52 69,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HLGFMNBB_00986_gene (HLGFMNBB_00986)
+S-formylglutathione hydrolase</title>
+			<polygon class="HLGFMNBB_00986_gene (HLGFMNBB_00986)
+S-formylglutathione hydrolase" points="88,10 113,40 88,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Esterase (PF00756)
+"Putative esterase"</title>
+				<polygon class="PF00756" points="89,28 99,28 109,40 99,52 89,52" stroke-linejoin="round" width="23" height="24" fill="rgb(217,132,77)" stroke="rgb(173,105,61)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HLGFMNBB_00987_gene (HLGFMNBB_00987)
+hypothetical protein</title>
+			<polygon class="HLGFMNBB_00987_gene (HLGFMNBB_00987)
+hypothetical protein" points="174,25 153,25 153,10 123,40 153,70 153,55 174,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DcuC (PF03606)
+"C4-dicarboxylate anaerobic carrier"</title>
+				<polygon class="PF03606" points="127,40 139,28 172,28 172,52 139,52" stroke-linejoin="round" width="49" height="24" fill="rgb(204,117,55)" stroke="rgb(163,93,44)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arcC1 (HLGFMNBB_00988)
+Carbamate kinase 1</title>
+			<polygon class="arcC1 (HLGFMNBB_00988)
+Carbamate kinase 1" points="211,25 210,25 210,10 180,40 210,70 210,55 211,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="184,40 196,28 210,28 210,52 196,52" stroke-linejoin="round" width="29" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argF (HLGFMNBB_00989)
+Ornithine carbamoyltransferase</title>
+			<polygon class="argF (HLGFMNBB_00989)
+Ornithine carbamoyltransferase" points="245,25 242,25 242,10 212,40 242,70 242,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OTCace (PF00185)
+"Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain"</title>
+				<polygon class="PF00185" points="216,40 228,28 229,28 229,52 228,52" stroke-linejoin="round" width="17" height="24" fill="rgb(215,107,106)" stroke="rgb(172,85,84)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>OTCace_N (PF02729)
+"Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain"</title>
+				<rect class="PF02729" x="230" y="28" stroke-linejoin="round" width="14" height="24" fill="rgb(223,74,58)" stroke="rgb(178,59,46)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HLGFMNBB_00990_gene (HLGFMNBB_00990)
+hypothetical protein</title>
+			<polygon class="HLGFMNBB_00990_gene (HLGFMNBB_00990)
+hypothetical protein" points="262,10 269,40 262,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>fosB (HLGFMNBB_00991)
+Metallothiol transferase FosB</title>
+			<polygon class="fosB (HLGFMNBB_00991)
+Metallothiol transferase FosB" points="273,10 280,40 273,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyoxalase (PF00903)
+"Glyoxalase/Bleomycin resistance protein/Dioxygenase superfamily"</title>
+				<polygon class="PF00903" points="273,28 274,28 277,40 274,52 273,52" stroke-linejoin="round" width="7" height="24" fill="rgb(50,162,189)" stroke="rgb(40,129,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hel (HLGFMNBB_00992)
+Lipoprotein E</title>
+			<polygon class="hel (HLGFMNBB_00992)
+Lipoprotein E" points="290,10 319,40 290,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acid_phosphat_B (PF03767)
+"HAD superfamily, subfamily IIIB (Acid phosphatase)"</title>
+				<polygon class="PF03767" points="291,28 303,28 315,40 315,40 303,52 291,52" stroke-linejoin="round" width="24" height="24" fill="rgb(128,96,194)" stroke="rgb(102,76,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>bioB_2 (HLGFMNBB_00993)
+Biotin synthase</title>
+			<polygon class="bioB_2 (HLGFMNBB_00993)
+Biotin synthase" points="329,25 331,25 331,10 361,40 331,70 331,55 329,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="334,28 344,28 350,34 350,46 344,52 334,52" stroke-linejoin="round" width="16" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>BATS (PF06968)
+"Biotin and Thiamin Synthesis associated domain"</title>
+				<polygon class="PF06968" points="351,35 356,40 351,45" stroke-linejoin="round" width="8" height="24" fill="rgb(91,179,207)" stroke="rgb(72,143,165)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gldA (HLGFMNBB_00994)
+Glycerol dehydrogenase</title>
+			<polygon class="gldA (HLGFMNBB_00994)
+Glycerol dehydrogenase" points="372,25 378,25 378,10 408,40 378,70 378,55 372,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Fe-ADH (PF00465)
+"Iron-containing alcohol dehydrogenase"</title>
+				<polygon class="PF00465" points="372,28 392,28 404,40 392,52 372,52" stroke-linejoin="round" width="34" height="24" fill="rgb(73,179,216)" stroke="rgb(58,143,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhaK (HLGFMNBB_00995)
+PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK</title>
+			<polygon class="dhaK (HLGFMNBB_00995)
+PTS-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK" points="409,25 411,25 411,10 441,40 411,70 411,55 409,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dak1 (PF02733)
+"Dak1 domain"</title>
+				<polygon class="PF02733" points="410,28 424,28 436,40 424,52 410,52" stroke-linejoin="round" width="30" height="24" fill="rgb(110,103,210)" stroke="rgb(88,82,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dhaL (HLGFMNBB_00996)
+PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL</title>
+			<polygon class="dhaL (HLGFMNBB_00996)
+PTS-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL" points="443,10 462,40 443,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dak2 (PF02734)
+"DAK2 domain"</title>
+				<polygon class="PF02734" points="446,28 451,28 458,40 451,52 446,52" stroke-linejoin="round" width="15" height="24" fill="rgb(107,200,62)" stroke="rgb(85,160,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

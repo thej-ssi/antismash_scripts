@@ -1,0 +1,8 @@
+c00051_gnlPro...region001	115.4	JIGFPPLC_02437_gene	47	188	PF16229.5	DUF4888	613	1183	c00051_gnlPro...region001_ORF1:gid:JIGFPPLC_02437_gene:pid:gnl_Prokka_JIGFPPLC_02437:loc:613:1183:strand:+
+c00051_gnlPro...region001	105.1	yxlF_1	19	156	PF00005.27	ABC_tran	3052	3742	c00051_gnlPro...region001_ORF4:gid:yxlF_1:pid:gnl_Prokka_JIGFPPLC_02440:loc:3052:3742:strand:-
+c00051_gnlPro...region001	147.5	nisP	131	441	PF00082.22	Peptidase_S8	3763	5137	c00051_gnlPro...region001_ORF5:gid:nisP:pid:gnl_Prokka_JIGFPPLC_02441:loc:3763:5137:strand:-
+c00051_gnlPro...region001	103.9	epiD	3	171	PF02441.19	Flavoprotein	5146	5665	c00051_gnlPro...region001_ORF6:gid:epiD:pid:gnl_Prokka_JIGFPPLC_02442:loc:5146:5665:strand:-
+c00051_gnlPro...region001	286.7	nisC	31	412	PF05147.13	LANC_like	5680	6925	c00051_gnlPro...region001_ORF7:gid:nisC:pid:gnl_Prokka_JIGFPPLC_02443:loc:5680:6925:strand:-
+c00051_gnlPro...region001	78.5	nisB	733	986	PF14028.6	Lant_dehydr_C	6917	9911	c00051_gnlPro...region001_ORF8:gid:nisB:pid:gnl_Prokka_JIGFPPLC_02444:loc:6917:9911:strand:-
+c00051_gnlPro...region001	497.3	nisB	39	674	PF04738.13	Lant_dehydr_N	6917	9911	c00051_gnlPro...region001_ORF8:gid:nisB:pid:gnl_Prokka_JIGFPPLC_02444:loc:6917:9911:strand:-
+c00051_gnlPro...region001	73.1	gdmA_1	1	47	PF02052.15	Gallidermin	9975	10119	c00051_gnlPro...region001_ORF9:gid:gdmA_1:pid:gnl_Prokka_JIGFPPLC_02445:loc:9975:10119:strand:-

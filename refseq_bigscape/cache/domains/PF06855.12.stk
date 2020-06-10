@@ -1,0 +1,51 @@
+# STOCKHOLM 1.0
+
+c00040_gnlPro...region001_ORF16:gid:IHDLCKJI_02011_gene:pid:gnl_Prokka_IHDLCKJI_02011:loc:16937:17153:strand:-:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDINFPKDVTSQKEILTYFRNhPCPENIPVTSIKRALAVFN-q
+#=GR c00040_gnlPro...region001_ORF16:gid:IHDLCKJI_02011_gene:pid:gnl_Prokka_IHDLCKJI_02011:loc:16937:17153:strand:-:2:67 PP .9*********.********************************9989*************99887.5
+c00015_gnlPro...region002_ORF17:gid:PLAHONHL_01841_gene:pid:gnl_Prokka_PLAHONHL_01841:loc:16340:16556:strand:+:2:67         -FYEFMQNFVG-DDTPLGELVAWMNQDTEFPRDVKSQLVIMSYFREnPCPENIPVTSIKRALSVFNQ.
+#=GR c00015_gnlPro...region002_ORF17:gid:PLAHONHL_01841_gene:pid:gnl_Prokka_PLAHONHL_01841:loc:16340:16556:strand:+:2:67 PP .9*********.********************************99679*************99975.
+c00001_gnlPro...region002_ORF19:gid:MNHGGPBM_00363_gene:pid:gnl_Prokka_MNHGGPBM_00363:loc:17286:17505:strand:+:2:67         -FYEFMQSFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00001_gnlPro...region002_ORF19:gid:MNHGGPBM_00363_gene:pid:gnl_Prokka_MNHGGPBM_00363:loc:17286:17505:strand:+:2:67 PP .9*********.**********************************7799************99975.
+c00020_gnlPro...region001_ORF19:gid:HNPJFCIA_01277_gene:pid:gnl_Prokka_HNPJFCIA_01277:loc:17492:17711:strand:+:2:67         -FYEFMQSFHG-DDTPLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTVIKRALAVFN-q
+#=GR c00020_gnlPro...region001_ORF19:gid:HNPJFCIA_01277_gene:pid:gnl_Prokka_HNPJFCIA_01277:loc:17492:17711:strand:+:2:67 PP .9*********.*********************************9779************99887.5
+c00037_gnlPro...region001_ORF17:gid:DNGEGIOB_02533_gene:pid:gnl_Prokka_DNGEGIOB_02533:loc:15789:16008:strand:+:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00037_gnlPro...region001_ORF17:gid:DNGEGIOB_02533_gene:pid:gnl_Prokka_DNGEGIOB_02533:loc:15789:16008:strand:+:2:67 PP .9*********.**********************************7799************99975.
+c00002_gnlPro...region003_ORF20:gid:FGCCKGIE_01931_gene:pid:gnl_Prokka_FGCCKGIE_01931:loc:25159:25378:strand:-:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00002_gnlPro...region003_ORF20:gid:FGCCKGIE_01931_gene:pid:gnl_Prokka_FGCCKGIE_01931:loc:25159:25378:strand:-:2:67 PP .9*********.**********************************7799************99975.
+c00012_gnlPro...region002_ORF31:gid:JOBKCDGE_01599_gene:pid:gnl_Prokka_JOBKCDGE_01599:loc:33678:33897:strand:-:2:67         -FYEFMQSFHG-DDTSLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTVIKRALAVFN-q
+#=GR c00012_gnlPro...region002_ORF31:gid:JOBKCDGE_01599_gene:pid:gnl_Prokka_JOBKCDGE_01599:loc:33678:33897:strand:-:2:67 PP .9*********.*********************************9779************99887.5
+c00034_gnlPro...region001_ORF18:gid:CHKLLFLP_01788_gene:pid:gnl_Prokka_CHKLLFLP_01788:loc:17498:17714:strand:+:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDINFPKDVTSQKEILTYFRNhPCPENIPVTSIKRALAVFN-q
+#=GR c00034_gnlPro...region001_ORF18:gid:CHKLLFLP_01788_gene:pid:gnl_Prokka_CHKLLFLP_01788:loc:17498:17714:strand:+:2:67 PP .9*********.********************************9989*************99887.5
+c00004_gnlPro...region003_ORF20:gid:ECDCGNGH_02089_gene:pid:gnl_Prokka_ECDCGNGH_02089:loc:25159:25378:strand:-:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00004_gnlPro...region003_ORF20:gid:ECDCGNGH_02089_gene:pid:gnl_Prokka_ECDCGNGH_02089:loc:25159:25378:strand:-:2:67 PP .9*********.**********************************7799************99975.
+c00003_gnlPro...region001_ORF17:gid:PHEHJLOB_01248_gene:pid:gnl_Prokka_PHEHJLOB_01248:loc:15835:16054:strand:+:2:67         -FYEFMQSFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00003_gnlPro...region001_ORF17:gid:PHEHJLOB_01248_gene:pid:gnl_Prokka_PHEHJLOB_01248:loc:15835:16054:strand:+:2:67 PP .9*********.**********************************7799************99975.
+c00111_gnlPro...region001_ORF2:gid:ONKOLKPD_02112_gene:pid:gnl_Prokka_ONKOLKPD_02112:loc:1263:1482:strand:+:2:67            -FYEFMQSFHG-DDTPLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTVIKRALAVFN-q
+#=GR c00111_gnlPro...region001_ORF2:gid:ONKOLKPD_02112_gene:pid:gnl_Prokka_ONKOLKPD_02112:loc:1263:1482:strand:+:2:67    PP .9*********.*********************************9779************99887.5
+c00019_gnlPro...region001_ORF15:gid:DJCDADDG_01776_gene:pid:gnl_Prokka_DJCDADDG_01776:loc:13861:14080:strand:+:2:67         -FYEFMQSFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00019_gnlPro...region001_ORF15:gid:DJCDADDG_01776_gene:pid:gnl_Prokka_DJCDADDG_01776:loc:13861:14080:strand:+:2:67 PP .9*********.**********************************7799************99975.
+c00062_gnlPro...region001_ORF7:gid:IJPGPKLD_02186_gene:pid:gnl_Prokka_IJPGPKLD_02186:loc:7551:7767:strand:+:2:67            -FYEFMQNFLG-DDTPLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTSIKRALAVFN-q
+#=GR c00062_gnlPro...region001_ORF7:gid:IJPGPKLD_02186_gene:pid:gnl_Prokka_IJPGPKLD_02186:loc:7551:7767:strand:+:2:67    PP .9*********.*********************************967999**********99887.5
+c00052_gnlPro...region001_ORF7:gid:MHLOJDLD_01233_gene:pid:gnl_Prokka_MHLOJDLD_01233:loc:5111:5330:strand:-:2:67            -FYEFMQSFHG-DDTPLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTVIKRALAVFN-q
+#=GR c00052_gnlPro...region001_ORF7:gid:MHLOJDLD_01233_gene:pid:gnl_Prokka_MHLOJDLD_01233:loc:5111:5330:strand:-:2:67    PP .9*********.*********************************9779************99887.5
+c00009_gnlPro...region002_ORF19:gid:DHAILMMN_00649_gene:pid:gnl_Prokka_DHAILMMN_00649:loc:17493:17709:strand:+:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTSIKRALAVFN-q
+#=GR c00009_gnlPro...region002_ORF19:gid:DHAILMMN_00649_gene:pid:gnl_Prokka_DHAILMMN_00649:loc:17493:17709:strand:+:2:67 PP .9*********.*********************************967999**********99887.5
+c00004_gnlPro...region001_ORF18:gid:LGEIKLPL_01010_gene:pid:gnl_Prokka_LGEIKLPL_01010:loc:17288:17507:strand:+:2:67         -FYEFMQSFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00004_gnlPro...region001_ORF18:gid:LGEIKLPL_01010_gene:pid:gnl_Prokka_LGEIKLPL_01010:loc:17288:17507:strand:+:2:67 PP .9*********.**********************************7799************99975.
+c00007_gnlPro...region003_ORF20:gid:KJIPDNGI_02344_gene:pid:gnl_Prokka_KJIPDNGI_02344:loc:25159:25378:strand:-:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00007_gnlPro...region003_ORF20:gid:KJIPDNGI_02344_gene:pid:gnl_Prokka_KJIPDNGI_02344:loc:25159:25378:strand:-:2:67 PP .9*********.**********************************7799************99975.
+c00013_gnlPro...region002_ORF19:gid:BALGINPN_01689_gene:pid:gnl_Prokka_BALGINPN_01689:loc:17492:17711:strand:+:2:67         -FYEFMQSFHG-DDTSLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTVIKRALAVFN-q
+#=GR c00013_gnlPro...region002_ORF19:gid:BALGINPN_01689_gene:pid:gnl_Prokka_BALGINPN_01689:loc:17492:17711:strand:+:2:67 PP .9*********.*********************************9779************99887.5
+c00017_gnlPro...region001_ORF18:gid:HLGFMNBB_00580_gene:pid:gnl_Prokka_HLGFMNBB_00580:loc:17498:17714:strand:+:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDINFPKDVTSQKEILTYFRNhPCPENIPVTSIKRALAVFN-q
+#=GR c00017_gnlPro...region001_ORF18:gid:HLGFMNBB_00580_gene:pid:gnl_Prokka_HLGFMNBB_00580:loc:17498:17714:strand:+:2:67 PP .9*********.********************************9989*************99887.5
+c00029_gnlPro...region001_ORF29:gid:NMKLMGFH_02276_gene:pid:gnl_Prokka_NMKLMGFH_02276:loc:35669:35888:strand:-:2:67         -FYEFMQSFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00029_gnlPro...region001_ORF29:gid:NMKLMGFH_02276_gene:pid:gnl_Prokka_NMKLMGFH_02276:loc:35669:35888:strand:-:2:67 PP .9*********.**********************************7799************99975.
+c00008_gnlPro...region003_ORF20:gid:INJJNJAE_02168_gene:pid:gnl_Prokka_INJJNJAE_02168:loc:25159:25378:strand:-:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDSNFPREVKSHSEILSYFRTnPCPESISVPVIKRALSVFNQ.
+#=GR c00008_gnlPro...region003_ORF20:gid:INJJNJAE_02168_gene:pid:gnl_Prokka_INJJNJAE_02168:loc:25159:25378:strand:-:2:67 PP .9*********.**********************************7799************99975.
+c00098_gnlPro...region001_ORF8:gid:BOIIOIPH_02078_gene:pid:gnl_Prokka_BOIIOIPH_02078:loc:5924:6143:strand:-:2:67            -FYEFMQSFHG-DDTSLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTVIKRALAVFN-q
+#=GR c00098_gnlPro...region001_ORF8:gid:BOIIOIPH_02078_gene:pid:gnl_Prokka_BOIIOIPH_02078:loc:5924:6143:strand:-:2:67    PP .9*********.*********************************9779************99887.5
+c00039_gnlPro...region001_ORF20:gid:DAFNCOFO_01586_gene:pid:gnl_Prokka_DAFNCOFO_01586:loc:17899:18115:strand:-:2:67         -FYEFMQNFLG-DDTPLGELVDWINQDINFPKEVKSHSEILTYFRNnPCPENIPVTSIKRALAVFN-q
+#=GR c00039_gnlPro...region001_ORF20:gid:DAFNCOFO_01586_gene:pid:gnl_Prokka_DAFNCOFO_01586:loc:17899:18115:strand:-:2:67 PP .9*********.*********************************967999**********99887.5
+#=GC PP_cons                                                                                                                .9*********.*********************************9.799***********999875.
+#=GC RF                                                                                                                     xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxxxxxxxxx.
+//

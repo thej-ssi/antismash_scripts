@@ -1,0 +1,132 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="425.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="415.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>capD (CHKLLFLP_01771)
+Capsule biosynthesis protein CapD</title>
+			<polygon class="capD (CHKLLFLP_01771)
+Capsule biosynthesis protein CapD" points="89,25 66,25 66,10 36,40 66,70 66,55 89,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>G_glu_transpept (PF01019)
+"Gamma-glutamyltranspeptidase"</title>
+				<polygon class="PF01019" points="40,40 52,28 82,28 82,52 52,52" stroke-linejoin="round" width="46" height="24" fill="rgb(117,205,100)" stroke="rgb(93,164,80)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CHKLLFLP_01772_gene (CHKLLFLP_01772)
+hypothetical protein</title>
+			<polygon class="CHKLLFLP_01772_gene (CHKLLFLP_01772)
+hypothetical protein" points="90,40 95,10 95,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>capA_2 (CHKLLFLP_01773)
+Capsule biosynthesis protein CapA</title>
+			<polygon class="capA_2 (CHKLLFLP_01773)
+Capsule biosynthesis protein CapA" points="130,25 125,25 125,10 95,40 125,70 125,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PGA_cap (PF09587)
+"Bacterial capsule synthesis protein PGA_cap"</title>
+				<polygon class="PF09587" points="102,37 111,28 124,28 124,52 111,52 102,43" stroke-linejoin="round" width="22" height="24" fill="rgb(179,65,131)" stroke="rgb(143,52,104)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>capC (CHKLLFLP_01774)
+Capsule biosynthesis protein CapC</title>
+			<polygon class="capC (CHKLLFLP_01774)
+Capsule biosynthesis protein CapC" points="131,40 146,10 146,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Caps_synth_CapC (PF14102)
+"Capsule biosynthesis CapC"</title>
+				<polygon class="PF14102" points="134,40 140,28 144,28 144,52 140,52" stroke-linejoin="round" width="11" height="24" fill="rgb(56,185,111)" stroke="rgb(44,148,88)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>capB (CHKLLFLP_01775)
+Capsule biosynthesis protein CapB</title>
+			<polygon class="capB (CHKLLFLP_01775)
+Capsule biosynthesis protein CapB" points="184,25 176,25 176,10 146,40 176,70 176,55 184,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mur_ligase_M (PF08245)
+"Mur ligase middle domain"</title>
+				<polygon class="PF08245" points="160,30 162,28 180,28 180,52 162,52 160,50" stroke-linejoin="round" width="20" height="24" fill="rgb(57,133,195)" stroke="rgb(45,106,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CHKLLFLP_01776_gene (CHKLLFLP_01776)
+hypothetical protein</title>
+			<polygon class="CHKLLFLP_01776_gene (CHKLLFLP_01776)
+hypothetical protein" points="200,10 210,40 200,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>lipR (CHKLLFLP_01777)
+Putative acetyl-hydrolase LipR</title>
+			<polygon class="lipR (CHKLLFLP_01777)
+Putative acetyl-hydrolase LipR" points="245,25 243,25 243,10 213,40 243,70 243,55 245,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="217,40 229,28 235,28 235,52 229,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CHKLLFLP_01778_gene (CHKLLFLP_01778)
+hypothetical protein</title>
+			<polygon class="CHKLLFLP_01778_gene (CHKLLFLP_01778)
+hypothetical protein" points="248,40 276,10 276,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2179 (PF10035)
+"Uncharacterized protein conserved in bacteria (DUF2179)"</title>
+				<polygon class="PF10035" points="252,40 253,39 253,41" stroke-linejoin="round" width="5" height="24" fill="rgb(197,111,90)" stroke="rgb(157,88,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>YitT_membrane (PF02588)
+"Uncharacterised 5xTM membrane BCR, YitT family COG1284"</title>
+				<polygon class="PF02588" points="254,38 263,28 274,28 274,52 263,52 254,42" stroke-linejoin="round" width="20" height="24" fill="rgb(155,63,204)" stroke="rgb(123,50,163)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CHKLLFLP_01779_gene (CHKLLFLP_01779)
+hypothetical protein</title>
+			<polygon class="CHKLLFLP_01779_gene (CHKLLFLP_01779)
+hypothetical protein" points="283,40 293,10 293,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Thioredoxin (PF00085)
+"Thioredoxin"</title>
+				<polygon class="PF00085" points="286,40 290,28 292,28 292,52 290,52" stroke-linejoin="round" width="9" height="24" fill="rgb(220,109,180)" stroke="rgb(176,87,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>adh_2 (CHKLLFLP_01780)
+Alcohol dehydrogenase</title>
+			<polygon class="adh_2 (CHKLLFLP_01780)
+Alcohol dehydrogenase" points="301,25 306,25 306,10 336,40 306,70 306,55 301,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ADH_N (PF08240)
+"Alcohol dehydrogenase GroES-like domain"</title>
+				<rect class="PF08240" x="303" y="28" stroke-linejoin="round" width="11" height="24" fill="rgb(211,65,138)" stroke="rgb(168,51,110)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>ADH_zinc_N (PF00107)
+"Zinc-binding dehydrogenase"</title>
+				<polygon class="PF00107" points="318,28 319,28 330,39 330,41 319,52 318,52" stroke-linejoin="round" width="12" height="24" fill="rgb(81,108,215)" stroke="rgb(64,86,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CHKLLFLP_01781_gene (CHKLLFLP_01781)
+hypothetical protein</title>
+			<polygon class="CHKLLFLP_01781_gene (CHKLLFLP_01781)
+hypothetical protein" points="338,40 363,10 363,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CPBP (PF02517)
+"CPBP intramembrane metalloprotease"</title>
+				<polygon class="PF02517" points="342,40 348,33 348,47" stroke-linejoin="round" width="9" height="24" fill="rgb(150,86,216)" stroke="rgb(120,68,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>CHKLLFLP_01782_gene (CHKLLFLP_01782)
+hypothetical protein</title>
+			<polygon class="CHKLLFLP_01782_gene (CHKLLFLP_01782)
+hypothetical protein" points="366,40 374,10 374,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

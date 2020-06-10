@@ -1,0 +1,14 @@
+c00021_gnlPro...region001	300.5	fecD_2	16	320	PF01032.18	FecCD	539	1508	c00021_gnlPro...region001_ORF1:gid:fecD_2:pid:gnl_Prokka_LGEIKLPL_02214:loc:539:1508:strand:-
+c00021_gnlPro...region001	327.6	yfiZ_2	30	338	PF01032.18	FecCD	1504	2536	c00021_gnlPro...region001_ORF2:gid:yfiZ_2:pid:gnl_Prokka_LGEIKLPL_02215:loc:1504:2536:strand:-
+c00021_gnlPro...region001	112.2	yfmC_2	57	300	PF01497.18	Peripla_BP_2	2547	3531	c00021_gnlPro...region001_ORF3:gid:yfmC_2:pid:gnl_Prokka_LGEIKLPL_02216:loc:2547:3531:strand:-
+c00021_gnlPro...region001	70.4	orr	6	223	PF01168.20	Ala_racemase_N	3923	4994	c00021_gnlPro...region001_ORF4:gid:orr:pid:gnl_Prokka_LGEIKLPL_02217:loc:3923:4994:strand:-
+c00021_gnlPro...region001	95.6	iucA_2	412	573	PF06276.12	FhuF	5000	6758	c00021_gnlPro...region001_ORF5:gid:iucA_2:pid:gnl_Prokka_LGEIKLPL_02218:loc:5000:6758:strand:-
+c00021_gnlPro...region001	172.5	iucA_2	156	385	PF04183.12	IucA_IucC	5000	6758	c00021_gnlPro...region001_ORF5:gid:iucA_2:pid:gnl_Prokka_LGEIKLPL_02218:loc:5000:6758:strand:-
+c00021_gnlPro...region001	140.8	LGEIKLPL_02219_gene	3	394	PF05977.13	MFS_3	6744	7938	c00021_gnlPro...region001_ORF6:gid:LGEIKLPL_02219_gene:pid:gnl_Prokka_LGEIKLPL_02219:loc:6744:7938:strand:-
+c00021_gnlPro...region001	191.6	iucC_3	193	437	PF04183.12	IucA_IucC	8039	10016	c00021_gnlPro...region001_ORF7:gid:iucC_3:pid:gnl_Prokka_LGEIKLPL_02220:loc:8039:10016:strand:+
+c00021_gnlPro...region001	105.8	iucC_3	468	645	PF06276.12	FhuF	8039	10016	c00021_gnlPro...region001_ORF7:gid:iucC_3:pid:gnl_Prokka_LGEIKLPL_02220:loc:8039:10016:strand:+
+c00021_gnlPro...region001	116.4	LGEIKLPL_02221_gene	39	145	PF03780.13	Asp23	10176	10686	c00021_gnlPro...region001_ORF8:gid:LGEIKLPL_02221_gene:pid:gnl_Prokka_LGEIKLPL_02221:loc:10176:10686:strand:-
+c00021_gnlPro...region001	49.4	LGEIKLPL_02222_gene	19	66	PF10031.9	DUF2273	10748	10988	c00021_gnlPro...region001_ORF9:gid:LGEIKLPL_02222_gene:pid:gnl_Prokka_LGEIKLPL_02222:loc:10748:10988:strand:-
+c00021_gnlPro...region001	623.4	opuD_3	9	491	PF02028.17	BCCT	11711	13274	c00021_gnlPro...region001_ORF11:gid:opuD_3:pid:gnl_Prokka_LGEIKLPL_02224:loc:11711:13274:strand:-
+c00021_gnlPro...region001	50.4	LGEIKLPL_02225_gene	160	285	PF00107.26	ADH_zinc_N	13581	14589	c00021_gnlPro...region001_ORF12:gid:LGEIKLPL_02225_gene:pid:gnl_Prokka_LGEIKLPL_02225:loc:13581:14589:strand:-
+c00021_gnlPro...region001	28.4	LGEIKLPL_02225_gene	30	116	PF08240.12	ADH_N	13581	14589	c00021_gnlPro...region001_ORF12:gid:LGEIKLPL_02225_gene:pid:gnl_Prokka_LGEIKLPL_02225:loc:13581:14589:strand:-

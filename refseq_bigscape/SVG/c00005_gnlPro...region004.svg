@@ -1,0 +1,193 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="738.0666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="728.0666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>gltC (ALEOMKEF_00587)
+HTH-type transcriptional regulator GltC</title>
+			<polygon class="gltC (ALEOMKEF_00587)
+HTH-type transcriptional regulator GltC" points="100,10 129,40 100,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="100" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="108,28 113,28 125,40 113,52 108,52" stroke-linejoin="round" width="19" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALEOMKEF_00588_gene (ALEOMKEF_00588)
+hypothetical protein</title>
+			<polygon class="ALEOMKEF_00588_gene (ALEOMKEF_00588)
+hypothetical protein" points="130,25 137,25 137,10 167,40 137,70 137,55 130,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YibE_F (PF07907)
+"YibE/F-like protein"</title>
+				<polygon class="PF07907" points="142,28 150,28 162,40 150,52 142,52" stroke-linejoin="round" width="23" height="24" fill="rgb(149,68,229)" stroke="rgb(119,54,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALEOMKEF_00589_gene (ALEOMKEF_00589)
+hypothetical protein</title>
+			<polygon class="ALEOMKEF_00589_gene (ALEOMKEF_00589)
+hypothetical protein" points="166,10 191,40 166,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YibE_F (PF07907)
+"YibE/F-like protein"</title>
+				<polygon class="PF07907" points="166,28 177,28 187,40 177,52 166,52" stroke-linejoin="round" width="24" height="24" fill="rgb(149,68,229)" stroke="rgb(119,54,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uvrA_2 (ALEOMKEF_00590)
+UvrABC system protein A</title>
+			<polygon class="uvrA_2 (ALEOMKEF_00590)
+UvrABC system protein A" points="194,25 239,25 239,10 269,40 239,70 239,55 194,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="240,28 253,28 260,35 260,45 253,52 240,52" stroke-linejoin="round" width="20" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALEOMKEF_00591_gene (ALEOMKEF_00591)
+hypothetical protein</title>
+			<polygon class="ALEOMKEF_00591_gene (ALEOMKEF_00591)
+hypothetical protein" points="282,40 302,10 302,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1 (PF01609)
+"Transposase DDE domain"</title>
+				<polygon class="PF01609" points="286,40 294,28 299,28 299,52 294,52" stroke-linejoin="round" width="15" height="24" fill="rgb(229,102,99)" stroke="rgb(183,81,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fnr (ALEOMKEF_00592)
+Anaerobic regulatory protein</title>
+			<polygon class="fnr (ALEOMKEF_00592)
+Anaerobic regulatory protein" points="317,40 338,10 338,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_Crp_2 (PF13545)
+"Crp-like helix-turn-helix domain"</title>
+				<polygon class="PF13545" points="321,40 325,34 325,46" stroke-linejoin="round" width="7" height="24" fill="rgb(87,137,202)" stroke="rgb(69,109,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sboA (ALEOMKEF_00593)
+Subtilosin-A</title>
+			<polygon class="sboA (ALEOMKEF_00593)
+Subtilosin-A" points="343,10 347,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Subtilosin_A (PF11420)
+"Bacteriocin subtilosin A"</title>
+				<polygon class="PF11420" points="343,31 344,40 343,49" stroke-linejoin="round" width="3" height="24" fill="rgb(190,123,83)" stroke="rgb(152,98,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>albA (ALEOMKEF_00594)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA</title>
+			<polygon class="albA (ALEOMKEF_00594)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA" points="350,25 364,25 364,10 394,40 364,70 364,55 350,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<rect class="PF04055" x="362" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="384,34 390,40 384,46" stroke-linejoin="round" width="7" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALEOMKEF_00595_gene (ALEOMKEF_00595)
+hypothetical protein</title>
+			<polygon class="ALEOMKEF_00595_gene (ALEOMKEF_00595)
+hypothetical protein" points="395,10 400,40 395,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albC (ALEOMKEF_00596)
+Putative ABC transporter ATP-binding protein AlbC</title>
+			<polygon class="albC (ALEOMKEF_00596)
+Putative ABC transporter ATP-binding protein AlbC" points="400,10 423,40 400,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="402,28 410,28 416,36 416,44 410,52 402,52" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>albD (ALEOMKEF_00597)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbD</title>
+			<polygon class="albD (ALEOMKEF_00597)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbD" points="423,25 435,25 435,10 465,40 435,70 435,55 423,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albE (ALEOMKEF_00598)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbE</title>
+			<polygon class="albE (ALEOMKEF_00598)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbE" points="465,25 471,25 471,10 501,40 471,70 471,55 465,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albF_1 (ALEOMKEF_00599)
+Putative zinc protease AlbF</title>
+			<polygon class="albF_1 (ALEOMKEF_00599)
+Putative zinc protease AlbF" points="501,25 502,25 502,10 532,40 502,70 502,55 501,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16 (PF00675)
+"Insulinase (Peptidase family M16)"</title>
+				<rect class="PF00675" x="504" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(70,225,127)" stroke="rgb(56,180,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALEOMKEF_00600_gene (ALEOMKEF_00600)
+hypothetical protein</title>
+			<polygon class="ALEOMKEF_00600_gene (ALEOMKEF_00600)
+hypothetical protein" points="533,10 553,40 533,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>isaB (ALEOMKEF_00601)
+Immunodominant staphylococcal antigen B</title>
+			<polygon class="isaB (ALEOMKEF_00601)
+Immunodominant staphylococcal antigen B" points="569,40 586,10 586,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ALEOMKEF_00602_gene (ALEOMKEF_00602)
+hypothetical protein</title>
+			<polygon class="ALEOMKEF_00602_gene (ALEOMKEF_00602)
+hypothetical protein" points="596,10 605,40 596,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>sle1_2 (ALEOMKEF_00603)
+N-acetylmuramoyl-L-alanine amidase sle1</title>
+			<polygon class="sle1_2 (ALEOMKEF_00603)
+N-acetylmuramoyl-L-alanine amidase sle1" points="651,25 648,25 648,10 618,40 648,70 648,55 651,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="622,40 628,34 628,46" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysM (PF01476)
+"LysM domain"</title>
+				<polygon class="PF01476" points="631,31 634,28 635,28 635,52 634,52 631,49" stroke-linejoin="round" width="4" height="24" fill="rgb(200,86,203)" stroke="rgb(160,68,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysM (PF01476)
+"LysM domain"</title>
+				<rect class="PF01476" x="638" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(200,86,203)" stroke="rgb(160,68,162)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysM (PF01476)
+"LysM domain"</title>
+				<rect class="PF01476" x="644" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(200,86,203)" stroke="rgb(160,68,162)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ALEOMKEF_00604_gene (ALEOMKEF_00604)
+hypothetical protein</title>
+			<polygon class="ALEOMKEF_00604_gene (ALEOMKEF_00604)
+hypothetical protein" points="663,40 672,10 672,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

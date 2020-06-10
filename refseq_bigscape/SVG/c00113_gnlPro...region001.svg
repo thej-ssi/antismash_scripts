@@ -1,0 +1,114 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="418.1666666666667" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="408.1666666666667" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>HPGMPKAP_02306_gene (HPGMPKAP_02306)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_02306_gene (HPGMPKAP_02306)
+hypothetical protein" points="17,40 22,10 22,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF308 (PF03729)
+"Short repeat of unknown function (DUF308)"</title>
+				<polygon class="PF03729" points="20,40 22,28 22,28 22,52 22,52" stroke-linejoin="round" width="5" height="24" fill="rgb(52,179,67)" stroke="rgb(41,143,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>albA (HPGMPKAP_02307)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA</title>
+			<polygon class="albA (HPGMPKAP_02307)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA" points="67,25 53,25 53,10 23,40 53,70 53,55 67,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="27,40 33,34 33,46" stroke-linejoin="round" width="7" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="39,28 39,28 54,28 54,52 39,52 39,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sboA (HPGMPKAP_02308)
+Subtilosin-A</title>
+			<polygon class="sboA (HPGMPKAP_02308)
+Subtilosin-A" points="70,40 74,10 74,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Subtilosin_A (PF11420)
+"Bacteriocin subtilosin A"</title>
+				<polygon class="PF11420" points="73,40 73,40 73,40" stroke-linejoin="round" width="3" height="24" fill="rgb(190,123,83)" stroke="rgb(152,98,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fnr (HPGMPKAP_02309)
+Anaerobic regulatory protein</title>
+			<polygon class="fnr (HPGMPKAP_02309)
+Anaerobic regulatory protein" points="79,10 100,40 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_Crp_2 (PF13545)
+"Crp-like helix-turn-helix domain"</title>
+				<polygon class="PF13545" points="91,33 96,40 91,47" stroke-linejoin="round" width="7" height="24" fill="rgb(87,137,202)" stroke="rgb(69,109,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_02310_gene (HPGMPKAP_02310)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_02310_gene (HPGMPKAP_02310)
+hypothetical protein" points="115,10 135,40 115,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DDE_Tnp_1 (PF01609)
+"Transposase DDE domain"</title>
+				<polygon class="PF01609" points="117,28 123,28 131,40 123,52 117,52" stroke-linejoin="round" width="15" height="24" fill="rgb(229,102,99)" stroke="rgb(183,81,79)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>uvrA_2 (HPGMPKAP_02311)
+UvrABC system protein A</title>
+			<polygon class="uvrA_2 (HPGMPKAP_02311)
+UvrABC system protein A" points="223,25 178,25 178,10 148,40 178,70 178,55 223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="156,36 164,28 176,28 176,52 164,52 156,44" stroke-linejoin="round" width="20" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_02312_gene (HPGMPKAP_02312)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_02312_gene (HPGMPKAP_02312)
+hypothetical protein" points="225,40 250,10 250,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YibE_F (PF07907)
+"YibE/F-like protein"</title>
+				<polygon class="PF07907" points="229,40 239,28 250,28 250,52 239,52" stroke-linejoin="round" width="24" height="24" fill="rgb(149,68,229)" stroke="rgb(119,54,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>HPGMPKAP_02313_gene (HPGMPKAP_02313)
+hypothetical protein</title>
+			<polygon class="HPGMPKAP_02313_gene (HPGMPKAP_02313)
+hypothetical protein" points="288,25 281,25 281,10 251,40 281,70 281,55 288,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YibE_F (PF07907)
+"YibE/F-like protein"</title>
+				<polygon class="PF07907" points="255,40 267,28 275,28 275,52 267,52" stroke-linejoin="round" width="23" height="24" fill="rgb(149,68,229)" stroke="rgb(119,54,183)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gltC (HPGMPKAP_02314)
+HTH-type transcriptional regulator GltC</title>
+			<polygon class="gltC (HPGMPKAP_02314)
+HTH-type transcriptional regulator GltC" points="288,40 317,10 317,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="292,40 304,28 307,28 307,52 304,52" stroke-linejoin="round" width="19" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="311" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

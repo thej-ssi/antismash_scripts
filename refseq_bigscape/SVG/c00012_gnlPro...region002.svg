@@ -1,0 +1,461 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1392.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1382.4333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cycA_2 (JOBKCDGE_01569)
+D-serine/D-alanine/glycine transporter</title>
+			<polygon class="cycA_2 (JOBKCDGE_01569)
+D-serine/D-alanine/glycine transporter" points="15,25 31,25 31,10 61,40 31,70 31,55 15,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_permease (PF00324)
+"Amino acid permease"</title>
+				<polygon class="PF00324" points="16,28 45,28 57,40 45,52 16,52" stroke-linejoin="round" width="44" height="24" fill="rgb(82,225,201)" stroke="rgb(65,180,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lipR_1 (JOBKCDGE_01570)
+Putative acetyl-hydrolase LipR</title>
+			<polygon class="lipR_1 (JOBKCDGE_01570)
+Putative acetyl-hydrolase LipR" points="98,25 95,25 95,10 65,40 95,70 95,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="69,40 81,28 87,28 87,52 81,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01571_gene (JOBKCDGE_01571)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01571_gene (JOBKCDGE_01571)
+hypothetical protein" points="108,25 113,25 113,10 143,40 113,70 113,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC_2 (PF13303)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF13303" points="109,28 127,28 139,40 127,52 109,52" stroke-linejoin="round" width="33" height="24" fill="rgb(100,202,191)" stroke="rgb(80,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tmk_1 (JOBKCDGE_01572)
+Thymidylate kinase</title>
+			<polygon class="tmk_1 (JOBKCDGE_01572)
+Thymidylate kinase" points="147,25 163,25 163,10 193,40 163,70 163,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<rect class="PF03976" x="147" y="28" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<polygon class="PF03976" points="171,28 177,28 189,40 177,52 171,52" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>isaA_1 (JOBKCDGE_01573)
+putative transglycosylase IsaA</title>
+			<polygon class="isaA_1 (JOBKCDGE_01573)
+putative transglycosylase IsaA" points="209,10 232,40 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>JOBKCDGE_01574_gene (JOBKCDGE_01574)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01574_gene (JOBKCDGE_01574)
+hypothetical protein" points="238,10 254,40 238,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>crtP (JOBKCDGE_01575)
+Diapolycopene oxygenase</title>
+			<polygon class="crtP (JOBKCDGE_01575)
+Diapolycopene oxygenase" points="255,25 274,25 274,10 304,40 274,70 274,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="256,28 288,28 300,40 288,52 256,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtQ (JOBKCDGE_01576)
+4,4'-diaponeurosporenoate glycosyltransferase</title>
+			<polygon class="crtQ (JOBKCDGE_01576)
+4,4'-diaponeurosporenoate glycosyltransferase" points="305,25 312,25 312,10 342,40 312,70 312,55 305,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<polygon class="PF00535" points="309,28 325,28 326,29 326,51 325,52 309,52" stroke-linejoin="round" width="17" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtM (JOBKCDGE_01577)
+Dehydrosqualene synthase</title>
+			<polygon class="crtM (JOBKCDGE_01577)
+Dehydrosqualene synthase" points="343,10 371,40 343,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SQS_PSY (PF00494)
+"Squalene/phytoene synthase"</title>
+				<polygon class="PF00494" points="344,28 355,28 367,40 355,52 344,52" stroke-linejoin="round" width="25" height="24" fill="rgb(178,91,49)" stroke="rgb(142,72,39)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtN (JOBKCDGE_01578)
+Dehydrosqualene desaturase</title>
+			<polygon class="crtN (JOBKCDGE_01578)
+Dehydrosqualene desaturase" points="372,25 392,25 392,10 422,40 392,70 392,55 372,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="373,28 405,28 417,40 405,52 373,52" stroke-linejoin="round" width="48" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01579_gene (JOBKCDGE_01579)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01579_gene (JOBKCDGE_01579)
+hypothetical protein" points="424,10 430,40 424,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>bacF (JOBKCDGE_01580)
+Transaminase BacF</title>
+			<polygon class="bacF (JOBKCDGE_01580)
+Transaminase BacF" points="431,25 439,25 439,10 469,40 439,70 439,55 431,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_1_2 (PF00155)
+"Aminotransferase class I and II"</title>
+				<polygon class="PF00155" points="433,28 453,28 465,40 453,52 433,52" stroke-linejoin="round" width="34" height="24" fill="rgb(89,113,198)" stroke="rgb(71,90,158)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ldhD_1 (JOBKCDGE_01581)
+D-lactate dehydrogenase</title>
+			<polygon class="ldhD_1 (JOBKCDGE_01581)
+D-lactate dehydrogenase" points="470,25 473,25 473,10 503,40 473,70 473,55 470,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="481,28 487,28 499,40 499,40 487,52 481,52" stroke-linejoin="round" width="18" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tagF_1 (JOBKCDGE_01582)
+Teichoic acid poly(glycerol phosphate) polymerase</title>
+			<polygon class="tagF_1 (JOBKCDGE_01582)
+Teichoic acid poly(glycerol phosphate) polymerase" points="506,25 552,25 552,10 582,40 552,70 552,55 506,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glyphos_transf (PF04464)
+"CDP-Glycerol:Poly(glycerophosphate) glycerophosphotransferase"</title>
+				<polygon class="PF04464" points="545,28 565,28 577,40 565,52 545,52" stroke-linejoin="round" width="36" height="24" fill="rgb(55,181,67)" stroke="rgb(44,144,53)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copZ_1 (JOBKCDGE_01583)
+Copper chaperone CopZ</title>
+			<polygon class="copZ_1 (JOBKCDGE_01583)
+Copper chaperone CopZ" points="584,40 590,10 590,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<polygon class="PF00403" points="587,40 590,28 590,28 590,52 590,52" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>copA_1 (JOBKCDGE_01584)
+Copper-exporting P-type ATPase A</title>
+			<polygon class="copA_1 (JOBKCDGE_01584)
+Copper-exporting P-type ATPase A" points="673,25 624,25 624,10 594,40 624,70 624,55 673,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="603,35 610,28 624,28 624,52 610,52 603,45" stroke-linejoin="round" width="21" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="626" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="660" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMA (PF00403)
+"Heavy-metal-associated domain"</title>
+				<rect class="PF00403" x="666" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(91,198,182)" stroke="rgb(72,158,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01585_gene (JOBKCDGE_01585)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01585_gene (JOBKCDGE_01585)
+hypothetical protein" points="682,40 688,10 688,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ydaD (JOBKCDGE_01586)
+General stress protein 39</title>
+			<polygon class="ydaD (JOBKCDGE_01586)
+General stress protein 39" points="696,10 725,40 696,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="700,28 708,28 720,40 708,52 700,52" stroke-linejoin="round" width="23" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01587_gene (JOBKCDGE_01587)
+Putative acetyltransferase</title>
+			<polygon class="JOBKCDGE_01587_gene (JOBKCDGE_01587)
+Putative acetyltransferase" points="727,10 745,40 727,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Mac (PF12464)
+"Maltose acetyltransferase"</title>
+				<rect class="PF12464" x="727" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(188,228,87)" stroke="rgb(150,182,69)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep_2 (PF14602)
+"Hexapeptide repeat of succinyl-transferase"</title>
+				<polygon class="PF14602" points="734,28 734,28 737,32 737,48 734,52 734,52" stroke-linejoin="round" width="3" height="24" fill="rgb(79,205,115)" stroke="rgb(63,164,92)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="740,37 742,40 740,43" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>icaC_2 (JOBKCDGE_01588)
+putative poly-beta-1,6-N-acetyl-D-glucosamine export protein</title>
+			<polygon class="icaC_2 (JOBKCDGE_01588)
+putative poly-beta-1,6-N-acetyl-D-glucosamine export protein" points="786,25 781,25 781,10 751,40 781,70 781,55 786,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Acyl_transf_3 (PF01757)
+"Acyltransferase family"</title>
+				<polygon class="PF01757" points="755,40 767,28 785,28 785,52 767,52" stroke-linejoin="round" width="31" height="24" fill="rgb(50,152,200)" stroke="rgb(40,121,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rocA (JOBKCDGE_01589)
+1-pyrroline-5-carboxylate dehydrogenase</title>
+			<polygon class="rocA (JOBKCDGE_01589)
+1-pyrroline-5-carboxylate dehydrogenase" points="797,25 818,25 818,10 848,40 818,70 818,55 797,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="801,28 832,28 844,40 832,52 801,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01590_gene (JOBKCDGE_01590)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01590_gene (JOBKCDGE_01590)
+hypothetical protein" points="852,40 870,10 870,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="864" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01591_gene (JOBKCDGE_01591)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01591_gene (JOBKCDGE_01591)
+hypothetical protein" points="877,10 884,40 877,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoA (PF04023)
+"FeoA domain"</title>
+				<polygon class="PF04023" points="877,28 878,28 881,40 878,52 877,52" stroke-linejoin="round" width="7" height="24" fill="rgb(180,183,81)" stroke="rgb(144,146,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>feoB (JOBKCDGE_01592)
+Fe(2+) transporter FeoB</title>
+			<polygon class="feoB (JOBKCDGE_01592)
+Fe(2+) transporter FeoB" points="885,25 921,25 921,10 951,40 921,70 921,55 885,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FeoB_N (PF02421)
+"Ferrous iron transport protein B"</title>
+				<rect class="PF02421" x="885" y="28" stroke-linejoin="round" width="15" height="24" fill="rgb(82,207,209)" stroke="rgb(65,165,167)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_Cyto (PF17910)
+"FeoB cytosolic helical domain"</title>
+				<rect class="PF17910" x="902" y="28" stroke-linejoin="round" width="8" height="24" fill="rgb(85,92,198)" stroke="rgb(68,73,158)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<rect class="PF07670" x="919" y="28" stroke-linejoin="round" width="9" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>FeoB_C (PF07664)
+"Ferrous iron transport protein B C terminus"</title>
+				<rect class="PF07664" x="930" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(186,56,114)" stroke="rgb(148,44,91)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Gate (PF07670)
+"Nucleoside recognition"</title>
+				<polygon class="PF07670" points="936,29 947,40 936,51" stroke-linejoin="round" width="12" height="24" fill="rgb(124,94,191)" stroke="rgb(99,75,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01593_gene (JOBKCDGE_01593)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01593_gene (JOBKCDGE_01593)
+hypothetical protein" points="964,10 979,40 964,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>JOBKCDGE_01594_gene (JOBKCDGE_01594)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01594_gene (JOBKCDGE_01594)
+hypothetical protein" points="984,40 994,10 994,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YrhK (PF14145)
+"YrhK-like protein"</title>
+				<polygon class="PF14145" points="987,40 991,28 991,28 991,52 991,52" stroke-linejoin="round" width="5" height="24" fill="rgb(102,190,225)" stroke="rgb(81,152,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ogt (JOBKCDGE_01595)
+Methylated-DNA--protein-cysteine methyltransferase</title>
+			<polygon class="ogt (JOBKCDGE_01595)
+Methylated-DNA--protein-cysteine methyltransferase" points="998,10 1015,40 998,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Methyltransf_1N (PF02870)
+"6-O-methylguanine DNA methyltransferase, ribonuclease-like domain"</title>
+				<rect class="PF02870" x="998" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(96,209,110)" stroke="rgb(76,167,88)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>DNA_binding_1 (PF01035)
+"6-O-methylguanine DNA methyltransferase, DNA binding domain"</title>
+				<polygon class="PF01035" points="1005,29 1011,40 1005,51" stroke-linejoin="round" width="8" height="24" fill="rgb(79,155,220)" stroke="rgb(63,123,176)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaS (JOBKCDGE_01596)
+Hydroxymethylglutaryl-CoA synthase</title>
+			<polygon class="mvaS (JOBKCDGE_01596)
+Hydroxymethylglutaryl-CoA synthase" points="1055,25 1047,25 1047,10 1017,40 1047,70 1047,55 1055,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG_CoA_synt_C (PF08540)
+"Hydroxymethylglutaryl-coenzyme A synthase C terminal"</title>
+				<polygon class="PF08540" points="1021,40 1030,31 1030,49" stroke-linejoin="round" width="13" height="24" fill="rgb(49,194,86)" stroke="rgb(39,155,68)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HMG_CoA_synt_N (PF01154)
+"Hydroxymethylglutaryl-coenzyme A synthase N terminal"</title>
+				<rect class="PF01154" x="1039" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(88,216,218)" stroke="rgb(70,172,174)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mvaA (JOBKCDGE_01597)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase</title>
+			<polygon class="mvaA (JOBKCDGE_01597)
+3-hydroxy-3-methylglutaryl-coenzyme A reductase" points="1064,25 1076,25 1076,10 1106,40 1076,70 1076,55 1064,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HMG-CoA_red (PF00368)
+"Hydroxymethylglutaryl-coenzyme A reductase"</title>
+				<polygon class="PF00368" points="1065,28 1090,28 1102,40 1102,40 1090,52 1065,52" stroke-linejoin="round" width="37" height="24" fill="rgb(67,203,137)" stroke="rgb(53,162,109)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssaA_2 (JOBKCDGE_01598)
+Staphylococcal secretory antigen SsaA</title>
+			<polygon class="ssaA_2 (JOBKCDGE_01598)
+Staphylococcal secretory antigen SsaA" points="1109,40 1123,10 1123,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CHAP (PF05257)
+"CHAP domain"</title>
+				<polygon class="PF05257" points="1112,40 1118,28 1119,28 1119,52 1118,52" stroke-linejoin="round" width="8" height="24" fill="rgb(54,187,84)" stroke="rgb(43,149,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JOBKCDGE_01599_gene (JOBKCDGE_01599)
+hypothetical protein</title>
+			<polygon class="JOBKCDGE_01599_gene (JOBKCDGE_01599)
+hypothetical protein" points="1132,40 1139,10 1139,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YozE_SAM_like (PF06855)
+"YozE SAM-like fold"</title>
+				<polygon class="PF06855" points="1135,40 1138,28 1138,28 1138,52 1138,52" stroke-linejoin="round" width="6" height="24" fill="rgb(83,201,171)" stroke="rgb(66,160,136)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cynR_1 (JOBKCDGE_01600)
+HTH-type transcriptional regulator CynR</title>
+			<polygon class="cynR_1 (JOBKCDGE_01600)
+HTH-type transcriptional regulator CynR" points="1145,10 1174,40 1145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_1 (PF00126)
+"Bacterial regulatory helix-turn-helix protein, lysR family"</title>
+				<rect class="PF00126" x="1145" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(125,227,79)" stroke="rgb(99,181,63)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>LysR_substrate (PF03466)
+"LysR substrate binding domain"</title>
+				<polygon class="PF03466" points="1153,28 1158,28 1170,40 1158,52 1153,52" stroke-linejoin="round" width="20" height="24" fill="rgb(55,136,195)" stroke="rgb(44,108,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidA (JOBKCDGE_01601)
+Holin-like protein CidA</title>
+			<polygon class="cidA (JOBKCDGE_01601)
+Holin-like protein CidA" points="1185,10 1198,40 1185,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgA (PF03788)
+"LrgA family"</title>
+				<polygon class="PF03788" points="1187,28 1189,28 1194,40 1189,52 1187,52" stroke-linejoin="round" width="9" height="24" fill="rgb(51,191,185)" stroke="rgb(40,152,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cidB (JOBKCDGE_01602)
+Holin-like protein CidB</title>
+			<polygon class="cidB (JOBKCDGE_01602)
+Holin-like protein CidB" points="1198,10 1221,40 1198,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LrgB (PF04172)
+"LrgB-like family"</title>
+				<polygon class="PF04172" points="1199,28 1208,28 1217,40 1208,52 1199,52" stroke-linejoin="round" width="21" height="24" fill="rgb(57,227,179)" stroke="rgb(45,181,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ydaP (JOBKCDGE_01603)
+Putative thiamine pyrophosphate-containing protein YdaP</title>
+			<polygon class="ydaP (JOBKCDGE_01603)
+Putative thiamine pyrophosphate-containing protein YdaP" points="1223,25 1251,25 1251,10 1281,40 1251,70 1251,55 1223,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="1223" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="1242" y="28" stroke-linejoin="round" width="12" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="1261,28 1264,28 1275,39 1275,41 1264,52 1261,52" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>glcB (JOBKCDGE_01604)
+PTS system glucoside-specific EIICBA component</title>
+			<polygon class="glcB (JOBKCDGE_01604)
+PTS system glucoside-specific EIICBA component" points="1289,25 1327,25 1327,10 1357,40 1327,70 1327,55 1289,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="1290" y="28" stroke-linejoin="round" width="34" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="1333" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="1343,30 1353,40 1343,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

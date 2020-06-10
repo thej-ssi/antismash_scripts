@@ -1,0 +1,88 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="357.73333333333335" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="347.73333333333335" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cycA_3 (MHLOJDLD_02046)
+D-serine/D-alanine/glycine transporter</title>
+			<polygon class="cycA_3 (MHLOJDLD_02046)
+D-serine/D-alanine/glycine transporter" points="15,25 31,25 31,10 61,40 31,70 31,55 15,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_permease (PF00324)
+"Amino acid permease"</title>
+				<polygon class="PF00324" points="16,28 45,28 57,40 45,52 16,52" stroke-linejoin="round" width="44" height="24" fill="rgb(82,225,201)" stroke="rgb(65,180,160)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lipR (MHLOJDLD_02047)
+Putative acetyl-hydrolase LipR</title>
+			<polygon class="lipR (MHLOJDLD_02047)
+Putative acetyl-hydrolase LipR" points="98,25 95,25 95,10 65,40 95,70 95,55 98,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Abhydrolase_3 (PF07859)
+"alpha/beta hydrolase fold"</title>
+				<polygon class="PF07859" points="69,40 81,28 87,28 87,52 81,52" stroke-linejoin="round" width="20" height="24" fill="rgb(183,51,179)" stroke="rgb(146,40,143)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MHLOJDLD_02048_gene (MHLOJDLD_02048)
+hypothetical protein</title>
+			<polygon class="MHLOJDLD_02048_gene (MHLOJDLD_02048)
+hypothetical protein" points="108,25 113,25 113,10 143,40 113,70 113,55 108,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC_2 (PF13303)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF13303" points="109,28 127,28 139,40 127,52 109,52" stroke-linejoin="round" width="33" height="24" fill="rgb(100,202,191)" stroke="rgb(80,161,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tmk_2 (MHLOJDLD_02049)
+Thymidylate kinase</title>
+			<polygon class="tmk_2 (MHLOJDLD_02049)
+Thymidylate kinase" points="147,25 163,25 163,10 193,40 163,70 163,55 147,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<rect class="PF03976" x="147" y="28" stroke-linejoin="round" width="21" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PPK2 (PF03976)
+"Polyphosphate kinase 2 (PPK2)"</title>
+				<polygon class="PF03976" points="171,28 177,28 189,40 177,52 171,52" stroke-linejoin="round" width="22" height="24" fill="rgb(57,123,215)" stroke="rgb(45,98,172)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>isaA_1 (MHLOJDLD_02050)
+putative transglycosylase IsaA</title>
+			<polygon class="isaA_1 (MHLOJDLD_02050)
+putative transglycosylase IsaA" points="209,10 232,40 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>MHLOJDLD_02051_gene (MHLOJDLD_02051)
+hypothetical protein</title>
+			<polygon class="MHLOJDLD_02051_gene (MHLOJDLD_02051)
+hypothetical protein" points="238,10 254,40 238,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>crtP (MHLOJDLD_02052)
+Diapolycopene oxygenase</title>
+			<polygon class="crtP (MHLOJDLD_02052)
+Diapolycopene oxygenase" points="255,25 274,25 274,10 304,40 274,70 274,55 255,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amino_oxidase (PF01593)
+"Flavin containing amine oxidoreductase"</title>
+				<polygon class="PF01593" points="256,28 288,28 300,40 288,52 256,52" stroke-linejoin="round" width="47" height="24" fill="rgb(184,74,52)" stroke="rgb(147,59,41)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>crtQ (MHLOJDLD_02053)
+4,4'-diaponeurosporenoate glycosyltransferase</title>
+			<polygon class="crtQ (MHLOJDLD_02053)
+4,4'-diaponeurosporenoate glycosyltransferase" points="305,25 312,25 312,10 342,40 312,70 312,55 305,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Glycos_transf_2 (PF00535)
+"Glycosyl transferase family 2"</title>
+				<rect class="PF00535" x="309" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(224,122,96)" stroke="rgb(179,97,76)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

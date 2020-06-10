@@ -1,0 +1,11 @@
+c00056_gnlPro...region001	46.2	pbuE	206	380	PF07690.16	MFS_1	32	1178	c00056_gnlPro...region001_ORF1:gid:pbuE:pid:gnl_Prokka_HPGMPKAP_00933:loc:32:1178:strand:-
+c00056_gnlPro...region001	109.0	pbuE	9	205	PF07690.16	MFS_1	32	1178	c00056_gnlPro...region001_ORF1:gid:pbuE:pid:gnl_Prokka_HPGMPKAP_00933:loc:32:1178:strand:-
+c00056_gnlPro...region001	105.8	iucC_3	469	642	PF06276.12	FhuF	1289	3257	c00056_gnlPro...region001_ORF2:gid:iucC_3:pid:gnl_Prokka_HPGMPKAP_00934:loc:1289:3257:strand:-
+c00056_gnlPro...region001	187.9	iucC_3	193	437	PF04183.12	IucA_IucC	1289	3257	c00056_gnlPro...region001_ORF2:gid:iucC_3:pid:gnl_Prokka_HPGMPKAP_00934:loc:1289:3257:strand:-
+c00056_gnlPro...region001	119.2	HPGMPKAP_00935_gene	3	391	PF05977.13	MFS_3	3357	4542	c00056_gnlPro...region001_ORF3:gid:HPGMPKAP_00935_gene:pid:gnl_Prokka_HPGMPKAP_00935:loc:3357:4542:strand:+
+c00056_gnlPro...region001	160.1	iucC_4	158	386	PF04183.12	IucA_IucC	4525	6289	c00056_gnlPro...region001_ORF4:gid:iucC_4:pid:gnl_Prokka_HPGMPKAP_00936:loc:4525:6289:strand:+
+c00056_gnlPro...region001	96.6	iucC_4	413	575	PF06276.12	FhuF	4525	6289	c00056_gnlPro...region001_ORF4:gid:iucC_4:pid:gnl_Prokka_HPGMPKAP_00936:loc:4525:6289:strand:+
+c00056_gnlPro...region001	58.1	orr	6	225	PF01168.20	Ala_racemase_N	6292	7369	c00056_gnlPro...region001_ORF5:gid:orr:pid:gnl_Prokka_HPGMPKAP_00937:loc:6292:7369:strand:+
+c00056_gnlPro...region001	123.8	yfmC	59	301	PF01497.18	Peripla_BP_2	7438	8428	c00056_gnlPro...region001_ORF6:gid:yfmC:pid:gnl_Prokka_HPGMPKAP_00938:loc:7438:8428:strand:+
+c00056_gnlPro...region001	305.6	yfiZ_2	28	336	PF01032.18	FecCD	8571	9597	c00056_gnlPro...region001_ORF7:gid:yfiZ_2:pid:gnl_Prokka_HPGMPKAP_00939:loc:8571:9597:strand:+
+c00056_gnlPro...region001	298.8	fecD	15	319	PF01032.18	FecCD	9593	10556	c00056_gnlPro...region001_ORF8:gid:fecD:pid:gnl_Prokka_HPGMPKAP_00940:loc:9593:10556:strand:+

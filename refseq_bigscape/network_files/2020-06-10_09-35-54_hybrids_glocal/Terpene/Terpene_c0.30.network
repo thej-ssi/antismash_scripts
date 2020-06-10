@@ -1,0 +1,3 @@
+Clustername 1	Clustername 2	Raw distance	Squared similarity	Jaccard index	DSS index	Adjacency index	raw DSS non-anchor	raw DSS anchor	Non-anchor domains	Anchor domains	Combined group	Shared group
+c00018_gnlPro...region001	c00045_gnlPro...region001	0.2056128829717636	0.6310508847236633	1.0	0.7258495092391968	1.0	0.2741505205631256	0.0	14	0	terpene - terpene.T3PKS	
+c00009_gnlPro...region002	c00013_gnlPro...region002	0.21401692926883698	0.6177693605422974	0.8852459192276001	0.7668668031692505	0.6756756901741028	0.23449186980724335	0.18897637724876404	65	1	terpene.T3PKS - terpene.T3PKS	terpene.T3PKS

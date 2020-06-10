@@ -1,0 +1,401 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1392.4333333333334" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="1382.4333333333334" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>INJJNJAE_01835_gene (INJJNJAE_01835)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01835_gene (INJJNJAE_01835)
+hypothetical protein" points="12,10 21,40 12,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ybbH_2 (INJJNJAE_01836)
+putative HTH-type transcriptional regulator YbbH</title>
+			<polygon class="ybbH_2 (INJJNJAE_01836)
+putative HTH-type transcriptional regulator YbbH" points="33,40 62,10 62,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIS (PF01380)
+"SIS domain"</title>
+				<polygon class="PF01380" points="37,40 49,28 49,28 49,52 49,52" stroke-linejoin="round" width="13" height="24" fill="rgb(212,106,227)" stroke="rgb(169,84,181)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>HTH_6 (PF01418)
+"Helix-turn-helix domain, rpiR family"</title>
+				<rect class="PF01418" x="54" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(214,118,93)" stroke="rgb(171,94,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01837_gene (INJJNJAE_01837)
+PTS system EIIBC component</title>
+			<polygon class="INJJNJAE_01837_gene (INJJNJAE_01837)
+PTS system EIIBC component" points="110,25 92,25 92,10 62,40 92,70 92,55 110,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<polygon class="PF02378" points="69,37 78,28 97,28 97,52 78,52 69,43" stroke-linejoin="round" width="28" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="106" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>murQ (INJJNJAE_01838)
+N-acetylmuramic acid 6-phosphate etherase</title>
+			<polygon class="murQ (INJJNJAE_01838)
+N-acetylmuramic acid 6-phosphate etherase" points="111,40 140,10 140,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SIS (PF01380)
+"SIS domain"</title>
+				<polygon class="PF01380" points="120,35 127,28 130,28 130,52 127,52 120,45" stroke-linejoin="round" width="10" height="24" fill="rgb(212,106,227)" stroke="rgb(169,84,181)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01839_gene (INJJNJAE_01839)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01839_gene (INJJNJAE_01839)
+hypothetical protein" points="175,25 170,25 170,10 140,40 170,70 170,55 175,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF871 (PF05913)
+"Bacterial protein of unknown function (DUF871)"</title>
+				<polygon class="PF05913" points="144,40 156,28 175,28 175,52 156,52" stroke-linejoin="round" width="34" height="24" fill="rgb(145,216,105)" stroke="rgb(116,172,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ptsG_3 (INJJNJAE_01840)
+PTS system glucose-specific EIICBA component</title>
+			<polygon class="ptsG_3 (INJJNJAE_01840)
+PTS system glucose-specific EIICBA component" points="195,25 233,25 233,10 263,40 233,70 233,55 195,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PTS_EIIC (PF02378)
+"Phosphotransferase system, EIIC"</title>
+				<rect class="PF02378" x="196" y="28" stroke-linejoin="round" width="33" height="24" fill="rgb(73,199,212)" stroke="rgb(58,159,169)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIB (PF00367)
+"phosphotransferase system, EIIB"</title>
+				<rect class="PF00367" x="238" y="28" stroke-linejoin="round" width="3" height="24" fill="rgb(188,77,92)" stroke="rgb(150,61,73)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PTS_EIIA_1 (PF00358)
+"phosphoenolpyruvate-dependent sugar phosphotransferase system, EIIA 1"</title>
+				<polygon class="PF00358" points="248,30 258,40 248,50" stroke-linejoin="round" width="12" height="24" fill="rgb(125,49,194)" stroke="rgb(100,39,155)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ipdC (INJJNJAE_01841)
+Indole-3-pyruvate decarboxylase</title>
+			<polygon class="ipdC (INJJNJAE_01841)
+Indole-3-pyruvate decarboxylase" points="272,25 296,25 296,10 326,40 296,70 296,55 272,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TPP_enzyme_N (PF02776)
+"Thiamine pyrophosphate enzyme, N-terminal TPP binding domain"</title>
+				<rect class="PF02776" x="272" y="28" stroke-linejoin="round" width="17" height="24" fill="rgb(55,81,185)" stroke="rgb(44,64,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_M (PF00205)
+"Thiamine pyrophosphate enzyme, central domain"</title>
+				<rect class="PF00205" x="291" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(149,194,69)" stroke="rgb(119,155,55)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TPP_enzyme_C (PF02775)
+"Thiamine pyrophosphate enzyme, C-terminal TPP binding domain"</title>
+				<polygon class="PF02775" points="309,28 310,28 322,40 310,52 309,52" stroke-linejoin="round" width="14" height="24" fill="rgb(156,179,45)" stroke="rgb(124,143,36)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yecD (INJJNJAE_01842)
+Isochorismatase family protein YecD</title>
+			<polygon class="yecD (INJJNJAE_01842)
+Isochorismatase family protein YecD" points="329,10 347,40 329,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Isochorismatase (PF00857)
+"Isochorismatase family"</title>
+				<polygon class="PF00857" points="329,28 336,28 344,40 336,52 329,52" stroke-linejoin="round" width="17" height="24" fill="rgb(144,224,70)" stroke="rgb(115,179,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>brnQ_3 (INJJNJAE_01843)
+Branched-chain amino acid transport system 2 carrier protein</title>
+			<polygon class="brnQ_3 (INJJNJAE_01843)
+Branched-chain amino acid transport system 2 carrier protein" points="358,25 373,25 373,10 403,40 373,70 373,55 358,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Branch_AA_trans (PF05525)
+"Branched-chain amino acid transport protein"</title>
+				<polygon class="PF05525" points="358,28 386,28 398,40 386,52 358,52" stroke-linejoin="round" width="43" height="24" fill="rgb(192,58,193)" stroke="rgb(153,46,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kstR2 (INJJNJAE_01844)
+HTH-type transcriptional repressor KstR2</title>
+			<polygon class="kstR2 (INJJNJAE_01844)
+HTH-type transcriptional repressor KstR2" points="406,40 426,10 426,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>TetR_C_8 (PF14278)
+"Transcriptional regulator C-terminal region"</title>
+				<polygon class="PF14278" points="410,40 417,30 417,50" stroke-linejoin="round" width="10" height="24" fill="rgb(192,229,97)" stroke="rgb(153,183,77)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>TetR_N (PF00440)
+"Bacterial regulatory proteins, tetR family"</title>
+				<rect class="PF00440" x="420" y="28" stroke-linejoin="round" width="4" height="24" fill="rgb(73,212,190)" stroke="rgb(58,169,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01845_gene (INJJNJAE_01845)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01845_gene (INJJNJAE_01845)
+hypothetical protein" points="433,25 435,25 435,10 465,40 435,70 435,55 433,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Amidohydro_2 (PF04909)
+"Amidohydrolase"</title>
+				<polygon class="PF04909" points="433,28 449,28 461,40 449,52 433,52" stroke-linejoin="round" width="31" height="24" fill="rgb(95,225,123)" stroke="rgb(76,180,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>rocD2_2 (INJJNJAE_01846)
+Ornithine aminotransferase 2</title>
+			<polygon class="rocD2_2 (INJJNJAE_01846)
+Ornithine aminotransferase 2" points="477,25 486,25 486,10 516,40 486,70 486,55 477,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aminotran_3 (PF00202)
+"Aminotransferase class-III"</title>
+				<polygon class="PF00202" points="478,28 500,28 512,40 500,52 478,52" stroke-linejoin="round" width="38" height="24" fill="rgb(49,163,189)" stroke="rgb(39,130,151)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argC (INJJNJAE_01847)
+N-acetyl-gamma-glutamyl-phosphate reductase</title>
+			<polygon class="argC (INJJNJAE_01847)
+N-acetyl-gamma-glutamyl-phosphate reductase" points="518,25 522,25 522,10 552,40 522,70 522,55 518,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Semialdhyde_dh (PF01118)
+"Semialdehyde dehydrogenase, NAD binding domain"</title>
+				<rect class="PF01118" x="518" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(191,106,221)" stroke="rgb(152,84,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Semialdhyde_dhC (PF02774)
+"Semialdehyde dehydrogenase, dimerisation domain"</title>
+				<polygon class="PF02774" points="533,28 536,28 548,40 548,40 536,52 533,52" stroke-linejoin="round" width="15" height="24" fill="rgb(57,188,185)" stroke="rgb(45,150,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argJ (INJJNJAE_01848)
+Arginine biosynthesis bifunctional protein ArgJ</title>
+			<polygon class="argJ (INJJNJAE_01848)
+Arginine biosynthesis bifunctional protein ArgJ" points="553,25 564,25 564,10 594,40 564,70 564,55 553,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArgJ (PF01960)
+"ArgJ family"</title>
+				<polygon class="PF01960" points="555,28 578,28 590,40 578,52 555,52" stroke-linejoin="round" width="38" height="24" fill="rgb(81,120,181)" stroke="rgb(64,95,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>argB (INJJNJAE_01849)
+Acetylglutamate kinase</title>
+			<polygon class="argB (INJJNJAE_01849)
+Acetylglutamate kinase" points="594,10 619,40 594,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>AA_kinase (PF00696)
+"Amino acid kinase family"</title>
+				<polygon class="PF00696" points="594,28 605,28 615,40 605,52 594,52" stroke-linejoin="round" width="22" height="24" fill="rgb(148,78,224)" stroke="rgb(118,62,179)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yagU (INJJNJAE_01850)
+Inner membrane protein YagU</title>
+			<polygon class="yagU (INJJNJAE_01850)
+Inner membrane protein YagU" points="629,10 645,40 629,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1440 (PF07274)
+"Protein of unknown function (DUF1440)"</title>
+				<polygon class="PF07274" points="630,28 635,28 642,40 635,52 630,52" stroke-linejoin="round" width="13" height="24" fill="rgb(67,129,184)" stroke="rgb(53,103,147)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sfp (INJJNJAE_01851)
+4'-phosphopantetheinyl transferase sfp</title>
+			<polygon class="sfp (INJJNJAE_01851)
+4'-phosphopantetheinyl transferase sfp" points="654,40 675,10 675,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ACPS (PF01648)
+"4'-phosphopantetheinyl transferase superfamily"</title>
+				<polygon class="PF01648" points="658,40 664,32 664,48" stroke-linejoin="round" width="8" height="24" fill="rgb(85,184,135)" stroke="rgb(68,147,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>lgrB (INJJNJAE_01852)
+Linear gramicidin synthase subunit B</title>
+			<polygon class="lgrB (INJJNJAE_01852)
+Linear gramicidin synthase subunit B" points="921,25 706,25 706,10 676,40 706,70 706,55 921,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NAD_binding_4 (PF07993)
+"Male sterility protein"</title>
+				<polygon class="PF07993" points="686,34 692,28 709,28 709,52 692,52 686,46" stroke-linejoin="round" width="23" height="24" fill="rgb(100,212,204)" stroke="rgb(80,169,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="714" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding_C (PF13193)
+"AMP-binding enzyme C-terminal domain"</title>
+				<rect class="PF13193" x="723" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(182,50,118)" stroke="rgb(145,39,94)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="731" y="28" stroke-linejoin="round" width="45" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Condensation (PF00668)
+"Condensation domain"</title>
+				<rect class="PF00668" x="779" y="28" stroke-linejoin="round" width="42" height="24" fill="rgb(224,184,98)" stroke="rgb(179,147,78)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>PP-binding (PF00550)
+"Phosphopantetheine attachment site"</title>
+				<rect class="PF00550" x="823" y="28" stroke-linejoin="round" width="6" height="24" fill="rgb(103,191,88)" stroke="rgb(82,152,70)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AMP-binding (PF00501)
+"AMP-binding enzyme"</title>
+				<rect class="PF00501" x="840" y="28" stroke-linejoin="round" width="38" height="24" fill="rgb(60,217,223)" stroke="rgb(48,173,178)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01853_gene (INJJNJAE_01853)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01853_gene (INJJNJAE_01853)
+hypothetical protein" points="978,25 967,25 967,10 937,40 967,70 967,55 978,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="941,40 953,28 977,28 977,52 953,52 941,40" stroke-linejoin="round" width="36" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01854_gene (INJJNJAE_01854)
+Formate dehydrogenase</title>
+			<polygon class="INJJNJAE_01854_gene (INJJNJAE_01854)
+Formate dehydrogenase" points="1025,25 1021,25 1021,10 991,40 1021,70 1021,55 1025,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>2-Hacid_dh_C (PF02826)
+"D-isomer specific 2-hydroxyacid dehydrogenase, NAD binding domain"</title>
+				<polygon class="PF02826" points="995,40 1007,28 1012,28 1012,52 1007,52 995,40" stroke-linejoin="round" width="17" height="24" fill="rgb(192,197,93)" stroke="rgb(153,157,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01855_gene (INJJNJAE_01855)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01855_gene (INJJNJAE_01855)
+hypothetical protein" points="1031,40 1043,10 1043,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF2294 (PF10057)
+"Uncharacterized conserved protein (DUF2294)"</title>
+				<polygon class="PF10057" points="1034,40 1039,28 1042,28 1042,52 1039,52" stroke-linejoin="round" width="11" height="24" fill="rgb(60,163,178)" stroke="rgb(48,130,142)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01856_gene (INJJNJAE_01856)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01856_gene (INJJNJAE_01856)
+hypothetical protein" points="1084,25 1080,25 1080,10 1050,40 1080,70 1080,55 1084,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>ssuC (INJJNJAE_01857)
+Putative aliphatic sulfonates transport permease protein SsuC</title>
+			<polygon class="ssuC (INJJNJAE_01857)
+Putative aliphatic sulfonates transport permease protein SsuC" points="1085,40 1110,10 1110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>BPD_transp_1 (PF00528)
+"Binding-protein-dependent transport system inner membrane component"</title>
+				<polygon class="PF00528" points="1089,40 1099,28 1102,28 1102,52 1099,52" stroke-linejoin="round" width="17" height="24" fill="rgb(77,208,225)" stroke="rgb(61,166,180)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpC (INJJNJAE_01858)
+Bicarbonate transport ATP-binding protein CmpC</title>
+			<polygon class="cmpC (INJJNJAE_01858)
+Bicarbonate transport ATP-binding protein CmpC" points="1142,25 1140,25 1140,10 1110,40 1140,70 1140,55 1142,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>NMT1_2 (PF13379)
+"NMT1-like family"</title>
+				<polygon class="PF13379" points="1116,38 1126,28 1138,28 1138,52 1126,52 1116,42" stroke-linejoin="round" width="22" height="24" fill="rgb(139,182,81)" stroke="rgb(111,145,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>cmpD (INJJNJAE_01859)
+Bicarbonate transport ATP-binding protein CmpD</title>
+			<polygon class="cmpD (INJJNJAE_01859)
+Bicarbonate transport ATP-binding protein CmpD" points="1143,40 1167,10 1167,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="1152,34 1157,28 1165,28 1165,52 1157,52 1152,46" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01860_gene (INJJNJAE_01860)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01860_gene (INJJNJAE_01860)
+hypothetical protein" points="1179,40 1196,10 1196,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF4242 (PF14026)
+"Protein of unknown function (DUF4242)"</title>
+				<polygon class="PF14026" points="1182,40 1186,33 1186,47" stroke-linejoin="round" width="7" height="24" fill="rgb(115,66,182)" stroke="rgb(92,52,145)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>INJJNJAE_01861_gene (INJJNJAE_01861)
+hypothetical protein</title>
+			<polygon class="INJJNJAE_01861_gene (INJJNJAE_01861)
+hypothetical protein" points="1202,10 1208,40 1202,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>czcD_3 (INJJNJAE_01862)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter</title>
+			<polygon class="czcD_3 (INJJNJAE_01862)
+Cadmium, cobalt and zinc/H(+)-K(+) antiporter" points="1242,25 1240,25 1240,10 1210,40 1240,70 1240,55 1242,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Cation_efflux (PF01545)
+"Cation efflux family"</title>
+				<polygon class="PF01545" points="1219,35 1226,28 1238,28 1238,52 1226,52 1219,45" stroke-linejoin="round" width="19" height="24" fill="rgb(151,84,211)" stroke="rgb(120,67,168)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>aldA (INJJNJAE_01863)
+Putative aldehyde dehydrogenase AldA</title>
+			<polygon class="aldA (INJJNJAE_01863)
+Putative aldehyde dehydrogenase AldA" points="1310,25 1291,25 1291,10 1261,40 1291,70 1291,55 1310,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Aldedh (PF00171)
+"Aldehyde dehydrogenase family"</title>
+				<polygon class="PF00171" points="1265,40 1277,28 1308,28 1308,52 1277,52" stroke-linejoin="round" width="46" height="24" fill="rgb(105,213,139)" stroke="rgb(84,170,111)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ybaN (INJJNJAE_01864)
+Inner membrane protein YbaN</title>
+			<polygon class="ybaN (INJJNJAE_01864)
+Inner membrane protein YbaN" points="1324,10 1336,40 1324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF454 (PF04304)
+"Protein of unknown function (DUF454)"</title>
+				<polygon class="PF04304" points="1324,28 1328,28 1333,40 1328,52 1324,52" stroke-linejoin="round" width="11" height="24" fill="rgb(89,204,158)" stroke="rgb(71,163,126)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>isdI (INJJNJAE_01865)
+Heme oxygenase (staphylobilin-producing) 2</title>
+			<polygon class="isdI (INJJNJAE_01865)
+Heme oxygenase (staphylobilin-producing) 2" points="1337,10 1347,40 1337,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABM (PF03992)
+"Antibiotic biosynthesis monooxygenase"</title>
+				<polygon class="PF03992" points="1337,28 1340,28 1344,39 1344,41 1340,52 1337,52" stroke-linejoin="round" width="7" height="24" fill="rgb(193,84,127)" stroke="rgb(154,67,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

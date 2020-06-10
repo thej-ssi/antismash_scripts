@@ -1,0 +1,254 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="755.1" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="745.1" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>cysE (DMMFHILO_01718)
+Serine acetyltransferase</title>
+			<polygon class="cysE (DMMFHILO_01718)
+Serine acetyltransferase" points="43,40 64,10 64,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="49,37 52,33 52,47 49,43" stroke-linejoin="round" width="3" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Hexapep (PF00132)
+"Bacterial transferase hexapeptide (six repeats)"</title>
+				<polygon class="PF00132" points="53,32 56,28 57,28 57,52 56,52 53,48" stroke-linejoin="round" width="4" height="24" fill="rgb(89,131,202)" stroke="rgb(71,104,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>gltX (DMMFHILO_01719)
+Glutamate--tRNA ligase</title>
+			<polygon class="gltX (DMMFHILO_01719)
+Glutamate--tRNA ligase" points="126,25 108,25 108,10 78,40 108,70 108,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>tRNA-synt_1c (PF00749)
+"tRNA synthetases class I (E and Q), catalytic domain"</title>
+				<polygon class="PF00749" points="94,28 94,28 125,28 125,52 94,52 94,52" stroke-linejoin="round" width="31" height="24" fill="rgb(218,142,61)" stroke="rgb(174,113,48)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ispF (DMMFHILO_01720)
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase</title>
+			<polygon class="ispF (DMMFHILO_01720)
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase" points="129,40 145,10 145,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YgbB (PF02542)
+"YgbB family"</title>
+				<polygon class="PF02542" points="132,40 138,28 144,28 144,52 138,52" stroke-linejoin="round" width="15" height="24" fill="rgb(183,87,193)" stroke="rgb(146,69,154)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ispD (DMMFHILO_01721)
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase</title>
+			<polygon class="ispD (DMMFHILO_01721)
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase" points="145,40 168,10 168,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>IspD (PF01128)
+"2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase"</title>
+				<polygon class="PF01128" points="149,40 158,28 167,28 167,52 158,52" stroke-linejoin="round" width="22" height="24" fill="rgb(113,223,84)" stroke="rgb(90,178,67)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yacL (DMMFHILO_01722)
+putative PIN and TRAM-domain containing protein YacL</title>
+			<polygon class="yacL (DMMFHILO_01722)
+putative PIN and TRAM-domain containing protein YacL" points="203,25 198,25 198,10 168,40 198,70 198,55 203,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PIN_9 (PF18477)
+"PIN like domain"</title>
+				<polygon class="PF18477" points="175,37 184,28 186,28 186,52 184,52 175,43" stroke-linejoin="round" width="11" height="24" fill="rgb(107,186,90)" stroke="rgb(85,148,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>radA (DMMFHILO_01723)
+DNA repair protein RadA</title>
+			<polygon class="radA (DMMFHILO_01723)
+DNA repair protein RadA" points="249,25 234,25 234,10 204,40 234,70 234,55 249,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ChlI (PF13541)
+"Subunit ChlI of Mg-chelatase"</title>
+				<polygon class="PF13541" points="208,40 215,33 215,47" stroke-linejoin="round" width="9" height="24" fill="rgb(192,77,61)" stroke="rgb(153,61,48)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_25 (PF13481)
+"AAA domain"</title>
+				<rect class="PF13481" x="227" y="28" stroke-linejoin="round" width="16" height="24" fill="rgb(81,83,185)" stroke="rgb(64,66,148)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Rubredoxin_2 (PF18073)
+"Rubredoxin metal binding domain"</title>
+				<rect class="PF18073" x="246" y="28" stroke-linejoin="round" width="2" height="24" fill="rgb(82,197,196)" stroke="rgb(65,157,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DMMFHILO_01724_gene (DMMFHILO_01724)
+hypothetical protein</title>
+			<polygon class="DMMFHILO_01724_gene (DMMFHILO_01724)
+hypothetical protein" points="262,40 286,10 286,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane (PF01061)
+"ABC-2 type transporter"</title>
+				<polygon class="PF01061" points="266,40 276,28 286,28 286,52 276,52 266,40" stroke-linejoin="round" width="20" height="24" fill="rgb(139,217,106)" stroke="rgb(111,173,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ssuB_1 (DMMFHILO_01725)
+Aliphatic sulfonates import ATP-binding protein SsuB</title>
+			<polygon class="ssuB_1 (DMMFHILO_01725)
+Aliphatic sulfonates import ATP-binding protein SsuB" points="287,40 310,10 310,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="295,35 300,28 308,28 308,52 300,52 295,45" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DMMFHILO_01726_gene (DMMFHILO_01726)
+hypothetical protein</title>
+			<polygon class="DMMFHILO_01726_gene (DMMFHILO_01726)
+hypothetical protein" points="343,25 341,25 341,10 311,40 341,70 341,55 343,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>DMMFHILO_01727_gene (DMMFHILO_01727)
+hypothetical protein</title>
+			<polygon class="DMMFHILO_01727_gene (DMMFHILO_01727)
+hypothetical protein" points="343,40 370,10 370,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nitroreductase (PF00881)
+"Nitroreductase family"</title>
+				<polygon class="PF00881" points="347,40 358,28 360,28 360,52 358,52" stroke-linejoin="round" width="17" height="24" fill="rgb(79,118,187)" stroke="rgb(63,94,149)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DMMFHILO_01728_gene (DMMFHILO_01728)
+hypothetical protein</title>
+			<polygon class="DMMFHILO_01728_gene (DMMFHILO_01728)
+hypothetical protein" points="411,25 401,25 401,10 371,40 401,70 401,55 411,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>YcaO (PF02624)
+"YcaO cyclodehydratase, ATP-ad Mg2+-binding"</title>
+				<polygon class="PF02624" points="375,40 387,28 406,28 406,52 387,52 375,40" stroke-linejoin="round" width="31" height="24" fill="rgb(76,84,185)" stroke="rgb(60,67,148)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DMMFHILO_01729_gene (DMMFHILO_01729)
+hypothetical protein</title>
+			<polygon class="DMMFHILO_01729_gene (DMMFHILO_01729)
+hypothetical protein" points="411,40 439,10 439,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>clpC (DMMFHILO_01730)
+ATP-dependent Clp protease ATP-binding subunit ClpC</title>
+			<polygon class="clpC (DMMFHILO_01730)
+ATP-dependent Clp protease ATP-binding subunit ClpC" points="544,25 492,25 492,10 462,40 492,70 492,55 544,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ClpB_D2-small (PF10431)
+"C-terminal, D2-small domain, of ClpB protein"</title>
+				<polygon class="PF10431" points="466,40 472,34 472,46" stroke-linejoin="round" width="8" height="24" fill="rgb(190,198,67)" stroke="rgb(152,158,53)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_2 (PF07724)
+"AAA domain (Cdc48 subfamily)"</title>
+				<polygon class="PF07724" points="473,33 478,28 490,28 490,52 478,52 473,47" stroke-linejoin="round" width="17" height="24" fill="rgb(132,215,72)" stroke="rgb(105,172,57)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA_lid_9 (PF17871)
+"AAA lid domain"</title>
+				<rect class="PF17871" x="499" y="28" stroke-linejoin="round" width="10" height="24" fill="rgb(169,81,187)" stroke="rgb(135,64,149)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>AAA (PF00004)
+"ATPase family associated with various cellular activities (AAA)"</title>
+				<rect class="PF00004" x="509" y="28" stroke-linejoin="round" width="13" height="24" fill="rgb(57,194,204)" stroke="rgb(45,155,163)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Clp_N (PF02861)
+"Clp amino terminal domain, pathogenicity island component"</title>
+				<rect class="PF02861" x="529" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(97,199,190)" stroke="rgb(77,159,152)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Clp_N (PF02861)
+"Clp amino terminal domain, pathogenicity island component"</title>
+				<rect class="PF02861" x="537" y="28" stroke-linejoin="round" width="5" height="24" fill="rgb(97,199,190)" stroke="rgb(77,159,152)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mcsB (DMMFHILO_01731)
+Protein-arginine kinase</title>
+			<polygon class="mcsB (DMMFHILO_01731)
+Protein-arginine kinase" points="578,25 575,25 575,10 545,40 575,70 575,55 578,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ATP-gua_Ptrans (PF00217)
+"ATP:guanido phosphotransferase, C-terminal catalytic domain"</title>
+				<polygon class="PF00217" points="554,35 561,28 573,28 573,52 561,52 554,45" stroke-linejoin="round" width="19" height="24" fill="rgb(68,225,124)" stroke="rgb(54,180,99)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>mcsA (DMMFHILO_01732)
+Protein-arginine kinase activator protein</title>
+			<polygon class="mcsA (DMMFHILO_01732)
+Protein-arginine kinase activator protein" points="578,40 595,10 595,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>UVR (PF02151)
+"UvrB/uvrC motif"</title>
+				<polygon class="PF02151" points="581,40 582,38 582,42" stroke-linejoin="round" width="3" height="24" fill="rgb(179,74,81)" stroke="rgb(143,59,64)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>ctsR (DMMFHILO_01733)
+Transcriptional regulator CtsR</title>
+			<polygon class="ctsR (DMMFHILO_01733)
+Transcriptional regulator CtsR" points="596,40 611,10 611,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>CtsR_C (PF17727)
+"CtsR C-terminal dimerization domain"</title>
+				<polygon class="PF17727" points="599,40 603,32 603,48" stroke-linejoin="round" width="7" height="24" fill="rgb(223,172,90)" stroke="rgb(178,137,72)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>CtsR (PF05848)
+"CtsR N-terminal HTH domain"</title>
+				<polygon class="PF05848" points="604,30 605,28 611,28 611,52 605,52 604,50" stroke-linejoin="round" width="7" height="24" fill="rgb(216,69,105)" stroke="rgb(172,55,84)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>nupC (DMMFHILO_01734)
+Nucleoside permease NupC</title>
+			<polygon class="nupC (DMMFHILO_01734)
+Nucleoside permease NupC" points="617,25 627,25 627,10 657,40 627,70 627,55 617,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Nucleos_tra2_N (PF01773)
+"Na+ dependent nucleoside transporter N-terminus"</title>
+				<rect class="PF01773" x="617" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(127,66,183)" stroke="rgb(101,52,146)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Nucleos_tra2_C (PF07662)
+"Na+ dependent nucleoside transporter C-terminus"</title>
+				<polygon class="PF07662" points="636,28 640,28 652,40 640,52 636,52" stroke-linejoin="round" width="20" height="24" fill="rgb(169,225,108)" stroke="rgb(135,180,86)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>DMMFHILO_01735_gene (DMMFHILO_01735)
+hypothetical protein</title>
+			<polygon class="DMMFHILO_01735_gene (DMMFHILO_01735)
+hypothetical protein" points="673,10 698,40 673,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Trypsin (PF00089)
+"Trypsin"</title>
+				<polygon class="PF00089" points="677,28 684,28 694,40 684,52 677,52" stroke-linejoin="round" width="19" height="24" fill="rgb(207,127,78)" stroke="rgb(165,101,62)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>pdxT (DMMFHILO_01736)
+Pyridoxal 5'-phosphate synthase subunit PdxT</title>
+			<polygon class="pdxT (DMMFHILO_01736)
+Pyridoxal 5'-phosphate synthase subunit PdxT" points="703,40 721,10 721,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SNO (PF01174)
+"SNO glutamine amidotransferase family"</title>
+				<polygon class="PF01174" points="707,40 714,28 720,28 720,52 714,52" stroke-linejoin="round" width="17" height="24" fill="rgb(204,136,90)" stroke="rgb(163,108,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

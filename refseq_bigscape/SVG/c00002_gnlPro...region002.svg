@@ -1,0 +1,158 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="1592.0333333333333" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="559.6333333333333" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>butA (JFODBFOL_00666)
+Diacetyl reductase [(S)-acetoin forming]</title>
+			<polygon class="butA (JFODBFOL_00666)
+Diacetyl reductase [(S)-acetoin forming]" points="25,40 50,10 50,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>adh_short_C2 (PF13561)
+"Enoyl-(Acyl carrier protein) reductase"</title>
+				<polygon class="PF13561" points="29,40 39,28 49,28 49,52 39,52" stroke-linejoin="round" width="24" height="24" fill="rgb(73,205,127)" stroke="rgb(58,164,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>JFODBFOL_00667_gene (JFODBFOL_00667)
+hypothetical protein</title>
+			<polygon class="JFODBFOL_00667_gene (JFODBFOL_00667)
+hypothetical protein" points="58,40 79,10 79,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>JFODBFOL_00668_gene (JFODBFOL_00668)
+hypothetical protein</title>
+			<polygon class="JFODBFOL_00668_gene (JFODBFOL_00668)
+hypothetical protein" points="85,40 110,10 110,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ParBc (PF02195)
+"ParB-like nuclease domain"</title>
+				<rect class="PF02195" x="101" y="28" stroke-linejoin="round" width="7" height="24" fill="rgb(55,214,209)" stroke="rgb(44,171,167)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>btrK (JFODBFOL_00669)
+L-glutamyl-[BtrI acyl-carrier protein] decarboxylase</title>
+			<polygon class="btrK (JFODBFOL_00669)
+L-glutamyl-[BtrI acyl-carrier protein] decarboxylase" points="151,25 141,25 141,10 111,40 141,70 141,55 151,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Orn_Arg_deC_N (PF02784)
+"Pyridoxal-dependent decarboxylase, pyridoxal binding domain"</title>
+				<polygon class="PF02784" points="123,32 127,28 147,28 147,52 127,52 123,48" stroke-linejoin="round" width="24" height="24" fill="rgb(106,204,212)" stroke="rgb(84,163,169)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>garL (JFODBFOL_00670)
+5-keto-4-deoxy-D-glucarate aldolase</title>
+			<polygon class="garL (JFODBFOL_00670)
+5-keto-4-deoxy-D-glucarate aldolase" points="151,40 177,10 177,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HpcH_HpaI (PF03328)
+"HpcH/HpaI aldolase/citrate lyase family"</title>
+				<polygon class="PF03328" points="155,40 165,28 174,28 174,52 165,52" stroke-linejoin="round" width="22" height="24" fill="rgb(81,183,94)" stroke="rgb(64,146,75)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_1 (JFODBFOL_00671)
+Aerobactin synthase</title>
+			<polygon class="iucC_1 (JFODBFOL_00671)
+Aerobactin synthase" points="235,25 206,25 206,10 176,40 206,70 206,55 235,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="180,40 192,28 195,28 195,52 192,52" stroke-linejoin="round" width="17" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="197" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucA_1 (JFODBFOL_00672)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase</title>
+			<polygon class="iucA_1 (JFODBFOL_00672)
+N(2)-citryl-N(6)-acetyl-N(6)-hydroxylysine synthase" points="292,25 265,25 265,10 235,40 265,70 265,55 292,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="239,40 251,28 253,28 253,52 251,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="255" y="28" stroke-linejoin="round" width="23" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>tetA_1 (JFODBFOL_00673)
+Tetracycline resistance protein, class B</title>
+			<polygon class="tetA_1 (JFODBFOL_00673)
+Tetracycline resistance protein, class B" points="331,25 322,25 322,10 292,40 322,70 322,55 331,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>MFS_1 (PF07690)
+"Major Facilitator Superfamily"</title>
+				<polygon class="PF07690" points="308,28 308,28 330,28 330,52 308,52 308,52" stroke-linejoin="round" width="22" height="24" fill="rgb(193,224,74)" stroke="rgb(154,179,59)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>iucC_2 (JFODBFOL_00674)
+Aerobactin synthase</title>
+			<polygon class="iucC_2 (JFODBFOL_00674)
+Aerobactin synthase" points="392,25 364,25 364,10 334,40 364,70 364,55 392,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FhuF (PF06276)
+"Ferric iron reductase FhuF-like transporter"</title>
+				<polygon class="PF06276" points="338,40 350,28 351,28 351,52 350,52" stroke-linejoin="round" width="16" height="24" fill="rgb(76,151,221)" stroke="rgb(60,120,176)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>IucA_IucC (PF04183)
+"IucA / IucC family"</title>
+				<rect class="PF04183" x="354" y="28" stroke-linejoin="round" width="24" height="24" fill="rgb(221,104,121)" stroke="rgb(176,83,96)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arcB_1 (JFODBFOL_00675)
+Delta(1)-pyrroline-2-carboxylate reductase</title>
+			<polygon class="arcB_1 (JFODBFOL_00675)
+Delta(1)-pyrroline-2-carboxylate reductase" points="426,25 423,25 423,10 393,40 423,70 423,55 426,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>OCD_Mu_crystall (PF02423)
+"Ornithine cyclodeaminase/mu-crystallin family"</title>
+				<polygon class="PF02423" points="397,40 409,28 425,28 425,52 409,52" stroke-linejoin="round" width="32" height="24" fill="rgb(221,120,93)" stroke="rgb(176,96,74)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sbnA (JFODBFOL_00676)
+putative siderophore biosynthesis protein SbnA</title>
+			<polygon class="sbnA (JFODBFOL_00676)
+putative siderophore biosynthesis protein SbnA" points="459,25 457,25 457,10 427,40 457,70 457,55 459,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>PALP (PF00291)
+"Pyridoxal-phosphate dependent enzyme"</title>
+				<polygon class="PF00291" points="431,40 443,28 457,28 457,52 443,52" stroke-linejoin="round" width="28" height="24" fill="rgb(180,55,145)" stroke="rgb(144,44,116)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiY (JFODBFOL_00677)
+putative siderophore-binding lipoprotein YfiY</title>
+			<polygon class="yfiY (JFODBFOL_00677)
+putative siderophore-binding lipoprotein YfiY" points="467,25 470,25 470,10 500,40 470,70 470,55 467,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peripla_BP_2 (PF01497)
+"Periplasmic binding protein"</title>
+				<polygon class="PF01497" points="472,28 483,28 495,40 483,52 472,52" stroke-linejoin="round" width="24" height="24" fill="rgb(183,226,104)" stroke="rgb(146,180,83)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>yfiZ_1 (JFODBFOL_00678)
+putative siderophore transport system permease protein YfiZ</title>
+			<polygon class="yfiZ_1 (JFODBFOL_00678)
+putative siderophore transport system permease protein YfiZ" points="501,25 504,25 504,10 534,40 504,70 504,55 501,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FecCD (PF01032)
+"FecCD transport family"</title>
+				<polygon class="PF01032" points="502,28 517,28 529,40 517,52 502,52" stroke-linejoin="round" width="31" height="24" fill="rgb(210,177,70)" stroke="rgb(168,141,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>

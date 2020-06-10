@@ -1,0 +1,133 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="412.03333333333336" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="402.03333333333336" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>MNHGGPBM_00582_gene (MNHGGPBM_00582)
+putative ABC transporter permease</title>
+			<polygon class="MNHGGPBM_00582_gene (MNHGGPBM_00582)
+putative ABC transporter permease" points="10,25 15,25 15,10 45,40 15,70 15,55 10,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>FtsX (PF02687)
+"FtsX-like permease family"</title>
+				<polygon class="PF02687" points="35,35 40,40 35,45" stroke-linejoin="round" width="8" height="24" fill="rgb(126,55,214)" stroke="rgb(100,44,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>hrtA_2 (MNHGGPBM_00583)
+Putative hemin import ATP-binding protein HrtA</title>
+			<polygon class="hrtA_2 (MNHGGPBM_00583)
+Putative hemin import ATP-binding protein HrtA" points="52,10 67,40 52,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="52,28 57,28 61,35 61,45 57,52 52,52" stroke-linejoin="round" width="9" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_00584_gene (MNHGGPBM_00584)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_00584_gene (MNHGGPBM_00584)
+hypothetical protein" points="72,40 94,10 94,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Flavin_Reduct (PF01613)
+"Flavin reductase like domain"</title>
+				<polygon class="PF01613" points="76,40 85,28 92,28 92,52 85,52 76,40" stroke-linejoin="round" width="16" height="24" fill="rgb(107,197,222)" stroke="rgb(85,157,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_00585_gene (MNHGGPBM_00585)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_00585_gene (MNHGGPBM_00585)
+hypothetical protein" points="99,40 104,10 104,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>arsC_1 (MNHGGPBM_00586)
+Glutaredoxin arsenate reductase</title>
+			<polygon class="arsC_1 (MNHGGPBM_00586)
+Glutaredoxin arsenate reductase" points="106,40 119,10 119,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>LMWPc (PF01451)
+"Low molecular weight phosphotyrosine protein phosphatase"</title>
+				<polygon class="PF01451" points="109,40 114,28 118,28 118,52 114,52" stroke-linejoin="round" width="12" height="24" fill="rgb(199,53,196)" stroke="rgb(159,42,156)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>arsB_1 (MNHGGPBM_00587)
+Arsenical pump membrane protein</title>
+			<polygon class="arsB_1 (MNHGGPBM_00587)
+Arsenical pump membrane protein" points="162,25 149,25 149,10 119,40 149,70 149,55 162,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ArsB (PF02040)
+"Arsenical pump membrane protein"</title>
+				<polygon class="PF02040" points="123,40 135,28 161,28 161,52 135,52" stroke-linejoin="round" width="42" height="24" fill="rgb(207,201,91)" stroke="rgb(165,160,72)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sdpR_1 (MNHGGPBM_00588)
+Transcriptional repressor SdpR</title>
+			<polygon class="sdpR_1 (MNHGGPBM_00588)
+Transcriptional repressor SdpR" points="162,40 172,10 172,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_5 (PF01022)
+"Bacterial regulatory protein, arsR family"</title>
+				<polygon class="PF01022" points="166,37 169,28 170,28 170,52 169,52 166,43" stroke-linejoin="round" width="4" height="24" fill="rgb(95,208,123)" stroke="rgb(76,166,98)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_00589_gene (MNHGGPBM_00589)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_00589_gene (MNHGGPBM_00589)
+hypothetical protein" points="179,25 179,25 179,10 209,40 179,70 179,55 179,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DUF1837 (PF08878)
+"Domain of unknown function (DUF1837)"</title>
+				<polygon class="PF08878" points="182,28 193,28 205,40 193,52 182,52" stroke-linejoin="round" width="24" height="24" fill="rgb(191,219,69)" stroke="rgb(152,175,55)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_00590_gene (MNHGGPBM_00590)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_00590_gene (MNHGGPBM_00590)
+hypothetical protein" points="209,10 237,40 209,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>DEAD (PF00270)
+"DEAD/DEAH box helicase"</title>
+				<polygon class="PF00270" points="218,28 221,28 232,39 232,41 221,52 218,52" stroke-linejoin="round" width="14" height="24" fill="rgb(195,100,62)" stroke="rgb(156,80,49)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_00591_gene (MNHGGPBM_00591)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_00591_gene (MNHGGPBM_00591)
+hypothetical protein" points="237,25 249,25 249,10 279,40 249,70 249,55 237,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>MNHGGPBM_00592_gene (MNHGGPBM_00592)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_00592_gene (MNHGGPBM_00592)
+hypothetical protein" points="296,40 324,10 324,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Transposase_20 (PF02371)
+"Transposase IS116/IS110/IS902 family"</title>
+				<polygon class="PF02371" points="300,40 308,32 308,48 300,40" stroke-linejoin="round" width="8" height="24" fill="rgb(104,204,65)" stroke="rgb(83,163,52)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>dus (MNHGGPBM_00593)
+putative tRNA-dihydrouridine synthase</title>
+			<polygon class="dus (MNHGGPBM_00593)
+putative tRNA-dihydrouridine synthase" points="380,25 378,25 378,10 348,40 378,70 378,55 380,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Dus (PF01207)
+"Dihydrouridine synthase (Dus)"</title>
+				<polygon class="PF01207" points="352,40 364,28 378,28 378,52 364,52" stroke-linejoin="round" width="30" height="24" fill="rgb(178,84,152)" stroke="rgb(142,67,121)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>MNHGGPBM_00594_gene (MNHGGPBM_00594)
+hypothetical protein</title>
+			<polygon class="MNHGGPBM_00594_gene (MNHGGPBM_00594)
+hypothetical protein" points="391,10 397,40 391,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+	</g>
+</svg>

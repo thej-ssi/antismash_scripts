@@ -1,0 +1,61 @@
+# STOCKHOLM 1.0
+
+c00009_gnlPro...region003_ORF27:gid:gltC_2:pid:gnl_Prokka_DHAILMMN_00938:loc:35028:35925:strand:-:3:62         ....-EQLAYVKTVYEMESMIHASEKMHISQSAMSQSIANLEKEIGYKLFERSRKGTFLTEEGQ.
+#=GR c00009_gnlPro...region003_ORF27:gid:gltC_2:pid:gnl_Prokka_DHAILMMN_00938:loc:35028:35925:strand:-:3:62 PP .....699********************************************999********8.
+c00040_gnlPro...region001_ORF17:gid:cynR:pid:gnl_Prokka_IHDLCKJI_02012:loc:17340:18225:strand:+:3:62           ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRSLVLTDAGK.
+#=GR c00040_gnlPro...region001_ORF17:gid:cynR:pid:gnl_Prokka_IHDLCKJI_02012:loc:17340:18225:strand:+:3:62   PP .....589*******************************************************5.
+c00015_gnlPro...region002_ORF16:gid:cynR_1:pid:gnl_Prokka_PLAHONHL_01840:loc:15290:16169:strand:-:3:62         ....-KHMKYFVEVVKQGGMTNASKALFIAQPTISKAIKDIESELEMPLFDRKNRQLILTDAGQ.
+#=GR c00015_gnlPro...region002_ORF16:gid:cynR_1:pid:gnl_Prokka_PLAHONHL_01840:loc:15290:16169:strand:-:3:62 PP .....589*******************************************************8.
+c00001_gnlPro...region002_ORF18:gid:cynR_2:pid:gnl_Prokka_MNHGGPBM_00362:loc:16241:17105:strand:-:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00001_gnlPro...region002_ORF18:gid:cynR_2:pid:gnl_Prokka_MNHGGPBM_00362:loc:16241:17105:strand:-:1:57 PP ........69*****************************************************8.
+c00020_gnlPro...region001_ORF18:gid:cynR_2:pid:gnl_Prokka_HNPJFCIA_01276:loc:16426:17314:strand:-:3:62         ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00020_gnlPro...region001_ORF18:gid:cynR_2:pid:gnl_Prokka_HNPJFCIA_01276:loc:16426:17314:strand:-:3:62 PP .....589*******************************************************5.
+c00005_gnlPro...region004_ORF1:gid:gltC:pid:gnl_Prokka_ALEOMKEF_00587:loc:2709:3588:strand:+:3:62              ....-KQLKYFVEVAKREHISEAALELNVAQSAISRHIHNLENELETSLFYRRGRNVFLTAEGK.
+#=GR c00005_gnlPro...region004_ORF1:gid:gltC:pid:gnl_Prokka_ALEOMKEF_00587:loc:2709:3588:strand:+:3:62      PP .....59*********************************************9*********95.
+c00037_gnlPro...region001_ORF16:gid:cynR_2:pid:gnl_Prokka_DNGEGIOB_02532:loc:14744:15608:strand:-:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00037_gnlPro...region001_ORF16:gid:cynR_2:pid:gnl_Prokka_DNGEGIOB_02532:loc:14744:15608:strand:-:1:57 PP ........69*****************************************************8.
+c00002_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_FGCCKGIE_01932:loc:25559:26423:strand:+:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00002_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_FGCCKGIE_01932:loc:25559:26423:strand:+:1:57 PP ........69*****************************************************8.
+c00012_gnlPro...region002_ORF32:gid:cynR_1:pid:gnl_Prokka_JOBKCDGE_01600:loc:34075:34963:strand:+:3:62         ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00012_gnlPro...region002_ORF32:gid:cynR_1:pid:gnl_Prokka_JOBKCDGE_01600:loc:34075:34963:strand:+:3:62 PP .....589*******************************************************5.
+c00065_gnlPro...region001_ORF16:gid:ampR:pid:gnl_Prokka_MHLOJDLD_01689:loc:24768:25584:strand:+:4:62           yird------ILEVAKYNSFNKASEVMNISTPAIRKRVTSVENELNQQIFIRNRKGVFLTKEGQ.
+#=GR c00065_gnlPro...region001_ORF16:gid:ampR:pid:gnl_Prokka_MHLOJDLD_01689:loc:24768:25584:strand:+:4:62   PP 9655......679***************************************8899*******8.
+c00034_gnlPro...region001_ORF17:gid:cynR:pid:gnl_Prokka_CHKLLFLP_01787:loc:16426:17311:strand:-:3:62           ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRSLVLTDAGK.
+#=GR c00034_gnlPro...region001_ORF17:gid:cynR:pid:gnl_Prokka_CHKLLFLP_01787:loc:16426:17311:strand:-:3:62   PP .....589*******************************************************5.
+c00004_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_ECDCGNGH_02090:loc:25559:26423:strand:+:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00004_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_ECDCGNGH_02090:loc:25559:26423:strand:+:1:57 PP ........69*****************************************************8.
+c00003_gnlPro...region001_ORF16:gid:cynR_1:pid:gnl_Prokka_PHEHJLOB_01247:loc:14790:15654:strand:-:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00003_gnlPro...region001_ORF16:gid:cynR_1:pid:gnl_Prokka_PHEHJLOB_01247:loc:14790:15654:strand:-:1:57 PP ........69*****************************************************8.
+c00111_gnlPro...region001_ORF1:gid:cynR_2:pid:gnl_Prokka_ONKOLKPD_02111:loc:197:1085:strand:-:3:62             ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00111_gnlPro...region001_ORF1:gid:cynR_2:pid:gnl_Prokka_ONKOLKPD_02111:loc:197:1085:strand:-:3:62     PP .....589*******************************************************5.
+c00019_gnlPro...region001_ORF14:gid:cynR_2:pid:gnl_Prokka_DJCDADDG_01775:loc:12816:13680:strand:-:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00019_gnlPro...region001_ORF14:gid:cynR_2:pid:gnl_Prokka_DJCDADDG_01775:loc:12816:13680:strand:-:1:57 PP ........69*****************************************************8.
+c00113_gnlPro...region001_ORF9:gid:gltC:pid:gnl_Prokka_HPGMPKAP_02314:loc:8358:9237:strand:-:3:62              ....-KQLKYFVEVAKREHISEAALELNVAQSAISRHIHNLENELETSLFYRRGRNVFLTAEGK.
+#=GR c00113_gnlPro...region001_ORF9:gid:gltC:pid:gnl_Prokka_HPGMPKAP_02314:loc:8358:9237:strand:-:3:62      PP .....59*********************************************9*********95.
+c00062_gnlPro...region001_ORF6:gid:cynR_3:pid:gnl_Prokka_IJPGPKLD_02185:loc:6481:7363:strand:-:3:62            ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00062_gnlPro...region001_ORF6:gid:cynR_3:pid:gnl_Prokka_IJPGPKLD_02185:loc:6481:7363:strand:-:3:62    PP .....589*******************************************************5.
+c00052_gnlPro...region001_ORF8:gid:cynR_2:pid:gnl_Prokka_MHLOJDLD_01234:loc:5508:6396:strand:+:3:62            ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00052_gnlPro...region001_ORF8:gid:cynR_2:pid:gnl_Prokka_MHLOJDLD_01234:loc:5508:6396:strand:+:3:62    PP .....589*******************************************************5.
+c00009_gnlPro...region002_ORF18:gid:cynR_2:pid:gnl_Prokka_DHAILMMN_00648:loc:16423:17305:strand:-:3:62         ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00009_gnlPro...region002_ORF18:gid:cynR_2:pid:gnl_Prokka_DHAILMMN_00648:loc:16423:17305:strand:-:3:62 PP .....589*******************************************************5.
+c00004_gnlPro...region001_ORF17:gid:cynR_2:pid:gnl_Prokka_LGEIKLPL_01009:loc:16243:17107:strand:-:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00004_gnlPro...region001_ORF17:gid:cynR_2:pid:gnl_Prokka_LGEIKLPL_01009:loc:16243:17107:strand:-:1:57 PP ........69*****************************************************8.
+c00007_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_KJIPDNGI_02345:loc:25559:26423:strand:+:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00007_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_KJIPDNGI_02345:loc:25559:26423:strand:+:1:57 PP ........69*****************************************************8.
+c00013_gnlPro...region002_ORF18:gid:cynR_2:pid:gnl_Prokka_BALGINPN_01688:loc:16426:17314:strand:-:3:62         ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00013_gnlPro...region002_ORF18:gid:cynR_2:pid:gnl_Prokka_BALGINPN_01688:loc:16426:17314:strand:-:3:62 PP .....589*******************************************************5.
+c00017_gnlPro...region001_ORF17:gid:cynR:pid:gnl_Prokka_HLGFMNBB_00579:loc:16426:17311:strand:-:3:62           ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRSLVLTDAGK.
+#=GR c00017_gnlPro...region001_ORF17:gid:cynR:pid:gnl_Prokka_HLGFMNBB_00579:loc:16426:17311:strand:-:3:62   PP .....589*******************************************************5.
+c00029_gnlPro...region001_ORF30:gid:cynR_2:pid:gnl_Prokka_NMKLMGFH_02277:loc:36069:36933:strand:+:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00029_gnlPro...region001_ORF30:gid:cynR_2:pid:gnl_Prokka_NMKLMGFH_02277:loc:36069:36933:strand:+:1:57 PP ........69*****************************************************8.
+c00025_gnlPro...region001_ORF19:gid:cysB:pid:gnl_Prokka_EHOPHGMD_01294:loc:30159:31056:strand:-:3:62           ....-EQLAYVKKLYELESMIQASESIHISQSAMSQSLTNLEKELGYKLFSRSRKGTTLTEAG-n
+#=GR c00025_gnlPro...region001_ORF19:gid:cysB:pid:gnl_Prokka_EHOPHGMD_01294:loc:30159:31056:strand:-:3:62   PP .....699********************************************999*******9.6
+c00008_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_INJJNJAE_02169:loc:25559:26423:strand:+:1:57         ....----KYFIEVVKQGGMTNASKSLYIAQPTISKAIKDIENEMGTPLFDRSKRHLILTDAGQ.
+#=GR c00008_gnlPro...region003_ORF21:gid:cynR_1:pid:gnl_Prokka_INJJNJAE_02169:loc:25559:26423:strand:+:1:57 PP ........69*****************************************************8.
+c00098_gnlPro...region001_ORF9:gid:cynR_2:pid:gnl_Prokka_BOIIOIPH_02079:loc:6321:7209:strand:+:3:62            ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00098_gnlPro...region001_ORF9:gid:cynR_2:pid:gnl_Prokka_BOIIOIPH_02079:loc:6321:7209:strand:+:3:62    PP .....589*******************************************************5.
+c00039_gnlPro...region001_ORF21:gid:cynR_2:pid:gnl_Prokka_DAFNCOFO_01587:loc:18303:19185:strand:+:3:62         ....-KHMKYFVEVVKQGGMTNASKSLYIAQPTISKAIKDIEAEMAVPLFDRSKRNLVLTDAGK.
+#=GR c00039_gnlPro...region001_ORF21:gid:cynR_2:pid:gnl_Prokka_DAFNCOFO_01587:loc:18303:19185:strand:+:3:62 PP .....589*******************************************************5.
+#=GC PP_cons                                                                                                   .....5899******************************************************6.
+#=GC RF                                                                                                        ....xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+//

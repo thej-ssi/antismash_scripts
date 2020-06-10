@@ -1,0 +1,155 @@
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512.0666666666666" height="80">
+	<g>
+		<line x1="10" y1="40.0" x2="502.06666666666666" y2="40.0" style="stroke:rgb(70,70,70); stroke-width:3 "/>
+		<g>
+			<title>GMMBMKIH_01997_gene (GMMBMKIH_01997)
+hypothetical protein</title>
+			<polygon class="GMMBMKIH_01997_gene (GMMBMKIH_01997)
+hypothetical protein" points="27,40 54,10 54,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>dapF (GMMBMKIH_01998)
+Diaminopimelate epimerase</title>
+			<polygon class="dapF (GMMBMKIH_01998)
+Diaminopimelate epimerase" points="54,40 82,10 82,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>drrA (GMMBMKIH_01999)
+Daunorubicin/doxorubicin resistance ATP-binding protein DrrA</title>
+			<polygon class="drrA (GMMBMKIH_01999)
+Daunorubicin/doxorubicin resistance ATP-binding protein DrrA" points="126,25 126,25 126,10 96,40 126,70 126,55 126,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="111,29 112,28 124,28 124,52 112,52 111,51" stroke-linejoin="round" width="13" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>GMMBMKIH_02000_gene (GMMBMKIH_02000)
+hypothetical protein</title>
+			<polygon class="GMMBMKIH_02000_gene (GMMBMKIH_02000)
+hypothetical protein" points="127,40 150,10 150,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC2_membrane_2 (PF12679)
+"ABC-2 family transporter protein"</title>
+				<polygon class="PF12679" points="131,40 140,28 149,28 149,52 140,52" stroke-linejoin="round" width="22" height="24" fill="rgb(70,194,214)" stroke="rgb(56,155,171)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>fnr (GMMBMKIH_02001)
+Anaerobic regulatory protein</title>
+			<polygon class="fnr (GMMBMKIH_02001)
+Anaerobic regulatory protein" points="163,10 185,40 163,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>HTH_Crp_2 (PF13545)
+"Crp-like helix-turn-helix domain"</title>
+				<polygon class="PF13545" points="176,32 182,40 176,48" stroke-linejoin="round" width="7" height="24" fill="rgb(87,137,202)" stroke="rgb(69,109,161)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>GMMBMKIH_02002_gene (GMMBMKIH_02002)
+hypothetical protein</title>
+			<polygon class="GMMBMKIH_02002_gene (GMMBMKIH_02002)
+hypothetical protein" points="185,40 205,10 205,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albF_2 (GMMBMKIH_02003)
+Putative zinc protease AlbF</title>
+			<polygon class="albF_2 (GMMBMKIH_02003)
+Putative zinc protease AlbF" points="236,25 235,25 235,10 205,40 235,70 235,55 236,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16 (PF00675)
+"Insulinase (Peptidase family M16)"</title>
+				<polygon class="PF00675" points="221,28 221,28 233,28 233,52 221,52 221,52" stroke-linejoin="round" width="12" height="24" fill="rgb(70,225,127)" stroke="rgb(56,180,101)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>albE (GMMBMKIH_02004)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbE</title>
+			<polygon class="albE (GMMBMKIH_02004)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbE" points="272,25 267,25 267,10 237,40 267,70 267,55 272,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Peptidase_M16_C (PF05193)
+"Peptidase M16 inactive domain"</title>
+				<polygon class="PF05193" points="243,38 253,28 257,28 257,52 253,52 243,42" stroke-linejoin="round" width="14" height="24" fill="rgb(199,79,180)" stroke="rgb(159,63,144)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>albD (GMMBMKIH_02005)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbD</title>
+			<polygon class="albD (GMMBMKIH_02005)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbD" points="314,25 303,25 303,10 273,40 303,70 303,55 314,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albC (GMMBMKIH_02006)
+Putative ABC transporter ATP-binding protein AlbC</title>
+			<polygon class="albC (GMMBMKIH_02006)
+Putative ABC transporter ATP-binding protein AlbC" points="314,40 337,10 337,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>ABC_tran (PF00005)
+"ABC transporter"</title>
+				<polygon class="PF00005" points="321,36 327,28 335,28 335,52 327,52 321,44" stroke-linejoin="round" width="14" height="24" fill="rgb(129,201,63)" stroke="rgb(103,160,50)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>GMMBMKIH_02007_gene (GMMBMKIH_02007)
+hypothetical protein</title>
+			<polygon class="GMMBMKIH_02007_gene (GMMBMKIH_02007)
+hypothetical protein" points="337,40 342,10 342,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+		</g>
+		<g>
+			<title>albA (GMMBMKIH_02008)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA</title>
+			<polygon class="albA (GMMBMKIH_02008)
+Antilisterial bacteriocin subtilosin biosynthesis protein AlbA" points="387,25 373,25 373,10 343,40 373,70 373,55 387,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>SPASM (PF13186)
+"Iron-sulfur cluster-binding domain"</title>
+				<polygon class="PF13186" points="347,40 353,34 353,46" stroke-linejoin="round" width="7" height="24" fill="rgb(183,66,65)" stroke="rgb(146,52,51)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>Radical_SAM (PF04055)
+"Radical SAM superfamily"</title>
+				<polygon class="PF04055" points="359,28 359,28 374,28 374,52 359,52 359,52" stroke-linejoin="round" width="15" height="24" fill="rgb(149,56,222)" stroke="rgb(119,44,177)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>sboA (GMMBMKIH_02009)
+Subtilosin-A</title>
+			<polygon class="sboA (GMMBMKIH_02009)
+Subtilosin-A" points="389,40 393,10 393,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Subtilosin_A (PF11420)
+"Bacteriocin subtilosin A"</title>
+				<polygon class="PF11420" points="392,40 392,40 392,40" stroke-linejoin="round" width="3" height="24" fill="rgb(190,123,83)" stroke="rgb(152,98,66)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpC (GMMBMKIH_02010)
+Potassium-transporting ATPase KdpC subunit</title>
+			<polygon class="kdpC (GMMBMKIH_02010)
+Potassium-transporting ATPase KdpC subunit" points="399,40 417,10 417,70" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>KdpC (PF02669)
+"K+-transporting ATPase, c chain"</title>
+				<polygon class="PF02669" points="403,40 410,28 417,28 417,52 410,52" stroke-linejoin="round" width="18" height="24" fill="rgb(219,108,136)" stroke="rgb(175,86,108)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+		<g>
+			<title>kdpB (GMMBMKIH_02011)
+Potassium-transporting ATPase ATP-binding subunit</title>
+			<polygon class="kdpB (GMMBMKIH_02011)
+Potassium-transporting ATPase ATP-binding subunit" points="485,25 448,25 448,10 418,40 448,70 448,55 485,55" fill="rgb(255,255,255)" fill-opacity="1.0" stroke="rgb(0,0,0)" stroke-width="2"  />
+			<g>
+				<title>Hydrolase (PF00702)
+"haloacid dehalogenase-like hydrolase"</title>
+				<polygon class="PF00702" points="433,29 434,28 455,28 455,52 434,52 433,51" stroke-linejoin="round" width="22" height="24" fill="rgb(68,220,102)" stroke="rgb(54,176,81)" stroke-width="1" opacity="0.75" />
+			</g>
+			<g>
+				<title>E1-E2_ATPase (PF00122)
+"E1-E2 ATPase"</title>
+				<rect class="PF00122" x="457" y="28" stroke-linejoin="round" width="18" height="24" fill="rgb(149,204,70)" stroke="rgb(119,163,56)" stroke-width="1" opacity="0.75" />
+			</g>
+		</g>
+	</g>
+</svg>
