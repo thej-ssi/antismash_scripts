@@ -15,9 +15,13 @@ if not os.path.exists(out_dir):
 missing_gbk_list = []
 found_gbk_list = []
 for file in files:
-	if file.endswith('.gbk'):
-		gbk_path = os.path.join(in_dir,file)
-		out_path = os.path.join(out_dir,file[:-4])
+	if file.endswith('.gbk') or file.endswith('.gbff'):
+		if file.endswith('.gbk'):
+			gbk_path = os.path.join(in_dir,file)
+			out_path = os.path.join(out_dir,file[:-4])
+		elif file.endswith('.gbff'):
+			gbk_path = os.path.join(in_dir,file)
+			out_path = os.path.join(out_dir,file[:-5])
 		if os.path.exists(gbk_path):
 			cmd = "antismash --output-dir " + out_path + " " + gbk_path
 			sbatch_cmd = "sbatch -D . -c 4 --mem=12G --time=48:00:00 -J \"antismash\" -p project --wrap=\""+cmd+"\""
