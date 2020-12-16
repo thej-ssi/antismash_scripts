@@ -22,7 +22,7 @@ for file in files:
 		elif file.endswith('.gbff'):
 			gbk_path = os.path.join(in_dir,file)
 			out_path = os.path.join(out_dir,file[:-5])
-		if os.path.exists(gbk_path):
+		if os.path.exists(gbk_path) and not os.path.exists(out_path):
 			cmd = "antismash --output-dir " + out_path + " " + gbk_path
 			sbatch_cmd = "sbatch -D . -c 4 --mem=12G --time=48:00:00 -J \"antismash\" -p project --wrap=\""+cmd+"\""
 			found_gbk_list.append(gbk_path)
