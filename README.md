@@ -8,6 +8,7 @@
 . activate env_prokka</br>
 python3 /srv/data/tools/git.repositories/antismash_scripts/batch_prokka.py fasta_folder prokka_output_folder</br>
 3. wait for prokka to finish on all isolates, then run antismash on all isolates:</br>
+conda deactivate</br>
 . activate env_antismash</br>
 python3 /srv/data/tools/git.repositories/antismash_scripts/batch_antismash_prokkaout.py prokka_output_folder antismash_output_folder</br>
 4. rename bigscape output gbk files:</br>
