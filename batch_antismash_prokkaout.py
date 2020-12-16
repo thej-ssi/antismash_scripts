@@ -21,7 +21,7 @@ for folder in in_folders:
 		gff_path = os.path.join(in_dir,folder,prokka_ID+'.gff')
 		fna_path = os.path.join(in_dir,folder,prokka_ID+'.fna')
 		out_path = os.path.join(out_dir,folder)
-		if os.path.exists(gff_path) and os.path.exists(fna_path):
+		if os.path.exists(gff_path) and os.path.exists(fna_path) and not os.path.exists(out_path):
 			cmd = "antismash --output-dir " + out_path + " --genefinding-gff3 " + gff_path + " " + fna_path
 			sbatch_cmd = "sbatch -D . -c 4 --mem=12G --time=48:00:00 -J \"antismash\" -p daytime --wrap=\""+cmd+"\""
 			found_gbk_list.append(gff_path)
